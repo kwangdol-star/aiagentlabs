@@ -1,0 +1,30 @@
+# Chronicle — 시간해자 크로니클
+
+> Append-only notarized ledgers of ephemeral Korean market data. Each change event is
+> sealed in a SHA-256 hash chain, notarized by git commit history, and externally
+> anchored via RFC 3161 timestamps — the ledger proves *when* something was observed.
+
+Contract: one line of changes.jsonl = {observed_at, entity_id, field, before, after,
+source_url, content_hash, chain_hash}. Record creation/deletion uses field=__record__.
+Raw responses are preserved verbatim under snapshots/.
+
+## Sources
+
+### bunyang-capsule — 청약홈 APT 분양공고·주택형별 분양가 일간 박제
+- events: 1166, records: 1166, last observed: 2026-07-10T02:33:03.504Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/bunyang-capsule/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/bunyang-capsule/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/bunyang-capsule/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/bunyang-capsule/feed.xml
+
+### forecast-graders — 기관 전망 박제 — 한은·KB·건산연·주산연
+- events: 18, records: 6, last observed: 2026-07-10T07:41:10.031Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/forecast-graders/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/forecast-graders/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/forecast-graders/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/forecast-graders/feed.xml
+
+## Verify
+
+Recompute the whole chain from genesis: `npm run verify -- --all` in the repo.
+Spec: https://github.com/kwangdol-star/aiagentlabs/blob/main/PLAN.md · Contract: https://github.com/kwangdol-star/aiagentlabs/blob/main/README.md
