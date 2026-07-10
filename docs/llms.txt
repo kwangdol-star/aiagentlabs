@@ -17,6 +17,13 @@ Raw responses are preserved verbatim under snapshots/.
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/bunyang-capsule/integrity.json
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/bunyang-capsule/feed.xml
 
+### compute-price-index — 컴퓨트 가격 지수 — AWS 스팟 GPU 절감률·중단위험
+- events: 227, records: 227, last observed: 2026-07-10T09:06:12.178Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/compute-price-index/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/compute-price-index/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/compute-price-index/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/compute-price-index/feed.xml
+
 ### deal-audit-ledger — 실거래 취소·정정 원장 — 아파트 매매 (서울)
 - events: 33195, records: 33195, last observed: 2026-07-10T08:30:06.618Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/deal-audit-ledger/changes.jsonl

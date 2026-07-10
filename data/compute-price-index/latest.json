@@ -1,0 +1,1823 @@
+{
+  "record_count": 227,
+  "records": {
+    "spot:ap-northeast-2:Linux:g4dn.12xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 49
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g4dn.16xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 86
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g4dn.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 67
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g4dn.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 69
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g4dn.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 81
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g4dn.metal": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 48
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g4dn.xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 59
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5.12xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 66
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5.16xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 87
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5.24xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 71
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5.2xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 71
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5.48xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 68
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5.4xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 78
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5.8xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 76
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5.xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 65
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5g.16xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 90
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5g.2xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 73
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5g.4xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 81
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5g.8xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 85
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5g.metal": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 90
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g5g.xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 86
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6.12xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 73
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6.16xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 87
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6.24xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 77
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 69
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6.48xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 78
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6.4xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 74
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6.8xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 84
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 64
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6e.12xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 74
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6e.16xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 85
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6e.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 78
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6e.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 58
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6e.48xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 73
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6e.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 64
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6e.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 78
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6e.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 73
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6f.2xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 72
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6f.4xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 72
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6f.large": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 76
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:g6f.xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 73
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:gr6.4xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 80
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:gr6.8xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 87
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:gr6f.4xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 74
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:inf1.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 81
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:inf1.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 81
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:inf1.6xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 85
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:inf1.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 80
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:inf2.xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 61
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:p3.16xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 0
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:p3.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 47
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:p3.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 42
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:p4d.24xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 64
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:ap-northeast-2:Linux:p5en.48xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 81
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g4ad.16xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 52
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g4ad.2xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 50
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g4ad.4xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 52
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g4ad.8xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 56
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g4ad.xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 55
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g4dn.12xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 58
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g4dn.16xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 75
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g4dn.2xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 55
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g4dn.4xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 50
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g4dn.8xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 56
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g4dn.metal": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 53
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g4dn.xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 49
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g5.12xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 52
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g5.16xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 71
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g5.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 64
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g5.2xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 55
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g5.48xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 57
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g5.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 55
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g5.8xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 55
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:g5.xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 50
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:inf1.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 77
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:inf1.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 65
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:inf1.6xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 73
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:inf1.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 70
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:inf2.24xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 75
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:inf2.48xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 79
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:inf2.8xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 71
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:inf2.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 72
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:p3.16xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 74
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:p3.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 75
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:p3.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 78
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:p3dn.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 53
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:eu-west-1:Linux:p4d.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 59
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:dl1.24xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 41
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g4ad.16xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 53
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g4ad.2xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 55
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g4ad.4xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 58
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g4ad.8xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 62
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g4ad.xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 68
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g4dn.12xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 65
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g4dn.16xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 72
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g4dn.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 61
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g4dn.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 68
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g4dn.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 70
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g4dn.metal": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 59
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g4dn.xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 60
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5.12xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 51
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5.16xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 66
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 55
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5.2xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 62
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5.48xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 57
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 58
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 58
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 56
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5g.16xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 78
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5g.2xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 60
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5g.4xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 68
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5g.8xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 57
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5g.metal": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 79
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g5g.xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 67
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6.12xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 51
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6.16xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 61
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 51
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6.2xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 46
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6.48xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 51
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 49
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 45
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 49
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6e.12xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 51
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6e.16xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 67
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6e.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 56
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6e.2xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 54
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6e.48xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 59
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6e.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 62
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6e.8xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 62
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6e.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 50
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6f.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 62
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6f.4xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 58
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6f.large": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 67
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:g6f.xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 62
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:gr6.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 41
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:gr6.8xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 56
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:gr6f.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 58
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:inf1.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 76
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:inf1.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 73
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:inf1.6xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 80
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:inf1.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 78
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:inf2.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 78
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:inf2.48xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 65
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:inf2.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 73
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:inf2.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 84
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:p3.16xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 87
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:p3.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 86
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:p3.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 85
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:p3dn.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 84
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:p4d.24xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 56
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:p4de.24xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 37
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:p5.48xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 57
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:p5.4xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 9
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:p5en.48xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 67
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:trn1.2xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 81
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:trn1.32xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 61
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-east-1:Linux:trn1n.32xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 87
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:dl1.24xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 0
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g4ad.16xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 65
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g4ad.2xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 44
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g4ad.4xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 53
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g4ad.8xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 64
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g4ad.xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 55
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g4dn.12xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 60
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g4dn.16xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 72
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g4dn.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 58
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g4dn.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 63
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g4dn.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 64
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g4dn.metal": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 59
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g4dn.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 55
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5.12xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 54
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5.16xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 65
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 56
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 57
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5.48xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 62
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 67
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 62
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 46
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5g.16xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 75
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5g.2xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 64
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5g.4xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 69
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5g.8xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 70
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5g.metal": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 82
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g5g.xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 64
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6.12xlarge": {
+      "fields": {
+        "r": 3,
+        "r_label": "15-20%",
+        "s": 49
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6.16xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 65
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 61
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 42
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6.48xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 62
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 48
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 53
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 41
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6e.12xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 52
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6e.16xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 66
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6e.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 62
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6e.2xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 30
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6e.48xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 41
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6e.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 48
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6e.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 59
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6e.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 36
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6f.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 64
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6f.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 62
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6f.large": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 75
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:g6f.xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 67
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:gr6.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 67
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:gr6.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 60
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:gr6f.4xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 64
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:inf1.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 82
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:inf1.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 74
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:inf1.6xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 75
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:inf1.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 75
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:inf2.24xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 78
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:inf2.48xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 82
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:inf2.8xlarge": {
+      "fields": {
+        "r": 1,
+        "r_label": "5-10%",
+        "s": 75
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:inf2.xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 81
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:p3.16xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 76
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:p3.2xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 83
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:p3.8xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 72
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:p3dn.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 77
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:p4d.24xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 45
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:p4de.24xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 50
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:p5.48xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 69
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:p5.4xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 68
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:p5en.48xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 70
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:trn1.2xlarge": {
+      "fields": {
+        "r": 2,
+        "r_label": "10-15%",
+        "s": 82
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:trn1.32xlarge": {
+      "fields": {
+        "r": 0,
+        "r_label": "<5%",
+        "s": 72
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    },
+    "spot:us-west-2:Linux:trn1n.32xlarge": {
+      "fields": {
+        "r": 4,
+        "r_label": ">20%",
+        "s": 86
+      },
+      "source_url": "https://spot-bid-advisor.s3.amazonaws.com/spot-advisor-data.json"
+    }
+  },
+  "source_id": "compute-price-index",
+  "updated_at": "2026-07-10T09:06:12.178Z"
+}
