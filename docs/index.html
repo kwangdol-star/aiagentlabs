@@ -105,6 +105,27 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
   {
     "@context": "https://schema.org",
     "@type": "Dataset",
+    "name": "Chronicle — 실거래 취소·정정 원장 — 아파트 매매 (서울)",
+    "identifier": "deal-audit-ledger",
+    "description": "append-only 변경 원장 (이벤트 33195건, 레코드 33195건). SHA-256 해시체인 + 커밋 히스토리 + RFC 3161 외부 앵커의 3중 공증.",
+    "dateModified": "2026-07-10T08:30:06.618Z",
+    "url": "https://github.com/kwangdol-star/aiagentlabs/tree/main/data/deal-audit-ledger",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/jsonl",
+        "contentUrl": "https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/deal-audit-ledger/changes.jsonl"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/deal-audit-ledger/latest.json"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
     "name": "Chronicle — 기관 전망 박제 — 한은·KB·건산연·주산연",
     "identifier": "forecast-graders",
     "description": "append-only 변경 원장 (이벤트 24건, 레코드 6건). SHA-256 해시체인 + 커밋 히스토리 + RFC 3161 외부 앵커의 3중 공증.",
@@ -147,9 +168,9 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
 </header>
 
 <div class="totals">
-  <div class="stat"><b>1,190</b><span>봉인된 이벤트</span></div>
-  <div class="stat"><b>1,172</b><span>추적 중인 레코드</span></div>
-  <div class="stat"><b>2</b><span>가동 소스</span></div>
+  <div class="stat"><b>34,385</b><span>봉인된 이벤트</span></div>
+  <div class="stat"><b>34,367</b><span>추적 중인 레코드</span></div>
+  <div class="stat"><b>3</b><span>가동 소스</span></div>
   <div class="stat"><b>2026-07-10</b><span>최신 관측</span></div>
 </div>
 
@@ -176,6 +197,30 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
 </ul>
   <nav class="links">
     <a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/bunyang-capsule/changes.jsonl">원장</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/bunyang-capsule/latest.json">현재 상태</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/bunyang-capsule/feed.xml">피드</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/bunyang-capsule/integrity.json">체인</a>
+  </nav>
+</article>
+<article class="card">
+  <header class="card-head">
+    <h3>실거래 취소·정정 원장 — 아파트 매매 (서울)</h3>
+    <span class="src-id">deal-audit-ledger</span>
+  </header>
+  <div class="stat-row">
+    <div class="stat"><b>33,195</b><span>레코드</span></div>
+    <div class="stat"><b>33,195</b><span>봉인 이벤트</span></div>
+    <div class="stat"><b>0</b><span>외부 앵커</span></div>
+  </div>
+  <div class="hash-line">chain head <code>6f7f5d2fcfb7e77d9e50…</code> <span class="pill pill-wait">앵커 대기</span></div>
+  <div class="muted">최신 관측 2026-07-10T08:30:06.618Z</div>
+  <ul class="events">
+<li><span class="ev ev-new">신규</span><code>deal:11740:20260706:천호동:566:천호태영아파트:84.88:7…</code><span class="when">2026-07-10</span></li>
+<li><span class="ev ev-new">신규</span><code>deal:11740:20260703:길동:456-4:다성이즈빌:22.96:19…</code><span class="when">2026-07-10</span></li>
+<li><span class="ev ev-new">신규</span><code>deal:11740:20260702:암사동:509:선사현대아파트:59.64:1…</code><span class="when">2026-07-10</span></li>
+<li><span class="ev ev-new">신규</span><code>deal:11740:20260701:성내동:590:성내동삼성아파트:59.88:…</code><span class="when">2026-07-10</span></li>
+<li><span class="ev ev-new">신규</span><code>deal:11740:20260701:성내동:424-12:동아2:76.59:13…</code><span class="when">2026-07-10</span></li>
+<li><span class="ev ev-new">신규</span><code>deal:11740:20260701:길동:415-16:청광플러스원큐브3차:13…</code><span class="when">2026-07-10</span></li>
+</ul>
+  <nav class="links">
+    <a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/deal-audit-ledger/changes.jsonl">원장</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/deal-audit-ledger/latest.json">현재 상태</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/deal-audit-ledger/feed.xml">피드</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/deal-audit-ledger/integrity.json">체인</a>
   </nav>
 </article>
 <article class="card">
