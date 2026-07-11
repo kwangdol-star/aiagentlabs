@@ -126,6 +126,27 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
   {
     "@context": "https://schema.org",
     "@type": "Dataset",
+    "name": "Chronicle — 공공데이터포털 감시탑 — 의존 데이터셋 변경 감지",
+    "identifier": "datago-watch",
+    "description": "append-only 변경 원장 (이벤트 1건, 레코드 1건). SHA-256 해시체인 + 커밋 히스토리 + RFC 3161 외부 앵커의 3중 공증.",
+    "dateModified": "2026-07-11T10:32:54.624Z",
+    "url": "https://github.com/kwangdol-star/aiagentlabs/tree/main/data/datago-watch",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/jsonl",
+        "contentUrl": "https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/datago-watch/changes.jsonl"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/datago-watch/latest.json"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
     "name": "Chronicle — 실거래 취소·정정 원장 — 아파트 매매 (서울)",
     "identifier": "deal-audit-ledger",
     "description": "append-only 변경 원장 (이벤트 33913건, 레코드 33547건). SHA-256 해시체인 + 커밋 히스토리 + RFC 3161 외부 앵커의 3중 공증.",
@@ -189,10 +210,10 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
 </header>
 
 <div class="totals">
-  <div class="stat"><b>35,373</b><span>봉인된 이벤트</span></div>
-  <div class="stat"><b>34,989</b><span>추적 중인 레코드</span></div>
-  <div class="stat"><b>4</b><span>가동 소스</span></div>
-  <div class="stat"><b>2026-07-10</b><span>최신 관측</span></div>
+  <div class="stat"><b>35,374</b><span>봉인된 이벤트</span></div>
+  <div class="stat"><b>34,990</b><span>추적 중인 레코드</span></div>
+  <div class="stat"><b>5</b><span>가동 소스</span></div>
+  <div class="stat"><b>2026-07-11</b><span>최신 관측</span></div>
 </div>
 
 <div class="section"><span class="en">Live Sources</span><h2>가동 소스</h2></div>
@@ -242,6 +263,25 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
 </ul>
   <nav class="links">
     <a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/compute-price-index/changes.jsonl">원장</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/compute-price-index/latest.json">현재 상태</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/compute-price-index/feed.xml">피드</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/compute-price-index/integrity.json">체인</a><a href="https://github.com/kwangdol-star/aiagentlabs/tree/main/data/compute-price-index/anchors">앵커 증서</a>
+  </nav>
+</article>
+<article class="card">
+  <header class="card-head">
+    <h3>공공데이터포털 감시탑 — 의존 데이터셋 변경 감지</h3>
+    <span class="src-id">datago-watch</span>
+  </header>
+  <div class="stat-row">
+    <div class="stat"><b>1</b><span>레코드</span></div>
+    <div class="stat"><b>1</b><span>봉인 이벤트</span></div>
+    <div class="stat"><b>1</b><span>외부 앵커</span></div>
+  </div>
+  <div class="hash-line">chain head <code>82c71b74495a5d51daa0…</code> <span class="pill pill-ok">TSA 앵커 ✓</span></div>
+  <div class="muted">최신 관측 2026-07-11T10:32:54.624Z</div>
+  <ul class="events">
+<li><span class="ev ev-new">신규</span><code>page:bunyang-capsule-api</code><span class="when">2026-07-11</span></li>
+</ul>
+  <nav class="links">
+    <a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/datago-watch/changes.jsonl">원장</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/datago-watch/latest.json">현재 상태</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/datago-watch/feed.xml">피드</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/datago-watch/integrity.json">체인</a><a href="https://github.com/kwangdol-star/aiagentlabs/tree/main/data/datago-watch/anchors">앵커 증서</a>
   </nav>
 </article>
 <article class="card">

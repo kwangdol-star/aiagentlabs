@@ -24,6 +24,13 @@ Raw responses are preserved verbatim under snapshots/.
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/compute-price-index/integrity.json
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/compute-price-index/feed.xml
 
+### datago-watch — 공공데이터포털 감시탑 — 의존 데이터셋 변경 감지
+- events: 1, records: 1, last observed: 2026-07-11T10:32:54.624Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/datago-watch/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/datago-watch/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/datago-watch/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/datago-watch/feed.xml
+
 ### deal-audit-ledger — 실거래 취소·정정 원장 — 아파트 매매 (서울)
 - events: 33913, records: 33547, last observed: 2026-07-10T23:19:22.590Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/deal-audit-ledger/changes.jsonl
