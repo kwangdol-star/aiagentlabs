@@ -168,6 +168,27 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
   {
     "@context": "https://schema.org",
     "@type": "Dataset",
+    "name": "Chronicle — Agent-Web 동의 센서스 — robots.txt·llms.txt",
+    "identifier": "consent-census",
+    "description": "append-only 변경 원장 (이벤트 65건, 레코드 65건). SHA-256 해시체인 + 커밋 히스토리 + RFC 3161 외부 앵커의 3중 공증.",
+    "dateModified": "2026-07-13T21:30:57.478Z",
+    "url": "https://github.com/kwangdol-star/aiagentlabs/tree/main/data/consent-census",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/jsonl",
+        "contentUrl": "https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/consent-census/changes.jsonl"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/consent-census/latest.json"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
     "name": "Chronicle — 공공데이터포털 감시탑 — 의존 데이터셋 변경 감지",
     "identifier": "datago-watch",
     "description": "append-only 변경 원장 (이벤트 1건, 레코드 1건). SHA-256 해시체인 + 커밋 히스토리 + RFC 3161 외부 앵커의 3중 공증.",
@@ -273,9 +294,9 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
 </header>
 
 <div class="totals">
-  <div class="stat"><b>36,329</b><span>봉인된 이벤트</span></div>
-  <div class="stat"><b>35,493</b><span>추적 중인 레코드</span></div>
-  <div class="stat"><b>8</b><span>가동 소스</span></div>
+  <div class="stat"><b>36,394</b><span>봉인된 이벤트</span></div>
+  <div class="stat"><b>35,558</b><span>추적 중인 레코드</span></div>
+  <div class="stat"><b>9</b><span>가동 소스</span></div>
   <div class="stat"><b>2026-07-13</b><span>최신 관측</span></div>
 </div>
 
@@ -374,6 +395,30 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
 </ul>
   <nav class="links">
     <a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/compute-price-index/changes.jsonl">원장</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/compute-price-index/latest.json">현재 상태</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/compute-price-index/feed.xml">피드</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/compute-price-index/integrity.json">체인</a><a href="https://github.com/kwangdol-star/aiagentlabs/tree/main/data/compute-price-index/anchors">앵커 증서</a>
+  </nav>
+</article>
+<article class="card">
+  <header class="card-head">
+    <h3>Agent-Web 동의 센서스 — robots.txt·llms.txt</h3>
+    <span class="src-id">consent-census</span>
+  </header>
+  <div class="stat-row">
+    <div class="stat"><b>65</b><span>레코드</span></div>
+    <div class="stat"><b>65</b><span>봉인 이벤트</span></div>
+    <div class="stat"><b>1</b><span>외부 앵커</span></div>
+  </div>
+  <div class="hash-line">chain head <code>a883bae1ae2746fbc185…</code> <span class="pill pill-ok">TSA 앵커 ✓</span></div>
+  <div class="muted">최신 관측 2026-07-13T21:30:57.478Z</div>
+  <ul class="events">
+<li><span class="ev ev-new">신규</span><code>probe:yna.co.kr:robots-txt</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>probe:yna.co.kr:llms-txt</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>probe:wsj.com:robots-txt</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>probe:wsj.com:llms-txt</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>probe:wired.com:robots-txt</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>probe:wired.com:llms-txt</code><span class="when">2026-07-13</span></li>
+</ul>
+  <nav class="links">
+    <a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/consent-census/changes.jsonl">원장</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/consent-census/latest.json">현재 상태</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/consent-census/feed.xml">피드</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/consent-census/integrity.json">체인</a><a href="https://github.com/kwangdol-star/aiagentlabs/tree/main/data/consent-census/anchors">앵커 증서</a>
   </nav>
 </article>
 <article class="card">

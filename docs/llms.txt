@@ -38,6 +38,13 @@ Raw responses are preserved verbatim under snapshots/.
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/compute-price-index/integrity.json
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/compute-price-index/feed.xml
 
+### consent-census — Agent-Web 동의 센서스 — robots.txt·llms.txt
+- events: 65, records: 65, last observed: 2026-07-13T21:30:57.478Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/consent-census/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/consent-census/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/consent-census/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/consent-census/feed.xml
+
 ### datago-watch — 공공데이터포털 감시탑 — 의존 데이터셋 변경 감지
 - events: 1, records: 1, last observed: 2026-07-11T10:32:54.624Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/datago-watch/changes.jsonl
