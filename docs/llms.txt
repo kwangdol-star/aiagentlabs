@@ -10,6 +10,13 @@ Raw responses are preserved verbatim under snapshots/.
 
 ## Sources
 
+### agent-commerce-census — 에이전트 커머스 센서스 — x402·AP2·ACP well-known 매니페스트
+- events: 96, records: 96, last observed: 2026-07-13T07:38:49.194Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/agent-commerce-census/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/agent-commerce-census/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/agent-commerce-census/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/agent-commerce-census/feed.xml
+
 ### ai-vendor-ledger — AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)
 - events: 345, records: 345, last observed: 2026-07-13T07:31:01.926Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-vendor-ledger/changes.jsonl

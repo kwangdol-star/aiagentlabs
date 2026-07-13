@@ -1,0 +1,398 @@
+{
+  "observed_at": "2026-07-13T07:38:49.194Z",
+  "raw": {
+    "manifest:anthropic.com:well-known-agent-json": {
+      "status": 404,
+      "url": "https://anthropic.com/.well-known/agent.json"
+    },
+    "manifest:anthropic.com:well-known-agent-payments-json": {
+      "status": 404,
+      "url": "https://anthropic.com/.well-known/agent-payments.json"
+    },
+    "manifest:anthropic.com:well-known-agentic-commerce-json": {
+      "status": 404,
+      "url": "https://anthropic.com/.well-known/agentic-commerce.json"
+    },
+    "manifest:anthropic.com:well-known-ai-plugin-json": {
+      "status": 404,
+      "url": "https://anthropic.com/.well-known/ai-plugin.json"
+    },
+    "manifest:anthropic.com:well-known-ap2-json": {
+      "status": 404,
+      "url": "https://anthropic.com/.well-known/ap2.json"
+    },
+    "manifest:anthropic.com:well-known-mcp-json": {
+      "status": 404,
+      "url": "https://anthropic.com/.well-known/mcp.json"
+    },
+    "manifest:anthropic.com:well-known-x402": {
+      "status": 404,
+      "url": "https://anthropic.com/.well-known/x402"
+    },
+    "manifest:anthropic.com:well-known-x402-json": {
+      "status": 404,
+      "url": "https://anthropic.com/.well-known/x402.json"
+    },
+    "manifest:cloudflare.com:well-known-agent-json": {
+      "body": "{\n  \"name\": \"Cloudflare Site Agent\",\n  \"description\": \"Provides machine-readable context and endpoints for AI assistants to understand Cloudflare website content.\",\n  \"url\": \"https://www.cloudflare.com/.well-known/agent.json\",\n  \"capabilities\": {\n    \"streaming\": false,\n    \"pushNotifications\": false,\n    \"stateTransitionHistory\": false\n  },\n  \"skills\": [\n    {\n      \"id\": \"site-context\",\n      \"name\": \"Site Context\",\n      \"description\": \"Returns curated and markdown-first content for assistants.\",\n      \"endpoint\": \"https://www.cloudflare.com/llms.txt\"\n    },\n    {\n      \"id\": \"page-markdown\",\n      \"name\": \"Page Markdown\",\n      \"description\": \"Fetches markdown snapshots of site pages for citation-ready context.\",\n      \"endpoint\": \"https://www.cloudflare.com/{path}.md\"\n    }\n  ]\n}",
+      "body_bytes": 795,
+      "body_sha256": "d4767b363f00a7f2300e0efcc99849be912453554a2db0b227e23477b7eeaa0e",
+      "content_type": "application/json",
+      "status": 200,
+      "url": "https://cloudflare.com/.well-known/agent.json"
+    },
+    "manifest:cloudflare.com:well-known-agent-payments-json": {
+      "status": 404,
+      "url": "https://cloudflare.com/.well-known/agent-payments.json"
+    },
+    "manifest:cloudflare.com:well-known-agentic-commerce-json": {
+      "status": 404,
+      "url": "https://cloudflare.com/.well-known/agentic-commerce.json"
+    },
+    "manifest:cloudflare.com:well-known-ai-plugin-json": {
+      "status": 404,
+      "url": "https://cloudflare.com/.well-known/ai-plugin.json"
+    },
+    "manifest:cloudflare.com:well-known-ap2-json": {
+      "status": 404,
+      "url": "https://cloudflare.com/.well-known/ap2.json"
+    },
+    "manifest:cloudflare.com:well-known-mcp-json": {
+      "body": "{\n  \"mcpServers\": {\n    \"cloudflare_site\": {\n      \"name\": \"Cloudflare Site MCP\",\n      \"description\": \"Read-only discovery document for machine-readable Cloudflare website context.\",\n      \"transport\": {\n        \"type\": \"http\",\n        \"url\": \"https://www.cloudflare.com/.well-known/webmcp.json\"\n      },\n      \"docs\": \"https://www.cloudflare.com/llms.txt\"\n    }\n  }\n}",
+      "body_bytes": 369,
+      "body_sha256": "e1bcedc3609e0fcc717b5dc86b84095aabec7c2599718bc08d27c52d9bbb227b",
+      "content_type": "application/json",
+      "status": 200,
+      "url": "https://cloudflare.com/.well-known/mcp.json"
+    },
+    "manifest:cloudflare.com:well-known-x402": {
+      "status": 404,
+      "url": "https://cloudflare.com/.well-known/x402"
+    },
+    "manifest:cloudflare.com:well-known-x402-json": {
+      "status": 404,
+      "url": "https://cloudflare.com/.well-known/x402.json"
+    },
+    "manifest:coinbase.com:well-known-agent-json": {
+      "status": 404,
+      "url": "https://coinbase.com/.well-known/agent.json"
+    },
+    "manifest:coinbase.com:well-known-agent-payments-json": {
+      "status": 404,
+      "url": "https://coinbase.com/.well-known/agent-payments.json"
+    },
+    "manifest:coinbase.com:well-known-agentic-commerce-json": {
+      "status": 404,
+      "url": "https://coinbase.com/.well-known/agentic-commerce.json"
+    },
+    "manifest:coinbase.com:well-known-ai-plugin-json": {
+      "status": 404,
+      "url": "https://coinbase.com/.well-known/ai-plugin.json"
+    },
+    "manifest:coinbase.com:well-known-ap2-json": {
+      "status": 404,
+      "url": "https://coinbase.com/.well-known/ap2.json"
+    },
+    "manifest:coinbase.com:well-known-mcp-json": {
+      "status": 404,
+      "url": "https://coinbase.com/.well-known/mcp.json"
+    },
+    "manifest:coinbase.com:well-known-x402": {
+      "status": 404,
+      "url": "https://coinbase.com/.well-known/x402"
+    },
+    "manifest:coinbase.com:well-known-x402-json": {
+      "status": 404,
+      "url": "https://coinbase.com/.well-known/x402.json"
+    },
+    "manifest:google.com:well-known-agent-json": {
+      "status": 404,
+      "url": "https://google.com/.well-known/agent.json"
+    },
+    "manifest:google.com:well-known-agent-payments-json": {
+      "status": 404,
+      "url": "https://google.com/.well-known/agent-payments.json"
+    },
+    "manifest:google.com:well-known-agentic-commerce-json": {
+      "status": 404,
+      "url": "https://google.com/.well-known/agentic-commerce.json"
+    },
+    "manifest:google.com:well-known-ai-plugin-json": {
+      "status": 404,
+      "url": "https://google.com/.well-known/ai-plugin.json"
+    },
+    "manifest:google.com:well-known-ap2-json": {
+      "status": 404,
+      "url": "https://google.com/.well-known/ap2.json"
+    },
+    "manifest:google.com:well-known-mcp-json": {
+      "status": 404,
+      "url": "https://google.com/.well-known/mcp.json"
+    },
+    "manifest:google.com:well-known-x402": {
+      "status": 404,
+      "url": "https://google.com/.well-known/x402"
+    },
+    "manifest:google.com:well-known-x402-json": {
+      "status": 404,
+      "url": "https://google.com/.well-known/x402.json"
+    },
+    "manifest:microsoft.com:well-known-agent-json": {
+      "status": 404,
+      "url": "https://microsoft.com/.well-known/agent.json"
+    },
+    "manifest:microsoft.com:well-known-agent-payments-json": {
+      "status": 404,
+      "url": "https://microsoft.com/.well-known/agent-payments.json"
+    },
+    "manifest:microsoft.com:well-known-agentic-commerce-json": {
+      "status": 404,
+      "url": "https://microsoft.com/.well-known/agentic-commerce.json"
+    },
+    "manifest:microsoft.com:well-known-ai-plugin-json": {
+      "status": 404,
+      "url": "https://microsoft.com/.well-known/ai-plugin.json"
+    },
+    "manifest:microsoft.com:well-known-ap2-json": {
+      "status": 404,
+      "url": "https://microsoft.com/.well-known/ap2.json"
+    },
+    "manifest:microsoft.com:well-known-mcp-json": {
+      "status": 404,
+      "url": "https://microsoft.com/.well-known/mcp.json"
+    },
+    "manifest:microsoft.com:well-known-x402": {
+      "status": 404,
+      "url": "https://microsoft.com/.well-known/x402"
+    },
+    "manifest:microsoft.com:well-known-x402-json": {
+      "status": 404,
+      "url": "https://microsoft.com/.well-known/x402.json"
+    },
+    "manifest:openai.com:well-known-agent-json": {
+      "status": 404,
+      "url": "https://openai.com/.well-known/agent.json"
+    },
+    "manifest:openai.com:well-known-agent-payments-json": {
+      "status": 404,
+      "url": "https://openai.com/.well-known/agent-payments.json"
+    },
+    "manifest:openai.com:well-known-agentic-commerce-json": {
+      "status": 404,
+      "url": "https://openai.com/.well-known/agentic-commerce.json"
+    },
+    "manifest:openai.com:well-known-ai-plugin-json": {
+      "status": 404,
+      "url": "https://openai.com/.well-known/ai-plugin.json"
+    },
+    "manifest:openai.com:well-known-ap2-json": {
+      "status": 404,
+      "url": "https://openai.com/.well-known/ap2.json"
+    },
+    "manifest:openai.com:well-known-mcp-json": {
+      "status": 404,
+      "url": "https://openai.com/.well-known/mcp.json"
+    },
+    "manifest:openai.com:well-known-x402": {
+      "status": 404,
+      "url": "https://openai.com/.well-known/x402"
+    },
+    "manifest:openai.com:well-known-x402-json": {
+      "status": 404,
+      "url": "https://openai.com/.well-known/x402.json"
+    },
+    "manifest:paypal.com:well-known-agent-json": {
+      "status": 404,
+      "url": "https://paypal.com/.well-known/agent.json"
+    },
+    "manifest:paypal.com:well-known-agent-payments-json": {
+      "status": 404,
+      "url": "https://paypal.com/.well-known/agent-payments.json"
+    },
+    "manifest:paypal.com:well-known-agentic-commerce-json": {
+      "status": 404,
+      "url": "https://paypal.com/.well-known/agentic-commerce.json"
+    },
+    "manifest:paypal.com:well-known-ai-plugin-json": {
+      "status": 404,
+      "url": "https://paypal.com/.well-known/ai-plugin.json"
+    },
+    "manifest:paypal.com:well-known-ap2-json": {
+      "status": 404,
+      "url": "https://paypal.com/.well-known/ap2.json"
+    },
+    "manifest:paypal.com:well-known-mcp-json": {
+      "status": 404,
+      "url": "https://paypal.com/.well-known/mcp.json"
+    },
+    "manifest:paypal.com:well-known-x402": {
+      "status": 404,
+      "url": "https://paypal.com/.well-known/x402"
+    },
+    "manifest:paypal.com:well-known-x402-json": {
+      "status": 404,
+      "url": "https://paypal.com/.well-known/x402.json"
+    },
+    "manifest:perplexity.ai:well-known-agent-json": {
+      "status": 404,
+      "url": "https://perplexity.ai/.well-known/agent.json"
+    },
+    "manifest:perplexity.ai:well-known-agent-payments-json": {
+      "status": 404,
+      "url": "https://perplexity.ai/.well-known/agent-payments.json"
+    },
+    "manifest:perplexity.ai:well-known-agentic-commerce-json": {
+      "status": 404,
+      "url": "https://perplexity.ai/.well-known/agentic-commerce.json"
+    },
+    "manifest:perplexity.ai:well-known-ai-plugin-json": {
+      "status": 404,
+      "url": "https://perplexity.ai/.well-known/ai-plugin.json"
+    },
+    "manifest:perplexity.ai:well-known-ap2-json": {
+      "status": 404,
+      "url": "https://perplexity.ai/.well-known/ap2.json"
+    },
+    "manifest:perplexity.ai:well-known-mcp-json": {
+      "status": 404,
+      "url": "https://perplexity.ai/.well-known/mcp.json"
+    },
+    "manifest:perplexity.ai:well-known-x402": {
+      "status": 404,
+      "url": "https://perplexity.ai/.well-known/x402"
+    },
+    "manifest:perplexity.ai:well-known-x402-json": {
+      "status": 404,
+      "url": "https://perplexity.ai/.well-known/x402.json"
+    },
+    "manifest:replit.com:well-known-agent-json": {
+      "status": 404,
+      "url": "https://replit.com/.well-known/agent.json"
+    },
+    "manifest:replit.com:well-known-agent-payments-json": {
+      "status": 404,
+      "url": "https://replit.com/.well-known/agent-payments.json"
+    },
+    "manifest:replit.com:well-known-agentic-commerce-json": {
+      "status": 404,
+      "url": "https://replit.com/.well-known/agentic-commerce.json"
+    },
+    "manifest:replit.com:well-known-ai-plugin-json": {
+      "status": 404,
+      "url": "https://replit.com/.well-known/ai-plugin.json"
+    },
+    "manifest:replit.com:well-known-ap2-json": {
+      "status": 404,
+      "url": "https://replit.com/.well-known/ap2.json"
+    },
+    "manifest:replit.com:well-known-mcp-json": {
+      "status": 404,
+      "url": "https://replit.com/.well-known/mcp.json"
+    },
+    "manifest:replit.com:well-known-x402": {
+      "status": 404,
+      "url": "https://replit.com/.well-known/x402"
+    },
+    "manifest:replit.com:well-known-x402-json": {
+      "status": 404,
+      "url": "https://replit.com/.well-known/x402.json"
+    },
+    "manifest:shopify.com:well-known-agent-json": {
+      "status": 404,
+      "url": "https://shopify.com/.well-known/agent.json"
+    },
+    "manifest:shopify.com:well-known-agent-payments-json": {
+      "status": 404,
+      "url": "https://shopify.com/.well-known/agent-payments.json"
+    },
+    "manifest:shopify.com:well-known-agentic-commerce-json": {
+      "status": 404,
+      "url": "https://shopify.com/.well-known/agentic-commerce.json"
+    },
+    "manifest:shopify.com:well-known-ai-plugin-json": {
+      "status": 404,
+      "url": "https://shopify.com/.well-known/ai-plugin.json"
+    },
+    "manifest:shopify.com:well-known-ap2-json": {
+      "status": 404,
+      "url": "https://shopify.com/.well-known/ap2.json"
+    },
+    "manifest:shopify.com:well-known-mcp-json": {
+      "status": 404,
+      "url": "https://shopify.com/.well-known/mcp.json"
+    },
+    "manifest:shopify.com:well-known-x402": {
+      "status": 404,
+      "url": "https://shopify.com/.well-known/x402"
+    },
+    "manifest:shopify.com:well-known-x402-json": {
+      "status": 404,
+      "url": "https://shopify.com/.well-known/x402.json"
+    },
+    "manifest:stripe.com:well-known-agent-json": {
+      "status": 404,
+      "url": "https://stripe.com/.well-known/agent.json"
+    },
+    "manifest:stripe.com:well-known-agent-payments-json": {
+      "status": 404,
+      "url": "https://stripe.com/.well-known/agent-payments.json"
+    },
+    "manifest:stripe.com:well-known-agentic-commerce-json": {
+      "status": 404,
+      "url": "https://stripe.com/.well-known/agentic-commerce.json"
+    },
+    "manifest:stripe.com:well-known-ai-plugin-json": {
+      "status": 404,
+      "url": "https://stripe.com/.well-known/ai-plugin.json"
+    },
+    "manifest:stripe.com:well-known-ap2-json": {
+      "status": 404,
+      "url": "https://stripe.com/.well-known/ap2.json"
+    },
+    "manifest:stripe.com:well-known-mcp-json": {
+      "status": 404,
+      "url": "https://stripe.com/.well-known/mcp.json"
+    },
+    "manifest:stripe.com:well-known-x402": {
+      "status": 404,
+      "url": "https://stripe.com/.well-known/x402"
+    },
+    "manifest:stripe.com:well-known-x402-json": {
+      "status": 404,
+      "url": "https://stripe.com/.well-known/x402.json"
+    },
+    "manifest:vercel.com:well-known-agent-json": {
+      "status": 404,
+      "url": "https://vercel.com/.well-known/agent.json"
+    },
+    "manifest:vercel.com:well-known-agent-payments-json": {
+      "status": 404,
+      "url": "https://vercel.com/.well-known/agent-payments.json"
+    },
+    "manifest:vercel.com:well-known-agentic-commerce-json": {
+      "status": 404,
+      "url": "https://vercel.com/.well-known/agentic-commerce.json"
+    },
+    "manifest:vercel.com:well-known-ai-plugin-json": {
+      "status": 404,
+      "url": "https://vercel.com/.well-known/ai-plugin.json"
+    },
+    "manifest:vercel.com:well-known-ap2-json": {
+      "status": 404,
+      "url": "https://vercel.com/.well-known/ap2.json"
+    },
+    "manifest:vercel.com:well-known-mcp-json": {
+      "status": 404,
+      "url": "https://vercel.com/.well-known/mcp.json"
+    },
+    "manifest:vercel.com:well-known-x402": {
+      "status": 404,
+      "url": "https://vercel.com/.well-known/x402"
+    },
+    "manifest:vercel.com:well-known-x402-json": {
+      "status": 404,
+      "url": "https://vercel.com/.well-known/x402.json"
+    }
+  },
+  "source_id": "agent-commerce-census"
+}

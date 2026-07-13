@@ -84,6 +84,27 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
   {
     "@context": "https://schema.org",
     "@type": "Dataset",
+    "name": "Chronicle — 에이전트 커머스 센서스 — x402·AP2·ACP well-known 매니페스트",
+    "identifier": "agent-commerce-census",
+    "description": "append-only 변경 원장 (이벤트 96건, 레코드 96건). SHA-256 해시체인 + 커밋 히스토리 + RFC 3161 외부 앵커의 3중 공증.",
+    "dateModified": "2026-07-13T07:38:49.194Z",
+    "url": "https://github.com/kwangdol-star/aiagentlabs/tree/main/data/agent-commerce-census",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/jsonl",
+        "contentUrl": "https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/agent-commerce-census/changes.jsonl"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/agent-commerce-census/latest.json"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
     "name": "Chronicle — AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)",
     "identifier": "ai-vendor-ledger",
     "description": "append-only 변경 원장 (이벤트 345건, 레코드 345건). SHA-256 해시체인 + 커밋 히스토리 + RFC 3161 외부 앵커의 3중 공증.",
@@ -231,13 +252,37 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
 </header>
 
 <div class="totals">
-  <div class="stat"><b>36,189</b><span>봉인된 이벤트</span></div>
-  <div class="stat"><b>35,353</b><span>추적 중인 레코드</span></div>
-  <div class="stat"><b>6</b><span>가동 소스</span></div>
+  <div class="stat"><b>36,285</b><span>봉인된 이벤트</span></div>
+  <div class="stat"><b>35,449</b><span>추적 중인 레코드</span></div>
+  <div class="stat"><b>7</b><span>가동 소스</span></div>
   <div class="stat"><b>2026-07-13</b><span>최신 관측</span></div>
 </div>
 
 <div class="section"><span class="en">Live Sources</span><h2>가동 소스</h2></div>
+<article class="card">
+  <header class="card-head">
+    <h3>에이전트 커머스 센서스 — x402·AP2·ACP well-known 매니페스트</h3>
+    <span class="src-id">agent-commerce-census</span>
+  </header>
+  <div class="stat-row">
+    <div class="stat"><b>96</b><span>레코드</span></div>
+    <div class="stat"><b>96</b><span>봉인 이벤트</span></div>
+    <div class="stat"><b>1</b><span>외부 앵커</span></div>
+  </div>
+  <div class="hash-line">chain head <code>a2164e1838b2eeab8a0e…</code> <span class="pill pill-ok">TSA 앵커 ✓</span></div>
+  <div class="muted">최신 관측 2026-07-13T07:38:49.194Z</div>
+  <ul class="events">
+<li><span class="ev ev-new">신규</span><code>manifest:vercel.com:well-known-x402-json</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>manifest:vercel.com:well-known-x402</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>manifest:vercel.com:well-known-mcp-json</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>manifest:vercel.com:well-known-ap2-json</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>manifest:vercel.com:well-known-ai-plugin-js…</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>manifest:vercel.com:well-known-agentic-comm…</code><span class="when">2026-07-13</span></li>
+</ul>
+  <nav class="links">
+    <a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/agent-commerce-census/changes.jsonl">원장</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/agent-commerce-census/latest.json">현재 상태</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/agent-commerce-census/feed.xml">피드</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/agent-commerce-census/integrity.json">체인</a><a href="https://github.com/kwangdol-star/aiagentlabs/tree/main/data/agent-commerce-census/anchors">앵커 증서</a>
+  </nav>
+</article>
 <article class="card">
   <header class="card-head">
     <h3>AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)</h3>
