@@ -10,6 +10,13 @@ Raw responses are preserved verbatim under snapshots/.
 
 ## Sources
 
+### ai-vendor-ledger — AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)
+- events: 345, records: 345, last observed: 2026-07-13T07:31:01.926Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-vendor-ledger/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-vendor-ledger/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-vendor-ledger/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-vendor-ledger/feed.xml
+
 ### bunyang-capsule — 청약홈 APT 분양공고·주택형별 분양가 일간 박제
 - events: 1209, records: 1209, last observed: 2026-07-10T22:43:51.833Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/bunyang-capsule/changes.jsonl

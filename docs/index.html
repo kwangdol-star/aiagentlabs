@@ -84,6 +84,27 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
   {
     "@context": "https://schema.org",
     "@type": "Dataset",
+    "name": "Chronicle — AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)",
+    "identifier": "ai-vendor-ledger",
+    "description": "append-only 변경 원장 (이벤트 345건, 레코드 345건). SHA-256 해시체인 + 커밋 히스토리 + RFC 3161 외부 앵커의 3중 공증.",
+    "dateModified": "2026-07-13T07:31:01.926Z",
+    "url": "https://github.com/kwangdol-star/aiagentlabs/tree/main/data/ai-vendor-ledger",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/jsonl",
+        "contentUrl": "https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-vendor-ledger/changes.jsonl"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-vendor-ledger/latest.json"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
     "name": "Chronicle — 청약홈 APT 분양공고·주택형별 분양가 일간 박제",
     "identifier": "bunyang-capsule",
     "description": "append-only 변경 원장 (이벤트 1209건, 레코드 1209건). SHA-256 해시체인 + 커밋 히스토리 + RFC 3161 외부 앵커의 3중 공증.",
@@ -210,13 +231,37 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
 </header>
 
 <div class="totals">
-  <div class="stat"><b>35,844</b><span>봉인된 이벤트</span></div>
-  <div class="stat"><b>35,008</b><span>추적 중인 레코드</span></div>
-  <div class="stat"><b>5</b><span>가동 소스</span></div>
-  <div class="stat"><b>2026-07-12</b><span>최신 관측</span></div>
+  <div class="stat"><b>36,189</b><span>봉인된 이벤트</span></div>
+  <div class="stat"><b>35,353</b><span>추적 중인 레코드</span></div>
+  <div class="stat"><b>6</b><span>가동 소스</span></div>
+  <div class="stat"><b>2026-07-13</b><span>최신 관측</span></div>
 </div>
 
 <div class="section"><span class="en">Live Sources</span><h2>가동 소스</h2></div>
+<article class="card">
+  <header class="card-head">
+    <h3>AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)</h3>
+    <span class="src-id">ai-vendor-ledger</span>
+  </header>
+  <div class="stat-row">
+    <div class="stat"><b>345</b><span>레코드</span></div>
+    <div class="stat"><b>345</b><span>봉인 이벤트</span></div>
+    <div class="stat"><b>1</b><span>외부 앵커</span></div>
+  </div>
+  <div class="hash-line">chain head <code>aa362ffd4c708bad3787…</code> <span class="pill pill-ok">TSA 앵커 ✓</span></div>
+  <div class="muted">최신 관측 2026-07-13T07:31:01.926Z</div>
+  <ul class="events">
+<li><span class="ev ev-new">신규</span><code>model:~x-ai/grok-latest</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>model:~openai/gpt-mini-latest</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>model:~openai/gpt-latest</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>model:~moonshotai/kimi-latest</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>model:~google/gemini-pro-latest</code><span class="when">2026-07-13</span></li>
+<li><span class="ev ev-new">신규</span><code>model:~google/gemini-flash-latest</code><span class="when">2026-07-13</span></li>
+</ul>
+  <nav class="links">
+    <a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/ai-vendor-ledger/changes.jsonl">원장</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/ai-vendor-ledger/latest.json">현재 상태</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/ai-vendor-ledger/feed.xml">피드</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/ai-vendor-ledger/integrity.json">체인</a><a href="https://github.com/kwangdol-star/aiagentlabs/tree/main/data/ai-vendor-ledger/anchors">앵커 증서</a>
+  </nav>
+</article>
 <article class="card">
   <header class="card-head">
     <h3>청약홈 APT 분양공고·주택형별 분양가 일간 박제</h3>
