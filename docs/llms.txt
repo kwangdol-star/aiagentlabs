@@ -59,6 +59,13 @@ Raw responses are preserved verbatim under snapshots/.
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/forecast-graders/integrity.json
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/forecast-graders/feed.xml
 
+### llm-korea-capsule — LLM 한국팩트 타임캡슐 — 모델×질문 정오답 원장
+- events: 44, records: 44, last observed: 2026-07-13T08:46:34.629Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/llm-korea-capsule/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/llm-korea-capsule/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/llm-korea-capsule/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/llm-korea-capsule/feed.xml
+
 ## Verify
 
 Recompute the whole chain from genesis: `npm run verify -- --all` in the repo.
