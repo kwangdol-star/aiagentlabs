@@ -17,6 +17,13 @@ Raw responses are preserved verbatim under snapshots/.
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/agent-commerce-census/integrity.json
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/agent-commerce-census/feed.xml
 
+### ai-jobs-ledger — AI 랩 채용 원장 — 직무·팀·지역 (글로벌)
+- events: 2474, records: 2474, last observed: 2026-07-13T22:39:03.847Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-jobs-ledger/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-jobs-ledger/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-jobs-ledger/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-jobs-ledger/feed.xml
+
 ### ai-vendor-ledger — AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)
 - events: 345, records: 345, last observed: 2026-07-13T07:31:01.926Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-vendor-ledger/changes.jsonl
