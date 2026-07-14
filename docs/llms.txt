@@ -38,6 +38,13 @@ Raw responses are preserved verbatim under snapshots/.
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/bunyang-capsule/integrity.json
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/bunyang-capsule/feed.xml
 
+### commitments-watch — 기업 약속 diff — AI 사용정책·원칙·안전 프레임워크
+- events: 8, records: 8, last observed: 2026-07-14T01:55:11.296Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/commitments-watch/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/commitments-watch/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/commitments-watch/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/commitments-watch/feed.xml
+
 ### compute-price-index — 컴퓨트 가격 지수 — AWS 스팟 GPU 절감률·중단위험
 - events: 227, records: 227, last observed: 2026-07-10T09:06:12.178Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/compute-price-index/changes.jsonl
