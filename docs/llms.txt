@@ -17,6 +17,13 @@ Raw responses are preserved verbatim under snapshots/.
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/agent-commerce-census/integrity.json
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/agent-commerce-census/feed.xml
 
+### ai-jobs-ledger — AI 랩 채용 원장 — 직무·팀·지역 (글로벌)
+- events: 2474, records: 2474, last observed: 2026-07-13T22:39:03.847Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-jobs-ledger/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-jobs-ledger/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-jobs-ledger/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-jobs-ledger/feed.xml
+
 ### ai-vendor-ledger — AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)
 - events: 345, records: 345, last observed: 2026-07-13T07:31:01.926Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-vendor-ledger/changes.jsonl
@@ -38,6 +45,13 @@ Raw responses are preserved verbatim under snapshots/.
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/compute-price-index/integrity.json
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/compute-price-index/feed.xml
 
+### consent-census — Agent-Web 동의 센서스 — robots.txt·llms.txt
+- events: 65, records: 65, last observed: 2026-07-13T21:30:57.478Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/consent-census/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/consent-census/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/consent-census/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/consent-census/feed.xml
+
 ### datago-watch — 공공데이터포털 감시탑 — 의존 데이터셋 변경 감지
 - events: 1, records: 1, last observed: 2026-07-11T10:32:54.624Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/datago-watch/changes.jsonl
@@ -46,7 +60,7 @@ Raw responses are preserved verbatim under snapshots/.
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/datago-watch/feed.xml
 
 ### deal-audit-ledger — 실거래 취소·정정 원장 — 아파트 매매 (서울)
-- events: 34377, records: 33565, last observed: 2026-07-12T23:16:52.687Z
+- events: 34782, records: 33931, last observed: 2026-07-13T23:22:06.794Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/deal-audit-ledger/changes.jsonl
 - current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/deal-audit-ledger/latest.json
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/deal-audit-ledger/integrity.json
@@ -58,6 +72,13 @@ Raw responses are preserved verbatim under snapshots/.
 - current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/forecast-graders/latest.json
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/forecast-graders/integrity.json
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/forecast-graders/feed.xml
+
+### llm-korea-capsule — LLM 한국팩트 타임캡슐 — 모델×질문 정오답 원장
+- events: 44, records: 44, last observed: 2026-07-13T08:46:34.629Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/llm-korea-capsule/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/llm-korea-capsule/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/llm-korea-capsule/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/llm-korea-capsule/feed.xml
 
 ## Verify
 

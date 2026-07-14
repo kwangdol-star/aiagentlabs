@@ -10,6 +10,16 @@
     "head_anchored": true
   },
   {
+    "source_id": "ai-jobs-ledger",
+    "title": "AI 랩 채용 원장 — 직무·팀·지역 (글로벌)",
+    "records": 2474,
+    "events": 2474,
+    "chain_head": "58c2e02f057ecc777e1edaae1b72802d8b5222b14f4506497583a63f0aca77c1",
+    "updated_at": "2026-07-13T22:39:03.847Z",
+    "anchors": 1,
+    "head_anchored": true
+  },
+  {
     "source_id": "ai-vendor-ledger",
     "title": "AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)",
     "records": 345,
@@ -40,6 +50,16 @@
     "head_anchored": true
   },
   {
+    "source_id": "consent-census",
+    "title": "Agent-Web 동의 센서스 — robots.txt·llms.txt",
+    "records": 65,
+    "events": 65,
+    "chain_head": "a883bae1ae2746fbc1859407db3a00f2577b90c6c68d8c9dcc8f55c1e8cd48ed",
+    "updated_at": "2026-07-13T21:30:57.478Z",
+    "anchors": 1,
+    "head_anchored": true
+  },
+  {
     "source_id": "datago-watch",
     "title": "공공데이터포털 감시탑 — 의존 데이터셋 변경 감지",
     "records": 1,
@@ -52,11 +72,11 @@
   {
     "source_id": "deal-audit-ledger",
     "title": "실거래 취소·정정 원장 — 아파트 매매 (서울)",
-    "records": 33565,
-    "events": 34377,
-    "chain_head": "4caf99ab8515d356fc23fa35d20fd134611dbd2e43e8e7adf837eb2d5ce6fb50",
-    "updated_at": "2026-07-12T23:16:52.687Z",
-    "anchors": 3,
+    "records": 33931,
+    "events": 34782,
+    "chain_head": "512f5214ed08ec66ff34a9e9285c35c9be81f568decba7f9b0f2bac48aa3c8db",
+    "updated_at": "2026-07-13T23:22:06.794Z",
+    "anchors": 4,
     "head_anchored": true
   },
   {
@@ -66,6 +86,16 @@
     "events": 30,
     "chain_head": "cc94c078edf76db1d55086f3ae2d4d72b6d9d27725c0caa717357a7c9f30ab2c",
     "updated_at": "2026-07-12T22:10:46.146Z",
+    "anchors": 1,
+    "head_anchored": true
+  },
+  {
+    "source_id": "llm-korea-capsule",
+    "title": "LLM 한국팩트 타임캡슐 — 모델×질문 정오답 원장",
+    "records": 44,
+    "events": 44,
+    "chain_head": "d8402c7e6cd35f11b0cc21d7ed3d981dab718ed92601d7e58ae95f552eb56531",
+    "updated_at": "2026-07-13T08:46:34.629Z",
     "anchors": 1,
     "head_anchored": true
   }

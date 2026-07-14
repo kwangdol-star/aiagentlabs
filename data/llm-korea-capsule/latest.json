@@ -1,0 +1,447 @@
+{
+  "record_count": 44,
+  "records": {
+    "capsule:claude-haiku-4-5:assembly-loc": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "대한민국 국회의사당이 위치한 서울의 지역(섬)은 어디입니까?",
+        "question_id": "assembly-loc",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:bill-10000": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "대한민국 만원권 지폐 앞면에 그려진 인물은 누구입니까?",
+        "question_id": "bill-10000",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:capital": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "대한민국의 수도는 어디입니까? 도시 이름만 답하세요.",
+        "question_id": "capital",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:currency-unit": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "대한민국의 공식 화폐 단위는 무엇입니까?",
+        "question_id": "currency-unit",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:dokdo-province": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "독도는 행정구역상 어느 광역자치단체(도)에 속합니까?",
+        "question_id": "dokdo-province",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:first-president": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "대한민국의 초대 대통령은 누구입니까? 이름만 답하세요.",
+        "question_id": "first-president",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:gov-year": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "대한민국 정부가 공식 수립된 연도는 몇 년입니까? 연도만 답하세요.",
+        "question_id": "gov-year",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:han-river": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "서울을 동서로 가로지르는 강의 이름은 무엇입니까?",
+        "question_id": "han-river",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:hangul-creator": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "훈민정음(한글)을 창제한 조선의 왕은 누구입니까?",
+        "question_id": "hangul-creator",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:hangul-day": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "한글날은 매년 몇 월 며칠입니까?",
+        "question_id": "hangul-day",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:highest-mountain": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "남한(대한민국)에서 가장 높은 산은 무엇입니까?",
+        "question_id": "highest-mountain",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:joseon-founder": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "조선을 건국한 왕(태조)은 누구입니까? 이름만 답하세요.",
+        "question_id": "joseon-founder",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:kimchi": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "배추 등을 양념해 발효시킨 한국의 대표 음식은 무엇입니까?",
+        "question_id": "kimchi",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:korean-war-year": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "6·25 전쟁(한국전쟁)이 발발한 연도는 몇 년입니까? 연도만 답하세요.",
+        "question_id": "korean-war-year",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:largest-island": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "대한민국에서 가장 큰 섬은 무엇입니까?",
+        "question_id": "largest-island",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:main-palace": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "조선 왕조의 정궁(법궁)으로, 광화문 뒤에 있는 궁궐은 무엇입니까?",
+        "question_id": "main-palace",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:national-flower": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "대한민국의 나라꽃(국화)은 무엇입니까?",
+        "question_id": "national-flower",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:second-city": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "대한민국에서 인구가 두 번째로 많은 도시는 어디입니까?",
+        "question_id": "second-city",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:seoul-olympic": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "1988년 하계 올림픽이 개최된 도시는 어디입니까?",
+        "question_id": "seoul-olympic",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:sungnyemun": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "서울의 숭례문을 부르는 다른 이름(속칭)은 무엇입니까?",
+        "question_id": "sungnyemun",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:taegeuk": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "태극기 한가운데에 있는 원(음양 무늬)의 이름은 무엇입니까?",
+        "question_id": "taegeuk",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-haiku-4-5:utc-offset": {
+      "fields": {
+        "correct": true,
+        "model": "claude-haiku-4-5",
+        "question": "대한민국 표준시(KST)는 UTC보다 몇 시간 빠릅니까?",
+        "question_id": "utc-offset",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:assembly-loc": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "대한민국 국회의사당이 위치한 서울의 지역(섬)은 어디입니까?",
+        "question_id": "assembly-loc",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:bill-10000": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "대한민국 만원권 지폐 앞면에 그려진 인물은 누구입니까?",
+        "question_id": "bill-10000",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:capital": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "대한민국의 수도는 어디입니까? 도시 이름만 답하세요.",
+        "question_id": "capital",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:currency-unit": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "대한민국의 공식 화폐 단위는 무엇입니까?",
+        "question_id": "currency-unit",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:dokdo-province": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "독도는 행정구역상 어느 광역자치단체(도)에 속합니까?",
+        "question_id": "dokdo-province",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:first-president": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "대한민국의 초대 대통령은 누구입니까? 이름만 답하세요.",
+        "question_id": "first-president",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:gov-year": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "대한민국 정부가 공식 수립된 연도는 몇 년입니까? 연도만 답하세요.",
+        "question_id": "gov-year",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:han-river": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "서울을 동서로 가로지르는 강의 이름은 무엇입니까?",
+        "question_id": "han-river",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:hangul-creator": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "훈민정음(한글)을 창제한 조선의 왕은 누구입니까?",
+        "question_id": "hangul-creator",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:hangul-day": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "한글날은 매년 몇 월 며칠입니까?",
+        "question_id": "hangul-day",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:highest-mountain": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "남한(대한민국)에서 가장 높은 산은 무엇입니까?",
+        "question_id": "highest-mountain",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:joseon-founder": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "조선을 건국한 왕(태조)은 누구입니까? 이름만 답하세요.",
+        "question_id": "joseon-founder",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:kimchi": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "배추 등을 양념해 발효시킨 한국의 대표 음식은 무엇입니까?",
+        "question_id": "kimchi",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:korean-war-year": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "6·25 전쟁(한국전쟁)이 발발한 연도는 몇 년입니까? 연도만 답하세요.",
+        "question_id": "korean-war-year",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:largest-island": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "대한민국에서 가장 큰 섬은 무엇입니까?",
+        "question_id": "largest-island",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:main-palace": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "조선 왕조의 정궁(법궁)으로, 광화문 뒤에 있는 궁궐은 무엇입니까?",
+        "question_id": "main-palace",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:national-flower": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "대한민국의 나라꽃(국화)은 무엇입니까?",
+        "question_id": "national-flower",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:second-city": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "대한민국에서 인구가 두 번째로 많은 도시는 어디입니까?",
+        "question_id": "second-city",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:seoul-olympic": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "1988년 하계 올림픽이 개최된 도시는 어디입니까?",
+        "question_id": "seoul-olympic",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:sungnyemun": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "서울의 숭례문을 부르는 다른 이름(속칭)은 무엇입니까?",
+        "question_id": "sungnyemun",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:taegeuk": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "태극기 한가운데에 있는 원(음양 무늬)의 이름은 무엇입니까?",
+        "question_id": "taegeuk",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    },
+    "capsule:claude-opus-4-8:utc-offset": {
+      "fields": {
+        "correct": true,
+        "model": "claude-opus-4-8",
+        "question": "대한민국 표준시(KST)는 UTC보다 몇 시간 빠릅니까?",
+        "question_id": "utc-offset",
+        "vendor": "anthropic"
+      },
+      "source_url": "https://api.anthropic.com/v1/messages"
+    }
+  },
+  "source_id": "llm-korea-capsule",
+  "updated_at": "2026-07-13T08:46:34.629Z"
+}
