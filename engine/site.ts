@@ -17,9 +17,13 @@ import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseArgs } from "node:util";
 import YAML from "yaml";
+import { type AggregateEntry, buildAggregateFeed } from "./aggregate.js";
 import { collectStatus } from "./status.js";
 import { readChangeLines, sourcePaths } from "./store.js";
 import { RECORD_FIELD, type ChangeEvent } from "./types.js";
+import { renderVerifyPage } from "./verify-page.js";
+
+const AGG_PER_SOURCE = 20; // 소스별 최근 이벤트 상한 — 한 고빈도 소스가 통합 피드를 잠식하지 않게
 
 const RECENT_EVENTS = 6;
 
@@ -124,7 +128,7 @@ function renderSourceCard(source: SiteSource, repo: string): string {
   <div class="muted">최신 관측 ${escapeHtml(source.updatedAt)}</div>
   ${renderEvents(source.recent)}
   <nav class="links">
-    <a href="${blob}/changes.jsonl">원장</a><a href="${blob}/latest.json">현재 상태</a><a href="${blob}/feed.xml">피드</a><a href="${blob}/integrity.json">체인</a>${source.anchors > 0 ? `<a href="https://github.com/${repo}/tree/main/data/${source.id}/anchors">앵커 증서</a>` : ""}
+    <a href="./verify.html?source=${escapeHtml(source.id)}">✓ 검증</a><a href="${blob}/changes.jsonl">원장</a><a href="${blob}/latest.json">현재 상태</a><a href="${blob}/feed.xml">피드</a><a href="${blob}/integrity.json">체인</a>${source.anchors > 0 ? `<a href="https://github.com/${repo}/tree/main/data/${source.id}/anchors">앵커 증서</a>` : ""}
   </nav>
 </article>`;
 }
@@ -277,8 +281,20 @@ ${renderJsonLd(sources, repo)}
 <div class="section"><span class="en">Live Sources</span><h2>가동 소스</h2></div>
 ${cards}
 
+<div class="section"><span class="en">Consume</span><h2>구독 · 질의 · 리포트</h2></div>
+<p class="note">흩어진 ${sources.length}개 원장이 아니라 <b>하나의 자산</b> — 전 소스를 한 번에 구독·질의·요약한다.</p>
+<nav class="links">
+  <a href="./feed.xml">통합 인텔리전스 피드 (Atom)</a>
+  <a href="./digest.html">주간 다이제스트</a>
+  <a href="./status.json">기계 매니페스트 (status.json)</a>
+  <a href="./llms.txt">llms.txt</a>
+</nav>
+<p class="note">에이전트는 떠가지 않고 <b>질의</b>한다 — MCP 서버(chronicle-mcp)로 엔티티 이력·변경 스트림·체인 검증을 호출한다.
+<code>npx tsx mcp/server.ts</code> · 도구: list_sources · get_history · get_changes · verify_source</p>
+
 <div class="section"><span class="en">Verify</span><h2>직접 검증하기</h2></div>
-<p class="note">이 원장은 신뢰를 요구하지 않는다 — 아래 두 단계로 누구나 재계산할 수 있다.</p>
+<p class="note">이 원장은 신뢰를 요구하지 않는다 — <a href="./verify.html"><b>브라우저에서 클릭 한 번으로 재검증 →</b></a>
+당신의 브라우저가 공개 원장을 받아 제네시스부터 해시체인을 다시 계산한다(무설치·무신뢰). 또는 로컬에서:</p>
 <pre>git clone https://github.com/${escapeHtml(repo)}.git &amp;&amp; cd ${escapeHtml(repo.split("/")[1] ?? "repo")}
 npm ci &amp;&amp; npm run verify -- --all     # 전 소스 해시체인을 제네시스부터 전수 재계산</pre>
 <p class="note">외부 앵커(제3자 공증)는 openssl만으로 검증된다 — 리포 소유자도 위조할 수 없는 층.</p>
@@ -310,6 +326,19 @@ export function renderLlms(sources: SiteSource[], repo: string): string {
     "Contract: one line of changes.jsonl = {observed_at, entity_id, field, before, after,",
     "source_url, content_hash, chain_hash}. Record creation/deletion uses field=__record__.",
     "Raw responses are preserved verbatim under snapshots/.",
+    "",
+    "## Aggregate surfaces (all sources at once)",
+    "",
+    `- unified feed (Atom, newest first, source-tagged): https://raw.githubusercontent.com/${repo}/main/docs/feed.xml`,
+    `- weekly digest (vanished/edited highlights): https://raw.githubusercontent.com/${repo}/main/docs/digest.md`,
+    `- machine manifest (source list + stats): https://raw.githubusercontent.com/${repo}/main/docs/status.json`,
+    "",
+    "## Query instead of scrape (MCP)",
+    "",
+    "chronicle-mcp is a stdio JSON-RPC 2.0 server — agents call it rather than crawling the ledger.",
+    "Tools: list_sources · get_record(source, entity_id) · get_history(source, entity_id) ·",
+    "get_changes(source, since?, until?, field?, limit?) · verify_source(source).",
+    `Run: \`npx tsx mcp/server.ts\` (set CHRONICLE_REPO=${repo} to query the public ledger remotely).`,
     "",
     "## Sources",
     "",
@@ -363,6 +392,21 @@ export function writeSite(root: string, dataDir: string, repo: string): { htmlPa
       2,
     )}\n`,
   );
+  // 통합 인텔리전스 피드 — 전 소스를 하나의 구독 가능한 Atom 스트림으로.
+  const aggEntries: AggregateEntry[] = [];
+  for (const source of sources) {
+    const lines = readChangeLines(sourcePaths(dataDir, source.id));
+    for (const line of lines.slice(-AGG_PER_SOURCE)) {
+      try {
+        aggEntries.push({ sourceId: source.id, title: source.title, event: JSON.parse(line) as ChangeEvent });
+      } catch {
+        /* 손상 라인은 건너뜀 (무결성 검증은 verify가 담당) */
+      }
+    }
+  }
+  writeFileSync(join(docsDir, "feed.xml"), buildAggregateFeed(repo, aggEntries));
+  // 공개 검증 페이지 — 방문자 브라우저가 Web Crypto로 원장을 직접 재검증(무설치·무신뢰).
+  writeFileSync(join(docsDir, "verify.html"), renderVerifyPage(repo));
   // GitHub Pages의 Jekyll 처리를 통째로 우회 — 우리는 완성된 정적 파일만 서빙한다
   writeFileSync(join(docsDir, ".nojekyll"), "");
   return { htmlPath, llmsPath };
