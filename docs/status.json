@@ -12,11 +12,11 @@
   {
     "source_id": "ai-jobs-ledger",
     "title": "AI 랩 채용 원장 — 직무·팀·지역 (글로벌)",
-    "records": 2474,
-    "events": 2474,
-    "chain_head": "58c2e02f057ecc777e1edaae1b72802d8b5222b14f4506497583a63f0aca77c1",
-    "updated_at": "2026-07-13T22:39:03.847Z",
-    "anchors": 1,
+    "records": 2471,
+    "events": 2558,
+    "chain_head": "c7be60a57bb679860ca5a6af3fdaa23f080d6a75f8cd99c89acc2edb16e3feff",
+    "updated_at": "2026-07-14T22:40:11.078Z",
+    "anchors": 2,
     "head_anchored": true
   },
   {
@@ -40,6 +40,16 @@
     "head_anchored": true
   },
   {
+    "source_id": "commitments-watch",
+    "title": "기업 약속 diff — AI 사용정책·원칙·안전 프레임워크",
+    "records": 8,
+    "events": 10,
+    "chain_head": "d2bc24ef34d9ed992ba18abf21ed0d65ba880d9947c5708ac4449398b2561f16",
+    "updated_at": "2026-07-15T00:32:29.857Z",
+    "anchors": 2,
+    "head_anchored": true
+  },
+  {
     "source_id": "compute-price-index",
     "title": "컴퓨트 가격 지수 — AWS 스팟 GPU 절감률·중단위험",
     "records": 227,
@@ -53,10 +63,10 @@
     "source_id": "consent-census",
     "title": "Agent-Web 동의 센서스 — robots.txt·llms.txt",
     "records": 65,
-    "events": 65,
-    "chain_head": "a883bae1ae2746fbc1859407db3a00f2577b90c6c68d8c9dcc8f55c1e8cd48ed",
-    "updated_at": "2026-07-13T21:30:57.478Z",
-    "anchors": 1,
+    "events": 67,
+    "chain_head": "0c96046fad60740829b3f84a779ebc49eaf61b32b7bff6ef3b4e592d0bc2d473",
+    "updated_at": "2026-07-14T21:32:32.842Z",
+    "anchors": 2,
     "head_anchored": true
   },
   {
@@ -72,11 +82,11 @@
   {
     "source_id": "deal-audit-ledger",
     "title": "실거래 취소·정정 원장 — 아파트 매매 (서울)",
-    "records": 33931,
-    "events": 34782,
-    "chain_head": "512f5214ed08ec66ff34a9e9285c35c9be81f568decba7f9b0f2bac48aa3c8db",
-    "updated_at": "2026-07-13T23:22:06.794Z",
-    "anchors": 4,
+    "records": 34345,
+    "events": 35287,
+    "chain_head": "5a1830a6626adcb4fca47cd9361ebc106da79f602a51ec35b315c6c33ad9cb10",
+    "updated_at": "2026-07-14T23:22:28.831Z",
+    "anchors": 5,
     "head_anchored": true
   },
   {

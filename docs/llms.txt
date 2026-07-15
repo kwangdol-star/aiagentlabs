@@ -18,7 +18,7 @@ Raw responses are preserved verbatim under snapshots/.
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/agent-commerce-census/feed.xml
 
 ### ai-jobs-ledger — AI 랩 채용 원장 — 직무·팀·지역 (글로벌)
-- events: 2474, records: 2474, last observed: 2026-07-13T22:39:03.847Z
+- events: 2558, records: 2471, last observed: 2026-07-14T22:40:11.078Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-jobs-ledger/changes.jsonl
 - current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-jobs-ledger/latest.json
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/ai-jobs-ledger/integrity.json
@@ -38,6 +38,13 @@ Raw responses are preserved verbatim under snapshots/.
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/bunyang-capsule/integrity.json
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/bunyang-capsule/feed.xml
 
+### commitments-watch — 기업 약속 diff — AI 사용정책·원칙·안전 프레임워크
+- events: 10, records: 8, last observed: 2026-07-15T00:32:29.857Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/commitments-watch/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/commitments-watch/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/commitments-watch/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/commitments-watch/feed.xml
+
 ### compute-price-index — 컴퓨트 가격 지수 — AWS 스팟 GPU 절감률·중단위험
 - events: 227, records: 227, last observed: 2026-07-10T09:06:12.178Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/compute-price-index/changes.jsonl
@@ -46,7 +53,7 @@ Raw responses are preserved verbatim under snapshots/.
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/compute-price-index/feed.xml
 
 ### consent-census — Agent-Web 동의 센서스 — robots.txt·llms.txt
-- events: 65, records: 65, last observed: 2026-07-13T21:30:57.478Z
+- events: 67, records: 65, last observed: 2026-07-14T21:32:32.842Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/consent-census/changes.jsonl
 - current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/consent-census/latest.json
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/consent-census/integrity.json
@@ -60,7 +67,7 @@ Raw responses are preserved verbatim under snapshots/.
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/datago-watch/feed.xml
 
 ### deal-audit-ledger — 실거래 취소·정정 원장 — 아파트 매매 (서울)
-- events: 34782, records: 33931, last observed: 2026-07-13T23:22:06.794Z
+- events: 35287, records: 34345, last observed: 2026-07-14T23:22:28.831Z
 - ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/deal-audit-ledger/changes.jsonl
 - current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/deal-audit-ledger/latest.json
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/deal-audit-ledger/integrity.json

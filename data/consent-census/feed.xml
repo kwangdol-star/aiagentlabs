@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-07-13T21:30:57.478Z</updated>
+  <updated>2026-07-14T21:32:32.842Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:0c96046fad60740829b3f84a779ebc49eaf61b32b7bff6ef3b4e592d0bc2d473</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-07-14T21:32:32.842Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;0d134bddfe176a2e340d5107ee2823ebd4d2df55792b337a0e0a4cec987cf1ae&quot;,&quot;before&quot;:&quot;6a266b56e501f5484bc0f7a434324b6c29b44bdb98f107540b144bb9ba64bfb0&quot;,&quot;chain_hash&quot;:&quot;0c96046fad60740829b3f84a779ebc49eaf61b32b7bff6ef3b4e592d0bc2d473&quot;,&quot;content_hash&quot;:&quot;358b05dbfcce045dadea9f6b597c0578a78865f46ddc69b1caafc75daac0c4aa&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-14T21:32:32.842Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:1d007cc69f8be0d5f4e9ad3638cac476510bc05b888f6982edd9ba813b19d753</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-07-14T21:32:32.842Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:683446,&quot;before&quot;:686245,&quot;chain_hash&quot;:&quot;1d007cc69f8be0d5f4e9ad3638cac476510bc05b888f6982edd9ba813b19d753&quot;,&quot;content_hash&quot;:&quot;e91e36a3763f3e68de2736477e77d30b619909073a922c1be60158910fb97837&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-14T21:32:32.842Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:a883bae1ae2746fbc1859407db3a00f2577b90c6c68d8c9dcc8f55c1e8cd48ed</id>
     <title>[신규] probe:yna.co.kr:robots-txt</title>
@@ -339,19 +353,5 @@
     <updated>2026-07-13T21:30:57.478Z</updated>
     <link href="https://donga.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:{&quot;body&quot;:&quot;User-agent: *\r\nAllow: /news/Sports/article/\r\nDisallow: /search\r\nDisallow: /news/search\r\nDisallow: /news/View\r\nDisallow: /news/dongaars\r\nDisallow: /NEWS\r\nDisallow: /HUB\r\nDisallow: /VOICE\r\nDisallow: /ISSUE\r\nDisallow: /BIZN\r\nDisallow: /STUDIO\r\nDisallow: /SPORTS\r\nDisallow: /VODA\r\nDisallow: /WEEKLY\r\nDisallow: /WOMAN\r\nDisallow: /SHINDONGA\r\n\r\n#DaumWebMasterTool:6af926b3c34377464b5bd427ad530c7c714d0d5950fa49080ae66373d9c6e7cb:xUUuR78FZ7e9iXukGuOVLQ==\r\n\r\nSitemap: https://www.donga.com/sitemap/donga-newsmap.xml\r\nSitemap: https://image.donga.com/sitemap/donga-sitemap.xml\r\nSitemap: https://www.donga.com/sitemap/foreign-newsmap.xml\r\nSitemap: https://image.donga.com/sitemap/foreign-sitemap.xml&quot;,&quot;body_bytes&quot;:688,&quot;body_sha256&quot;:&quot;3c2909685781539d6b96cfa91b5b55ef4f7d5d84045e7d0427bf113ab7ced362&quot;,&quot;bot:Amazonbot&quot;:&quot;absent&quot;,&quot;bot:Applebot-Extended&quot;:&quot;absent&quot;,&quot;bot:Bytespider&quot;:&quot;absent&quot;,&quot;bot:CCBot&quot;:&quot;absent&quot;,&quot;bot:ChatGPT-User&quot;:&quot;absent&quot;,&quot;bot:ClaudeBot&quot;:&quot;absent&quot;,&quot;bot:GPTBot&quot;:&quot;absent&quot;,&quot;bot:Google-Extended&quot;:&quot;absent&quot;,&quot;bot:OAI-SearchBot&quot;:&quot;absent&quot;,&quot;bot:PerplexityBot&quot;:&quot;absent&quot;,&quot;bot:anthropic-ai&quot;:&quot;absent&quot;,&quot;bot:meta-externalagent&quot;:&quot;absent&quot;,&quot;content_type&quot;:&quot;text/plain;charset=UTF-8&quot;,&quot;status&quot;:200},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;69d8ae3adb7b3639edfa5a4984512ff6d1145572282dfc1e38917b9465002d1a&quot;,&quot;content_hash&quot;:&quot;ef150d11f1c687b892b5ae33de73b527ce551f587456764b94b8b257d08e8645&quot;,&quot;entity_id&quot;:&quot;probe:donga.com:robots-txt&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-13T21:30:57.478Z&quot;,&quot;source_url&quot;:&quot;https://donga.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:5fcb9a2656d7038fdbad7615e9133b0ebe34b306ed1a050f65fae1c98fef8f96</id>
-    <title>[신규] probe:donga.com:llms-txt</title>
-    <updated>2026-07-13T21:30:57.478Z</updated>
-    <link href="https://donga.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:{&quot;status&quot;:404},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;5fcb9a2656d7038fdbad7615e9133b0ebe34b306ed1a050f65fae1c98fef8f96&quot;,&quot;content_hash&quot;:&quot;73df840df4e4e3c4cdbecc9e82a9876d33ac4d85946ce2dd9d2c7c745001fcfd&quot;,&quot;entity_id&quot;:&quot;probe:donga.com:llms-txt&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-13T21:30:57.478Z&quot;,&quot;source_url&quot;:&quot;https://donga.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:17374da0cd7a00ec5ead40da7766c00d7b9b6737b614c622eb51cf043efd9dd9</id>
-    <title>[신규] probe:daum.net:robots-txt</title>
-    <updated>2026-07-13T21:30:57.478Z</updated>
-    <link href="https://daum.net/robots.txt"/>
-    <content type="text">{&quot;after&quot;:{&quot;body&quot;:&quot;User-agent: GoogleOther\nDisallow: /\nAllow :  /.well-known/privacy-sandbox-attestations.json\n\nUser-agent: *\nDisallow: /\nAllow : /$\nAllow : /ads.txt\nAllow : /app-ads.txt&quot;,&quot;body_bytes&quot;:167,&quot;body_sha256&quot;:&quot;3bc0353303e9a681e0d57b23ab9e4ebf63f94d35df5cd497d7fe634c97ede919&quot;,&quot;bot:Amazonbot&quot;:&quot;absent&quot;,&quot;bot:Applebot-Extended&quot;:&quot;absent&quot;,&quot;bot:Bytespider&quot;:&quot;absent&quot;,&quot;bot:CCBot&quot;:&quot;absent&quot;,&quot;bot:ChatGPT-User&quot;:&quot;absent&quot;,&quot;bot:ClaudeBot&quot;:&quot;absent&quot;,&quot;bot:GPTBot&quot;:&quot;absent&quot;,&quot;bot:Google-Extended&quot;:&quot;absent&quot;,&quot;bot:OAI-SearchBot&quot;:&quot;absent&quot;,&quot;bot:PerplexityBot&quot;:&quot;absent&quot;,&quot;bot:anthropic-ai&quot;:&quot;absent&quot;,&quot;bot:meta-externalagent&quot;:&quot;absent&quot;,&quot;content_type&quot;:&quot;text/plain&quot;,&quot;status&quot;:200},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;17374da0cd7a00ec5ead40da7766c00d7b9b6737b614c622eb51cf043efd9dd9&quot;,&quot;content_hash&quot;:&quot;5e5634f2d42712b7265d43fb5774161286d2c9990011923588945d6e05458450&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:robots-txt&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-13T21:30:57.478Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/robots.txt&quot;}</content>
   </entry>
 </feed>
