@@ -1,63 +1,81 @@
-# Chronicle 다이제스트 — 2026-07-14
+# Chronicle 다이제스트 — 2026-07-15
 
-> 최근 30일(2026-06-14~) 관측. 시간해자 아카이브의 축적물 요약.
+> 최근 30일(2026-06-15~) 관측. 시간해자 아카이브의 축적물 요약.
 
 ## 한눈에
-- 소스 **10개** · 추적 엔티티 **38,398** · 원장 총 이벤트 **39,273** · 체인 총 길이 **39,273**
-- 이번 기간: 소멸 **9** · 수정 **857** · 신규 **38,407**
-- **3중 공증**: 해시체인 10/10 소스 봉인 · git 히스토리 · TSA 외부앵커 **10/10** 머리 고정
+- 소스 **11개** · 추적 엔티티 **38,817** · 원장 총 이벤트 **39,872** · 체인 총 길이 **39,872**
+- 이번 기간: 소멸 **49** · 수정 **957** · 신규 **38,866**
+- **3중 공증**: 해시체인 11/11 소스 봉인 · git 히스토리 · TSA 외부앵커 **11/11** 머리 고정
 
 ## 사라진 것 — 소멸 (지금 찍은 자만 소유)
-- `deal-audit-ledger` **deal:11140:20260315:순화동:217:덕수궁롯데캐슬:69.5135:7:139000** — {"LAWD_CD":"11140","_chronicle_window_date":"2026-03-15","aptDong":"","aptNm":"덕수궁롯데캐슬","aptSeq":"11140-1277","bonbun":"0217","bubun":"0000"… _(2026-07-12)_
-- `deal-audit-ledger` **deal:11200:20260410:성수동2가:320-2:이화101동:89.81:3:124000** — {"LAWD_CD":"11200","_chronicle_window_date":"2026-04-10","aptDong":"","aptNm":"이화101동","aptSeq":"11200-153","bonbun":"0320","bubun":"0002","… _(2026-07-12)_
-- `deal-audit-ledger` **deal:11620:20260706:신림동:1421-1:신림큐브:12.395:10:10950** — {"LAWD_CD":"11620","_chronicle_window_date":"2026-07-06","aptDong":"","aptNm":"신림큐브","aptSeq":"11620-5276","bonbun":"1421","bubun":"0001","b… _(2026-07-12)_
-- `deal-audit-ledger` **deal:11710:20260316:잠실동:40:갤러리아팰리스:163.935:24:355000** — {"LAWD_CD":"11710","_chronicle_window_date":"2026-03-16","aptDong":"","aptNm":"갤러리아팰리스","aptSeq":"11710-281","bonbun":"0040","bubun":"0000",… _(2026-07-12)_
-- `deal-audit-ledger` **deal:11110:20260422:효제동:65-2:포레스트힐시티:16.672:9:15000** — {"LAWD_CD":"11110","_chronicle_window_date":"2026-04-22","aptDong":"","aptNm":"포레스트힐시티","aptSeq":"11110-2440","bonbun":"0065","bubun":"0002"… _(2026-07-11)_
-- `deal-audit-ledger` **deal:11290:20260516:장위동:8-2:석계역한일노벨리아시티:14.7145:6:10000** — {"LAWD_CD":"11290","_chronicle_window_date":"2026-05-16","aptDong":"","aptNm":"석계역한일노벨리아시티","aptSeq":"11290-4854","bonbun":"0008","bubun":"0… _(2026-07-11)_
-- `deal-audit-ledger` **deal:11290:20260516:장위동:8-2:석계역한일노벨리아시티:14.7145:7:10000** — {"LAWD_CD":"11290","_chronicle_window_date":"2026-05-16","aptDong":"","aptNm":"석계역한일노벨리아시티","aptSeq":"11290-4854","bonbun":"0008","bubun":"0… _(2026-07-11)_
-- `deal-audit-ledger` **deal:11680:20260428:역삼동:905:역삼센트럴아파트:48.03:7:70000** — {"LAWD_CD":"11680","_chronicle_window_date":"2026-04-28","aptDong":"","aptNm":"역삼센트럴아파트","aptSeq":"11680-6668","bonbun":"0905","bubun":"0000… _(2026-07-11)_
-- `deal-audit-ledger` **deal:11140:20260701:신당동:432-1132:태원팰리스5차(432-1132):84.15:2:75000** — {"LAWD_CD":"11140","_chronicle_window_date":"2026-07-01","aptDong":"","aptNm":"태원팰리스5차(432-1132)","aptSeq":"11140-1003","bonbun":"0432","bub… _(2026-07-10)_
+- `deal-audit-ledger` **deal:11170:20260519:한남동:72-1:한남동리첸시아:37.53:11:64300** — {"LAWD_CD":"11170","_chronicle_window_date":"2026-05-19","aptDong":"","aptNm":"한남동리첸시아","aptSeq":"11170-184","bonbun":"0072","bubun":"0001",… _(2026-07-14)_
+- `deal-audit-ledger` **deal:11590:20260407:신대방동:708:해태보라매타워:59.94:16:64800** — {"LAWD_CD":"11590","_chronicle_window_date":"2026-04-07","aptDong":"","aptNm":"해태보라매타워","aptSeq":"11590-3324","bonbun":"0708","bubun":"0000"… _(2026-07-14)_
+- `ai-jobs-ledger` **job:anthropic:5107489008** — Finance & Strategy, Datacenter FP&A _(2026-07-14)_
+- `ai-jobs-ledger` **job:anthropic:5221914008** — Senior Account Executive, Beneficial Deployments  _(2026-07-14)_
+- `ai-jobs-ledger` **job:anthropic:5222180008** — Account Executive - ASEAN _(2026-07-14)_
+- `ai-jobs-ledger` **job:anthropic:5263529008** — Head of Social Communications  _(2026-07-14)_
+- `ai-jobs-ledger` **job:anthropic:5284500008** — Strategy & Operations, Applied AI - AMER _(2026-07-14)_
+- `ai-jobs-ledger` **job:anthropic:5286493008** — Engineering Manager, Data Architecture _(2026-07-14)_
+- `ai-jobs-ledger` **job:cohere:013d4545-8343-40f1-9de5-9fdc0f0dd5bb** — Manager of Technical Staff, Sovereign AI _(2026-07-14)_
+- `ai-jobs-ledger` **job:databricks:8114836002** — Staff Forward Deployment Engineer _(2026-07-14)_
+- `ai-jobs-ledger` **job:databricks:8297797002** — Senior GenAI Research Engineer - Optimization and Kernels _(2026-07-14)_
+- `ai-jobs-ledger` **job:databricks:8345599002** — Named Enterprise Account Executive, FSI _(2026-07-14)_
+- `ai-jobs-ledger` **job:databricks:8407031002** — Staff Platform Monitoring Engineer _(2026-07-14)_
+- `ai-jobs-ledger` **job:databricks:8421122002** — Sr. Technical Solutions Engineer, Platform _(2026-07-14)_
+- `ai-jobs-ledger` **job:databricks:8432348002** — Solutions Architect, Hunter - Digital Native Business _(2026-07-14)_
+- `ai-jobs-ledger` **job:databricks:8455750002** — Sr. Solutions Engineer _(2026-07-14)_
+- `ai-jobs-ledger` **job:databricks:8479022002** — Chief of Staff, to the CPO _(2026-07-14)_
+- `ai-jobs-ledger` **job:databricks:8535421002** — Technical Program Manager _(2026-07-14)_
+- `ai-jobs-ledger` **job:databricks:8563183002** — Sr. Solutions Engineer - AI Natives Business _(2026-07-14)_
+- `ai-jobs-ledger` **job:databricks:8605164002** — Sr. Field Technical Program Manager _(2026-07-14)_
+- `ai-jobs-ledger` **job:databricks:8609899002** — Sr. Sourcer, Tech [Maternity Cover] _(2026-07-14)_
+- `ai-jobs-ledger` **job:databricks:8625462002** — Applied AI Engineer, Learning Intelligence _(2026-07-14)_
+- `ai-jobs-ledger` **job:elevenlabs:68a1ad0b-d74e-4ebe-b6d0-877c53c9df7f** — Account Executive - North America - Enterprise (Government) _(2026-07-14)_
+- `ai-jobs-ledger` **job:openai:04a780c7-f672-43d1-9e73-37ce17b82403** — Lead Industrial Designer, Robotics _(2026-07-14)_
+- `ai-jobs-ledger` **job:openai:11a61b5b-3c1f-472f-93ec-4cb3e37e5ae8** — Product Manager, Families _(2026-07-14)_
+- …외 24건 더 (원장 changes.jsonl에 전량 보존)
 
 ## 바뀐 것 — 조용한 수정
-- `deal-audit-ledger` **deal:11170:20260612:효창동:5-145:효창한신:71.77:1:153000** · cdealDay:  → 26.07.13 _(2026-07-13)_
-- `deal-audit-ledger` **deal:11170:20260612:효창동:5-145:효창한신:71.77:1:153000** · cdealType:  → O _(2026-07-13)_
-- `deal-audit-ledger` **deal:11170:20260707:이촌동:412:이촌코오롱(A):59.82:10:205000** · cdealDay: 26.07.10 →  _(2026-07-13)_
-- `deal-audit-ledger` **deal:11170:20260707:이촌동:412:이촌코오롱(A):59.82:10:205000** · cdealType: O →  _(2026-07-13)_
-- `deal-audit-ledger` **deal:11200:20260406:성수동1가:721:서울숲아이파크리버포레1차:59.9304:25:274000** · aptDong: 101 →  _(2026-07-13)_
-- `deal-audit-ledger` **deal:11200:20260406:성수동1가:721:서울숲아이파크리버포레1차:59.9304:25:274000** · rgstDate: 26.06.30 →  _(2026-07-13)_
-- `deal-audit-ledger` **deal:11230:20260413:제기동:1212:한신아파트:59.84:14:103000** · cdealDay: 26.07.11 →  _(2026-07-13)_
-- `deal-audit-ledger` **deal:11230:20260413:제기동:1212:한신아파트:59.84:14:103000** · cdealType: O →  _(2026-07-13)_
-- `deal-audit-ledger` **deal:11260:20260505:면목동:715:늘푸른동아:84.97:19:83000** · estateAgentSggNm: 서울 중랑구 → 서울 동대문구 _(2026-07-13)_
-- `deal-audit-ledger` **deal:11260:20260616:망우동:226:경남:52.71:3:35000** · cdealDay:  → 26.07.13 _(2026-07-13)_
-- `deal-audit-ledger` **deal:11260:20260616:망우동:226:경남:52.71:3:35000** · cdealType:  → O _(2026-07-13)_
-- `deal-audit-ledger` **deal:11260:20260622:면목동:1545:사가정센트럴아이파크:84.87:14:149000** · cdealDay:  → 26.07.13 _(2026-07-13)_
-- `deal-audit-ledger` **deal:11260:20260622:면목동:1545:사가정센트럴아이파크:84.87:14:149000** · cdealType:  → O _(2026-07-13)_
-- `deal-audit-ledger` **deal:11290:20260328:하월곡동:219:동신:59.88:15:73000** · aptDong:  → 101 _(2026-07-13)_
-- `deal-audit-ledger` **deal:11290:20260328:하월곡동:219:동신:59.88:15:73000** · rgstDate:  → 26.06.10 _(2026-07-13)_
-- `deal-audit-ledger` **deal:11320:20260615:쌍문동:388-33:한양1:66.33:2:66900** · cdealDay:  → 26.07.13 _(2026-07-13)_
-- `deal-audit-ledger` **deal:11320:20260615:쌍문동:388-33:한양1:66.33:2:66900** · cdealType:  → O _(2026-07-13)_
-- `deal-audit-ledger` **deal:11470:20260614:신월동:1076:목동센트럴아이파크위브2단지:59.88:4:122500** · cdealDay:  → 26.07.13 _(2026-07-13)_
-- `deal-audit-ledger` **deal:11470:20260614:신월동:1076:목동센트럴아이파크위브2단지:59.88:4:122500** · cdealType:  → O _(2026-07-13)_
-- `deal-audit-ledger` **deal:11530:20260411:개봉동:481:현대:114.99:11:94000** · cdealDay: 26.07.10 →  _(2026-07-13)_
-- `deal-audit-ledger` **deal:11530:20260411:개봉동:481:현대:114.99:11:94000** · cdealType: O →  _(2026-07-13)_
-- `deal-audit-ledger` **deal:11530:20260520:신도림동:312-17:우성1:73.18:9:114000** · cdealDay:  → 26.07.13 _(2026-07-13)_
-- `deal-audit-ledger` **deal:11530:20260520:신도림동:312-17:우성1:73.18:9:114000** · cdealType:  → O _(2026-07-13)_
-- `deal-audit-ledger` **deal:11560:20260402:당산동4가:92:현대2:62.6:11:109500** · cdealDay:  → 26.06.11 _(2026-07-13)_
-- `deal-audit-ledger` **deal:11560:20260402:당산동4가:92:현대2:62.6:11:109500** · cdealType:  → O _(2026-07-13)_
-- …외 832건 더 (원장 changes.jsonl에 전량 보존)
+- `deal-audit-ledger` **deal:11110:20260404:교북동:126:경희궁자이(4단지):37.2635:8:99700** · cdealDay:  → 26.07.14 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11110:20260404:교북동:126:경희궁자이(4단지):37.2635:8:99700** · cdealType:  → O _(2026-07-14)_
+- `deal-audit-ledger` **deal:11200:20260406:성수동1가:721:서울숲아이파크리버포레1차:59.9304:25:274000** · aptDong:  → 101 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11200:20260406:성수동1가:721:서울숲아이파크리버포레1차:59.9304:25:274000** · rgstDate:  → 26.06.30 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11200:20260528:옥수동:561:래미안옥수리버젠:59.25:14:216000** · cdealDay:  → 26.07.14 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11200:20260528:옥수동:561:래미안옥수리버젠:59.25:14:216000** · cdealType:  → O _(2026-07-14)_
+- `deal-audit-ledger` **deal:11215:20260617:구의동:656:새한:84.91:2:130000** · cdealDay:  → 26.07.13 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11215:20260617:구의동:656:새한:84.91:2:130000** · cdealType:  → O _(2026-07-14)_
+- `deal-audit-ledger` **deal:11230:20260404:이문동:225:대림e-편한세상:84.972:13:117000** · aptDong:  → 118 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11230:20260404:이문동:225:대림e-편한세상:84.972:13:117000** · rgstDate:  → 26.07.09 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11260:20260401:상봉동:128-10:SG타워:84.92:4:57500** · rgstDate:  → 26.07.10 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11260:20260422:중화동:450:한신아파트상가동유치원동(103~109):59.76:15:86000** · aptDong:  → 101 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11260:20260422:중화동:450:한신아파트상가동유치원동(103~109):59.76:15:86000** · rgstDate:  → 26.07.10 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11260:20260424:중화동:450:한신아파트상가동유치원동(103~109):59.76:18:82500** · aptDong:  → 105 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11260:20260424:중화동:450:한신아파트상가동유치원동(103~109):59.76:18:82500** · rgstDate:  → 26.07.10 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11260:20260501:묵동:381:신안1:84.99:6:71300** · aptDong:  → 102 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11260:20260501:묵동:381:신안1:84.99:6:71300** · rgstDate:  → 26.07.10 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11260:20260505:면목동:715:늘푸른동아:84.97:19:83000** · aptDong:  → 102 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11260:20260505:면목동:715:늘푸른동아:84.97:19:83000** · rgstDate:  → 26.07.10 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11260:20260622:면목동:1545:사가정센트럴아이파크:84.87:14:149000** · cdealDay: 26.07.13 →  _(2026-07-14)_
+- `deal-audit-ledger` **deal:11260:20260622:면목동:1545:사가정센트럴아이파크:84.87:14:149000** · cdealType: O →  _(2026-07-14)_
+- `deal-audit-ledger` **deal:11290:20260314:돈암동:644:돈암코오롱하늘채:84.9594:10:117500** · aptDong:  → 103 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11290:20260314:돈암동:644:돈암코오롱하늘채:84.9594:10:117500** · rgstDate:  → 26.07.09 _(2026-07-14)_
+- `deal-audit-ledger` **deal:11290:20260314:돈암동:644:돈암코오롱하늘채:84.9594:10:117500** · roadNmbCd: 0 →  _(2026-07-14)_
+- `deal-audit-ledger` **deal:11290:20260319:동소문동7가:120:브라운스톤동선:59.96:9:89500** · aptDong:  → 101 _(2026-07-14)_
+- …외 932건 더 (원장 changes.jsonl에 전량 보존)
 
 ## 소스별 현황
 | 소스 | 엔티티 | 체인 | 최신 | 앵커 | 신규 | 소멸 | 수정 |
 | --- | ---: | ---: | --- | :---: | ---: | ---: | ---: |
 | agent-commerce-census | 96 | 96 | 2026-07-13 | ⚓ | 96 | 0 | 0 |
-| ai-jobs-ledger | 2,474 | 2,474 | 2026-07-13 | ⚓ | 2,474 | 0 | 0 |
+| ai-jobs-ledger | 2,471 | 2,558 | 2026-07-14 | ⚓ | 2,509 | 38 | 11 |
 | ai-vendor-ledger | 345 | 345 | 2026-07-13 | ⚓ | 345 | 0 | 0 |
 | bunyang-capsule | 1,209 | 1,209 | 2026-07-10 | ⚓ | 1,209 | 0 | 0 |
+| commitments-watch | 8 | 8 | 2026-07-14 | ⚓ | 8 | 0 | 0 |
 | compute-price-index | 227 | 227 | 2026-07-10 | ⚓ | 227 | 0 | 0 |
-| consent-census | 65 | 65 | 2026-07-13 | ⚓ | 65 | 0 | 0 |
+| consent-census | 65 | 67 | 2026-07-14 | ⚓ | 65 | 0 | 2 |
 | datago-watch | 1 | 1 | 2026-07-11 | ⚓ | 1 | 0 | 0 |
-| deal-audit-ledger | 33,931 | 34,782 | 2026-07-13 | ⚓ | 33,940 | 9 | 833 |
+| deal-audit-ledger | 34,345 | 35,287 | 2026-07-14 | ⚓ | 34,356 | 11 | 920 |
 | forecast-graders | 6 | 30 | 2026-07-12 | ⚓ | 6 | 0 | 24 |
 | llm-korea-capsule | 44 | 44 | 2026-07-13 | ⚓ | 44 | 0 | 0 |
 
-_생성 2026-07-14T01:54:11.314Z · 무결성 검증은 `npm run verify`, 재현은 각 소스 snapshots/ 원본._
+_생성 2026-07-15T00:32:58.791Z · 무결성 검증은 `npm run verify`, 재현은 각 소스 snapshots/ 원본._
