@@ -1,5 +1,5 @@
 {
-  "record_count": 65,
+  "record_count": 67,
   "records": {
     "probe:amazon.com:llms-txt": {
       "fields": {
@@ -199,8 +199,8 @@
     },
     "probe:daum.net:llms-txt": {
       "fields": {
-        "body_bytes": 684378,
-        "body_sha256": "891b0c689e6115fa8ddff107a6ebaefc064287e5306e481a11511bb79c398aa7",
+        "body_bytes": 685346,
+        "body_sha256": "d7d90f177a53a4b9d943d81b4e6f1a5c5779f5ce41dca8cceb791a3f520ca893",
         "content_type": "text/html",
         "status": 200
       },
@@ -371,6 +371,34 @@
         "status": 200
       },
       "source_url": "https://hankyung.com/robots.txt"
+    },
+    "probe:joongang.co.kr:llms-txt": {
+      "fields": {
+        "status": 404
+      },
+      "source_url": "https://joongang.co.kr/llms.txt"
+    },
+    "probe:joongang.co.kr:robots-txt": {
+      "fields": {
+        "body": "User-agent: AhrefsBot\nUser-agent: GPTBot\nUser-agent: Bytespider\nUser-agent: Amazonbot\nUser-agent: ClaudeBot\nUser-agent: CCBot\nUser-agent: ChatGPT-User\nUser-agent: Applebot-Extended \nUser-agent: anthropic-ai\nUser-agent: Meta-ExternalAgent\nUser-agent: Omgilibot\nUser-agent: Omgili\nUser-agent: Diffbot\nUser-agent: DuckAssistBot\nUser-agent: Kangaroo Bot\nUser-agent: ImagesiftBot \nUser-agent: PerplexityBot\nUser-agent: cohere-ai\nUser-agent: Timpibot\nUser-agent: Webzio-Extended\nUser-agent: YouBot\nUser-agent: Applebot\nUser-agent: OAI-SearchBot\nUser-agent: Claude-Web\nUser-agent: Ai2Bot\nUser-agent: Ai2Bot-Dolma\nUser-agent: FriendlyCrawler\nUser-agent: ICC-Crawler\nUser-agent: ImagesiftBot\nUser-agent: PetalBot\nUser-agent: Scrapy\nUser-agent: VelenPublicWebCrawler\nUser-agent: img2dataset\nUser-agent: BLEXBot\nUser-agent: YisouSpider\nUser-agent: TelegramBot\nDisallow: /\n\nUser-agent: *\nDisallow: /_TP/\nDisallow: /_CP/\nDisallow: /_CT/\nDisallow: /_dts/\nDisallow: /election2022/\nDisallow: /purchase/\nDisallow: /unsubscribe/\nDisallow: /share/\nDisallow: /search\nDisallow: /aisearch\nDisallow: /jtour/ \nDisallow: /jebo/\nDisallow: /moappapi/\nDisallow: /conference/\nDisallow: /gmc/part\nDisallow: /article/2792431\nDisallow: /article/2784727\nDisallow: /article/2764507\nDisallow: /article/2765837\nDisallow: /article/25095140\nDisallow: /article/25095366\nDisallow: /article/13150451\nDisallow: /article/13118107\nDisallow: /article/12078543\nDisallow: /article/3217247\nDisallow: /dataedit/\nDisallow: /preview/\nDisallow: /election2022/elected/\nDisallow: /election2022/candidates/\nDisallow: /digitalspecial/210\nDisallow: /digitalspecial/342\nDisallow: /digitalspecial/168\nDisallow: /digitalspecial/82\nDisallow: /ext/\n\nUser-agent: *\nAllow: /sitemap/\n\n# 홈, 섹션\nSitemap: https://www.joongang.co.kr/sitemap/sections\n# 등록기사 10년부터 1년단위\nSitemap: https://www.joongang.co.kr/sitemap/articles/2026/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2025/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2024/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2023/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2022/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2021/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2020/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2019/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2018/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2017/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2016/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2015/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2014/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2013/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2012/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2011/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2010/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2009/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2008/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2007/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2006/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2005/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2004/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2003/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2002/\nSitemap: https://www.joongang.co.kr/sitemap/articles/2001/\n\n# 등록사진 16년부터 1년단위\nSitemap: https://www.joongang.co.kr/sitemap/images/2026/\nSitemap: https://www.joongang.co.kr/sitemap/images/2025/\nSitemap: https://www.joongang.co.kr/sitemap/images/2024/\nSitemap: https://www.joongang.co.kr/sitemap/images/2023/\nSitemap: https://www.joongang.co.kr/sitemap/images/2022/\nSitemap: https://www.joongang.co.kr/sitemap/images/2021/\nSitemap: https://www.joongang.co.kr/sitemap/images/2020/\nSitemap: https://www.joongang.co.kr/sitemap/images/2019/\nSitemap: https://www.joongang.co.kr/sitemap/images/2018/\nSitemap: https://www.joongang.co.kr/sitemap/images/2017/\nSitemap: https://www.joongang.co.kr/sitemap/images/2016/\n# 최신기사\nSitemap: https://www.joongang.co.kr/sitemap/latest-articles\n# 기타\nSitemap: https://www.joongang.co.kr/sitemap/etc\n# 플러스기사 21년부터 1년단위\nSitemap: https://www.joongang.co.kr/sitemap/plus-articles/2026/\nSitemap: https://www.joongang.co.kr/sitemap/plus-articles/2025/\nSitemap: https://www.joongang.co.kr/sitemap/plus-articles/2024/\nSitemap: https://www.joongang.co.kr/sitemap/plus-articles/2023/\nSitemap: https://www.joongang.co.kr/sitemap/plus-articles/2022/\nSitemap: https://www.joongang.co.kr/sitemap/plus-articles/2021/\n# 플러스 최신기사\nSitemap: https://www.joongang.co.kr/sitemap/latest-plus-articles\n\n#DaumWebMasterTool:e81b9e8672ba116ef714d038cedd5ed659681c2fa31b3b59d15fd282050026ed:VKVnMjCZ+32uuQeV6xCGYA==\n#DaumWebMasterTool:b93a0b998c4a4538df85dc7b731db427a6ea036d0545d6b8a23864a1e46cd904:LG/eAfw7EhDTGoIryiDFHw==\n#DaumWebMasterTool:390b3a0e45948a1e01d38f9f386d4ba2de492ec7b61aa870ef8fc32404674b10:z1COGM3h7ttFOEubupCSlw==\n#DaumWebMasterTool:390b3a0e45948a1e01d38f9f386d4ba2de492ec7b61aa870ef8fc32404674b10:ND4mRdfDq/mheSUL1AAxRA==",
+        "body_bytes": 5108,
+        "body_sha256": "8c2f6c76b497de34cf9c6e123509cae6dde2ef90c8364f96bafcedc15cb806b6",
+        "bot:Amazonbot": "blocked",
+        "bot:Applebot-Extended": "blocked",
+        "bot:Bytespider": "blocked",
+        "bot:CCBot": "blocked",
+        "bot:ChatGPT-User": "blocked",
+        "bot:ClaudeBot": "blocked",
+        "bot:GPTBot": "blocked",
+        "bot:Google-Extended": "absent",
+        "bot:OAI-SearchBot": "blocked",
+        "bot:PerplexityBot": "blocked",
+        "bot:anthropic-ai": "blocked",
+        "bot:meta-externalagent": "blocked",
+        "content_type": "text/plain;charset=UTF-8",
+        "status": 200
+      },
+      "source_url": "https://joongang.co.kr/robots.txt"
     },
     "probe:khan.co.kr:llms-txt": {
       "fields": {
@@ -904,5 +932,5 @@
     }
   },
   "source_id": "consent-census",
-  "updated_at": "2026-07-15T21:32:54.215Z"
+  "updated_at": "2026-07-16T21:32:47.755Z"
 }
