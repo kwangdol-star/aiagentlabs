@@ -1,5 +1,5 @@
 {
-  "record_count": 2513,
+  "record_count": 2510,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -1607,6 +1607,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
+    "job:anthropic:5163060008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Finance & Strategy, GTM - Post Sales "
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
     "job:anthropic:5164551008": {
       "fields": {
         "employment_type": null,
@@ -2682,17 +2693,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Enterprise Account Executive - Energy & Utilities"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
-    "job:anthropic:5226540008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "San Francisco, CA | New York City, NY",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Strategic Partner Development, Product Partnerships - Cybersecurity"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -4449,7 +4449,7 @@
       "fields": {
         "employment_type": null,
         "lab": "anthropic",
-        "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC",
+        "location": "San Francisco, CA | Washington, DC",
         "provider": "greenhouse",
         "team": null,
         "title": "Field Marketing Manager, Public Sector"
@@ -4508,6 +4508,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Life Sciences Operator, Lead"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
+    "job:anthropic:5361472008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Engineering Manager, Growth"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -5894,17 +5905,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Business Development Representative "
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere"
-    },
-    "job:cohere:de6b51b2-39be-4e0b-93e7-72b0898ed739": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "cohere",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Director, Total Rewards"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere"
     },
@@ -16160,17 +16160,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
-    "job:elevenlabs:aec0a22c-243c-4f5a-a90a-51eb12c91f71": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "elevenlabs",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "B2B Marketing Mandarin Growth Lead"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
-    },
     "job:elevenlabs:b081fafb-3659-4bf6-8e87-eb5ccc3ff234": {
       "fields": {
         "employment_type": "FullTime",
@@ -16256,17 +16245,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Account Executive - North Asia "
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
-    },
-    "job:elevenlabs:b6fb095b-cb0e-4926-9ad6-3004744ca7a4": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "elevenlabs",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Developer Marketing Lead"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -16784,17 +16762,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Customer Success - Scale - Western Europe"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
-    },
-    "job:elevenlabs:f3d912e2-eecd-4525-8973-13ec71654e6e": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "elevenlabs",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "B2B Marketing - ANZ"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -20340,6 +20307,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
+    "job:openai:713a9469-fb35-49db-809e-36f67c920880": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Technical Program Manager, Rack Delivery"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
     "job:openai:71508273-13e5-4b77-a675-953ff3d73ca5": {
       "fields": {
         "employment_type": "FullTime",
@@ -20557,17 +20535,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Android Engineer, ChatGPT Mobile Infrastructure"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:76e3da48-68cd-4006-8cb5-cc1cd7137a53": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Enterprise Relationship Manager, Customer Marketing"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -27646,5 +27613,5 @@
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-07-17T22:32:16.163Z"
+  "updated_at": "2026-07-18T22:32:54.356Z"
 }
