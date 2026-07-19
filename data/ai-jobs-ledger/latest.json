@@ -1,5 +1,5 @@
 {
-  "record_count": 2510,
+  "record_count": 2508,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -174,17 +174,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Research Engineer, Discovery"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
-    "job:anthropic:4673416008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Staff Software Engineer, Accessibility"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -4046,6 +4035,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Partner Enablement Lead, System Integrators"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
+    "job:anthropic:5305402008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Software Engineer, Web Platform"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -14272,7 +14272,7 @@
       "fields": {
         "employment_type": null,
         "lab": "databricks",
-        "location": "Germany",
+        "location": "Munich, Germany",
         "provider": "greenhouse",
         "team": null,
         "title": "Senior Manager,  Emerging Enterprise (DACH)"
@@ -15464,17 +15464,6 @@
         "provider": "ashby",
         "team": null,
         "title": "GTM Enablement - APAC "
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
-    },
-    "job:elevenlabs:5881bc5d-765a-430e-9d28-7d598a0e1a03": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "elevenlabs",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Full-Stack Growth Engineer "
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -17279,17 +17268,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Account Director, Large Enterprise (FSI)"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:107f0409-73b2-4959-baf1-4003de245b47": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Senior Director, Employee Relations & Investigations"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -27613,5 +27591,5 @@
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-07-18T22:32:54.356Z"
+  "updated_at": "2026-07-19T22:35:12.619Z"
 }
