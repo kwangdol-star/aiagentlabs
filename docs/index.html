@@ -311,6 +311,27 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
         "contentUrl": "https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/llm-korea-capsule/latest.json"
       }
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Chronicle — MCP 생태계 센서스 — 등록 서버·버전",
+    "identifier": "mcp-census",
+    "description": "append-only 변경 원장 (이벤트 17623건, 레코드 17623건). SHA-256 해시체인 + 커밋 히스토리 + RFC 3161 외부 앵커의 3중 공증.",
+    "dateModified": "2026-07-19T21:28:55.639Z",
+    "url": "https://github.com/kwangdol-star/aiagentlabs/tree/main/data/mcp-census",
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/jsonl",
+        "contentUrl": "https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/mcp-census/changes.jsonl"
+      },
+      {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/mcp-census/latest.json"
+      }
+    ]
   }
 ]
 </script>
@@ -336,9 +357,9 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
 </header>
 
 <div class="totals">
-  <div class="stat"><b>42,833</b><span>봉인된 이벤트</span></div>
-  <div class="stat"><b>39,484</b><span>추적 중인 레코드</span></div>
-  <div class="stat"><b>11</b><span>가동 소스</span></div>
+  <div class="stat"><b>60,456</b><span>봉인된 이벤트</span></div>
+  <div class="stat"><b>57,107</b><span>추적 중인 레코드</span></div>
+  <div class="stat"><b>12</b><span>가동 소스</span></div>
   <div class="stat"><b>2026-07-19</b><span>최신 관측</span></div>
 </div>
 
@@ -602,9 +623,33 @@ footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);color:v
     <a href="./verify.html?source=llm-korea-capsule">✓ 검증</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/llm-korea-capsule/changes.jsonl">원장</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/llm-korea-capsule/latest.json">현재 상태</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/llm-korea-capsule/feed.xml">피드</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/llm-korea-capsule/integrity.json">체인</a><a href="https://github.com/kwangdol-star/aiagentlabs/tree/main/data/llm-korea-capsule/anchors">앵커 증서</a>
   </nav>
 </article>
+<article class="card">
+  <header class="card-head">
+    <h3>MCP 생태계 센서스 — 등록 서버·버전</h3>
+    <span class="src-id">mcp-census</span>
+  </header>
+  <div class="stat-row">
+    <div class="stat"><b>17,623</b><span>레코드</span></div>
+    <div class="stat"><b>17,623</b><span>봉인 이벤트</span></div>
+    <div class="stat"><b>1</b><span>외부 앵커</span></div>
+  </div>
+  <div class="hash-line">chain head <code>4ce06a728da6d0d88fbb…</code> <span class="pill pill-ok">TSA 앵커 ✓</span></div>
+  <div class="muted">최신 관측 2026-07-19T21:28:55.639Z</div>
+  <ul class="events">
+<li><span class="ev ev-new">신규</span><code>server:zone.waggle/waggle</code><span class="when">2026-07-19</span></li>
+<li><span class="ev ev-new">신규</span><code>server:za.co.zaroniacalculator.api/verify</code><span class="when">2026-07-19</span></li>
+<li><span class="ev ev-new">신규</span><code>server:za.co.simcloud/simcloud</code><span class="when">2026-07-19</span></li>
+<li><span class="ev ev-new">신규</span><code>server:xyz.yault/aesp</code><span class="when">2026-07-19</span></li>
+<li><span class="ev ev-new">신규</span><code>server:xyz.urbanplayground/events</code><span class="when">2026-07-19</span></li>
+<li><span class="ev ev-new">신규</span><code>server:xyz.twzrd.intel/twzrd-agent-intel</code><span class="when">2026-07-19</span></li>
+</ul>
+  <nav class="links">
+    <a href="./verify.html?source=mcp-census">✓ 검증</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/mcp-census/changes.jsonl">원장</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/mcp-census/latest.json">현재 상태</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/mcp-census/feed.xml">피드</a><a href="https://github.com/kwangdol-star/aiagentlabs/blob/main/data/mcp-census/integrity.json">체인</a><a href="https://github.com/kwangdol-star/aiagentlabs/tree/main/data/mcp-census/anchors">앵커 증서</a>
+  </nav>
+</article>
 
 <div class="section"><span class="en">Consume</span><h2>구독 · 질의 · 리포트</h2></div>
-<p class="note">흩어진 11개 원장이 아니라 <b>하나의 자산</b> — 전 소스를 한 번에 구독·질의·요약한다.</p>
+<p class="note">흩어진 12개 원장이 아니라 <b>하나의 자산</b> — 전 소스를 한 번에 구독·질의·요약한다.</p>
 <nav class="links">
   <a href="./feed.xml">통합 인텔리전스 피드 (Atom)</a>
   <a href="./digest.html">주간 다이제스트</a>

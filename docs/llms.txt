@@ -100,6 +100,13 @@ Run: `npx tsx mcp/server.ts` (set CHRONICLE_REPO=kwangdol-star/aiagentlabs to qu
 - chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/llm-korea-capsule/integrity.json
 - atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/llm-korea-capsule/feed.xml
 
+### mcp-census — MCP 생태계 센서스 — 등록 서버·버전
+- events: 17623, records: 17623, last observed: 2026-07-19T21:28:55.639Z
+- ledger (append-only): https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/mcp-census/changes.jsonl
+- current state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/mcp-census/latest.json
+- chain state: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/mcp-census/integrity.json
+- atom feed: https://raw.githubusercontent.com/kwangdol-star/aiagentlabs/main/data/mcp-census/feed.xml
+
 ## Verify
 
 Recompute the whole chain from genesis: `npm run verify -- --all` in the repo.
