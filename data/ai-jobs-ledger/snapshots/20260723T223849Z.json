@@ -1,0 +1,41 @@
+{
+  "observed_at": "2026-07-23T22:38:49.940Z",
+  "raw": {
+    "anthropic": {
+      "board": "anthropic",
+      "count": 408,
+      "provider": "greenhouse"
+    },
+    "cohere": {
+      "board": "cohere",
+      "count": 135,
+      "provider": "ashby"
+    },
+    "databricks": {
+      "board": "databricks",
+      "count": 795,
+      "provider": "greenhouse"
+    },
+    "elevenlabs": {
+      "board": "elevenlabs",
+      "count": 211,
+      "provider": "ashby"
+    },
+    "openai": {
+      "board": "openai",
+      "count": 741,
+      "provider": "ashby"
+    },
+    "scale-ai": {
+      "board": "scaleai",
+      "count": 194,
+      "provider": "greenhouse"
+    },
+    "together-ai": {
+      "board": "togetherai",
+      "count": 58,
+      "provider": "greenhouse"
+    }
+  },
+  "source_id": "ai-jobs-ledger"
+}
