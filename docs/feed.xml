@@ -3,9 +3,25 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-07-23T23:20:55.790Z</updated>
+  <updated>2026-07-24T21:38:53.859Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:9f349e24c7cac45e9f278d97100fdb7669afda6e71f8387eaab42d201113573b</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-07-24T21:38:53.859Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:679555,&quot;before&quot;:674336,&quot;chain_hash&quot;:&quot;9f349e24c7cac45e9f278d97100fdb7669afda6e71f8387eaab42d201113573b&quot;,&quot;content_hash&quot;:&quot;c5d425906f9550abe3583af872efd2935f2313651487248978db6ba8b77b6f10&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-24T21:38:53.859Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:61a195d8341808e21dd2bfdca31e2a3e1a2612cbdadffe70e55f4fae9f7efbb8</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-07-24T21:38:53.859Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;bb967241caf5dd204d57f7d31d89c9da8a3ac503dc606139df2e151850ed2539&quot;,&quot;before&quot;:&quot;10a60379d03d504fa5a3fb699b646c5a93aab68e6169005f2bd2f00b267a0c7d&quot;,&quot;chain_hash&quot;:&quot;61a195d8341808e21dd2bfdca31e2a3e1a2612cbdadffe70e55f4fae9f7efbb8&quot;,&quot;content_hash&quot;:&quot;1d72246455fb7b952785ade03236b50fb9b8435aa5b92ca64d6e18c45946b3c4&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-24T21:38:53.859Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:deal-audit-ledger:673699a1a67fa3314cd1b692c28b8cd7c976b2ccecd077a1a036e27be9b2dc68</id>
     <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20260612:암사동:509:선사현대아파트:59.64:21:150000</title>
@@ -461,22 +477,6 @@
     <category term="consent-census"/>
     <link href="https://washingtonpost.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:&quot;allowed&quot;,&quot;chain_hash&quot;:&quot;81f24d23a052d30185e4631add53f59a987eba3e6b1e0472da5feeb6ef92bc12&quot;,&quot;content_hash&quot;:&quot;c48c0e9a624ff5c33966d5b62618813e5981ca73ce50a8223fb7bc9a08ae214a&quot;,&quot;entity_id&quot;:&quot;probe:washingtonpost.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-07-22T21:38:45.813Z&quot;,&quot;source_url&quot;:&quot;https://washingtonpost.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:e3693b3fd3937f4b65a235d71bcd4dde3f73376bdb8d37e0f265135749fd5fce</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-07-21T21:42:45.700Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:677155,&quot;before&quot;:678841,&quot;chain_hash&quot;:&quot;e3693b3fd3937f4b65a235d71bcd4dde3f73376bdb8d37e0f265135749fd5fce&quot;,&quot;content_hash&quot;:&quot;8457dd80d63634f60c7a21d4bdfc4a13565645c1ffe71779aca18c58c400d3ce&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-21T21:42:45.700Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:f76132b301281ed698f10e3e2924da69be7f7b3e6e7416c4328d9a754e590807</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-07-21T21:42:45.700Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;816a06f93d7e3b4c68b262ea485a582c76fc788e9c6f404699b3a3a4536ba690&quot;,&quot;before&quot;:&quot;533b90126089544eaf8f714c1f68b841483fa2268fdee041099c6416198e045f&quot;,&quot;chain_hash&quot;:&quot;f76132b301281ed698f10e3e2924da69be7f7b3e6e7416c4328d9a754e590807&quot;,&quot;content_hash&quot;:&quot;b9b9b7d3f8905ad2ab652a21a73dcf7247a958575995fb00e877ce19d1cb5eb0&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-21T21:42:45.700Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:consent-census:df86683d01472fe64b959586366192cde41098249d8afe01efc0d6f12c886a1d</id>
