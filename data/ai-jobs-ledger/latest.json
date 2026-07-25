@@ -1,5 +1,5 @@
 {
-  "record_count": 2579,
+  "record_count": 2585,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -482,6 +482,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Enterprise Account Executive, Tech"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
+    "job:anthropic:4989155008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA | Seattle, WA",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Senior Manager, Technical Accounting - M&A and Investments"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -4412,6 +4423,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
+    "job:anthropic:5367436008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA | New York City, NY",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Staff Software Engineer, Environments Infrastructure"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
     "job:anthropic:5368023008": {
       "fields": {
         "employment_type": null,
@@ -4552,6 +4574,28 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Technical Documentation and Content Engineer, Claude Docs"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
+    "job:anthropic:5370669008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA | New York City, NY",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Research Scientist, Takeoff Intel"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
+    "job:anthropic:5370690008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Staff Software Engineer, Code RL"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -7599,6 +7643,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Staff Software Engineer - Fullstack"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:8099751002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Remote - India",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "AI Engineer - FDE (Forward Deployed Engineer)"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -18081,7 +18136,7 @@
         "location": null,
         "provider": "ashby",
         "team": null,
-        "title": "Product Engineer, Growth & AI Learning Experiences"
+        "title": "Product Engineer, GTM Growth Engineering"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -18855,6 +18910,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
+    "job:openai:3240ecb0-5f1d-4cff-9e03-f4ac36c048b3": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Sr Structured Finance Execution Lead"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
     "job:openai:3254f6a7-6353-4a77-beec-f37b832c99ae": {
       "fields": {
         "employment_type": "FullTime",
@@ -19072,6 +19138,17 @@
         "provider": "ashby",
         "team": null,
         "title": "ChatGPT Performance Engineer"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
+    "job:openai:38e3c4bf-a632-405e-9619-b87382ca2472": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Applied AI Engineer, GTM Growth Engineering"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -21814,17 +21891,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
-    "job:openai:8eb37c9d-76d1-4420-8c73-ed9f818be009": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Senior Manager of Technical Accounting, Strategic Transactions"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
     "job:openai:8ee5d640-de2c-4004-8857-210ef8ec3177": {
       "fields": {
         "employment_type": "FullTime",
@@ -22716,17 +22782,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
-    "job:openai:aa06845f-df12-41e5-8fe8-dbb1f7cb01be": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Counsel, AI Policy"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
     "job:openai:ab2a6711-4a2f-46aa-9d1c-f9de243b8845": {
       "fields": {
         "employment_type": "FullTime",
@@ -23054,17 +23109,6 @@
         "provider": "ashby",
         "team": null,
         "title": "AI Deployment Engineer, Cyber"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:b4d488e6-4633-411c-9bd8-27b9f1004330": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Senior Counsel, Public Sector"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -24648,7 +24692,7 @@
         "location": null,
         "provider": "ashby",
         "team": null,
-        "title": "Senior Manager, Export Controls"
+        "title": "Princial, Export Controls"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -24729,17 +24773,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
-    "job:openai:eaf9207e-84c9-4fa2-bd57-6877b7eb7f79": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Product Engineer, GTM Growth Engineering"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
     "job:openai:eb58b9cb-4a87-4d58-863b-5516ed1fbcae": {
       "fields": {
         "employment_type": "FullTime",
@@ -24792,6 +24825,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Technical Deployment Lead, Semiconductors"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
+    "job:openai:ecbb5567-ce0b-4c8b-b1b3-726dc2344f8b": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Recruiting Coordinator Lead, Applied"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -24872,6 +24916,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
+    "job:openai:ee6b7ece-ffcb-4546-8b4c-ef755ec21c14": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Early Access Deployment Engineer"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
     "job:openai:eeaf655b-9460-4e4e-b611-f0caf784c0b1": {
       "fields": {
         "employment_type": "FullTime",
@@ -24946,6 +25001,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Technical Threat Investigator, Threat Intel Engineering"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
+    "job:openai:f049bc77-1231-4866-9376-b62fe760c21b": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Recruiting Coordinator"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -28372,5 +28438,5 @@
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-07-24T22:43:14.612Z"
+  "updated_at": "2026-07-25T22:38:12.422Z"
 }
