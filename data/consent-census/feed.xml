@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-07-24T21:38:53.859Z</updated>
+  <updated>2026-07-25T21:16:18.557Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:76f0d866b1a280d08603a188025a4ee007eb6517cefc99e4d9d0fe158898b84d</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-07-25T21:16:18.557Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;53acc4fec0afd21f4084d9386323bede4b2900984e3345d6885da511ae114657&quot;,&quot;before&quot;:&quot;bb967241caf5dd204d57f7d31d89c9da8a3ac503dc606139df2e151850ed2539&quot;,&quot;chain_hash&quot;:&quot;76f0d866b1a280d08603a188025a4ee007eb6517cefc99e4d9d0fe158898b84d&quot;,&quot;content_hash&quot;:&quot;045b8449d33868bbf85462663ab4ce40880533f986b24799334c0726ba33c5b5&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:16:18.557Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:b3d07916b755331fc94345256630e671ce1e3800be34f6356e115b13d18e30f9</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-07-25T21:16:18.557Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:688914,&quot;before&quot;:679555,&quot;chain_hash&quot;:&quot;b3d07916b755331fc94345256630e671ce1e3800be34f6356e115b13d18e30f9&quot;,&quot;content_hash&quot;:&quot;4f8313ea1bf803d65ab12c0993a0a94d9b359a36cc8bf3c59bae866e80cf4503&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:16:18.557Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:61a195d8341808e21dd2bfdca31e2a3e1a2612cbdadffe70e55f4fae9f7efbb8</id>
     <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
@@ -339,19 +353,5 @@
     <updated>2026-07-13T21:30:57.478Z</updated>
     <link href="https://wsj.com/llms.txt"/>
     <content type="text">{&quot;after&quot;:{&quot;status&quot;:403},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;5c6b321b174fcd3105a974b8cafa570d805c3b3da11199a243e3897eed87fcc6&quot;,&quot;content_hash&quot;:&quot;213166d0a5ff5fb305d9ae462f05e1fe3622de0f200ab8067109e3ca038d4d66&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:llms-txt&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-13T21:30:57.478Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:97bca1a92dea7afb22394b097985782e36230a90398b3c4880d7a055929ae855</id>
-    <title>[신규] probe:wired.com:robots-txt</title>
-    <updated>2026-07-13T21:30:57.478Z</updated>
-    <link href="https://wired.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:{&quot;body&quot;:&quot;Sitemap: https://www.wired.com/sitemap.xml\nSitemap: https://www.wired.com/tagpages-sitemap.xml\nSitemap: https://www.wired.com/contributors-sitemap.xml\nSitemap: https://www.wired.com/bundles-sitemap.xml\nSitemap: https://www.wired.com/branded-sitemap.xml\nSitemap: https://www.wired.com/feed/google-latest-news/sitemap-google-news\nSitemap: https://www.wired.com/feed/rss\n\nUser-agent: *\nDisallow: /*?\nAllow: /*?page\nAllow: /*.xml?\nAllow: /*.js\nAllow: /*.css\nAllow: /*.ico\nAllow: /verso/static\nAllow: /*.svg\nAllow: /*.png\nAllow: /*.jpg\nAllow: /*.jpeg\nAllow: /*rss?\nAllow: /*?id=\nDisallow: /auth/\nDisallow: /account/\nDisallow: /user/\nDisallow: /user-context\nDisallow: /preview/\nDisallow: /search\nDisallow: /product/\nDisallow: /cdn-cgi/\nDisallow: /services.min.js\nDisallow: /com.condenast/yv8\n\n###\nAllow: /v2/offers/wira\nAllow: /*?*utm_medium=social\nAllow: /*?ref=\nAllow: /story/madison-square-garden-jim-dolan-surveillance-machine/?src\nDisallow: */testing-products-\n###\n\nUser-agent: FacebookExternalHit\nUser-agent: Twitterbot\nUser-agent: Pinterestbot\nUser-agent: LinkedInBot\nUser-agent: TikTokSpider\nUser-agent: Storebot-Google\nUser-agent: Google-InspectionTool\nUser-agent: AmazonAdBot\nAllow: /\n\nUser-agent: Google-Extended\nUser-agent: Google-CloudVertexBot\nUser-agent: GoogleOther\nUser-agent: Applebot-Extended\nUser-agent: Amazonbot\nUser-agent: meta-webindexer\nUser-agent: meta-externalagent\nUser-agent: meta-externalfetcher\nUser-agent: ClaudeBot\nUser-agent: Claude-SearchBot\nUser-agent: Claude-User\nUser-agent: PerplexityBot\nUser-agent: Perplexity-User\nUser-agent: cohere-training-data-crawler\nUser-agent: cohere-ai\nUser-agent: CCBot\nUser-agent: PanguBot\nUser-agent: PetalBot\nUser-agent: Bytespider\nUser-agent: Diffbot\nUser-agent: DuckAssistBot\nUser-agent: MistralAI-User\nUser-agent: Timpibot\nUser-agent: Webzio\nUser-agent: Webzio-Extended\nUser-agent: archive.org_bot\nUser-agent: ia_archiver\nUser-agent: ia_archiver-web.archive.org\nUser-agent: heritrix\nDisallow: /&quot;,&quot;body_bytes&quot;:1960,&quot;body_sha256&quot;:&quot;e7d6acb8f3ba44b6d6343f0b2df0ba3010c1094ff307597cb84868302a590e50&quot;,&quot;bot:Amazonbot&quot;:&quot;blocked&quot;,&quot;bot:Applebot-Extended&quot;:&quot;blocked&quot;,&quot;bot:Bytespider&quot;:&quot;blocked&quot;,&quot;bot:CCBot&quot;:&quot;blocked&quot;,&quot;bot:ChatGPT-User&quot;:&quot;absent&quot;,&quot;bot:ClaudeBot&quot;:&quot;blocked&quot;,&quot;bot:GPTBot&quot;:&quot;absent&quot;,&quot;bot:Google-Extended&quot;:&quot;blocked&quot;,&quot;bot:OAI-SearchBot&quot;:&quot;absent&quot;,&quot;bot:PerplexityBot&quot;:&quot;blocked&quot;,&quot;bot:anthropic-ai&quot;:&quot;absent&quot;,&quot;bot:meta-externalagent&quot;:&quot;blocked&quot;,&quot;content_type&quot;:&quot;text/plain&quot;,&quot;status&quot;:200},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;97bca1a92dea7afb22394b097985782e36230a90398b3c4880d7a055929ae855&quot;,&quot;content_hash&quot;:&quot;a450e0a748236a40b9aaa36b4695355d144018b1cb5c668d4766a1e0e17652b5&quot;,&quot;entity_id&quot;:&quot;probe:wired.com:robots-txt&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-13T21:30:57.478Z&quot;,&quot;source_url&quot;:&quot;https://wired.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:84576d4fbe4274c904711b0e8b52945918b1263def38e073f417186aa46b6b57</id>
-    <title>[신규] probe:wired.com:llms-txt</title>
-    <updated>2026-07-13T21:30:57.478Z</updated>
-    <link href="https://wired.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:{&quot;status&quot;:404},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;84576d4fbe4274c904711b0e8b52945918b1263def38e073f417186aa46b6b57&quot;,&quot;content_hash&quot;:&quot;c105ec1bd483cfe424511180119c3c2de5e0a902d2215363a52d6323d894ba2e&quot;,&quot;entity_id&quot;:&quot;probe:wired.com:llms-txt&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-13T21:30:57.478Z&quot;,&quot;source_url&quot;:&quot;https://wired.com/llms.txt&quot;}</content>
   </entry>
 </feed>
