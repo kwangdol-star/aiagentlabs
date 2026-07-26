@@ -3,9 +3,25 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-07-26T21:31:25.078Z</updated>
+  <updated>2026-07-26T22:42:18.967Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:e9b154f0a60e475e76845b15d4ddc69a1cc0e4b0e68ca794f7f87d6682b64152</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:elevenlabs:e22e14d8-0766-445f-9570-6037c7300c73</title>
+    <updated>2026-07-26T22:42:18.967Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/elevenlabs"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;elevenlabs&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Customer Support Specialist&quot;},&quot;chain_hash&quot;:&quot;e9b154f0a60e475e76845b15d4ddc69a1cc0e4b0e68ca794f7f87d6682b64152&quot;,&quot;content_hash&quot;:&quot;01f59add84c512f2bfa4788459e94c2a177e6aeaf0a2b580a766edbff5449553&quot;,&quot;entity_id&quot;:&quot;job:elevenlabs:e22e14d8-0766-445f-9570-6037c7300c73&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-26T22:42:18.967Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/elevenlabs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:5d04fa9617fb35536cd795836c0f31a71d2910941f34c3ff7f1a759529ef4d89</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:4509797c-7e8b-4bfd-a68e-fb3fd90d2433</title>
+    <updated>2026-07-26T22:42:18.967Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;IC Agentic Engineering Manager - Stargate&quot;},&quot;chain_hash&quot;:&quot;5d04fa9617fb35536cd795836c0f31a71d2910941f34c3ff7f1a759529ef4d89&quot;,&quot;content_hash&quot;:&quot;4ac51395be60db6645393b2906d5da858ea5ebbecc9fa255a7fc93c16a9ac744&quot;,&quot;entity_id&quot;:&quot;job:openai:4509797c-7e8b-4bfd-a68e-fb3fd90d2433&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-26T22:42:18.967Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:mcp-census:a87e2fadb2e24962a6427e782f3decd782dd77cd944ec64675cfe68e437587cc</id>
     <title>[MCP 생태계 센서스 — 등록 서버·버전] [삭제] server:io.github.allooloo/acm-68000-mcp</title>
@@ -773,22 +789,6 @@
     <category term="bunyang-capsule"/>
     <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000331&amp;pblancNo=2026000331"/>
     <content type="text">{&quot;after&quot;:{&quot;BSNS_MBY_NM&quot;:&quot;(주)한국토지신탁&quot;,&quot;CNSTRCT_ENTRPS_NM&quot;:&quot;동부건설(주)&quot;,&quot;CNTRCT_CNCLS_BGNDE&quot;:&quot;2026-08-24&quot;,&quot;CNTRCT_CNCLS_ENDDE&quot;:&quot;2026-08-26&quot;,&quot;GNRL_RNK1_CRSPAREA_ENDDE&quot;:&quot;2026-08-04&quot;,&quot;GNRL_RNK1_CRSPAREA_RCPTDE&quot;:&quot;2026-08-04&quot;,&quot;GNRL_RNK1_ETC_AREA_ENDDE&quot;:&quot;2026-08-04&quot;,&quot;GNRL_RNK1_ETC_AREA_RCPTDE&quot;:&quot;2026-08-04&quot;,&quot;GNRL_RNK1_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK1_ETC_GG_RCPTDE&quot;:null,&quot;GNRL_RNK2_CRSPAREA_ENDDE&quot;:&quot;2026-08-05&quot;,&quot;GNRL_RNK2_CRSPAREA_RCPTDE&quot;:&quot;2026-08-05&quot;,&quot;GNRL_RNK2_ETC_AREA_ENDDE&quot;:&quot;2026-08-05&quot;,&quot;GNRL_RNK2_ETC_AREA_RCPTDE&quot;:&quot;2026-08-05&quot;,&quot;GNRL_RNK2_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK2_ETC_GG_RCPTDE&quot;:null,&quot;HMPG_ADRES&quot;:&quot;https://센트레빌아스테리움거제.com&quot;,&quot;HOUSE_DTL_SECD&quot;:&quot;01&quot;,&quot;HOUSE_DTL_SECD_NM&quot;:&quot;민영&quot;,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026000331&quot;,&quot;HOUSE_NM&quot;:&quot;센트레빌 아스테리움 거제&quot;,&quot;HOUSE_SECD&quot;:&quot;01&quot;,&quot;HOUSE_SECD_NM&quot;:&quot;APT&quot;,&quot;HSSPLY_ADRES&quot;:&quot;경상남도 거제시 상동동 681-2번지 일원&quot;,&quot;HSSPLY_ZIP&quot;:&quot;53291&quot;,&quot;IMPRMN_BSNS_AT&quot;:&quot;N&quot;,&quot;LRSCL_BLDLND_AT&quot;:&quot;N&quot;,&quot;MDAT_TRGET_AREA_SECD&quot;:&quot;N&quot;,&quot;MDHS_TELNO&quot;:&quot;0556350101&quot;,&quot;MVN_PREARNGE_YM&quot;:&quot;202908&quot;,&quot;NPLN_PRVOPR_PUBLIC_HOUSE_AT&quot;:&quot;N&quot;,&quot;NSPRC_NM&quot;:&quot;문화일보&quot;,&quot;PARCPRC_ULS_AT&quot;:&quot;N&quot;,&quot;PBLANC_NO&quot;:&quot;2026000331&quot;,&quot;PBLANC_URL&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000331&amp;pblancNo=2026000331&quot;,&quot;PRZWNER_PRESNATN_DE&quot;:&quot;2026-08-11&quot;,&quot;PUBLIC_HOUSE_EARTH_AT&quot;:&quot;N&quot;,&quot;PUBLIC_HOUSE_SPCLW_APPLC_AT&quot;:&quot;N&quot;,&quot;RCEPT_BGNDE&quot;:&quot;2026-08-03&quot;,&quot;RCEPT_ENDDE&quot;:&quot;2026-08-05&quot;,&quot;RCRIT_PBLANC_DE&quot;:&quot;2026-07-24&quot;,&quot;RENT_SECD&quot;:&quot;0&quot;,&quot;RENT_SECD_NM&quot;:&quot;분양주택&quot;,&quot;SPECLT_RDN_EARTH_AT&quot;:&quot;N&quot;,&quot;SPSPLY_RCEPT_BGNDE&quot;:&quot;2026-08-03&quot;,&quot;SPSPLY_RCEPT_ENDDE&quot;:&quot;2026-08-03&quot;,&quot;SUBSCRPT_AREA_CODE&quot;:&quot;621&quot;,&quot;SUBSCRPT_AREA_CODE_NM&quot;:&quot;경남&quot;,&quot;TOT_SUPLY_HSHLDCO&quot;:1307,&quot;_chronicle_window_date&quot;:&quot;2026-07-24&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;cbc21df317d1ede60988d46ddcd87f900a152374d05708f42556546d28e3c4c3&quot;,&quot;content_hash&quot;:&quot;c9e6c1d6c1794b4156fe11bc4e37a66abf7a8ec9dba97f8fe5cc7674387daac6&quot;,&quot;entity_id&quot;:&quot;apt:2026000331:2026000331&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-24T22:46:01.267Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000331&amp;pblancNo=2026000331&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:79abe078d5564dfbd77c71c6c05806494a8d78787ed497269c64f47e0d09c71d</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:c7afb907-e9ce-4969-ae51-d25c7c6ee6cd</title>
-    <updated>2026-07-24T22:43:14.612Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Network Operations Engineer, WAN Infrastructure &amp; Circuit Bring-Up&quot;},&quot;chain_hash&quot;:&quot;79abe078d5564dfbd77c71c6c05806494a8d78787ed497269c64f47e0d09c71d&quot;,&quot;content_hash&quot;:&quot;c779fb9e7741f814666d3d1d77bb0d4144fb75a8d4544a252f0b73d55c1cec41&quot;,&quot;entity_id&quot;:&quot;job:openai:c7afb907-e9ce-4969-ae51-d25c7c6ee6cd&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-24T22:43:14.612Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:3874f6eb0484cba21706f02698feb90a3e6e6db6acbaca92064145cf1986eca1</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:d4f62f53-839d-4850-b040-b823870fd915</title>
-    <updated>2026-07-24T22:43:14.612Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Workforce Program Manager, Global Affairs&quot;},&quot;chain_hash&quot;:&quot;3874f6eb0484cba21706f02698feb90a3e6e6db6acbaca92064145cf1986eca1&quot;,&quot;content_hash&quot;:&quot;cf5fb2607916688829ccf93da3aedd5bfb19d87b0ebfa5ef6c25776a3f3aca14&quot;,&quot;entity_id&quot;:&quot;job:openai:d4f62f53-839d-4850-b040-b823870fd915&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-24T22:43:14.612Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:ai-jobs-ledger:d6154e15089acb0d04654ac19de45d5a86e310736a66ff350a6886893355f4a5</id>
