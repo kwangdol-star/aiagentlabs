@@ -1,82 +1,82 @@
-# Chronicle 다이제스트 — 2026-07-19
+# Chronicle 다이제스트 — 2026-07-26
 
-> 최근 30일(2026-06-19~) 관측. 시간해자 아카이브의 축적물 요약.
+> 최근 30일(2026-06-26~) 관측. 시간해자 아카이브의 축적물 요약.
 
 ## 한눈에
-- 소스 **12개** · 추적 엔티티 **57,107** · 원장 총 이벤트 **60,457** · 체인 총 길이 **60,457**
-- 이번 기간: 소멸 **159** · 수정 **3032** · 신규 **57,266**
+- 소스 **12개** · 추적 엔티티 **59,543** · 원장 총 이벤트 **66,801** · 체인 총 길이 **66,801**
+- 이번 기간: 소멸 **390** · 수정 **6478** · 신규 **59,933**
 - **3중 공증**: 해시체인 12/12 소스 봉인 · git 히스토리 · TSA 외부앵커 **12/12** 머리 고정
 
 ## 사라진 것 — 소멸 (지금 찍은 자만 소유)
-- `deal-audit-ledger` **deal:11320:20260414:창동:743-23:창동역블루핀2동:65.83:2:54000** — {"LAWD_CD":"11320","_chronicle_window_date":"2026-04-14","aptDong":"","aptNm":"창동역블루핀2동","aptSeq":"11320-3611","bonbun":"0743","bubun":"0023… _(2026-07-18)_
-- `deal-audit-ledger` **deal:11320:20260713:방학동:717-2:방학지음재힐스:14.86:2:12000** — {"LAWD_CD":"11320","_chronicle_window_date":"2026-07-13","aptDong":"","aptNm":"방학지음재힐스","aptSeq":"11320-3496","bonbun":"0717","bubun":"0002"… _(2026-07-18)_
-- `deal-audit-ledger` **deal:11470:20260420:목동:771-31:인우:74.983:2:71000** — {"LAWD_CD":"11470","_chronicle_window_date":"2026-04-20","aptDong":"","aptNm":"인우","aptSeq":"11470-59","bonbun":"0771","bubun":"0031","build… _(2026-07-18)_
-- `deal-audit-ledger` **deal:11560:20260408:영등포동2가:467:센트레빌아스테리움영등포아파트:56.277:27:124500** — {"LAWD_CD":"11560","_chronicle_window_date":"2026-04-08","aptDong":"","aptNm":"센트레빌아스테리움영등포아파트","aptSeq":"11560-2432","bonbun":"0467","bubun… _(2026-07-18)_
-- `deal-audit-ledger` **deal:11560:20260420:신길동:389:대성유니드:83.5:14:78000** — {"LAWD_CD":"11560","_chronicle_window_date":"2026-04-20","aptDong":"","aptNm":"대성유니드","aptSeq":"11560-148","bonbun":"0389","bubun":"0000","b… _(2026-07-18)_
-- `deal-audit-ledger` **deal:11650:20260709:방배동:802-8:노블씨티:114.16:2:187000** — {"LAWD_CD":"11650","_chronicle_window_date":"2026-07-09","aptDong":"","aptNm":"노블씨티","aptSeq":"11650-3436","bonbun":"0802","bubun":"0008","b… _(2026-07-18)_
-- `ai-jobs-ledger` **job:anthropic:5226540008** — Strategic Partner Development, Product Partnerships - Cybersecurity _(2026-07-18)_
-- `ai-jobs-ledger` **job:cohere:de6b51b2-39be-4e0b-93e7-72b0898ed739** — Director, Total Rewards _(2026-07-18)_
-- `ai-jobs-ledger` **job:elevenlabs:aec0a22c-243c-4f5a-a90a-51eb12c91f71** — B2B Marketing Mandarin Growth Lead _(2026-07-18)_
-- `ai-jobs-ledger` **job:elevenlabs:b6fb095b-cb0e-4926-9ad6-3004744ca7a4** — Developer Marketing Lead _(2026-07-18)_
-- `ai-jobs-ledger` **job:elevenlabs:f3d912e2-eecd-4525-8973-13ec71654e6e** — B2B Marketing - ANZ _(2026-07-18)_
-- `ai-jobs-ledger` **job:openai:76e3da48-68cd-4006-8cb5-cc1cd7137a53** — Enterprise Relationship Manager, Customer Marketing _(2026-07-18)_
-- `ai-vendor-ledger` **model:arcee-ai/coder-large** — Arcee AI: Coder Large _(2026-07-18)_
-- `ai-vendor-ledger` **model:liquid/lfm-2.5-1.2b-instruct:free** — LiquidAI: LFM2.5-1.2B-Instruct (free) _(2026-07-18)_
-- `ai-vendor-ledger` **model:liquid/lfm-2.5-1.2b-thinking:free** — LiquidAI: LFM2.5-1.2B-Thinking (free) _(2026-07-18)_
-- `ai-vendor-ledger` **model:meta-llama/llama-3.2-11b-vision-instruct** — Meta: Llama 3.2 11B Vision Instruct _(2026-07-18)_
-- `ai-vendor-ledger` **model:nvidia/llama-3.3-nemotron-super-49b-v1.5** — NVIDIA: Llama 3.3 Nemotron Super 49B V1.5 _(2026-07-18)_
-- `ai-vendor-ledger` **model:openai/gpt-oss-120b:free** — OpenAI: gpt-oss-120b (free) _(2026-07-18)_
-- `ai-vendor-ledger` **model:sao10k/l3.1-70b-hanami-x1** — Sao10K: Llama 3.1 70B Hanami x1 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11215:20260619:중곡동:231-1:신성그랜드타워:156.03:5:90500** — {"LAWD_CD":"11215","_chronicle_window_date":"2026-06-19","aptDong":"","aptNm":"신성그랜드타워","aptSeq":"11215-86","bonbun":"0231","bubun":"0001","… _(2026-07-17)_
-- `deal-audit-ledger` **deal:11320:20260417:쌍문동:723:신원2:60:12:40200** — {"LAWD_CD":"11320","_chronicle_window_date":"2026-04-17","aptDong":"","aptNm":"신원2","aptSeq":"11320-13","bonbun":"0723","bubun":"0000","buil… _(2026-07-17)_
-- `ai-jobs-ledger` **job:anthropic:5223741008** — Enterprise Account Executive, Industries Generalist _(2026-07-17)_
-- `ai-jobs-ledger` **job:anthropic:5252793008** — Program Manager, Responsible Scaling Policy _(2026-07-17)_
-- `ai-jobs-ledger` **job:anthropic:5257763008** — People Research Scientist, Recruiting _(2026-07-17)_
-- `ai-jobs-ledger` **job:anthropic:5278065008** — Research Engineer, Rule of Law _(2026-07-17)_
-- …외 134건 더 (원장 changes.jsonl에 전량 보존)
+- `mcp-census` **server:ai.complyhat/compliance** — 1.5.0 _(2026-07-26)_
+- `mcp-census` **server:ai.dinglebear/soma-rmcp** — 0.4.7 _(2026-07-26)_
+- `mcp-census` **server:ai.fluxink/mcp-server** — 1.0.0 _(2026-07-26)_
+- `mcp-census` **server:com.agishub/chronosync-mcp** — 2.0.2 _(2026-07-26)_
+- `mcp-census` **server:dev.buildcalcapi/server** — 0.4.2 _(2026-07-26)_
+- `mcp-census` **server:eu.conformi/conformi-search** — 1.0.0 _(2026-07-26)_
+- `mcp-census` **server:io.github.JinGuYuan/jinguyuan-mcp** — 0.5.0 _(2026-07-26)_
+- `mcp-census` **server:io.github.allooloo/acm-68000-mcp** — 1.0.0 _(2026-07-26)_
+- `mcp-census` **server:io.github.atomno-labs/mcp-cbr-rates** — 0.1.4 _(2026-07-26)_
+- `mcp-census` **server:io.github.atomno-labs/mcp-egrul** — 0.1.4 _(2026-07-26)_
+- `mcp-census` **server:io.github.atomno-labs/mcp-fns-check** — 0.1.2 _(2026-07-26)_
+- `mcp-census` **server:io.github.atomno-labs/mcp-seo-audit** — 0.4.1 _(2026-07-26)_
+- `mcp-census` **server:io.github.atomno-labs/mcp-sudact** — 0.1.1 _(2026-07-26)_
+- `mcp-census` **server:io.github.bitgett/q402-mcp** — 0.11.11 _(2026-07-26)_
+- `mcp-census` **server:io.github.krishtoautomate/remote-device-server** — 0.8.6 _(2026-07-26)_
+- `mcp-census` **server:io.github.marcus160365/client-compass** — 1.0.0 _(2026-07-26)_
+- `mcp-census` **server:io.github.nagarjunr/data-connectors-gcp-bucket** — 0.1.5 _(2026-07-26)_
+- `mcp-census` **server:io.github.nagarjunr/data-connectors-onedrive** — 0.1.5 _(2026-07-26)_
+- `mcp-census` **server:io.github.nagarjunr/data-connectors-postgres** — 0.1.5 _(2026-07-26)_
+- `mcp-census` **server:io.github.nagarjunr/data-connectors-rabbitmq** — 0.1.5 _(2026-07-26)_
+- `mcp-census` **server:io.github.nagarjunr/data-connectors-s3** — 0.1.5 _(2026-07-26)_
+- `mcp-census` **server:io.github.nagarjunr/data-connectors-sharepoint** — 0.1.5 _(2026-07-26)_
+- `mcp-census` **server:io.github.ohtensorplay/mega-mcp-server** — 1.0.1 _(2026-07-26)_
+- `mcp-census` **server:io.github.ryuxik/gametheory-mcp** — 0.1.2 _(2026-07-26)_
+- `mcp-census` **server:io.github.ryuxik/snhp-negotiation** — 0.2.0 _(2026-07-26)_
+- …외 365건 더 (원장 changes.jsonl에 전량 보존)
 
 ## 바뀐 것 — 조용한 수정
-- `forecast-graders` **page:cerik-press** · items: ["2026-07-08 · 5개국 산업안전보건법 비교로 본 건설 도급인 안전관리의 균형 진단 첨부파일 download_for_offline 작성… → ["2026-07-13 · BIM 정책, ‘의무 제출’서 ‘데이터가 흐르는 구조’로 패러다임 바꿔야 첨부파일 download_for_offlin… _(2026-07-19)_
-- `consent-census` **probe:daum.net:llms-txt** · body_bytes: 688024 → 692983 _(2026-07-19)_
-- `consent-census` **probe:daum.net:llms-txt** · body_sha256: 853161cb16d90dc078434c4a5a5fcaef0da061865928695b13e819e182fd164d → fbd2e95ee45903cadf2cbff12975681aa3b57a8d09671cb5f6eacb1888a12f21 _(2026-07-19)_
-- `deal-audit-ledger` **deal:11110:20260404:홍파동:199:경희궁자이(2단지):138.6533:15:385000** · aptDong:  → 207 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11110:20260404:홍파동:199:경희궁자이(2단지):138.6533:15:385000** · rgstDate:  → 26.07.13 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11110:20260421:숭인동:2-1:종로센트레빌:84.92:5:116000** · aptDong:  → 106 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11110:20260421:숭인동:2-1:종로센트레빌:84.92:5:116000** · rgstDate:  → 26.07.13 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11110:20260424:평창동:596:삼성:59.97:11:68000** · aptDong:  → 101 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11110:20260424:평창동:596:삼성:59.97:11:68000** · rgstDate:  → 26.07.10 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11140:20260318:회현동1가:206:SK리더스뷰남산:176.26:24:250000** · cdealDay:  → 26.04.16 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11140:20260318:회현동1가:206:SK리더스뷰남산:176.26:24:250000** · cdealType:  → O _(2026-07-18)_
-- `deal-audit-ledger` **deal:11140:20260411:신당동:844:남산타운:84.88:5:165000** · aptDong:  → 10 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11140:20260411:신당동:844:남산타운:84.88:5:165000** · rgstDate:  → 26.07.13 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11140:20260502:만리동2가:273:서울역센트럴자이:72.9733:23:207000** · aptDong:  → 112 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11140:20260502:만리동2가:273:서울역센트럴자이:72.9733:23:207000** · rgstDate:  → 26.07.13 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11170:20260413:효창동:288:용산데시앙포레:84.9417:6:160000** · aptDong:  → 104 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11170:20260413:효창동:288:용산데시앙포레:84.9417:6:160000** · rgstDate:  → 26.07.15 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11170:20260425:문배동:17-1:지오베르크:84.99:5:134500** · rgstDate:  → 26.07.16 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11170:20260506:산천동:193:리버힐삼성:59.55:14:145500** · aptDong:  → 113 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11170:20260506:산천동:193:리버힐삼성:59.55:14:145500** · rgstDate:  → 26.07.15 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11170:20260521:한강로2가:2-8:벽산메가트리움:84.74:23:202000** · aptDong:  → 101 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11170:20260521:한강로2가:2-8:벽산메가트리움:84.74:23:202000** · rgstDate:  → 26.07.16 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11170:20260527:문배동:11-10:용산KCC웰츠타워:97.83:38:165000** · aptDong:  → 101 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11170:20260527:문배동:11-10:용산KCC웰츠타워:97.83:38:165000** · rgstDate:  → 26.07.15 _(2026-07-18)_
-- `deal-audit-ledger` **deal:11170:20260530:도원동:23:삼성래미안:114.99:2:203000** · aptDong:  → 102 _(2026-07-18)_
-- …외 3007건 더 (원장 changes.jsonl에 전량 보존)
+- `mcp-census` **server:ac.inference.sh/mcp** · description_sha256: ce2fe6b1e3979ab1c240e9a0a6a77225857f95c1c6bffda9083cf509ecec23bb → 96a89a4dc3bd824220da50e0b99b24692ebd10b260b53bf09b7e134d46a8cf67 _(2026-07-26)_
+- `mcp-census` **server:ac.inference.sh/mcp** · version: 1.0.1 → 2.0.0 _(2026-07-26)_
+- `mcp-census` **server:ai.aetherwealth/mcp** · version: 0.2.0 → 0.2.2 _(2026-07-26)_
+- `mcp-census` **server:ai.ankimcp/anki-mcp-server** · version: 0.22.2 → 0.22.5 _(2026-07-26)_
+- `mcp-census` **server:ai.bluenexus/universal-mcp** · version: 1.11.2 → 1.12.0 _(2026-07-26)_
+- `mcp-census` **server:ai.bolthub/mcp** · version: 0.5.2 → 0.7.2 _(2026-07-26)_
+- `mcp-census` **server:ai.bowmark/bowmark** · version: 3.79.1 → 3.110.0 _(2026-07-26)_
+- `mcp-census` **server:ai.canvora/canvora** · repository_url: ∅ → https://github.com/canvora/canvora-mcp _(2026-07-26)_
+- `mcp-census` **server:ai.canvora/canvora** · version: 1.1.0 → 1.2.0 _(2026-07-26)_
+- `mcp-census` **server:ai.dynamicfeed/dynamic-feed** · description_sha256: 5c4abce9ec45f232b3ed897d6d43724c2b93ff1b7f2138965fb53ae8729645d9 → 3a3802b7d4f891e7002ca701c9cfae06ec0535cfec04d3a831b29abd8bfde77c _(2026-07-26)_
+- `mcp-census` **server:ai.dynamicfeed/dynamic-feed** · version: 0.8.6 → 0.8.7 _(2026-07-26)_
+- `mcp-census` **server:ai.firmbrain/x402-services** · description_sha256: 66b6af4505165673039601c0777637551a2f9b757d83f53d9c0912c055efcde8 → 959b2c82630347def23c20f23d1ffee19b8717a45cb1cec6cb9f045cb3c57c1b _(2026-07-26)_
+- `mcp-census` **server:ai.firmbrain/x402-services** · repository_url: ∅ → https://github.com/bkrigmo1/robinhood-chain-x402 _(2026-07-26)_
+- `mcp-census` **server:ai.firmbrain/x402-services** · version: 1.0.0 → 1.0.1 _(2026-07-26)_
+- `mcp-census` **server:ai.kawacode/mcp** · version: 6.9.1 → 6.9.4 _(2026-07-26)_
+- `mcp-census` **server:ai.lumify/sports-intelligence** · description_sha256: f0595e012ce3224414bd2e68994c1c2d9594cfb588edfd65be51f143413acdf3 → ef0f927ac11888850decbb78a002595e4d4efbc73ff08647904fcff870e99d24 _(2026-07-26)_
+- `mcp-census` **server:ai.lumify/sports-intelligence** · version: 1.0.0 → 1.0.1 _(2026-07-26)_
+- `mcp-census` **server:ai.megastructure/arc** · version: 1.4.3 → 1.6.1 _(2026-07-26)_
+- `mcp-census` **server:ai.modelrunner/mcp** · version: 1.1.0 → 1.2.0 _(2026-07-26)_
+- `mcp-census` **server:ai.nauro/nauro** · version: 1.6.0 → 1.9.0 _(2026-07-26)_
+- `mcp-census` **server:ai.onelore/lore** · description_sha256: be617c30c391e665646e7ab5a401560c919594d52771a8e4ccd49f0b49181cad → b7a37cf467d5526c369301f106d7ea6ed91a2e997c0c4fbe116be8116f81e397 _(2026-07-26)_
+- `mcp-census` **server:ai.onelore/lore** · version: 0.2.0 → 0.2.1 _(2026-07-26)_
+- `mcp-census` **server:ai.plori/plori** · version: 0.2.0 → 0.3.0 _(2026-07-26)_
+- `mcp-census` **server:ai.pubfi/mcp** · version: 0.1.64 → 0.1.73 _(2026-07-26)_
+- `mcp-census` **server:ai.ravenmcp/raven-mcp** · description_sha256: 48f21bd22af48f1ed027f39ad278c0430a8843b59bf994228d59464371689b1a → 7d6c806f12404f0086a560a4af6f2565fd97f305dd64c9a81255db54cda0730a _(2026-07-26)_
+- …외 6453건 더 (원장 changes.jsonl에 전량 보존)
 
 ## 소스별 현황
 | 소스 | 엔티티 | 체인 | 최신 | 앵커 | 신규 | 소멸 | 수정 |
 | --- | ---: | ---: | --- | :---: | ---: | ---: | ---: |
 | agent-commerce-census | 96 | 96 | 2026-07-13 | ⚓ | 96 | 0 | 0 |
-| ai-jobs-ledger | 2,510 | 2,793 | 2026-07-18 | ⚓ | 2,631 | 121 | 41 |
-| ai-vendor-ledger | 344 | 443 | 2026-07-18 | ⚓ | 351 | 7 | 85 |
-| bunyang-capsule | 1,236 | 1,237 | 2026-07-16 | ⚓ | 1,236 | 0 | 1 |
-| commitments-watch | 8 | 10 | 2026-07-15 | ⚓ | 8 | 0 | 2 |
+| ai-jobs-ledger | 2,585 | 3,307 | 2026-07-25 | ⚓ | 2,879 | 294 | 134 |
+| ai-vendor-ledger | 345 | 531 | 2026-07-25 | ⚓ | 359 | 14 | 158 |
+| bunyang-capsule | 1,255 | 1,256 | 2026-07-24 | ⚓ | 1,255 | 0 | 1 |
+| commitments-watch | 8 | 14 | 2026-07-20 | ⚓ | 8 | 0 | 6 |
 | compute-price-index | 227 | 227 | 2026-07-10 | ⚓ | 227 | 0 | 0 |
-| consent-census | 67 | 82 | 2026-07-19 | ⚓ | 67 | 0 | 15 |
+| consent-census | 67 | 113 | 2026-07-26 | ⚓ | 67 | 0 | 46 |
 | datago-watch | 1 | 1 | 2026-07-11 | ⚓ | 1 | 0 | 0 |
-| deal-audit-ledger | 34,945 | 37,852 | 2026-07-18 | ⚓ | 34,976 | 31 | 2845 |
+| deal-audit-ledger | 36,281 | 41,239 | 2026-07-25 | ⚓ | 36,336 | 55 | 4848 |
 | forecast-graders | 6 | 49 | 2026-07-19 | ⚓ | 6 | 0 | 43 |
 | llm-korea-capsule | 44 | 44 | 2026-07-13 | ⚓ | 44 | 0 | 0 |
-| mcp-census | 17,623 | 17,623 | 2026-07-19 | ⚓ | 17,623 | 0 | 0 |
+| mcp-census | 18,628 | 19,924 | 2026-07-26 | ⚓ | 18,655 | 27 | 1242 |
 
-_생성 2026-07-19T22:13:43.755Z · 무결성 검증은 `npm run verify`, 재현은 각 소스 snapshots/ 원본._
+_생성 2026-07-26T22:27:07.210Z · 무결성 검증은 `npm run verify`, 재현은 각 소스 snapshots/ 원본._
