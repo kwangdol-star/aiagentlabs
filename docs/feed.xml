@@ -3,9 +3,161 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-07-29T23:27:27.000Z</updated>
+  <updated>2026-07-30T21:43:36.998Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:290634d5ec1e79c9d7bc3f673d1a5f7f8564d553960e54fa7cfb091fcfbd2654</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:679447,&quot;before&quot;:683359,&quot;chain_hash&quot;:&quot;290634d5ec1e79c9d7bc3f673d1a5f7f8564d553960e54fa7cfb091fcfbd2654&quot;,&quot;content_hash&quot;:&quot;571c685ac2e1655269cc2f50be35755203c1befa4d0ceb8b9c596412cfa88df5&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:3e95535e145f96b7237851bcb9c80f2d5a54d9bc08b2b785157d9a2168bf6b6a</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;a6647a778cca87a344820d7b4c3269c53ca59c34483dd2db55b19ba81ad06ba8&quot;,&quot;before&quot;:&quot;c9447e89aade0028207ee345b41a027a12969fded9314d6b474119f4472848ad&quot;,&quot;chain_hash&quot;:&quot;3e95535e145f96b7237851bcb9c80f2d5a54d9bc08b2b785157d9a2168bf6b6a&quot;,&quot;content_hash&quot;:&quot;507bae3acdce23cea4e8cfb0fc78cab4e199c96aa12a27afe8feaa6e3f00c8a1&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:1cba17a21f423a3491b43c3833af006c69ede7e986b7e3531e307995adb1db83</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · body</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;User-agent: *\nDisallow: /arti/PRINT/\nDisallow: /fortunes/result\nDisallow: /arti/PREVIEW/\nDisallow: /api/\nDisallow: /test/\n\nUser-agent: GPTBot\nUser-agent: Bytespider\nUser-agent: Amazonbot\nUser-agent: ClaudeBot\nUser-agent: BLP_bbot\nUser-agent: Slackbot\nDisallow: /\n\n\nSitemap: https://www.hani.co.kr/sitemap/sections&quot;,&quot;chain_hash&quot;:&quot;1cba17a21f423a3491b43c3833af006c69ede7e986b7e3531e307995adb1db83&quot;,&quot;content_hash&quot;:&quot;f5f3322e60147c45ddaf6550590e19009606e8d580a30c7e9a3af1cc7e217a8a&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:2930cdb10133872d42ddc24364ecd57f3b1918736cd1e45db90b652aa7be5662</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · body_bytes</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:313,&quot;chain_hash&quot;:&quot;2930cdb10133872d42ddc24364ecd57f3b1918736cd1e45db90b652aa7be5662&quot;,&quot;content_hash&quot;:&quot;8f97a9e10acecdc3862737858fcaa2ba8ec71b7e0b2c208ce8a3e43324a72d8c&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:7e856854410279efff691fb91b43a787ab34cae8fa20a0d32350397ea8382be4</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · body_sha256</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;c6ba2cacd32228379929777a9a47cd7e255b891bbe0ac354c6558487bf721520&quot;,&quot;chain_hash&quot;:&quot;7e856854410279efff691fb91b43a787ab34cae8fa20a0d32350397ea8382be4&quot;,&quot;content_hash&quot;:&quot;fe262b002db6ffa1a3312cdb22ace56db7abf5bc5afd5d1891a2da3d2e49cf57&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:b8666a2a0dab3589492a8e53689fbb3845af08186d97a4e5e7fb6b94dd741a8a</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · bot:Amazonbot</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;b8666a2a0dab3589492a8e53689fbb3845af08186d97a4e5e7fb6b94dd741a8a&quot;,&quot;content_hash&quot;:&quot;a25037ec398544786b9b91b02376e8bb3ea8af7e56e89fc785c284a69d82c06e&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:Amazonbot&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:05299e436ef04fb25326e83c5a5e57f27eebc33c1c8f8ed6371d0a58466b9f44</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · bot:Applebot-Extended</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;05299e436ef04fb25326e83c5a5e57f27eebc33c1c8f8ed6371d0a58466b9f44&quot;,&quot;content_hash&quot;:&quot;d608a5fef4c2428804087eab2e235c3ddd336f695139f499fc3df2c81f879507&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:Applebot-Extended&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:2c5784af8a8b57700721c324611de90a344a9795d804258378b68dd195831fb6</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · bot:Bytespider</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;2c5784af8a8b57700721c324611de90a344a9795d804258378b68dd195831fb6&quot;,&quot;content_hash&quot;:&quot;5de04ae75b317b663c9015d081e6aa3601d390dd9f71381817068843bf415e59&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:0cd7a0f4d3215eb57a47b16ff3d482a0d33e007766907dafe4088c6defd39f57</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · bot:CCBot</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;0cd7a0f4d3215eb57a47b16ff3d482a0d33e007766907dafe4088c6defd39f57&quot;,&quot;content_hash&quot;:&quot;a8114eee3c5f447ef8f8d66fab914eaad7c3b60284ceb0f2f6de46b5193e7782&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:CCBot&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:a771f71599006a61f54899571bfa9a02897b1cc1a390e473d468347fa167f859</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · bot:ChatGPT-User</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;a771f71599006a61f54899571bfa9a02897b1cc1a390e473d468347fa167f859&quot;,&quot;content_hash&quot;:&quot;a46425f1fddf6074da3475bbb9d3187f07e692e5fa60099c78d5c90f91e8625f&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:3f3624e3a9b76e7f100190dce495f36e50332c98b0acad519256820288d74761</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · bot:ClaudeBot</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;3f3624e3a9b76e7f100190dce495f36e50332c98b0acad519256820288d74761&quot;,&quot;content_hash&quot;:&quot;1f21dc6782ddc25a2d2cc1e3aa41664f46587d5c9b67c84ad9ccfd38e89cd894&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:edf696e0ed718d66a74e905b3c772741e317c792635d3be1ba65988c07a09923</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · bot:GPTBot</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;edf696e0ed718d66a74e905b3c772741e317c792635d3be1ba65988c07a09923&quot;,&quot;content_hash&quot;:&quot;1de7a9184c73c4c0b97fca0196a659648d8d0688f5b8d06d18cf8ca020c3f189&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:7b21a92810a475e43de09c2480d1abf49b96380dd3638ce5bc34ac5dbc2f11e2</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · bot:Google-Extended</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;7b21a92810a475e43de09c2480d1abf49b96380dd3638ce5bc34ac5dbc2f11e2&quot;,&quot;content_hash&quot;:&quot;2bc454964d3cf2d7c00d379c4ff27c76af1b49603cdc51141965a8c31cac9ce8&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:ff2b363c753e5887529e704f85d6654629eae8ea8a124d41b281b54e17460efc</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · bot:OAI-SearchBot</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;ff2b363c753e5887529e704f85d6654629eae8ea8a124d41b281b54e17460efc&quot;,&quot;content_hash&quot;:&quot;3e6bfcae86155dfaa5cbee97ca614f446c012c79378f176e2bc0389df02c3d75&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:c43daf339c87f7eeae582e18bce64846370f600160326f8ac43c64136a2ad15e</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · bot:PerplexityBot</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;c43daf339c87f7eeae582e18bce64846370f600160326f8ac43c64136a2ad15e&quot;,&quot;content_hash&quot;:&quot;74e6c91abe4b8972bd36866078d997143a8c63bcc0c521c5a3c0b2f5fc7afc45&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:daa2f8911709ebc0961ad78c8141e451938fac8c35633c96d60f914504a78200</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · bot:anthropic-ai</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;daa2f8911709ebc0961ad78c8141e451938fac8c35633c96d60f914504a78200&quot;,&quot;content_hash&quot;:&quot;aa4cb8c90e697ecac21494a082a951034a773ce43a2d9a127ed7ca23fb284d61&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:c21bf1d615091a2da6d5e6462dc7c157cc3200136c6929ef6b9fc6fe3e89f0b0</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · bot:meta-externalagent</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;c21bf1d615091a2da6d5e6462dc7c157cc3200136c6929ef6b9fc6fe3e89f0b0&quot;,&quot;content_hash&quot;:&quot;d76f09dc1b427f5733e8b81f68cec32e1208faa1b5986b63440358c99d6ca256&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:559cfa8e252a55d1c9731d512a0aa478c8d816fec67af8a9655e95f33a3c0fa9</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · content_type</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;text/plain; charset=UTF-8&quot;,&quot;chain_hash&quot;:&quot;559cfa8e252a55d1c9731d512a0aa478c8d816fec67af8a9655e95f33a3c0fa9&quot;,&quot;content_hash&quot;:&quot;19e4c58a8142591fec23c9964de1145598f34b68c2730556d9587521c6a552e9&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:4a2c507400b1391dbc8683644a9198c2680e32ed02bf5ff5ed9289a245ede5cd</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · status</title>
+    <updated>2026-07-30T21:43:36.998Z</updated>
+    <category term="consent-census"/>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:403,&quot;before&quot;:200,&quot;chain_hash&quot;:&quot;4a2c507400b1391dbc8683644a9198c2680e32ed02bf5ff5ed9289a245ede5cd&quot;,&quot;content_hash&quot;:&quot;66908d7c2bf2392382b0c50578cea67709c14f60c5d09a6ef6185df632609cea&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:deal-audit-ledger:de4fab3deaccb065acc32dd065af94a8bcc79588f77c2f695ae3788b1b3fea9e</id>
     <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11740:20260525:명일동:15:삼익그린2차:42.93:9:148750 · aptDong</title>
@@ -327,84 +479,12 @@
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;together-ai&quot;,&quot;location&quot;:&quot;Amsterdam&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Software Engineer(Amsterdam)&quot;},&quot;chain_hash&quot;:&quot;7abec94ce84987773c6bf6ba4f67930e6b97d201a1fe4e504f258f637a6d5ee2&quot;,&quot;content_hash&quot;:&quot;faf78e7d1f14b33c626eca57b053ba78c2687099ff72a6394c20f7c701e7d530&quot;,&quot;entity_id&quot;:&quot;job:together-ai:5169470007&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-29T22:40:13.881Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/togetherai/jobs&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:agg:consent-census:ab6eeb22d4e4175a532308950de71e3fd6635450a7e3311dba1da54691cd6f2c</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:bbc.com:robots-txt · body</title>
-    <updated>2026-07-29T21:20:08.538Z</updated>
-    <category term="consent-census"/>
-    <link href="https://bbc.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;\n# version: a294511aea2df10f410588a60a9157e46ab994a2\n# The BBC&apos;s Terms of Use: https://www.bbc.co.uk/terms\n# - Explain the rules for using our services\n# - Tell you what you can do with our content\n#\n# In short: Please use our site like a human, not a robot.\n# That means:\n# - No scraping, crawling, or systematic extraction of content \n# - No use of BBC content for training or fine-tuning AI models, including large language models (LLMs)\n# - No retrieval-augmented generation (RAG), AI-powered search, agentic AI or grounding using BBC content\n# - No creating datasets from BBC content\n# - No text and data mining (TDM) under Article 4 of the EU Directive on Copyright in the Digital Single Market\n# - No using BBC content to create summaries for your own use\n# - No business use without permission (details: https://www.bbc.co.uk/usingthebbc/terms/can-i-use-bbc-content-for-my-business/)\n# - The BBC reserves all rights in its content and expressly opts out of any statutory exceptions in any jurisdiction for text and data mining, as permitted by law\n \n# TL;DR: Browse, read, watch, enjoy - like a human.\n#\n\n# HTTPS www.bbc.com\n\nUser-agent: *\nSitemap: https://www.bbc.com/sitemaps/https-index-com-archive.xml\nSitemap: https://www.bbc.com/sitemaps/https-index-com-news.xml\nSitemap: https://www.bbc.com/sitemaps/https-index-com-archive_video.xml\nSitemap: https://www.bbc.com/sitemaps/https-index-com-video.xml\nSitemap: https://www.bbc.com/sitemaps/sitemap-com-ws-topics.xml\nSitemap: https://www.bbc.com/sitemaps/sitemap-com-ws-topics.xml\nSitemap: https://www.bbc.com/sitemaps/world-service-homepages.xml\nSitemap: https://www.bbc.com/sport/sitemap.xml\nSitemap: https://www.bbc.com/afrique/sitemap.xml\nSitemap: https://www.bbc.com/arabic/sitemap.xml\nSitemap: https://www.bbc.com/bengali/sitemap.xml\nSitemap: https://www.bbc.com/burmese/sitemap.xml\nSitemap: https://www.bbc.com/gahuza/sitemap.xml\nSitemap: https://www.bbc.com/hausa/sitemap.xml\nSitemap: https://www.bbc.com/hindi/sitemap.xml\nSitemap: https://www.bbc.com/indonesia/sitemap.xml\nSitemap: https://www.bbc.com/mundo/sitemap.xml\nSitemap: https://www.bbc.com/pashto/sitemap.xml\nSitemap: https://www.bbc.com/persian/sitemap.xml\nSitemap: https://www.bbc.com/portuguese/sitemap.xml\nSitemap: https://www.bbc.com/russian/sitemap.xml\nSitemap: https://www.bbc.com/swahili/sitemap.xml\nSitemap: https://www.bbc.com/tajik/sitemap.xml\nSitemap: https://www.bbc.com/turkce/sitemap.xml\nSitemap: https://www.bbc.com/ukchina/simp/sitemap.xml\nSitemap: https://www.bbc.com/ukrainian/sitemap.xml\nSitemap: https://www.bbc.com/urdu/sitemap.xml\nSitemap: https://www.bbc.com/uzbek/sitemap.xml\nSitemap: https://www.bbc.com/vietnamese/sitemap.xml\nSitemap: https://www.bbc.com/zhongwen/simp/sitemap.xml\nSitemap: https://www.bbc.com/zhongwen/trad/sitemap.xml\nSitemap: https://www.bbc.com/bbcx/index_sitemap.xml\nSitemap: https://www.bbc.com/bbcx/audio_archive_sitemap.xml\nSitemap: https://www.bbc.com/bbcx/video_documentaries_sitemap.xml\nSitemap: https://www.bbc.com/bbcx/content_index_sitemap.xml\n\nDisallow: /asset/\nDisallow: /backstage/bbc-login-help/\nDisallow: /backstage/bbc-login-help$\nDisallow: /bitesize/search$\nDisallow: /bitesize/search/\nDisallow: /bitesize/search?\nDisallow: /cbbc/search/\nDisallow: /cbbc/search$\nDisallow: /cbbc/search?\nDisallow: /cbeebies/search/\nDisallow: /cbeebies/search$\nDisallow: /cbeebies/search?\nDisallow: /chwilio/\nDisallow: /chwilio$\nDisallow: /chwilio?\nDisallow: /education/blocks$\nDisallow: /education/blocks/\nDisallow: /newsround\nDisallow: /search/\nDisallow: /search$\nDisallow: /search?\nDisallow: /food/favourites\nDisallow: /food/search*?*\nDisallow: /food/recipes/search*?*\nDisallow: /education/my$\nDisallow: /education/my/\nDisallow: /bitesize/my$\nDisallow: /bitesize/my/\nDisallow: /food/recipes/*/shopping-list\nDisallow: /food/menus/*/shopping-list\nDisallow: /news/0\nDisallow: /sport/alpha/\nDisallow: /ugc$\nDisallow: /ugc/\nDisallow: /ugcsupport$\nDisallow: /ugcsupport/\nDisallow: /userinfo/\nDisallow: /userinfo\nDisallow: /u5llnop$\nDisallow: /u5llnop/\nDisallow: /sounds/search$\nDisallow: /sounds/search/\nDisallow: /sounds/search?\nDisallow: /ws/includes\nDisallow: /radio/imda\nDisallow: /storyworks/preview/*\nDisallow: /rd/search$\nDisallow: /rd/search/\nDisallow: /rd/search?\n\nUser-agent: Amazonbot\nDisallow: /\n\nUser-agent: magpie-crawler\nDisallow: /\n\nUser-agent: CCBot\nDisallow: /\n\nUser-Agent: omgili\nDisallow: /\n \nUser-Agent: omgilibot\nDisallow: /\n \nUser-agent: Claude-Web\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: anthropic-ai\nDisallow: /\n \nUser-agent: cohere-ai\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: PetalBot\nDisallow: /\n\nUser-agent: Scrapy\nDisallow: /\n\nUser-agent: Applebot-Extended\nDisallow: /\n\nUser-agent: GPTBot\nDisallow: /\nAllow: /storyworks\nAllow: /storyworks/\n\nUser-agent: ChatGPT-User\nDisallow: /\nAllow: /storyworks\nAllow: /storyworks/\n\nUser-agent: Google-Extended\nDisallow: /\nAllow: /storyworks\nAllow: /storyworks/\n\nUser-Agent: PerplexityBot\nDisallow: /\n\nUser-agent: Perplexity-User\nDisallow: /\n\nUser-agent: Google-CloudVertexBot\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\nUser-agent: OAI-SearchBot\nDisallow: /\n\nUser-agent: YandexAdditional\nDisallow: /\n\nUser-agent: YandexAdditionalBot\nDisallow: /\n\nUser-agent: TurnitinBot\nDisallow: /\n\nUser-agent: Brightbot\nDisallow: /\n\nUser-agent: ApifyBot\nDisallow: /\n\nUser-agent: ApifyWebsiteContentCrawler\nDisallow: /\n\nUser-agent: Diffbot\nDisallow: /\n\nUser-agent: Diffbot-User\nDisallow: /\n\nUser-agent: ExaBot\nDisallow: /\n\nUser-agent: TavilyBot\nDisallow: /\n\nUser-agent: ShapBot\nDisallow: /\n\nUser-agent: YouBot\nDisallow: /\n\nUser-agent: FirecrawlAgent\nDisallow: /\n\nUser-agent: Amzn-SearchBot\nDisallow: /\n\nUser-agent: Amzn-User\nDisallow: /\n\nUser-agent: ProRataInc\nDisallow: /\n\nUser-agent: CloudflareBrowserRenderingCrawler\nDisallow: /\n\nUser-agent: AhrefsBot\nDisallow: /\n&quot;,&quot;before&quot;:&quot;\n# version: df99009430a1a8f8979042c24e21e9fecd8b21cd\n# The BBC&apos;s Terms of Use: https://www.bbc.co.uk/terms\n# - Explain the rules for using our services\n# - Tell you what you can do with our content\n#\n# In short: Please use our site like a human, not a robot.\n# That means:\n# - No scraping, crawling, or systematic extraction of content \n# - No use of BBC content for training or fine-tuning AI models, including large language models (LLMs)\n# - No retrieval-augmented generation (RAG), AI-powered search, agentic AI or grounding using BBC content\n# - No creating datasets from BBC content\n# - No text and data mining (TDM) under Article 4 of the EU Directive on Copyright in the Digital Single Market\n# - No using BBC content to create summaries for your own use\n# - No business use without permission (details: https://www.bbc.co.uk/usingthebbc/terms/can-i-use-bbc-content-for-my-business/)\n# - The BBC reserves all rights in its content and expressly opts out of any statutory exceptions in any jurisdiction for text and data mining, as permitted by law\n \n# TL;DR: Browse, read, watch, enjoy - like a human.\n#\n\n# HTTPS www.bbc.com\n\nUser-agent: *\nSitemap: https://www.bbc.com/sitemaps/https-index-com-archive.xml\nSitemap: https://www.bbc.com/sitemaps/https-index-com-news.xml\nSitemap: https://www.bbc.com/sitemaps/https-index-com-archive_video.xml\nSitemap: https://www.bbc.com/sitemaps/https-index-com-video.xml\nSitemap: https://www.bbc.com/sitemaps/sitemap-com-ws-topics.xml\nSitemap: https://www.bbc.com/sitemaps/sitemap-com-ws-topics.xml\nSitemap: https://www.bbc.com/sitemaps/world-service-homepages.xml\nSitemap: https://www.bbc.com/sport/sitemap.xml\nSitemap: https://www.bbc.com/afrique/sitemap.xml\nSitemap: https://www.bbc.com/arabic/sitemap.xml\nSitemap: https://www.bbc.com/bengali/sitemap.xml\nSitemap: https://www.bbc.com/burmese/sitemap.xml\nSitemap: https://www.bbc.com/gahuza/sitemap.xml\nSitemap: https://www.bbc.com/hausa/sitemap.xml\nSitemap: https://www.bbc.com/hindi/sitemap.xml\nSitemap: https://www.bbc.com/indonesia/sitemap.xml\nSitemap: https://www.bbc.com/mundo/sitemap.xml\nSitemap: https://www.bbc.com/pashto/sitemap.xml\nSitemap: https://www.bbc.com/persian/sitemap.xml\nSitemap: https://www.bbc.com/portuguese/sitemap.xml\nSitemap: https://www.bbc.com/russian/sitemap.xml\nSitemap: https://www.bbc.com/swahili/sitemap.xml\nSitemap: https://www.bbc.com/tajik/sitemap.xml\nSitemap: https://www.bbc.com/turkce/sitemap.xml\nSitemap: https://www.bbc.com/ukchina/simp/sitemap.xml\nSitemap: https://www.bbc.com/ukrainian/sitemap.xml\nSitemap: https://www.bbc.com/urdu/sitemap.xml\nSitemap: https://www.bbc.com/uzbek/sitemap.xml\nSitemap: https://www.bbc.com/vietnamese/sitemap.xml\nSitemap: https://www.bbc.com/zhongwen/simp/sitemap.xml\nSitemap: https://www.bbc.com/zhongwen/trad/sitemap.xml\nSitemap: https://www.bbc.com/bbcx/index_sitemap.xml\nSitemap: https://www.bbc.com/bbcx/audio_archive_sitemap.xml\nSitemap: https://www.bbc.com/bbcx/video_documentaries_sitemap.xml\nSitemap: https://www.bbc.com/bbcx/content_index_sitemap.xml\n\nDisallow: /asset/\nDisallow: /backstage/bbc-login-help/\nDisallow: /backstage/bbc-login-help$\nDisallow: /bitesize/search$\nDisallow: /bitesize/search/\nDisallow: /bitesize/search?\nDisallow: /cbbc/search/\nDisallow: /cbbc/search$\nDisallow: /cbbc/search?\nDisallow: /cbeebies/search/\nDisallow: /cbeebies/search$\nDisallow: /cbeebies/search?\nDisallow: /chwilio/\nDisallow: /chwilio$\nDisallow: /chwilio?\nDisallow: /education/blocks$\nDisallow: /education/blocks/\nDisallow: /newsround\nDisallow: /search/\nDisallow: /search$\nDisallow: /search?\nDisallow: /food/favourites\nDisallow: /food/search*?*\nDisallow: /food/recipes/search*?*\nDisallow: /education/my$\nDisallow: /education/my/\nDisallow: /bitesize/my$\nDisallow: /bitesize/my/\nDisallow: /food/recipes/*/shopping-list\nDisallow: /food/menus/*/shopping-list\nDisallow: /news/0\nDisallow: /sport/alpha/\nDisallow: /ugc$\nDisallow: /ugc/\nDisallow: /ugcsupport$\nDisallow: /ugcsupport/\nDisallow: /userinfo/\nDisallow: /userinfo\nDisallow: /u5llnop$\nDisallow: /u5llnop/\nDisallow: /sounds/search$\nDisallow: /sounds/search/\nDisallow: /sounds/search?\nDisallow: /ws/includes\nDisallow: /radio/imda\nDisallow: /storyworks/preview/*\nDisallow: /rd/search$\nDisallow: /rd/search/\nDisallow: /rd/search?\n\nUser-agent: Amazonbot\nDisallow: /\n\nUser-agent: magpie-crawler\nDisallow: /\n\nUser-agent: CCBot\nDisallow: /\n\nUser-Agent: omgili\nDisallow: /\n \nUser-Agent: omgilibot\nDisallow: /\n \nUser-agent: Claude-Web\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: anthropic-ai\nDisallow: /\n \nUser-agent: cohere-ai\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: PetalBot\nDisallow: /\n\nUser-agent: Scrapy\nDisallow: /\n\nUser-agent: Applebot-Extended\nDisallow: /\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: ChatGPT-User\nDisallow: /\n\nUser-agent: Google-Extended\nDisallow: /\n\nUser-Agent: PerplexityBot\nDisallow: /\n\nUser-agent: Perplexity-User\nDisallow: /\n\nUser-agent: Google-CloudVertexBot\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\nUser-agent: OAI-SearchBot\nDisallow: /\n\nUser-agent: YandexAdditional\nDisallow: /\n\nUser-agent: YandexAdditionalBot\nDisallow: /\n\nUser-agent: TurnitinBot\nDisallow: /\n\nUser-agent: Brightbot\nDisallow: /\n\nUser-agent: ApifyBot\nDisallow: /\n\nUser-agent: ApifyWebsiteContentCrawler\nDisallow: /\n\nUser-agent: Diffbot\nDisallow: /\n\nUser-agent: Diffbot-User\nDisallow: /\n\nUser-agent: ExaBot\nDisallow: /\n\nUser-agent: TavilyBot\nDisallow: /\n\nUser-agent: ShapBot\nDisallow: /\n\nUser-agent: YouBot\nDisallow: /\n\nUser-agent: FirecrawlAgent\nDisallow: /\n\nUser-agent: Amzn-SearchBot\nDisallow: /\n\nUser-agent: Amzn-User\nDisallow: /\n\nUser-agent: ProRataInc\nDisallow: /\n\nUser-agent: CloudflareBrowserRenderingCrawler\nDisallow: /\n\nUser-agent: AhrefsBot\nDisallow: /\n&quot;,&quot;chain_hash&quot;:&quot;ab6eeb22d4e4175a532308950de71e3fd6635450a7e3311dba1da54691cd6f2c&quot;,&quot;content_hash&quot;:&quot;61b9e7b82a4e34ab70927dca0b34f39eedee6629f21441d75f78a615dbe29deb&quot;,&quot;entity_id&quot;:&quot;probe:bbc.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-07-29T21:20:08.538Z&quot;,&quot;source_url&quot;:&quot;https://bbc.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:4838270172116a43f5769716d466f75705f71bbec973de5d5b1a4e8fca3f44bf</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:bbc.com:robots-txt · body_bytes</title>
-    <updated>2026-07-29T21:20:08.538Z</updated>
-    <category term="consent-census"/>
-    <link href="https://bbc.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:5839,&quot;before&quot;:5722,&quot;chain_hash&quot;:&quot;4838270172116a43f5769716d466f75705f71bbec973de5d5b1a4e8fca3f44bf&quot;,&quot;content_hash&quot;:&quot;c8cbc5a3e514c2debd58c52f98c8907fb5e132129af5cc3da644cdc237a6339f&quot;,&quot;entity_id&quot;:&quot;probe:bbc.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-29T21:20:08.538Z&quot;,&quot;source_url&quot;:&quot;https://bbc.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:fb26b2b85777be8e91c2f8fd85a4ee20f1b3b9c3619894059a65d01dd0e87fa1</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:bbc.com:robots-txt · body_sha256</title>
-    <updated>2026-07-29T21:20:08.538Z</updated>
-    <category term="consent-census"/>
-    <link href="https://bbc.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;73f84b1043a22719713d5db55c83ff24c774059ba7d6c62709cb4e6938ae023b&quot;,&quot;before&quot;:&quot;fe6f4ccc8fa0e7ba25f359b140e7d845cf225c91b06919aee59cd0b52d68857a&quot;,&quot;chain_hash&quot;:&quot;fb26b2b85777be8e91c2f8fd85a4ee20f1b3b9c3619894059a65d01dd0e87fa1&quot;,&quot;content_hash&quot;:&quot;79c3025b34b2f695397aa0cfda1681d53f8ade220fb8f45829b415f571d23de7&quot;,&quot;entity_id&quot;:&quot;probe:bbc.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-29T21:20:08.538Z&quot;,&quot;source_url&quot;:&quot;https://bbc.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:77a35e06bf4154f4e6c8fc35b2fd40797a65af4bd3e8a53e2fe6eb714884afd7</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-07-29T21:20:08.538Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:683359,&quot;before&quot;:679931,&quot;chain_hash&quot;:&quot;77a35e06bf4154f4e6c8fc35b2fd40797a65af4bd3e8a53e2fe6eb714884afd7&quot;,&quot;content_hash&quot;:&quot;bf4730dede11394e13377fa790dc1c635232e5559e7873d3a376c8cacc1700b6&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-29T21:20:08.538Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:edd81f0718c8a4d45032bd16f63ec112d9ecb278eaa173546b41bf2d8fbfec00</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-07-29T21:20:08.538Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;c9447e89aade0028207ee345b41a027a12969fded9314d6b474119f4472848ad&quot;,&quot;before&quot;:&quot;f82ba2c73a4ec272cba04746ff7ee35dea3b47e5c86cfe0251c516771c57a30c&quot;,&quot;chain_hash&quot;:&quot;edd81f0718c8a4d45032bd16f63ec112d9ecb278eaa173546b41bf2d8fbfec00&quot;,&quot;content_hash&quot;:&quot;84890926ae6e91afe5864858b750a318793fb9f93cd2be324b40d48f6db194d4&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-29T21:20:08.538Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:8bac295358c13d2a4aa7d83b9e22c8ccf1ab09e2917fff2d50a459deb50d95ba</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wired.com:robots-txt · body</title>
-    <updated>2026-07-29T21:20:08.538Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wired.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;Sitemap: https://www.wired.com/sitemap.xml\nSitemap: https://www.wired.com/tagpages-sitemap.xml\nSitemap: https://www.wired.com/contributors-sitemap.xml\nSitemap: https://www.wired.com/bundles-sitemap.xml\nSitemap: https://www.wired.com/branded-sitemap.xml\nSitemap: https://www.wired.com/feed/google-latest-news/sitemap-google-news\nSitemap: https://www.wired.com/feed/rss\n\nUser-agent: *\nDisallow: /*?\nAllow: /*?page\nAllow: /*.xml?\nAllow: /*.js\nAllow: /*.css\nAllow: /*.ico\nAllow: /verso/static\nAllow: /*.svg\nAllow: /*.png\nAllow: /*.jpg\nAllow: /*.jpeg\nAllow: /*rss?\nAllow: /*?id=\nDisallow: /auth/\nDisallow: /account/\nDisallow: /user/\nDisallow: /user-context\nDisallow: /preview/\nDisallow: /search\nDisallow: /product/\nDisallow: /cdn-cgi/\nDisallow: /services.min.js\nDisallow: /com.condenast/yv8\n\n###\nAllow: /v2/offers/wira\nAllow: /*?*utm_medium=social\nAllow: /*?*utm_medium=syndication\nAllow: /*?ref=\nAllow: /story/madison-square-garden-jim-dolan-surveillance-machine/?src\nDisallow: */testing-products-\n###\n\nUser-agent: FacebookExternalHit\nUser-agent: Twitterbot\nUser-agent: Pinterestbot\nUser-agent: LinkedInBot\nUser-agent: TikTokSpider\nUser-agent: Storebot-Google\nUser-agent: Google-InspectionTool\nUser-agent: AmazonAdBot\nAllow: /\n\nUser-agent: Google-Extended\nUser-agent: Google-CloudVertexBot\nUser-agent: GoogleOther\nUser-agent: Applebot-Extended\nUser-agent: Amazonbot\nUser-agent: meta-webindexer\nUser-agent: meta-externalagent\nUser-agent: meta-externalfetcher\nUser-agent: ClaudeBot\nUser-agent: Claude-SearchBot\nUser-agent: Claude-User\nUser-agent: PerplexityBot\nUser-agent: Perplexity-User\nUser-agent: cohere-training-data-crawler\nUser-agent: cohere-ai\nUser-agent: CCBot\nUser-agent: PanguBot\nUser-agent: PetalBot\nUser-agent: Bytespider\nUser-agent: Diffbot\nUser-agent: DuckAssistBot\nUser-agent: MistralAI-User\nUser-agent: Timpibot\nUser-agent: Webzio\nUser-agent: Webzio-Extended\nUser-agent: archive.org_bot\nUser-agent: ia_archiver\nUser-agent: ia_archiver-web.archive.org\nUser-agent: heritrix\nDisallow: /&quot;,&quot;before&quot;:&quot;Sitemap: https://www.wired.com/sitemap.xml\nSitemap: https://www.wired.com/tagpages-sitemap.xml\nSitemap: https://www.wired.com/contributors-sitemap.xml\nSitemap: https://www.wired.com/bundles-sitemap.xml\nSitemap: https://www.wired.com/branded-sitemap.xml\nSitemap: https://www.wired.com/feed/google-latest-news/sitemap-google-news\nSitemap: https://www.wired.com/feed/rss\n\nUser-agent: *\nDisallow: /*?\nAllow: /*?page\nAllow: /*.xml?\nAllow: /*.js\nAllow: /*.css\nAllow: /*.ico\nAllow: /verso/static\nAllow: /*.svg\nAllow: /*.png\nAllow: /*.jpg\nAllow: /*.jpeg\nAllow: /*rss?\nAllow: /*?id=\nDisallow: /auth/\nDisallow: /account/\nDisallow: /user/\nDisallow: /user-context\nDisallow: /preview/\nDisallow: /search\nDisallow: /product/\nDisallow: /cdn-cgi/\nDisallow: /services.min.js\nDisallow: /com.condenast/yv8\n\n###\nAllow: /v2/offers/wira\nAllow: /*?*utm_medium=social\nAllow: /*?ref=\nAllow: /story/madison-square-garden-jim-dolan-surveillance-machine/?src\nDisallow: */testing-products-\n###\n\nUser-agent: FacebookExternalHit\nUser-agent: Twitterbot\nUser-agent: Pinterestbot\nUser-agent: LinkedInBot\nUser-agent: TikTokSpider\nUser-agent: Storebot-Google\nUser-agent: Google-InspectionTool\nUser-agent: AmazonAdBot\nAllow: /\n\nUser-agent: Google-Extended\nUser-agent: Google-CloudVertexBot\nUser-agent: GoogleOther\nUser-agent: Applebot-Extended\nUser-agent: Amazonbot\nUser-agent: meta-webindexer\nUser-agent: meta-externalagent\nUser-agent: meta-externalfetcher\nUser-agent: ClaudeBot\nUser-agent: Claude-SearchBot\nUser-agent: Claude-User\nUser-agent: PerplexityBot\nUser-agent: Perplexity-User\nUser-agent: cohere-training-data-crawler\nUser-agent: cohere-ai\nUser-agent: CCBot\nUser-agent: PanguBot\nUser-agent: PetalBot\nUser-agent: Bytespider\nUser-agent: Diffbot\nUser-agent: DuckAssistBot\nUser-agent: MistralAI-User\nUser-agent: Timpibot\nUser-agent: Webzio\nUser-agent: Webzio-Extended\nUser-agent: archive.org_bot\nUser-agent: ia_archiver\nUser-agent: ia_archiver-web.archive.org\nUser-agent: heritrix\nDisallow: /&quot;,&quot;chain_hash&quot;:&quot;8bac295358c13d2a4aa7d83b9e22c8ccf1ab09e2917fff2d50a459deb50d95ba&quot;,&quot;content_hash&quot;:&quot;986cb8cffa8227ec92ed1f8a97812a12bf6e6a4a43047c0200209af4e10cb8bd&quot;,&quot;entity_id&quot;:&quot;probe:wired.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-07-29T21:20:08.538Z&quot;,&quot;source_url&quot;:&quot;https://wired.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:967bb50f18b8d4858d6c779312189bb99985d724f40a41a6b7fbc53f99a6fae5</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wired.com:robots-txt · body_bytes</title>
-    <updated>2026-07-29T21:20:08.538Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wired.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:1994,&quot;before&quot;:1960,&quot;chain_hash&quot;:&quot;967bb50f18b8d4858d6c779312189bb99985d724f40a41a6b7fbc53f99a6fae5&quot;,&quot;content_hash&quot;:&quot;e6b1c37c7354817ff96b93958346e39e3d30ef2cdab513d90446ca1483201ad7&quot;,&quot;entity_id&quot;:&quot;probe:wired.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-29T21:20:08.538Z&quot;,&quot;source_url&quot;:&quot;https://wired.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
     <id>urn:chronicle:agg:consent-census:8312af90d197787b01b84720db036778f5ca72653e68e6e261ef297ea2c82c13</id>
     <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wired.com:robots-txt · body_sha256</title>
     <updated>2026-07-29T21:20:08.538Z</updated>
     <category term="consent-census"/>
     <link href="https://wired.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:&quot;7e12f9d93a8a761a7a830a5e692bbef07f49957afed97b59ddcc60018b1a858a&quot;,&quot;before&quot;:&quot;e7d6acb8f3ba44b6d6343f0b2df0ba3010c1094ff307597cb84868302a590e50&quot;,&quot;chain_hash&quot;:&quot;8312af90d197787b01b84720db036778f5ca72653e68e6e261ef297ea2c82c13&quot;,&quot;content_hash&quot;:&quot;d4bd44a5294f02b8c48e92ef5e7d29c6f2174681a346865b54b647c999fe5bad&quot;,&quot;entity_id&quot;:&quot;probe:wired.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-29T21:20:08.538Z&quot;,&quot;source_url&quot;:&quot;https://wired.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:7d44527d84080c552128db62dd436aa7239658902b98d8891153e4eb881611b7</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-07-28T21:40:52.494Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:679931,&quot;before&quot;:679284,&quot;chain_hash&quot;:&quot;7d44527d84080c552128db62dd436aa7239658902b98d8891153e4eb881611b7&quot;,&quot;content_hash&quot;:&quot;b55ccad8ba7cda699c26d6466317bcf52ce337c6bddea9949b0b939df332f9ac&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-28T21:40:52.494Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:748cb5321362a480fa0fd439cab379c85a236d04aa78fee10bca5a0bf8ae1752</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-07-28T21:40:52.494Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;f82ba2c73a4ec272cba04746ff7ee35dea3b47e5c86cfe0251c516771c57a30c&quot;,&quot;before&quot;:&quot;76931f62104e7202f02553739c22f513f452858e1c84184b4b8a83efe58b05a7&quot;,&quot;chain_hash&quot;:&quot;748cb5321362a480fa0fd439cab379c85a236d04aa78fee10bca5a0bf8ae1752&quot;,&quot;content_hash&quot;:&quot;d2b5de2b32da64525715127e787da7245378e2edd570b5936ea9d774df596b2e&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-28T21:40:52.494Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:bunyang-capsule:e0237a134aeacc0e199a84381902eb42b6b5178db41da59f4a0312e22f323412</id>
@@ -437,22 +517,6 @@
     <category term="bunyang-capsule"/>
     <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000295&amp;pblancNo=2026000295"/>
     <content type="text">{&quot;after&quot;:{&quot;BSNS_MBY_NM&quot;:&quot;주식회사 이지건설&quot;,&quot;CNSTRCT_ENTRPS_NM&quot;:&quot;주식회사 라인산업&quot;,&quot;CNTRCT_CNCLS_BGNDE&quot;:&quot;2026-08-22&quot;,&quot;CNTRCT_CNCLS_ENDDE&quot;:&quot;2026-08-24&quot;,&quot;GNRL_RNK1_CRSPAREA_ENDDE&quot;:&quot;2026-08-04&quot;,&quot;GNRL_RNK1_CRSPAREA_RCPTDE&quot;:&quot;2026-08-04&quot;,&quot;GNRL_RNK1_ETC_AREA_ENDDE&quot;:&quot;2026-08-04&quot;,&quot;GNRL_RNK1_ETC_AREA_RCPTDE&quot;:&quot;2026-08-04&quot;,&quot;GNRL_RNK1_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK1_ETC_GG_RCPTDE&quot;:null,&quot;GNRL_RNK2_CRSPAREA_ENDDE&quot;:&quot;2026-08-05&quot;,&quot;GNRL_RNK2_CRSPAREA_RCPTDE&quot;:&quot;2026-08-05&quot;,&quot;GNRL_RNK2_ETC_AREA_ENDDE&quot;:&quot;2026-08-05&quot;,&quot;GNRL_RNK2_ETC_AREA_RCPTDE&quot;:&quot;2026-08-05&quot;,&quot;GNRL_RNK2_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK2_ETC_GG_RCPTDE&quot;:null,&quot;HMPG_ADRES&quot;:&quot;https://아산테크노밸리더원7차.com&quot;,&quot;HOUSE_DTL_SECD&quot;:&quot;01&quot;,&quot;HOUSE_DTL_SECD_NM&quot;:&quot;민영&quot;,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026000295&quot;,&quot;HOUSE_NM&quot;:&quot;아산테크노밸리 더원 7차 (Ab4BL)&quot;,&quot;HOUSE_SECD&quot;:&quot;01&quot;,&quot;HOUSE_SECD_NM&quot;:&quot;APT&quot;,&quot;HSSPLY_ADRES&quot;:&quot;충청남도 아산시 둔포면 아산테크노밸리 Ab4BL (아산시 둔포면 석곡리 1818번지 일원)&quot;,&quot;HSSPLY_ZIP&quot;:&quot;31406&quot;,&quot;IMPRMN_BSNS_AT&quot;:&quot;N&quot;,&quot;LRSCL_BLDLND_AT&quot;:&quot;N&quot;,&quot;MDAT_TRGET_AREA_SECD&quot;:&quot;N&quot;,&quot;MDHS_TELNO&quot;:&quot;0415430622&quot;,&quot;MVN_PREARNGE_YM&quot;:&quot;202901&quot;,&quot;NPLN_PRVOPR_PUBLIC_HOUSE_AT&quot;:&quot;N&quot;,&quot;NSPRC_NM&quot;:null,&quot;PARCPRC_ULS_AT&quot;:&quot;Y&quot;,&quot;PBLANC_NO&quot;:&quot;2026000295&quot;,&quot;PBLANC_URL&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000295&amp;pblancNo=2026000295&quot;,&quot;PRZWNER_PRESNATN_DE&quot;:&quot;2026-08-11&quot;,&quot;PUBLIC_HOUSE_EARTH_AT&quot;:&quot;N&quot;,&quot;PUBLIC_HOUSE_SPCLW_APPLC_AT&quot;:&quot;N&quot;,&quot;RCEPT_BGNDE&quot;:&quot;2026-08-03&quot;,&quot;RCEPT_ENDDE&quot;:&quot;2026-08-05&quot;,&quot;RCRIT_PBLANC_DE&quot;:&quot;2026-07-27&quot;,&quot;RENT_SECD&quot;:&quot;0&quot;,&quot;RENT_SECD_NM&quot;:&quot;분양주택&quot;,&quot;SPECLT_RDN_EARTH_AT&quot;:&quot;N&quot;,&quot;SPSPLY_RCEPT_BGNDE&quot;:&quot;2026-08-03&quot;,&quot;SPSPLY_RCEPT_ENDDE&quot;:&quot;2026-08-03&quot;,&quot;SUBSCRPT_AREA_CODE&quot;:&quot;312&quot;,&quot;SUBSCRPT_AREA_CODE_NM&quot;:&quot;충남&quot;,&quot;TOT_SUPLY_HSHLDCO&quot;:622,&quot;_chronicle_window_date&quot;:&quot;2026-07-27&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;d2c7348dd5a16f1a80c6928946a27fb8cf27c20f1d2c59dcb819fb80c4e90545&quot;,&quot;content_hash&quot;:&quot;d25b8e8d982fd96c5af7086066bb8d1ba572304cfbe67b1efb49fc0789f0de95&quot;,&quot;entity_id&quot;:&quot;apt:2026000295:2026000295&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-27T22:45:38.439Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000295&amp;pblancNo=2026000295&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:2de605daf25033b4f37f717f1b50c8531cc6167111024b4d027b69470b16dc57</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-07-27T21:36:40.221Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:679284,&quot;before&quot;:681597,&quot;chain_hash&quot;:&quot;2de605daf25033b4f37f717f1b50c8531cc6167111024b4d027b69470b16dc57&quot;,&quot;content_hash&quot;:&quot;632b1187341049bbdd2da203cba5837d3256d64f757af2f3a4b9d87b9cb8e3a4&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-27T21:36:40.221Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:44f98e1173e952613dccb3c188bbcd5eec504cadf02124de16706c3197a9afdc</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-07-27T21:36:40.221Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;76931f62104e7202f02553739c22f513f452858e1c84184b4b8a83efe58b05a7&quot;,&quot;before&quot;:&quot;31fd21717d31a4719fa9e6d41579db3e132eaddf44a50dbdd669c478365d2f0b&quot;,&quot;chain_hash&quot;:&quot;44f98e1173e952613dccb3c188bbcd5eec504cadf02124de16706c3197a9afdc&quot;,&quot;content_hash&quot;:&quot;46a0c583c5b18e1913265369a6707e529b31bdc9f7c7c42947cf26d67ab808cb&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-27T21:36:40.221Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:commitments-watch:a170eb1fe77f23c72a441a16a4ca047261480048c07571b303541fb4406a4d0a</id>
@@ -661,38 +725,6 @@
     <category term="mcp-census"/>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;dedd1df9632976f7026233e51f9a8fba2654842e5a221d6a33b8a8466a8ecc58&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;b903637c2723ce1ca65f1c473fba48b0fa23fe452d9b5352b75b9696679be562&quot;,&quot;content_hash&quot;:&quot;1ef973ca3f3d0f579e2b5ae7967ec56dfd8c4e7f6c74176baebf7f996b15ca48&quot;,&quot;entity_id&quot;:&quot;server:io.sifthq/sift&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-26T21:31:25.078Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:7c53495ce3df9c9724fc0b8123a3456f8dc789d963da7ae1a47d013508f3377b</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-07-26T21:25:42.032Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:681597,&quot;before&quot;:688914,&quot;chain_hash&quot;:&quot;7c53495ce3df9c9724fc0b8123a3456f8dc789d963da7ae1a47d013508f3377b&quot;,&quot;content_hash&quot;:&quot;d9eed2a2e40b98a6ca101d3f44078949b53cbb366ff064f6ce515da09782593f&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-26T21:25:42.032Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:5154b4a475fe50959c786b2d747f0dd5479c61fd78660ec9b6d455aafcba2658</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-07-26T21:25:42.032Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;31fd21717d31a4719fa9e6d41579db3e132eaddf44a50dbdd669c478365d2f0b&quot;,&quot;before&quot;:&quot;53acc4fec0afd21f4084d9386323bede4b2900984e3345d6885da511ae114657&quot;,&quot;chain_hash&quot;:&quot;5154b4a475fe50959c786b2d747f0dd5479c61fd78660ec9b6d455aafcba2658&quot;,&quot;content_hash&quot;:&quot;b24d1757ae3dff2bdd74219177af8836ca94f0e3bad632fe6582938d754e8686&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-26T21:25:42.032Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:b3d07916b755331fc94345256630e671ce1e3800be34f6356e115b13d18e30f9</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-07-25T21:16:18.557Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:688914,&quot;before&quot;:679555,&quot;chain_hash&quot;:&quot;b3d07916b755331fc94345256630e671ce1e3800be34f6356e115b13d18e30f9&quot;,&quot;content_hash&quot;:&quot;4f8313ea1bf803d65ab12c0993a0a94d9b359a36cc8bf3c59bae866e80cf4503&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:16:18.557Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:76f0d866b1a280d08603a188025a4ee007eb6517cefc99e4d9d0fe158898b84d</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-07-25T21:16:18.557Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;53acc4fec0afd21f4084d9386323bede4b2900984e3345d6885da511ae114657&quot;,&quot;before&quot;:&quot;bb967241caf5dd204d57f7d31d89c9da8a3ac503dc606139df2e151850ed2539&quot;,&quot;chain_hash&quot;:&quot;76f0d866b1a280d08603a188025a4ee007eb6517cefc99e4d9d0fe158898b84d&quot;,&quot;content_hash&quot;:&quot;045b8449d33868bbf85462663ab4ce40880533f986b24799334c0726ba33c5b5&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:16:18.557Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:ai-vendor-ledger:12141823387f86231f1f41b48fb6a1997ebe4a17bc19e8b4376d422c0b75486a</id>
@@ -933,37 +965,5 @@
     <category term="bunyang-capsule"/>
     <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000318&amp;pblancNo=2026000318"/>
     <content type="text">{&quot;after&quot;:{&quot;ETC_HSHLDCO&quot;:0,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026000318&quot;,&quot;HOUSE_TY&quot;:&quot;084.4817 &quot;,&quot;INSTT_RECOMEND_HSHLDCO&quot;:5,&quot;LFE_FRST_HSHLDCO&quot;:4,&quot;LTTOT_TOP_AMOUNT&quot;:&quot;84900&quot;,&quot;MNYCH_HSHLDCO&quot;:5,&quot;MODEL_NO&quot;:&quot;03&quot;,&quot;NWBB_HSHLDCO&quot;:5,&quot;NWWDS_HSHLDCO&quot;:8,&quot;OLD_PARNTS_SUPORT_HSHLDCO&quot;:2,&quot;PBLANC_NO&quot;:&quot;2026000318&quot;,&quot;SPSPLY_HSHLDCO&quot;:29,&quot;SUPLY_AR&quot;:&quot;114.2913&quot;,&quot;SUPLY_HSHLDCO&quot;:18,&quot;TRANSR_INSTT_ENFSN_HSHLDCO&quot;:0,&quot;YGMN_HSHLDCO&quot;:0,&quot;_chronicle_window_date&quot;:&quot;2026-07-24&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;274fb0ad4e69226c03eb0b09cb720301b4d6bb97452f178f0f2f5e0de43cca6b&quot;,&quot;content_hash&quot;:&quot;8a15b50c15e78578212080e927318d8556cb2d87e106f57c6110da6ec0d9c7dd&quot;,&quot;entity_id&quot;:&quot;apt-mdl:2026000318:2026000318:03&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-24T22:46:01.267Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000318&amp;pblancNo=2026000318&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:bunyang-capsule:10531da40f6ff8f8f35b13e997ec5dac5424061a808f65cf2a5341d45224fac1</id>
-    <title>[청약홈 APT 분양공고·주택형별 분양가 일간 박제] [신규] apt-mdl:2026000331:2026000331:01</title>
-    <updated>2026-07-24T22:46:01.267Z</updated>
-    <category term="bunyang-capsule"/>
-    <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000331&amp;pblancNo=2026000331"/>
-    <content type="text">{&quot;after&quot;:{&quot;ETC_HSHLDCO&quot;:0,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026000331&quot;,&quot;HOUSE_TY&quot;:&quot;084.7551A&quot;,&quot;INSTT_RECOMEND_HSHLDCO&quot;:94,&quot;LFE_FRST_HSHLDCO&quot;:66,&quot;LTTOT_TOP_AMOUNT&quot;:&quot;52900&quot;,&quot;MNYCH_HSHLDCO&quot;:94,&quot;MODEL_NO&quot;:&quot;01&quot;,&quot;NWBB_HSHLDCO&quot;:94,&quot;NWWDS_HSHLDCO&quot;:141,&quot;OLD_PARNTS_SUPORT_HSHLDCO&quot;:28,&quot;PBLANC_NO&quot;:&quot;2026000331&quot;,&quot;SPSPLY_HSHLDCO&quot;:517,&quot;SUPLY_AR&quot;:&quot;110.3590&quot;,&quot;SUPLY_HSHLDCO&quot;:426,&quot;TRANSR_INSTT_ENFSN_HSHLDCO&quot;:0,&quot;YGMN_HSHLDCO&quot;:0,&quot;_chronicle_window_date&quot;:&quot;2026-07-24&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;10531da40f6ff8f8f35b13e997ec5dac5424061a808f65cf2a5341d45224fac1&quot;,&quot;content_hash&quot;:&quot;007b78e1318b359fe7c1548d03d444fc4eb68f127b1bae96befe291bef376398&quot;,&quot;entity_id&quot;:&quot;apt-mdl:2026000331:2026000331:01&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-24T22:46:01.267Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000331&amp;pblancNo=2026000331&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:bunyang-capsule:c47d059b9d182b0bd14e988c483ee1c857b0c0302a3ceae3e332b70506a8c552</id>
-    <title>[청약홈 APT 분양공고·주택형별 분양가 일간 박제] [신규] apt-mdl:2026000331:2026000331:02</title>
-    <updated>2026-07-24T22:46:01.267Z</updated>
-    <category term="bunyang-capsule"/>
-    <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000331&amp;pblancNo=2026000331"/>
-    <content type="text">{&quot;after&quot;:{&quot;ETC_HSHLDCO&quot;:0,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026000331&quot;,&quot;HOUSE_TY&quot;:&quot;084.8937B&quot;,&quot;INSTT_RECOMEND_HSHLDCO&quot;:28,&quot;LFE_FRST_HSHLDCO&quot;:20,&quot;LTTOT_TOP_AMOUNT&quot;:&quot;52900&quot;,&quot;MNYCH_HSHLDCO&quot;:28,&quot;MODEL_NO&quot;:&quot;02&quot;,&quot;NWBB_HSHLDCO&quot;:28,&quot;NWWDS_HSHLDCO&quot;:42,&quot;OLD_PARNTS_SUPORT_HSHLDCO&quot;:8,&quot;PBLANC_NO&quot;:&quot;2026000331&quot;,&quot;SPSPLY_HSHLDCO&quot;:154,&quot;SUPLY_AR&quot;:&quot;111.6342&quot;,&quot;SUPLY_HSHLDCO&quot;:126,&quot;TRANSR_INSTT_ENFSN_HSHLDCO&quot;:0,&quot;YGMN_HSHLDCO&quot;:0,&quot;_chronicle_window_date&quot;:&quot;2026-07-24&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;c47d059b9d182b0bd14e988c483ee1c857b0c0302a3ceae3e332b70506a8c552&quot;,&quot;content_hash&quot;:&quot;92f9798f755f897aeb7928877f0c2e69d13b7162cee2165f4173786089559c4c&quot;,&quot;entity_id&quot;:&quot;apt-mdl:2026000331:2026000331:02&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-24T22:46:01.267Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000331&amp;pblancNo=2026000331&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:bunyang-capsule:38f0b919adf82e9239e6082087e8c2a4266e78f73382274492d0438cffe499d7</id>
-    <title>[청약홈 APT 분양공고·주택형별 분양가 일간 박제] [신규] apt-mdl:2026000331:2026000331:03</title>
-    <updated>2026-07-24T22:46:01.267Z</updated>
-    <category term="bunyang-capsule"/>
-    <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000331&amp;pblancNo=2026000331"/>
-    <content type="text">{&quot;after&quot;:{&quot;ETC_HSHLDCO&quot;:0,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026000331&quot;,&quot;HOUSE_TY&quot;:&quot;099.8024 &quot;,&quot;INSTT_RECOMEND_HSHLDCO&quot;:0,&quot;LFE_FRST_HSHLDCO&quot;:0,&quot;LTTOT_TOP_AMOUNT&quot;:&quot;71035&quot;,&quot;MNYCH_HSHLDCO&quot;:8,&quot;MODEL_NO&quot;:&quot;03&quot;,&quot;NWBB_HSHLDCO&quot;:0,&quot;NWWDS_HSHLDCO&quot;:0,&quot;OLD_PARNTS_SUPORT_HSHLDCO&quot;:3,&quot;PBLANC_NO&quot;:&quot;2026000331&quot;,&quot;SPSPLY_HSHLDCO&quot;:11,&quot;SUPLY_AR&quot;:&quot;130.1616&quot;,&quot;SUPLY_HSHLDCO&quot;:73,&quot;TRANSR_INSTT_ENFSN_HSHLDCO&quot;:0,&quot;YGMN_HSHLDCO&quot;:0,&quot;_chronicle_window_date&quot;:&quot;2026-07-24&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;38f0b919adf82e9239e6082087e8c2a4266e78f73382274492d0438cffe499d7&quot;,&quot;content_hash&quot;:&quot;888cbd9b6253bb2f2361274eefba20cf79e17d734f8b47a91a3aef44bf3168f0&quot;,&quot;entity_id&quot;:&quot;apt-mdl:2026000331:2026000331:03&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-24T22:46:01.267Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000331&amp;pblancNo=2026000331&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:bunyang-capsule:a54ef3d8ebaf2a3183177ed7dffaff8179d4ffac0125835edccfedda3d06bf6b</id>
-    <title>[청약홈 APT 분양공고·주택형별 분양가 일간 박제] [신규] apt:2026000293:2026000293</title>
-    <updated>2026-07-24T22:46:01.267Z</updated>
-    <category term="bunyang-capsule"/>
-    <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000293&amp;pblancNo=2026000293"/>
-    <content type="text">{&quot;after&quot;:{&quot;BSNS_MBY_NM&quot;:&quot;주식회사파이오니아강릉&quot;,&quot;CNSTRCT_ENTRPS_NM&quot;:&quot;태원건설산업(주) 외 2&quot;,&quot;CNTRCT_CNCLS_BGNDE&quot;:&quot;2026-08-24&quot;,&quot;CNTRCT_CNCLS_ENDDE&quot;:&quot;2026-08-26&quot;,&quot;GNRL_RNK1_CRSPAREA_ENDDE&quot;:&quot;2026-08-04&quot;,&quot;GNRL_RNK1_CRSPAREA_RCPTDE&quot;:&quot;2026-08-04&quot;,&quot;GNRL_RNK1_ETC_AREA_ENDDE&quot;:&quot;2026-08-04&quot;,&quot;GNRL_RNK1_ETC_AREA_RCPTDE&quot;:&quot;2026-08-04&quot;,&quot;GNRL_RNK1_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK1_ETC_GG_RCPTDE&quot;:null,&quot;GNRL_RNK2_CRSPAREA_ENDDE&quot;:&quot;2026-08-05&quot;,&quot;GNRL_RNK2_CRSPAREA_RCPTDE&quot;:&quot;2026-08-05&quot;,&quot;GNRL_RNK2_ETC_AREA_ENDDE&quot;:&quot;2026-08-05&quot;,&quot;GNRL_RNK2_ETC_AREA_RCPTDE&quot;:&quot;2026-08-05&quot;,&quot;GNRL_RNK2_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK2_ETC_GG_RCPTDE&quot;:null,&quot;HMPG_ADRES&quot;:&quot;https://www.richesse302.com&quot;,&quot;HOUSE_DTL_SECD&quot;:&quot;01&quot;,&quot;HOUSE_DTL_SECD_NM&quot;:&quot;민영&quot;,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026000293&quot;,&quot;HOUSE_NM&quot;:&quot;리쉐스302&quot;,&quot;HOUSE_SECD&quot;:&quot;01&quot;,&quot;HOUSE_SECD_NM&quot;:&quot;APT&quot;,&quot;HSSPLY_ADRES&quot;:&quot;강원특별자치도 강릉시 교동 156-35번지 일원&quot;,&quot;HSSPLY_ZIP&quot;:&quot;25491&quot;,&quot;IMPRMN_BSNS_AT&quot;:&quot;N&quot;,&quot;LRSCL_BLDLND_AT&quot;:&quot;N&quot;,&quot;MDAT_TRGET_AREA_SECD&quot;:&quot;N&quot;,&quot;MDHS_TELNO&quot;:&quot;0336433020&quot;,&quot;MVN_PREARNGE_YM&quot;:&quot;202909&quot;,&quot;NPLN_PRVOPR_PUBLIC_HOUSE_AT&quot;:&quot;N&quot;,&quot;NSPRC_NM&quot;:&quot;선경일보&quot;,&quot;PARCPRC_ULS_AT&quot;:&quot;N&quot;,&quot;PBLANC_NO&quot;:&quot;2026000293&quot;,&quot;PBLANC_URL&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000293&amp;pblancNo=2026000293&quot;,&quot;PRZWNER_PRESNATN_DE&quot;:&quot;2026-08-11&quot;,&quot;PUBLIC_HOUSE_EARTH_AT&quot;:&quot;N&quot;,&quot;PUBLIC_HOUSE_SPCLW_APPLC_AT&quot;:&quot;N&quot;,&quot;RCEPT_BGNDE&quot;:&quot;2026-08-03&quot;,&quot;RCEPT_ENDDE&quot;:&quot;2026-08-05&quot;,&quot;RCRIT_PBLANC_DE&quot;:&quot;2026-07-24&quot;,&quot;RENT_SECD&quot;:&quot;0&quot;,&quot;RENT_SECD_NM&quot;:&quot;분양주택&quot;,&quot;SPECLT_RDN_EARTH_AT&quot;:&quot;N&quot;,&quot;SPSPLY_RCEPT_BGNDE&quot;:&quot;2026-08-03&quot;,&quot;SPSPLY_RCEPT_ENDDE&quot;:&quot;2026-08-03&quot;,&quot;SUBSCRPT_AREA_CODE&quot;:&quot;200&quot;,&quot;SUBSCRPT_AREA_CODE_NM&quot;:&quot;강원&quot;,&quot;TOT_SUPLY_HSHLDCO&quot;:302,&quot;_chronicle_window_date&quot;:&quot;2026-07-24&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;a54ef3d8ebaf2a3183177ed7dffaff8179d4ffac0125835edccfedda3d06bf6b&quot;,&quot;content_hash&quot;:&quot;98338f67766b68c8ef2a742aea65f379db7960e5152b4b63e20e8eae959a6758&quot;,&quot;entity_id&quot;:&quot;apt:2026000293:2026000293&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-24T22:46:01.267Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000293&amp;pblancNo=2026000293&quot;}</content>
   </entry>
 </feed>
