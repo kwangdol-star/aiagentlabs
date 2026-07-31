@@ -199,8 +199,8 @@
     },
     "probe:daum.net:llms-txt": {
       "fields": {
-        "body_bytes": 679447,
-        "body_sha256": "a6647a778cca87a344820d7b4c3269c53ca59c34483dd2db55b19ba81ad06ba8",
+        "body_bytes": 676561,
+        "body_sha256": "eb50e355fabcab35a12a5a6a536965a86191a4314825decfe4ac0ea26ed30596",
         "content_type": "text/html",
         "status": 200
       },
@@ -324,7 +324,23 @@
     },
     "probe:hani.co.kr:robots-txt": {
       "fields": {
-        "status": 403
+        "body": "User-agent: *\nDisallow: /arti/PRINT/\nDisallow: /fortunes/result\nDisallow: /arti/PREVIEW/\nDisallow: /api/\nDisallow: /test/\n\nUser-agent: GPTBot\nUser-agent: Bytespider\nUser-agent: Amazonbot\nUser-agent: ClaudeBot\nUser-agent: BLP_bbot\nUser-agent: Slackbot\nDisallow: /\n\n\nSitemap: https://www.hani.co.kr/sitemap/sections",
+        "body_bytes": 313,
+        "body_sha256": "c6ba2cacd32228379929777a9a47cd7e255b891bbe0ac354c6558487bf721520",
+        "bot:Amazonbot": "blocked",
+        "bot:Applebot-Extended": "absent",
+        "bot:Bytespider": "blocked",
+        "bot:CCBot": "absent",
+        "bot:ChatGPT-User": "absent",
+        "bot:ClaudeBot": "blocked",
+        "bot:GPTBot": "blocked",
+        "bot:Google-Extended": "absent",
+        "bot:OAI-SearchBot": "absent",
+        "bot:PerplexityBot": "absent",
+        "bot:anthropic-ai": "absent",
+        "bot:meta-externalagent": "absent",
+        "content_type": "text/plain; charset=UTF-8",
+        "status": 200
       },
       "source_url": "https://hani.co.kr/robots.txt"
     },
@@ -674,7 +690,7 @@
     },
     "probe:stackoverflow.com:llms-txt": {
       "fields": {
-        "status": 404
+        "status": 403
       },
       "source_url": "https://stackoverflow.com/llms.txt"
     },
@@ -916,5 +932,5 @@
     }
   },
   "source_id": "consent-census",
-  "updated_at": "2026-07-30T21:43:36.998Z"
+  "updated_at": "2026-07-31T21:37:18.220Z"
 }
