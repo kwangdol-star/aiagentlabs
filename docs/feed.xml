@@ -3,9 +3,169 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-07-31T23:26:13.430Z</updated>
+  <updated>2026-08-01T21:02:06.696Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:2bc69cd32d47ec2175c51d9ace186d36f25ec9054b06233400e8e6d6bd03d58e</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [신규] model:qwen/qwen3.7-flash</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:{&quot;context_length&quot;:1000000,&quot;modality&quot;:&quot;text+image+video-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3.7 Flash&quot;,&quot;price_completion&quot;:&quot;0.00000013&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000003&quot;,&quot;price_request&quot;:null},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;2bc69cd32d47ec2175c51d9ace186d36f25ec9054b06233400e8e6d6bd03d58e&quot;,&quot;content_hash&quot;:&quot;a27fb65d62e8e1eca4196cbb264c43044bc70b9cdf6cfa1d5925c042cc04fc16&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3.7-flash&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:79e729bbc2e781117f04aad89193b2f612a38a151e1fa78686d13a6d49a98f42</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:thedrummer/unslopnemo-12b · context_length</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:1024000,&quot;before&quot;:32768,&quot;chain_hash&quot;:&quot;79e729bbc2e781117f04aad89193b2f612a38a151e1fa78686d13a6d49a98f42&quot;,&quot;content_hash&quot;:&quot;41eedf87d257316b1f9adee186cf6196373d02c0cfe2259472efc79d5cb30a4d&quot;,&quot;entity_id&quot;:&quot;model:thedrummer/unslopnemo-12b&quot;,&quot;field&quot;:&quot;context_length&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:0b70a06deaacf3a170f22c3bc93de23d14607da9a0a833af54dccee78079b5e6</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [신규] model:thinkingmachines/inkling-small</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:{&quot;context_length&quot;:524288,&quot;modality&quot;:&quot;text+image+audio-&gt;text&quot;,&quot;name&quot;:&quot;Thinking Machines: Inkling Small&quot;,&quot;price_completion&quot;:&quot;0.0000012&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000005&quot;,&quot;price_request&quot;:null},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;0b70a06deaacf3a170f22c3bc93de23d14607da9a0a833af54dccee78079b5e6&quot;,&quot;content_hash&quot;:&quot;0c5cea6bd2d50868a1e76a1dc2b45949b0be86e55fb635223777618959651039&quot;,&quot;entity_id&quot;:&quot;model:thinkingmachines/inkling-small&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:1d8320ecb4320764ec91cc36d0b70310aef8295235b07baca61488611fc976cb</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:z-ai/glm-5.2 · price_completion</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.00000132&quot;,&quot;before&quot;:&quot;0.0000022&quot;,&quot;chain_hash&quot;:&quot;1d8320ecb4320764ec91cc36d0b70310aef8295235b07baca61488611fc976cb&quot;,&quot;content_hash&quot;:&quot;a547780382cf0de203a1dc035cfb561c3874973e82a43379af672f790ddc43e6&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.2&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:fc143ff38cfcbc61ec2b5937b79c1ecf55ce1133ac5540aae8762f32b0382946</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:z-ai/glm-5.2 · price_prompt</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.00000042&quot;,&quot;before&quot;:&quot;0.0000007&quot;,&quot;chain_hash&quot;:&quot;fc143ff38cfcbc61ec2b5937b79c1ecf55ce1133ac5540aae8762f32b0382946&quot;,&quot;content_hash&quot;:&quot;43eb6ec4d8e3bebbbd13a4ad966c3c7ee777163b2a51f2bccfab1438b02e2145&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.2&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:542a48128fac1169ca008b40c309fa2322a3b0c339a1f12e3e2d1e0b939a6da1</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [신규] model:~deepseek/deepseek-v4-flash-latest</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:{&quot;context_length&quot;:1048576,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;DeepSeek V4 Flash Latest&quot;,&quot;price_completion&quot;:&quot;0.00000018&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000009&quot;,&quot;price_request&quot;:null},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;542a48128fac1169ca008b40c309fa2322a3b0c339a1f12e3e2d1e0b939a6da1&quot;,&quot;content_hash&quot;:&quot;8e500ec984389417901ec60a20cfbcfe697fd190c97a8f96df8388922a220bba&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-v4-flash-latest&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:c14ba94420424fab9861e063a86abd99d7e8b1693373cadf498351ee537a36df</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~moonshotai/kimi-latest · price_completion</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.000014&quot;,&quot;before&quot;:&quot;0.000015&quot;,&quot;chain_hash&quot;:&quot;c14ba94420424fab9861e063a86abd99d7e8b1693373cadf498351ee537a36df&quot;,&quot;content_hash&quot;:&quot;7e3c0bf4bc15553ad63d93829537b511b5bb99e736578f0bb7e192a928a4549e&quot;,&quot;entity_id&quot;:&quot;model:~moonshotai/kimi-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:b43b5ed579ab8c240f4fdccd2566acdcbd38aaf7e5600efcb6d34266b91664f0</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~moonshotai/kimi-latest · price_prompt</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.0000029&quot;,&quot;before&quot;:&quot;0.000003&quot;,&quot;chain_hash&quot;:&quot;b43b5ed579ab8c240f4fdccd2566acdcbd38aaf7e5600efcb6d34266b91664f0&quot;,&quot;content_hash&quot;:&quot;fa283c1b2d695cfc56ae1e406524b51455bd2169d42a0e5eed4450b13ec314ee&quot;,&quot;entity_id&quot;:&quot;model:~moonshotai/kimi-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:fe0cf58ddcd40934af68f463f3985039a79e4c2af0f10b9fefa65bfbb657b9f9</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:inflection/inflection-3-pi</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:8000,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Inflection: Inflection 3 Pi&quot;,&quot;price_completion&quot;:&quot;0.00001&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000025&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;fe0cf58ddcd40934af68f463f3985039a79e4c2af0f10b9fefa65bfbb657b9f9&quot;,&quot;content_hash&quot;:&quot;af771f6070e95d2d40d4c11c5a04dd29f522171759a4e211ee2b57904c99f205&quot;,&quot;entity_id&quot;:&quot;model:inflection/inflection-3-pi&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:1a7ff2b9b42462240bc2aa783d3ba215468670a71e0c2e7676252970ad2736bf</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:inflection/inflection-3-productivity</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:8000,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Inflection: Inflection 3 Productivity&quot;,&quot;price_completion&quot;:&quot;0.00001&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000025&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;1a7ff2b9b42462240bc2aa783d3ba215468670a71e0c2e7676252970ad2736bf&quot;,&quot;content_hash&quot;:&quot;8b930f0003484b3a784fa10368deceaef74c78120190213122fc05eec7f26438&quot;,&quot;entity_id&quot;:&quot;model:inflection/inflection-3-productivity&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:962cbb8cb7316a9de96e3a59be49e8f9e413eb9492ae8aa6db549e91d60bbfba</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:mistralai/devstral-2512</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text+file-&gt;text&quot;,&quot;name&quot;:&quot;Mistral: Devstral 2 2512&quot;,&quot;price_completion&quot;:&quot;0.000002&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000004&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;962cbb8cb7316a9de96e3a59be49e8f9e413eb9492ae8aa6db549e91d60bbfba&quot;,&quot;content_hash&quot;:&quot;4719b250ade30151298733dbba2d093781c1dba7c6f12a794b015f7603a390c0&quot;,&quot;entity_id&quot;:&quot;model:mistralai/devstral-2512&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:1d2151ffffb3ecdafde8c92e73bb64184219aee2561363f62d081bf3b4d5adc2</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:openai/gpt-4o-mini-search-preview</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:128000,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: GPT-4o-mini Search Preview&quot;,&quot;price_completion&quot;:&quot;0.0000006&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000015&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;1d2151ffffb3ecdafde8c92e73bb64184219aee2561363f62d081bf3b4d5adc2&quot;,&quot;content_hash&quot;:&quot;f9830fe04a6c9d68513f175a77c74c2fbf040af232a1a20d74b9ab5051548409&quot;,&quot;entity_id&quot;:&quot;model:openai/gpt-4o-mini-search-preview&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:fea57f2c2de78c0521f5dda6d6fcfbff43125b35d4d1d329c2a09d767d1cb70c</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:openai/gpt-4o-search-preview</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:128000,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: GPT-4o Search Preview&quot;,&quot;price_completion&quot;:&quot;0.00001&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000025&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;fea57f2c2de78c0521f5dda6d6fcfbff43125b35d4d1d329c2a09d767d1cb70c&quot;,&quot;content_hash&quot;:&quot;e15ff2f7e03662424db13b0f3adc50fc6d1fe5349daff0f9d0586ea0dff4f6bd&quot;,&quot;entity_id&quot;:&quot;model:openai/gpt-4o-search-preview&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:eab813c00a714499749a4392b47f0b51429966e0bb7a1f18fd3ac60a48a745f9</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:openai/gpt-5-chat</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:128000,&quot;modality&quot;:&quot;text+image+file-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: GPT-5 Chat&quot;,&quot;price_completion&quot;:&quot;0.00001&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000125&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;eab813c00a714499749a4392b47f0b51429966e0bb7a1f18fd3ac60a48a745f9&quot;,&quot;content_hash&quot;:&quot;c883ae93da2b0648d42249fb2df0b89fe5fee308dbc3c31393c938a3ca9429a8&quot;,&quot;entity_id&quot;:&quot;model:openai/gpt-5-chat&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:e9ec99af9d9f5ee81bfe085ac774ef458ae48c79e6d9f6951c33aa7d513482d1</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:openai/gpt-5-codex</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:400000,&quot;modality&quot;:&quot;text+image-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: GPT-5 Codex&quot;,&quot;price_completion&quot;:&quot;0.00001&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000125&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;e9ec99af9d9f5ee81bfe085ac774ef458ae48c79e6d9f6951c33aa7d513482d1&quot;,&quot;content_hash&quot;:&quot;b8a8839b3d503dd5588ccb08e0a14d87c3f9a488363916c45c8d623076153ae3&quot;,&quot;entity_id&quot;:&quot;model:openai/gpt-5-codex&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:5152f5dd4924bc92eb66060cc699dbd16c2d87671028de2de285362b954e420d</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:openai/gpt-5.1-chat</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:128000,&quot;modality&quot;:&quot;text+image+file-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: GPT-5.1 Chat&quot;,&quot;price_completion&quot;:&quot;0.00001&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000125&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;5152f5dd4924bc92eb66060cc699dbd16c2d87671028de2de285362b954e420d&quot;,&quot;content_hash&quot;:&quot;88ca8ed07c493dbd83cc3c00f3decd312fa7f905929b9e268b7d1ec12066d6c4&quot;,&quot;entity_id&quot;:&quot;model:openai/gpt-5.1-chat&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:520c7d218bd3c70a16572217ae29098d45573500632ff7a21524d4935aa4a97c</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:openai/o3-deep-research</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:200000,&quot;modality&quot;:&quot;text+image+file-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: o3 Deep Research&quot;,&quot;price_completion&quot;:&quot;0.00004&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00001&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;520c7d218bd3c70a16572217ae29098d45573500632ff7a21524d4935aa4a97c&quot;,&quot;content_hash&quot;:&quot;2e9fc3f1e7418f5c47617f7d73c1ef4b7e12daf7238d5331e8ff054b8fc9d198&quot;,&quot;entity_id&quot;:&quot;model:openai/o3-deep-research&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:6e1e7874ee8fd949a00635fe9576b9c806169636f5a5215c7034d9b6707f09e1</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:openai/o4-mini-deep-research</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:200000,&quot;modality&quot;:&quot;text+image+file-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: o4 Mini Deep Research&quot;,&quot;price_completion&quot;:&quot;0.000008&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.000002&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;6e1e7874ee8fd949a00635fe9576b9c806169636f5a5215c7034d9b6707f09e1&quot;,&quot;content_hash&quot;:&quot;05433a146c5f551cebbc05f8163d77db2b1f279ef0dc868f865059734174a9de&quot;,&quot;entity_id&quot;:&quot;model:openai/o4-mini-deep-research&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:8fa9d6064dedb9bc2cdb10baf3dd8cc432e0c1b7d6ab86816de9cbcd1d2c90e7</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:poolside/laguna-m.1</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Poolside: Laguna M.1&quot;,&quot;price_completion&quot;:&quot;0.0000004&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000002&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;8fa9d6064dedb9bc2cdb10baf3dd8cc432e0c1b7d6ab86816de9cbcd1d2c90e7&quot;,&quot;content_hash&quot;:&quot;b03f742eebbe77bc6f7c9c7f0ec436287eec4b13e81a506f2db7b9a9d9480d3e&quot;,&quot;entity_id&quot;:&quot;model:poolside/laguna-m.1&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:b591305178920197efe2c7ab829f7333a71c1e126ae1df284b74dc99ce89dd72</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:poolside/laguna-m.1:free</title>
+    <updated>2026-08-01T21:02:06.696Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Poolside: Laguna M.1 (free)&quot;,&quot;price_completion&quot;:&quot;0&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;b591305178920197efe2c7ab829f7333a71c1e126ae1df284b74dc99ce89dd72&quot;,&quot;content_hash&quot;:&quot;a556a1295e548ccf0737b3ca66ebbed8cff3126cd642a5908d842bcf7689816d&quot;,&quot;entity_id&quot;:&quot;model:poolside/laguna-m.1:free&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-01T21:02:06.696Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:deal-audit-ledger:611e638f89a9549d5eafa5af1537ba96cfda152952832ee9ac017587f15ca4db</id>
     <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [삭제] deal:11740:20260425:강일동:66:강동리버스트8단지:49.74:9:96000</title>
@@ -805,165 +965,5 @@
     <category term="mcp-census"/>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;d4ccfdc3ca79c1744685edef410f48f1d9de584a5d3a0d53ad15185eedd35a05&quot;,&quot;repository_url&quot;:&quot;https://github.com/nagarjunr/data-connectors-for-ai-agents&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.1.5&quot;},&quot;chain_hash&quot;:&quot;dde86b8c04a10b7c4616b815d841702871232633ea7e6d9cea2b8369e4d05866&quot;,&quot;content_hash&quot;:&quot;cef8dfe7fd2f50393552727d4dbf6cbc3cf5be7f52f1348ef1487feaf37c9866&quot;,&quot;entity_id&quot;:&quot;server:io.github.nagarjunr/data-connectors-s3&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-26T21:31:25.078Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:mcp-census:ccba950ca1767e58cfbcb7d1971600ca9177490857c7077baedb0ef7aff96512</id>
-    <title>[MCP 생태계 센서스 — 등록 서버·버전] [삭제] server:io.github.nagarjunr/data-connectors-sharepoint</title>
-    <updated>2026-07-26T21:31:25.078Z</updated>
-    <category term="mcp-census"/>
-    <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;ae84d9c3b8234526aeb044decd44c34a9b28437246d132f38768bcfcf113ddd5&quot;,&quot;repository_url&quot;:&quot;https://github.com/nagarjunr/data-connectors-for-ai-agents&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.1.5&quot;},&quot;chain_hash&quot;:&quot;ccba950ca1767e58cfbcb7d1971600ca9177490857c7077baedb0ef7aff96512&quot;,&quot;content_hash&quot;:&quot;61d1dd5eeb546ef0e7e2d87562d88540196533791066fa609e9e2dd8a2c590e3&quot;,&quot;entity_id&quot;:&quot;server:io.github.nagarjunr/data-connectors-sharepoint&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-26T21:31:25.078Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:mcp-census:9503865e35f642f8a3ea474bccc101e7c1b17f595f9e5cb548114760d5f55c95</id>
-    <title>[MCP 생태계 센서스 — 등록 서버·버전] [삭제] server:io.github.ohtensorplay/mega-mcp-server</title>
-    <updated>2026-07-26T21:31:25.078Z</updated>
-    <category term="mcp-census"/>
-    <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;faa925fe779be979d0c8db19eca6df4d3a4addbd990c42b0b3d66d234a87d027&quot;,&quot;repository_url&quot;:&quot;https://github.com/ohtensorplay/mega-mcp-server&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.1&quot;},&quot;chain_hash&quot;:&quot;9503865e35f642f8a3ea474bccc101e7c1b17f595f9e5cb548114760d5f55c95&quot;,&quot;content_hash&quot;:&quot;1e18b2069c0606cc4ef1970a854393746a00bdb5c9b424547efb60798704b19f&quot;,&quot;entity_id&quot;:&quot;server:io.github.ohtensorplay/mega-mcp-server&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-26T21:31:25.078Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:mcp-census:e2211855a1678fb2fd399b6bd31e060d857f2806b86a8bb9824b455551ec1cdc</id>
-    <title>[MCP 생태계 센서스 — 등록 서버·버전] [삭제] server:io.github.ryuxik/gametheory-mcp</title>
-    <updated>2026-07-26T21:31:25.078Z</updated>
-    <category term="mcp-census"/>
-    <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;a707e5aa7c3ef8cf972b44a2195bbfc2db20de4035f056d68dc11b48538a4041&quot;,&quot;repository_url&quot;:&quot;https://github.com/ryuxik/gametheory-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.1.2&quot;},&quot;chain_hash&quot;:&quot;e2211855a1678fb2fd399b6bd31e060d857f2806b86a8bb9824b455551ec1cdc&quot;,&quot;content_hash&quot;:&quot;4c45c0e3c6990d843a4bb1b4764733a54dd792d79e4dd342b3c05e44343d9ad8&quot;,&quot;entity_id&quot;:&quot;server:io.github.ryuxik/gametheory-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-26T21:31:25.078Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:mcp-census:c6b29bec9ca43bb48401d3ebfe71824d017004299f152493de485f9e91793598</id>
-    <title>[MCP 생태계 센서스 — 등록 서버·버전] [삭제] server:io.github.ryuxik/snhp-negotiation</title>
-    <updated>2026-07-26T21:31:25.078Z</updated>
-    <category term="mcp-census"/>
-    <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;2fe45b1f622b7e313ae630f263818dfef429b006c5aecf19ad05cf45005e596d&quot;,&quot;repository_url&quot;:&quot;https://github.com/ryuxik/snhp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.2.0&quot;},&quot;chain_hash&quot;:&quot;c6b29bec9ca43bb48401d3ebfe71824d017004299f152493de485f9e91793598&quot;,&quot;content_hash&quot;:&quot;6b663aef6a3d6283d3cbec9c2197b7ad94f6b56abd07dae8b345a2997be8b1b9&quot;,&quot;entity_id&quot;:&quot;server:io.github.ryuxik/snhp-negotiation&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-26T21:31:25.078Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:mcp-census:1ea6acff5bba8dce6a1aa88b3877dec1491c99616b63729f11839e3fd6bb9976</id>
-    <title>[MCP 생태계 센서스 — 등록 서버·버전] [삭제] server:io.github.shayaShav/flatten-mcp</title>
-    <updated>2026-07-26T21:31:25.078Z</updated>
-    <category term="mcp-census"/>
-    <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;991e685381ea234cb8fd99b5893f2cfe5ecd5de9d6a5851c4d9da9d0299ccd52&quot;,&quot;repository_url&quot;:&quot;https://github.com/shayaShav/flatten-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;2.5.1&quot;},&quot;chain_hash&quot;:&quot;1ea6acff5bba8dce6a1aa88b3877dec1491c99616b63729f11839e3fd6bb9976&quot;,&quot;content_hash&quot;:&quot;9a5115fa6f8b69dc9a3e025ec7d4b58da2c969ea0300536826ae21b05ed8a026&quot;,&quot;entity_id&quot;:&quot;server:io.github.shayaShav/flatten-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-26T21:31:25.078Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:mcp-census:b903637c2723ce1ca65f1c473fba48b0fa23fe452d9b5352b75b9696679be562</id>
-    <title>[MCP 생태계 센서스 — 등록 서버·버전] [삭제] server:io.sifthq/sift</title>
-    <updated>2026-07-26T21:31:25.078Z</updated>
-    <category term="mcp-census"/>
-    <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;dedd1df9632976f7026233e51f9a8fba2654842e5a221d6a33b8a8466a8ecc58&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;b903637c2723ce1ca65f1c473fba48b0fa23fe452d9b5352b75b9696679be562&quot;,&quot;content_hash&quot;:&quot;1ef973ca3f3d0f579e2b5ae7967ec56dfd8c4e7f6c74176baebf7f996b15ca48&quot;,&quot;entity_id&quot;:&quot;server:io.sifthq/sift&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-26T21:31:25.078Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:12141823387f86231f1f41b48fb6a1997ebe4a17bc19e8b4376d422c0b75486a</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:tencent/hy3 · price_prompt</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.000000132&quot;,&quot;before&quot;:&quot;0.0000002&quot;,&quot;chain_hash&quot;:&quot;12141823387f86231f1f41b48fb6a1997ebe4a17bc19e8b4376d422c0b75486a&quot;,&quot;content_hash&quot;:&quot;2d53360d24fb2e1661717596db926a477f86a742314137b87bd03c9b16e4fb99&quot;,&quot;entity_id&quot;:&quot;model:tencent/hy3&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:7acea216601b40d172e8e5dc113b3848182d7bfba7697fd9243ad418cbbe52f2</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:xiaomi/mimo-v2.5 · context_length</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:1050000,&quot;before&quot;:1048576,&quot;chain_hash&quot;:&quot;7acea216601b40d172e8e5dc113b3848182d7bfba7697fd9243ad418cbbe52f2&quot;,&quot;content_hash&quot;:&quot;08908148585489fe638ade275b2e7bd9e81c6d2c60f52add2e4ed2ba02afeb82&quot;,&quot;entity_id&quot;:&quot;model:xiaomi/mimo-v2.5&quot;,&quot;field&quot;:&quot;context_length&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:77fe2347636215f23c50ef4149e9e4d06a9f3ad00b96d403d9a6a5009511a8e7</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:xiaomi/mimo-v2.5-pro · context_length</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:1050000,&quot;before&quot;:1048576,&quot;chain_hash&quot;:&quot;77fe2347636215f23c50ef4149e9e4d06a9f3ad00b96d403d9a6a5009511a8e7&quot;,&quot;content_hash&quot;:&quot;16882acef4e2a127b712be76ba46f11a43de2bfb722289625a86ee9040b0ccac&quot;,&quot;entity_id&quot;:&quot;model:xiaomi/mimo-v2.5-pro&quot;,&quot;field&quot;:&quot;context_length&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:91502087ecae12d62f1248d168a59305228313f6441154974264c8889aefb01d</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:z-ai/glm-4.6 · context_length</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:204800,&quot;before&quot;:202752,&quot;chain_hash&quot;:&quot;91502087ecae12d62f1248d168a59305228313f6441154974264c8889aefb01d&quot;,&quot;content_hash&quot;:&quot;3a3030b6c13ef31214c6cd7803d3ad09ca583a0bb01cadf82ee5e72dd15063ca&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-4.6&quot;,&quot;field&quot;:&quot;context_length&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:e89e297ea7f74418ca1346102c4974ba3bd4e60206ff0dc9c5fc9c451ccf663d</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:z-ai/glm-4.7 · context_length</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:204800,&quot;before&quot;:202752,&quot;chain_hash&quot;:&quot;e89e297ea7f74418ca1346102c4974ba3bd4e60206ff0dc9c5fc9c451ccf663d&quot;,&quot;content_hash&quot;:&quot;9b91436245104bf0cfd00e5ae7ceb77945fee27e34fb07c8d0c57dfbe86571c2&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-4.7&quot;,&quot;field&quot;:&quot;context_length&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:d8653af38ee7b8c70e05cc995c5863f03971f42c484ecd47e66f93cbf3e6155e</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:z-ai/glm-4.7-flash · context_length</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:202752,&quot;before&quot;:200000,&quot;chain_hash&quot;:&quot;d8653af38ee7b8c70e05cc995c5863f03971f42c484ecd47e66f93cbf3e6155e&quot;,&quot;content_hash&quot;:&quot;9b717a17b4ce7ba1a4c4cfdf48fad3717aa67f5e5844fb9dfaee0a32770d1a28&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-4.7-flash&quot;,&quot;field&quot;:&quot;context_length&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:4b2c577b08ff1e57df604e5d2307709fdd0886948a4a4175c306116c65b66187</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:z-ai/glm-4.7-flash · price_prompt</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.00000006&quot;,&quot;before&quot;:&quot;0.0000000605&quot;,&quot;chain_hash&quot;:&quot;4b2c577b08ff1e57df604e5d2307709fdd0886948a4a4175c306116c65b66187&quot;,&quot;content_hash&quot;:&quot;fa6fb9a3ece265bd1241a1d53b24eb11d648763c9d6b3a7112f415d7d178f647&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-4.7-flash&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:46e9cac14a0ca92f59566e7af2aa0f970f4b629553eb4557ff9be240439589c3</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:z-ai/glm-5 · context_length</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:204800,&quot;before&quot;:202752,&quot;chain_hash&quot;:&quot;46e9cac14a0ca92f59566e7af2aa0f970f4b629553eb4557ff9be240439589c3&quot;,&quot;content_hash&quot;:&quot;75a3efbbbf902fed766a6783f0ddf92832dc5e631490b4fae695572015cbecea&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5&quot;,&quot;field&quot;:&quot;context_length&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:3fedcfe6594558de97d6c6c2868535302c1d8e70f2650671190553bda43d2f95</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:z-ai/glm-5 · price_completion</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.00000255&quot;,&quot;before&quot;:&quot;0.00000315&quot;,&quot;chain_hash&quot;:&quot;3fedcfe6594558de97d6c6c2868535302c1d8e70f2650671190553bda43d2f95&quot;,&quot;content_hash&quot;:&quot;5edacb4d3462914d0a099f9d7f74b8ee95502206daf54b7ede21e5c71e75f1e6&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:b507dcc5a16ec7f061edae477431d8cdad9562e6e5aac748e0ac8ebc57a7b60b</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:z-ai/glm-5.1 · context_length</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:204800,&quot;before&quot;:202752,&quot;chain_hash&quot;:&quot;b507dcc5a16ec7f061edae477431d8cdad9562e6e5aac748e0ac8ebc57a7b60b&quot;,&quot;content_hash&quot;:&quot;90309c2ff26e09ede3bebdc88e2ae1a2e8a5daa2c909255a30bffdd0e628aa1d&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.1&quot;,&quot;field&quot;:&quot;context_length&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:1f10b1ffab17032507873a17ca41a82ffd80f40afb94d7b779c82e667b5525d1</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:z-ai/glm-5.2 · price_completion</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000022&quot;,&quot;before&quot;:&quot;0.000000858&quot;,&quot;chain_hash&quot;:&quot;1f10b1ffab17032507873a17ca41a82ffd80f40afb94d7b779c82e667b5525d1&quot;,&quot;content_hash&quot;:&quot;77e088292279b686e9fd87fd99b7d118a97d3182685d9d6700ff8554becfe4ac&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.2&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:566f35dab85d0997b5f5e193646f84e7df67b11efed969979f9eabc552f0efbc</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:z-ai/glm-5.2 · price_prompt</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000007&quot;,&quot;before&quot;:&quot;0.000000273&quot;,&quot;chain_hash&quot;:&quot;566f35dab85d0997b5f5e193646f84e7df67b11efed969979f9eabc552f0efbc&quot;,&quot;content_hash&quot;:&quot;23de43c0e69a3bb38c3f1413aa5880d993728c0deaec0ed109d716e995b9ea3e&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.2&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:1c37c50c1a94d44989a856d001914923250c815ddba2828f450aef0d1d6ca71e</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~google/gemini-flash-latest · price_completion</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000075&quot;,&quot;before&quot;:&quot;0.000009&quot;,&quot;chain_hash&quot;:&quot;1c37c50c1a94d44989a856d001914923250c815ddba2828f450aef0d1d6ca71e&quot;,&quot;content_hash&quot;:&quot;65b3b126ad4f7f2a3b30437476071de02452923d20da36d2c739056d47f41469&quot;,&quot;entity_id&quot;:&quot;model:~google/gemini-flash-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:4deb3a62a73d906e0c406ff098421608ed5254c471159adfe0beddd1463de289</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:cognitivecomputations/dolphin-mistral-24b-venice-edition:free</title>
-    <updated>2026-07-25T21:00:23.162Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:32768,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Venice: Uncensored (free)&quot;,&quot;price_completion&quot;:&quot;0&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;4deb3a62a73d906e0c406ff098421608ed5254c471159adfe0beddd1463de289&quot;,&quot;content_hash&quot;:&quot;8705c1f4a1cacab8b45d98a3117da9b3c8a4de146d64c5997d67b618b6c18981&quot;,&quot;entity_id&quot;:&quot;model:cognitivecomputations/dolphin-mistral-24b-venice-edition:free&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-07-25T21:00:23.162Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
 </feed>
