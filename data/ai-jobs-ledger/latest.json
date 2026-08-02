@@ -1,5 +1,5 @@
 {
-  "record_count": 2596,
+  "record_count": 2593,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -6876,6 +6876,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:7811355002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Sao Paulo, Brazil",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Specialist Solutions Architect - AI/ML"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:7823561002": {
       "fields": {
         "employment_type": null,
@@ -9634,17 +9645,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Finance Manager"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
-    "job:databricks:8450209002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Central - United States",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Sr. Solutions Engineer"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -15511,17 +15511,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
-    "job:elevenlabs:3f4b2c2a-38d4-45f5-abcf-c3f4ddb50569": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "elevenlabs",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Operations Recruiter"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
-    },
     "job:elevenlabs:3f6b41c0-660c-4817-8396-14f94c9454ba": {
       "fields": {
         "employment_type": "FullTime",
@@ -19713,17 +19702,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
-    "job:openai:47e13ab2-355e-4ece-8425-08b918997482": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "National Security Lead, State and Local Government, Global Affairs"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
     "job:openai:48fdb9b8-af29-4250-ac92-44a0e9d60735": {
       "fields": {
         "employment_type": "FullTime",
@@ -21569,17 +21547,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Lead Safety Engineer, Robotics"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:811eaa16-7a8e-48e6-8cfd-194330f1341d": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Biosafety Red Teaming Specialist"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -28559,5 +28526,5 @@
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-08-01T22:39:26.923Z"
+  "updated_at": "2026-08-02T22:40:12.501Z"
 }
