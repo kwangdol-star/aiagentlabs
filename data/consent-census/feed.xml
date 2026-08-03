@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-08-02T21:17:45.509Z</updated>
+  <updated>2026-08-03T21:40:53.785Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:e7ee0feff319b1be89d7000aead41379c73aec67d4bb02ef2dcba6af66b20fb2</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-08-03T21:40:53.785Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;f64f183df7e24f32b19403263b626eed2a85143b8641aa3045e593e81016e32a&quot;,&quot;before&quot;:&quot;e072e5f753b1b1e8c317dc19b94d9c8ee9420394caf42eb55259b54584b6cdb3&quot;,&quot;chain_hash&quot;:&quot;e7ee0feff319b1be89d7000aead41379c73aec67d4bb02ef2dcba6af66b20fb2&quot;,&quot;content_hash&quot;:&quot;191edbe05da2fc319e3cc5fa000ed8523dadb6e910ebd2674aa76759b30449fe&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-03T21:40:53.785Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:ea4a634c24e380c44884123b0d2f641969fa41bb2f843864c6c527c5e50aec97</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-08-03T21:40:53.785Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:668806,&quot;before&quot;:671119,&quot;chain_hash&quot;:&quot;ea4a634c24e380c44884123b0d2f641969fa41bb2f843864c6c527c5e50aec97&quot;,&quot;content_hash&quot;:&quot;3df3aabb8861ef154799a19f67a264f2b4574c8d1536d4402073d2afb6c09f29&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-03T21:40:53.785Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:d61585cf5022e64bc6275b7cdc3d942397207c6cae3acfba0655c9a315badafc</id>
     <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
@@ -339,19 +353,5 @@
     <updated>2026-07-29T21:20:08.538Z</updated>
     <link href="https://daum.net/llms.txt"/>
     <content type="text">{&quot;after&quot;:683359,&quot;before&quot;:679931,&quot;chain_hash&quot;:&quot;77a35e06bf4154f4e6c8fc35b2fd40797a65af4bd3e8a53e2fe6eb714884afd7&quot;,&quot;content_hash&quot;:&quot;bf4730dede11394e13377fa790dc1c635232e5559e7873d3a376c8cacc1700b6&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-29T21:20:08.538Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:fb26b2b85777be8e91c2f8fd85a4ee20f1b3b9c3619894059a65d01dd0e87fa1</id>
-    <title>[변경] probe:bbc.com:robots-txt · body_sha256</title>
-    <updated>2026-07-29T21:20:08.538Z</updated>
-    <link href="https://bbc.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;73f84b1043a22719713d5db55c83ff24c774059ba7d6c62709cb4e6938ae023b&quot;,&quot;before&quot;:&quot;fe6f4ccc8fa0e7ba25f359b140e7d845cf225c91b06919aee59cd0b52d68857a&quot;,&quot;chain_hash&quot;:&quot;fb26b2b85777be8e91c2f8fd85a4ee20f1b3b9c3619894059a65d01dd0e87fa1&quot;,&quot;content_hash&quot;:&quot;79c3025b34b2f695397aa0cfda1681d53f8ade220fb8f45829b415f571d23de7&quot;,&quot;entity_id&quot;:&quot;probe:bbc.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-07-29T21:20:08.538Z&quot;,&quot;source_url&quot;:&quot;https://bbc.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:4838270172116a43f5769716d466f75705f71bbec973de5d5b1a4e8fca3f44bf</id>
-    <title>[변경] probe:bbc.com:robots-txt · body_bytes</title>
-    <updated>2026-07-29T21:20:08.538Z</updated>
-    <link href="https://bbc.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:5839,&quot;before&quot;:5722,&quot;chain_hash&quot;:&quot;4838270172116a43f5769716d466f75705f71bbec973de5d5b1a4e8fca3f44bf&quot;,&quot;content_hash&quot;:&quot;c8cbc5a3e514c2debd58c52f98c8907fb5e132129af5cc3da644cdc237a6339f&quot;,&quot;entity_id&quot;:&quot;probe:bbc.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-29T21:20:08.538Z&quot;,&quot;source_url&quot;:&quot;https://bbc.com/robots.txt&quot;}</content>
   </entry>
 </feed>
