@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-08-07T01:02:27.407Z</updated>
+  <updated>2026-08-07T21:10:39.960Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:617e9ea4d163945e9a3784b46f9ea878e672ea80f9eab6b33d77c009c01a3784</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-08-07T21:10:39.960Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;84c5d3eb4c55bb8ea54bb4f1099d3d245c26ebe348d9d9b1b03d518dd23adfce&quot;,&quot;before&quot;:&quot;1f3bb03d028b90961f2cceae20847555c44218439294a257364a6661d551747f&quot;,&quot;chain_hash&quot;:&quot;617e9ea4d163945e9a3784b46f9ea878e672ea80f9eab6b33d77c009c01a3784&quot;,&quot;content_hash&quot;:&quot;a2ee664ccd94ff5dcd0916ff884021d38a5fcff95c8b68e57ddfeb49abc7477a&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-07T21:10:39.960Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:461e7452da5ce837451781e09e7a032da393359e6f139ec1aa12ad295681916e</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-08-07T21:10:39.960Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:644961,&quot;before&quot;:646087,&quot;chain_hash&quot;:&quot;461e7452da5ce837451781e09e7a032da393359e6f139ec1aa12ad295681916e&quot;,&quot;content_hash&quot;:&quot;01d98c16c5f653534211b5e3bee129e229565ae7a0905df4d967d3282222b248&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-07T21:10:39.960Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:b8d31c27cf31191ea6ed392699042d9a05816dcb77c8da08075da569dc925ec0</id>
     <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
@@ -339,19 +353,5 @@
     <updated>2026-07-30T21:43:36.998Z</updated>
     <link href="https://hani.co.kr/robots.txt"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;text/plain; charset=UTF-8&quot;,&quot;chain_hash&quot;:&quot;559cfa8e252a55d1c9731d512a0aa478c8d816fec67af8a9655e95f33a3c0fa9&quot;,&quot;content_hash&quot;:&quot;19e4c58a8142591fec23c9964de1145598f34b68c2730556d9587521c6a552e9&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:c21bf1d615091a2da6d5e6462dc7c157cc3200136c6929ef6b9fc6fe3e89f0b0</id>
-    <title>[변경] probe:hani.co.kr:robots-txt · bot:meta-externalagent</title>
-    <updated>2026-07-30T21:43:36.998Z</updated>
-    <link href="https://hani.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;c21bf1d615091a2da6d5e6462dc7c157cc3200136c6929ef6b9fc6fe3e89f0b0&quot;,&quot;content_hash&quot;:&quot;d76f09dc1b427f5733e8b81f68cec32e1208faa1b5986b63440358c99d6ca256&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:daa2f8911709ebc0961ad78c8141e451938fac8c35633c96d60f914504a78200</id>
-    <title>[변경] probe:hani.co.kr:robots-txt · bot:anthropic-ai</title>
-    <updated>2026-07-30T21:43:36.998Z</updated>
-    <link href="https://hani.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;daa2f8911709ebc0961ad78c8141e451938fac8c35633c96d60f914504a78200&quot;,&quot;content_hash&quot;:&quot;aa4cb8c90e697ecac21494a082a951034a773ce43a2d9a127ed7ca23fb284d61&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
   </entry>
 </feed>
