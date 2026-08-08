@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-08-07T21:10:39.960Z</updated>
+  <updated>2026-08-08T20:59:47.223Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:2db335e534ebd84ad37170cbd46a095453dc72cf26a415693006d4a21a17dd1b</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-08-08T20:59:47.223Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;233ab09cb745de1f6ff0686fb3db7a69aefb072a908f4d1cf5dbf2c804814c40&quot;,&quot;before&quot;:&quot;84c5d3eb4c55bb8ea54bb4f1099d3d245c26ebe348d9d9b1b03d518dd23adfce&quot;,&quot;chain_hash&quot;:&quot;2db335e534ebd84ad37170cbd46a095453dc72cf26a415693006d4a21a17dd1b&quot;,&quot;content_hash&quot;:&quot;14dd210943ed0403ea00726e43cebb77f3a3ee85cf4c9046492d79cf26280975&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-08T20:59:47.223Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:5475a22d0bb69fabd1720828ba3684296cc0331cc9598e37b6458aeec18a3cae</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-08-08T20:59:47.223Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:658427,&quot;before&quot;:644961,&quot;chain_hash&quot;:&quot;5475a22d0bb69fabd1720828ba3684296cc0331cc9598e37b6458aeec18a3cae&quot;,&quot;content_hash&quot;:&quot;be72b50de3ea0e812244dd5b03594a7a8493dae740377517f638e0424b949bd8&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-08T20:59:47.223Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:617e9ea4d163945e9a3784b46f9ea878e672ea80f9eab6b33d77c009c01a3784</id>
     <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
@@ -339,19 +353,5 @@
     <updated>2026-07-31T21:37:18.220Z</updated>
     <link href="https://daum.net/llms.txt"/>
     <content type="text">{&quot;after&quot;:676561,&quot;before&quot;:679447,&quot;chain_hash&quot;:&quot;9ab211ef6db3c007aec8af26dfdcc3602e7dee15a73a625edaa360647955c29f&quot;,&quot;content_hash&quot;:&quot;5d6b3a932fec3797b1b220074bff3cfe346dd0ac4ffb727b064786128ca7be50&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-07-31T21:37:18.220Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:4a2c507400b1391dbc8683644a9198c2680e32ed02bf5ff5ed9289a245ede5cd</id>
-    <title>[변경] probe:hani.co.kr:robots-txt · status</title>
-    <updated>2026-07-30T21:43:36.998Z</updated>
-    <link href="https://hani.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:403,&quot;before&quot;:200,&quot;chain_hash&quot;:&quot;4a2c507400b1391dbc8683644a9198c2680e32ed02bf5ff5ed9289a245ede5cd&quot;,&quot;content_hash&quot;:&quot;66908d7c2bf2392382b0c50578cea67709c14f60c5d09a6ef6185df632609cea&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:559cfa8e252a55d1c9731d512a0aa478c8d816fec67af8a9655e95f33a3c0fa9</id>
-    <title>[변경] probe:hani.co.kr:robots-txt · content_type</title>
-    <updated>2026-07-30T21:43:36.998Z</updated>
-    <link href="https://hani.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;text/plain; charset=UTF-8&quot;,&quot;chain_hash&quot;:&quot;559cfa8e252a55d1c9731d512a0aa478c8d816fec67af8a9655e95f33a3c0fa9&quot;,&quot;content_hash&quot;:&quot;19e4c58a8142591fec23c9964de1145598f34b68c2730556d9587521c6a552e9&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-07-30T21:43:36.998Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
   </entry>
 </feed>
