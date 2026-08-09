@@ -3,9 +3,17 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-08-09T21:05:47.485Z</updated>
+  <updated>2026-08-09T21:51:47.191Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:forecast-graders:6da78f1e479b980c4c56f883996b985bfa3f1cfda88dfa87c8aa968b359d48c7</id>
+    <title>[기관 전망 박제 — 한은·KB·건산연·주산연] [변경] page:khi-press · items</title>
+    <updated>2026-08-09T21:51:47.191Z</updated>
+    <category term="forecast-graders"/>
+    <link href="https://www.khi.re.kr/notice/notice3.php"/>
+    <content type="text">{&quot;after&quot;:[&quot;2026-08-06 · 2026년 8월 아파트분양전망지수 홍보담당&quot;,&quot;2026-07-14 · 2026년 7월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-07-09 · 2026년 7월 아파트입주전망지수 홍보담당&quot;,&quot;2026-07-07 · 2026년 7월 아파트분양전망지수 홍보담당&quot;,&quot;2026-06-16 · 2026년 6월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-06-11 · 2026년 6월 아파트입주전망지수 홍보담당&quot;,&quot;2026-06-09 · 2026년 6월 아파트분양전망지수 홍보담당&quot;,&quot;2026-05-19 · 2026년 5월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-05-14 · 2026년 5월 아파트입주전망지수 홍보담당&quot;,&quot;2026-05-12 · 2026년 5월 아파트분양전망지수 홍보담당&quot;],&quot;before&quot;:[&quot;2026-07-14 · 2026년 7월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-07-09 · 2026년 7월 아파트입주전망지수 홍보담당&quot;,&quot;2026-07-07 · 2026년 7월 아파트분양전망지수 홍보담당&quot;,&quot;2026-06-16 · 2026년 6월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-06-11 · 2026년 6월 아파트입주전망지수 홍보담당&quot;,&quot;2026-06-09 · 2026년 6월 아파트분양전망지수 홍보담당&quot;,&quot;2026-05-19 · 2026년 5월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-05-14 · 2026년 5월 아파트입주전망지수 홍보담당&quot;,&quot;2026-05-12 · 2026년 5월 아파트분양전망지수 홍보담당&quot;,&quot;2026-04-14 · 2026년 4월 주택사업경기전망지수 홍보담당&quot;],&quot;chain_hash&quot;:&quot;6da78f1e479b980c4c56f883996b985bfa3f1cfda88dfa87c8aa968b359d48c7&quot;,&quot;content_hash&quot;:&quot;33e9167e80561a2f8465c928621a30dac18f92e2af66fe712cd177611872c5e6&quot;,&quot;entity_id&quot;:&quot;page:khi-press&quot;,&quot;field&quot;:&quot;items&quot;,&quot;observed_at&quot;:&quot;2026-08-09T21:51:47.191Z&quot;,&quot;source_url&quot;:&quot;https://www.khi.re.kr/notice/notice3.php&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:mcp-census:fe3d9d6975f6d0d0b4e7548283de122466a8dfab31ff10e9039e9773b6389b80</id>
     <title>[MCP 생태계 센서스 — 등록 서버·버전] [변경] server:xyz.558686.gpt55/token-gateway · repository_url</title>
@@ -957,13 +965,5 @@
     <category term="consent-census"/>
     <link href="https://mk.co.kr/robots.txt"/>
     <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;9810c07bf0d962a5422dc55063bec33f3a21f6ca5346ea61fc29789413b7120c&quot;,&quot;content_hash&quot;:&quot;94bb30419271da0b4e9d5159967d0aa30f221bdd2bf28573908323ef87af4c91&quot;,&quot;entity_id&quot;:&quot;probe:mk.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:Applebot-Extended&quot;,&quot;observed_at&quot;:&quot;2026-08-04T21:49:21.499Z&quot;,&quot;source_url&quot;:&quot;https://mk.co.kr/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:97d12da93b6908af3aef18a6fd6a5938f4704c85844eb782befdf00b0c20be91</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:mk.co.kr:robots-txt · bot:ChatGPT-User</title>
-    <updated>2026-08-04T21:49:21.499Z</updated>
-    <category term="consent-census"/>
-    <link href="https://mk.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;97d12da93b6908af3aef18a6fd6a5938f4704c85844eb782befdf00b0c20be91&quot;,&quot;content_hash&quot;:&quot;e9de1560233f409fc868a9b62a79aa71cda504920bd9e1badec10c161cc61511&quot;,&quot;entity_id&quot;:&quot;probe:mk.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-08-04T21:49:21.499Z&quot;,&quot;source_url&quot;:&quot;https://mk.co.kr/robots.txt&quot;}</content>
   </entry>
 </feed>
