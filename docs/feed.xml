@@ -3,9 +3,169 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-08-10T23:01:24.524Z</updated>
+  <updated>2026-08-11T21:15:23.132Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:b99855efff434d70a5385bd5788f939ad918426aa84fcff699fa9d9bc7e3c7e8</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:reuters.com:robots-txt · content_type</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://reuters.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;text/plain; charset=utf-8&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;b99855efff434d70a5385bd5788f939ad918426aa84fcff699fa9d9bc7e3c7e8&quot;,&quot;content_hash&quot;:&quot;e60e904e5265ff43ce204046a6bc09506a5fe8e95fd136bf0e30be4d6cb3ba2a&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:ec51e72628b2b20707eb195cdf9eefc8a0f204730c78cfa85f9bc31a5be2d276</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:reuters.com:robots-txt · status</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://reuters.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:200,&quot;before&quot;:403,&quot;chain_hash&quot;:&quot;ec51e72628b2b20707eb195cdf9eefc8a0f204730c78cfa85f9bc31a5be2d276&quot;,&quot;content_hash&quot;:&quot;2b15e5593419b2775e97864136e3de8f42ddfaeb7f0165143671888f31be929d&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:95f6008db7123aef1e131dd3228194ad307ad740d56bcd99c0adc8331b33c53e</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:llms-txt · status</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:403,&quot;before&quot;:404,&quot;chain_hash&quot;:&quot;95f6008db7123aef1e131dd3228194ad307ad740d56bcd99c0adc8331b33c53e&quot;,&quot;content_hash&quot;:&quot;93ad8feb85aa7306ba9b9fe0a0d65c3b32242aed1778979663355fbc6e9e122f&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:31f63645b6bf829616156b2fe16b53c3f2f0a06866b3b32d6cdd836062bb1795</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · body</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;# NOTICE: Collection of content and other data on https://www.wsj.com/ through\n# automated means is prohibited unless you have express written\n# permission from Dow Jones &amp; Company, Inc. and may only be conducted for the\n# limited purpose contained in said permission.\n#\n# Dow Jones &amp; Company, Inc. Terms of Use may be found at\n# https://www.dowjones.com/terms-of-use/\n#\n# If you would like to apply for permission to license the\n# intellectual property and/or other materials of Dow Jones &amp; Company, Inc.’s\n# brands, please contact us via email at copyright@dowjones.com.\n\nUser-agent: *\nDisallow: /\n\nUser-agent: googlebot\nUser-agent: googlebot-image\nUser-agent: GoogleOther\nUser-agent: Googlebot-Video\nUser-agent: Google-InspectionTool\nUser-agent: AdsBot-Google\nUser-agent: AdsBot-Google-Mobile\nUser-agent: AdsBot-Google-Mobile-Apps\nUser-agent: Storebot-Google\nUser-agent: google-read-aloud\nUser-agent: bingbot\nUser-agent: msnbot\nUser-agent: bingpreview\nUser-agent: slurp\nUser-agent: yahoo\nUser-agent: baiduspider\nUser-agent: Pinterestbot\nUser-agent: Yeti\nUser-agent: MojeekBot\nUser-agent: 360Spider\nUser-agent: google-cloudvertexbot\nUser-agent: duckduckbot\nUser-agent: Applebot\nUser-agent: flipboard\nUser-agent: qwantbot\nUser-agent: SeznamBot\n\n\n\nUser-agent: proximic\nUser-agent: admantx\nUser-agent: thetradedesk\nUser-agent: outbrain\nUser-agent: ias_crawler\nUser-agent: AmazonAdBot\nUser-agent: pubmatic\nUser-agent: smartologybot\nUser-agent: parselybot\nUser-agent: BomboraBot\nUser-agent: IllumaBot/1.0\nUser-agent: Publication-Access-for-Facebook\n\n\nUser-agent: Screaming Frog SEO Spider\nUser-agent: AhrefsBot\nUser-agent: SemrushBot\nUser-agent: SimilarWebBot\nUser-agent: SISTRIX\nUser-agent: botify\nUser-agent: Chrome-Lighthouse\n\n\n\nUser-agent: ChatGPT-User\nUser-agent: GPTBot\nUser-agent: OAI-SearchBot\n\n\nUser-agent: facebookexternalhit\nUser-agent: facebot\nUser-agent: twitterbot\nUser-agent: linkedinbot\nUser-agent: snapchat\nUser-agent: sentry\nUser-agent: Iframely\nUser-agent: Vocabtracker\nUser-agent: EpvzCrawl6194680250\nUser-agent: Citoid\nUser-agent: ZoteroTranslationServer\n\n\n\nAllow: /\nDisallow: /article_email/*\nDisallow: /user/*\nDisallow: /pdf/documents/*\nDisallow: /login/*\nDisallow: /acct/*\nDisallow: /msgcenter/*\nDisallow: /setup/*\nDisallow: /marketing/*\nDisallow: /public/article/*\nDisallow: /public/resources/documents/*\nDisallow: /public/search/\nDisallow: /public/search*\nDisallow: /search*\nDisallow: /public/page/wsj-x-marketing.html\nDisallow: /public/page/news-media-marketing.html\nDisallow: /public/page/0_0_WP_RT_MARKETING.html\nDisallow: /news/articles/SB2*\nDisallow: /news/articles/SB3*\nDisallow: /news/articles/SB4*\nDisallow: /articles/SB2*\nDisallow: /articles/SB3*\nDisallow: /articles/SB4*\nDisallow: /article/AP*\nDisallow: /article/BT-CO*\nDisallow: /article/DN-CO*\nDisallow: /article/PR-CO*\nDisallow: /article/HUG*\nDisallow: /video/search/*\nDisallow: /articles/BT-CO*\nDisallow: /articles/DN-CO*\nDisallow: /articles/PR-CO*\nDisallow: /news/articles/BT-CO*\nDisallow: /news/articles/DN-CO*\nDisallow: /news/articles/PR-CO*\nDisallow: /catchup/*\nDisallow: /articles/the-meaning-behind-juneteenth-11592413234\nDisallow: /emailservice/*\nDisallow: /emailsignup/*\nDisallow: /insetsrv/v1/*\nDisallow: /user/fpd/api/*\nDisallow: /Date(*\nDisallow: /auth/sso/proxy-login*\nDisallow: /client/\n\n# For Buyside Search Results\nDisallow: /buyside/search-results?*term=*\n# Don&apos;t crawl non-indexable sites\nDisallow: /*?type=mdc_*&amp;id=*\nDisallow: /*?id=*&amp;type=mdc_*\nDisallow: /market-data/quotes/*/options/*\nDisallow: /subscribe/?inttrackingCode=*\nDisallow: /subscribe/?template=*\n\nUser-agent: mediapartners-google\nDisallow: /\nAllow: /watchlist\n\nSitemap: https://www.wsj.com/sitemap.xml\nSitemap: https://www.wsj.com/wsjsitemaps/wsj_google_news.xml\nSitemap: https://www.wsj.com/wsj_video_recent.xml\nSitemap: https://www.wsj.com/sitemap_topics.xml\nSitemap: https://www.wsj.com/sitemaps/web/wsj/en/sitemap_wsj_en_index.xml\nSitemap: https://www.wsj.com/live_news_sitemap.xml\nSitemap: https://www.wsj.com/authors_sitemap.xml\nSitemap: https://www.wsj.com/sitemaps/web/video/en/sitemap_video_en_index.xml\nSitemap: https://www.wsj.com/buyside/sitemap.xml\nSitemap: https://www.wsj.com/wsj_quote_index_sitemap.xml\nSitemap: https://www.wsj.com/wsjsitemaps/wsj_recipes.xml\nSitemap: https://www.wsj.com/sitemap_topic_collections.xml\n\n\n&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;31f63645b6bf829616156b2fe16b53c3f2f0a06866b3b32d6cdd836062bb1795&quot;,&quot;content_hash&quot;:&quot;ffe77a98d5b582e6c0429b7db6bbf190704761af5eea97c06bb18a27f9d53590&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:ef91674ebbbe2c084f78d3df4f9bb17c9e7c77262f40f1ebdc0b540bd08e3282</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · body_bytes</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:4309,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;ef91674ebbbe2c084f78d3df4f9bb17c9e7c77262f40f1ebdc0b540bd08e3282&quot;,&quot;content_hash&quot;:&quot;b243cb52c03aa6374c2870da888859a11524b99fc4726ba42519360c6f490cfc&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:6fcc7569ffa26524c4ea456c7ee4dbe96cad5b657c21d56bbbebfa19d9bbbfee</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · body_sha256</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;0a13480217709fc421a9899c8cd116a4ad2c9aca43be15d69fc35b143d777d7a&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;6fcc7569ffa26524c4ea456c7ee4dbe96cad5b657c21d56bbbebfa19d9bbbfee&quot;,&quot;content_hash&quot;:&quot;cf7268a04b4df78713c7f35360c7916fb929ca56aa6ef76a16d9f48b3c5d1e08&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:31b2643a4840e6ba84b5ee6fc0cc8075ec1dbaf978a65187ec58c7056006d507</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:Amazonbot</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;31b2643a4840e6ba84b5ee6fc0cc8075ec1dbaf978a65187ec58c7056006d507&quot;,&quot;content_hash&quot;:&quot;e527f7d9f5ac20e6b03ea205630446e4c7049f9936731054ceb1d903f187361d&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Amazonbot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:5e452431fb5e41735f2819b614c2a492a36acdf215f5cdb717d02d8288a31d90</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:Applebot-Extended</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;5e452431fb5e41735f2819b614c2a492a36acdf215f5cdb717d02d8288a31d90&quot;,&quot;content_hash&quot;:&quot;1e0c9a6caafe1bd5b3ebec3d501fe16b245d57b23cc0d03afcda33e0e2d786fb&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Applebot-Extended&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:850a9cf55c69f675840abba5c3dcd3ed59e32a92296ebf716e0bfd4578442750</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:Bytespider</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;850a9cf55c69f675840abba5c3dcd3ed59e32a92296ebf716e0bfd4578442750&quot;,&quot;content_hash&quot;:&quot;ed7d4d763bcaa0b9ed648aa99944cb14c8ea9eb50b20d9ca271e9b8e5a02ef79&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:6d9bf6accc8bed20e055694418eb04d1b1b31e90366e9456ed16807885280301</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:CCBot</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;6d9bf6accc8bed20e055694418eb04d1b1b31e90366e9456ed16807885280301&quot;,&quot;content_hash&quot;:&quot;915feabb1abf31fd45d0299f84a0534ccb72f71375e220ba4d3dcedc19b787ac&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:CCBot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:b2ea371e6d48d75f31a8d079c5301d0be11bc81a38d1bf5f1735967ff5f646b6</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:ChatGPT-User</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;partial&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;b2ea371e6d48d75f31a8d079c5301d0be11bc81a38d1bf5f1735967ff5f646b6&quot;,&quot;content_hash&quot;:&quot;fb512f79604984543143d156f32e246faa7f8b745a31ee2c4d22d8140ed81e18&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:71923b86db69cecbe42a70b8df53cd3f3a73fc60d0451e43eeedb3ed43fc48d8</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:ClaudeBot</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;71923b86db69cecbe42a70b8df53cd3f3a73fc60d0451e43eeedb3ed43fc48d8&quot;,&quot;content_hash&quot;:&quot;e4301e2894eaa04ef3e43caec3ab25e29cfe8bb3a98941fa5baca9427870153c&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:c29a62a9447ae25913ff079f2b3b4994ce02c1dc09b5afd5fcffce52e6b43777</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:GPTBot</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;partial&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;c29a62a9447ae25913ff079f2b3b4994ce02c1dc09b5afd5fcffce52e6b43777&quot;,&quot;content_hash&quot;:&quot;0426cbd22096e0579974d208c314155d2cf0e6c2deab61e2574b780af0e2d36d&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:c625fa3087c3bf10362397023ef665510898ab805468b8815d02141478b5e074</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:Google-Extended</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;c625fa3087c3bf10362397023ef665510898ab805468b8815d02141478b5e074&quot;,&quot;content_hash&quot;:&quot;fe1140067286b673656e16bc9d540481b88b6fdc352cde29420f381220c13f86&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:79b07ff160cc30eb7e4330f22190a970b42a72171e225f05280579ee325cead6</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:OAI-SearchBot</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;partial&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;79b07ff160cc30eb7e4330f22190a970b42a72171e225f05280579ee325cead6&quot;,&quot;content_hash&quot;:&quot;83f5abf8495fd1262409007cfdf4dbfdc836f84433e28854076d09886c367111&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:c45963126c1542b33dcfe56c69bde51f9ef547cbfc04844097f03c34f5129a9e</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:PerplexityBot</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;c45963126c1542b33dcfe56c69bde51f9ef547cbfc04844097f03c34f5129a9e&quot;,&quot;content_hash&quot;:&quot;46f2a5cf42b51c512fe96ec5ab5a886279c0175fc7db1e3a90b202cddb5a1c26&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:2fe01e755df23b944cf48e9ad7e5fe26de8d0a95f39d18bee9d8934710149a1c</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:anthropic-ai</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;2fe01e755df23b944cf48e9ad7e5fe26de8d0a95f39d18bee9d8934710149a1c&quot;,&quot;content_hash&quot;:&quot;873d3ad81e47f9c0cc7b015d7e482d5c0727eaec85295da6f8ba1d25a807f5fa&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:7d69b9dc66b2e35a4ed4b8e614f560d1ff6dfee1fc30ecdfb277588e0065f209</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:meta-externalagent</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;7d69b9dc66b2e35a4ed4b8e614f560d1ff6dfee1fc30ecdfb277588e0065f209&quot;,&quot;content_hash&quot;:&quot;6f5b09a354d3a15bafb4e122f5c4d41ddb5bbdf9cd263cf0f12bb6a70f639208&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:ecedfc104d852555d151dc7f1dd14ee49f514c226c35f3a9a88de3670dfcaae9</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · content_type</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;text/plain; charset=utf-8&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;ecedfc104d852555d151dc7f1dd14ee49f514c226c35f3a9a88de3670dfcaae9&quot;,&quot;content_hash&quot;:&quot;fef5b4a735e0ecda44c459ecc5d706117e5b81522a07395295fe563c6fa4e56a&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:2490e3a216f5a6ebcae65dd8f4e3cecf18364edf83a443bc03c313cb30c4b29c</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · status</title>
+    <updated>2026-08-11T21:15:23.132Z</updated>
+    <category term="consent-census"/>
+    <link href="https://wsj.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:200,&quot;before&quot;:404,&quot;chain_hash&quot;:&quot;2490e3a216f5a6ebcae65dd8f4e3cecf18364edf83a443bc03c313cb30c4b29c&quot;,&quot;content_hash&quot;:&quot;9bc6301db061ac918463ebef86198ed335f0d6e747c45e39ad1b3d7974d92483&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:deal-audit-ledger:7046a8f76c203bfe511b47f58b7b366a70dd44739ebda4513df39d4cd067ce59</id>
     <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11710:20260803:문정동:18:문정대우푸르지오1차:84.86:15:180000</title>
@@ -325,166 +485,6 @@
     <category term="ai-jobs-ledger"/>
     <link href="https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;scale-ai&quot;,&quot;location&quot;:&quot;San Francisco, CA; New York, NY&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Technical Program Manager, Gen AI Operations Planning&quot;},&quot;chain_hash&quot;:&quot;a9c3f521427d6856d35eec6150cea72961efde09fe74f34aa41a2cab60becefa&quot;,&quot;content_hash&quot;:&quot;6eeb9e151aa6e6f2dd16b590ca72905358645a06f2244a188efd6a878254a668&quot;,&quot;entity_id&quot;:&quot;job:scale-ai:4693449005&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-10T22:20:30.640Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/scaleai/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:c79868986bcf14863a9223fa054a55e8212cf645c742642fe6ffbef85897be5f</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:washingtonpost.com:robots-txt · body_bytes</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://washingtonpost.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:5804,&quot;before&quot;:5783,&quot;chain_hash&quot;:&quot;c79868986bcf14863a9223fa054a55e8212cf645c742642fe6ffbef85897be5f&quot;,&quot;content_hash&quot;:&quot;2b018a960e494f586611b1ce721e54f6a2581e735efeb85cc9d08ec8bf2b9165&quot;,&quot;entity_id&quot;:&quot;probe:washingtonpost.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://washingtonpost.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:8e86aa06c92dda4498bdc3f5c228cc3b5774819760e06f0da2b5e885ae9fa3c8</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:washingtonpost.com:robots-txt · body_sha256</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://washingtonpost.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;918970c4ae59aa1f1f31577e14eec569caf79d69660bd06c381516e4d5c49426&quot;,&quot;before&quot;:&quot;66120dc2b705993cad406e608d0a610352c14dc3fd24ef3f39594691ecb812c9&quot;,&quot;chain_hash&quot;:&quot;8e86aa06c92dda4498bdc3f5c228cc3b5774819760e06f0da2b5e885ae9fa3c8&quot;,&quot;content_hash&quot;:&quot;76dd4ee834b469bd8a51a8424bad5671d031296e3f4237ff3f3005a4a545ca1b&quot;,&quot;entity_id&quot;:&quot;probe:washingtonpost.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://washingtonpost.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:bf0faa1beab2305c616db8bfb2ef0a550e70868495a2d44d97a87cae8da961d1</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:llms-txt · status</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:404,&quot;before&quot;:403,&quot;chain_hash&quot;:&quot;bf0faa1beab2305c616db8bfb2ef0a550e70868495a2d44d97a87cae8da961d1&quot;,&quot;content_hash&quot;:&quot;b1ec97012d14916f179f108391cb0f9e63f71454d5a98af26d6a1b314a4490d8&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:967a2e0c54b0cbf732a1d0cf54a46971d9d3f061749dd0a9f63e8c99d3784ef5</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · body</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;# NOTICE: Collection of content and other data on https://www.wsj.com/ through\n# automated means is prohibited unless you have express written\n# permission from Dow Jones &amp; Company, Inc. and may only be conducted for the\n# limited purpose contained in said permission.\n#\n# Dow Jones &amp; Company, Inc. Terms of Use may be found at\n# https://www.dowjones.com/terms-of-use/\n#\n# If you would like to apply for permission to license the\n# intellectual property and/or other materials of Dow Jones &amp; Company, Inc.’s\n# brands, please contact us via email at copyright@dowjones.com.\n\nUser-agent: *\nDisallow: /\n\nUser-agent: googlebot\nUser-agent: googlebot-image\nUser-agent: GoogleOther\nUser-agent: Googlebot-Video\nUser-agent: Google-InspectionTool\nUser-agent: AdsBot-Google\nUser-agent: AdsBot-Google-Mobile\nUser-agent: AdsBot-Google-Mobile-Apps\nUser-agent: Storebot-Google\nUser-agent: google-read-aloud\nUser-agent: bingbot\nUser-agent: msnbot\nUser-agent: bingpreview\nUser-agent: slurp\nUser-agent: yahoo\nUser-agent: baiduspider\nUser-agent: Pinterestbot\nUser-agent: Yeti\nUser-agent: MojeekBot\nUser-agent: 360Spider\nUser-agent: google-cloudvertexbot\nUser-agent: duckduckbot\nUser-agent: Applebot\nUser-agent: flipboard\nUser-agent: qwantbot\nUser-agent: SeznamBot\n\n\n\nUser-agent: proximic\nUser-agent: admantx\nUser-agent: thetradedesk\nUser-agent: outbrain\nUser-agent: ias_crawler\nUser-agent: AmazonAdBot\nUser-agent: pubmatic\nUser-agent: smartologybot\nUser-agent: parselybot\nUser-agent: BomboraBot\nUser-agent: IllumaBot/1.0\nUser-agent: Publication-Access-for-Facebook\n\n\nUser-agent: Screaming Frog SEO Spider\nUser-agent: AhrefsBot\nUser-agent: SemrushBot\nUser-agent: SimilarWebBot\nUser-agent: SISTRIX\nUser-agent: botify\nUser-agent: Chrome-Lighthouse\n\n\n\nUser-agent: ChatGPT-User\nUser-agent: GPTBot\nUser-agent: OAI-SearchBot\n\n\nUser-agent: facebookexternalhit\nUser-agent: facebot\nUser-agent: twitterbot\nUser-agent: linkedinbot\nUser-agent: snapchat\nUser-agent: sentry\nUser-agent: Iframely\nUser-agent: Vocabtracker\nUser-agent: EpvzCrawl6194680250\nUser-agent: Citoid\nUser-agent: ZoteroTranslationServer\n\n\n\nAllow: /\nDisallow: /article_email/*\nDisallow: /user/*\nDisallow: /pdf/documents/*\nDisallow: /login/*\nDisallow: /acct/*\nDisallow: /msgcenter/*\nDisallow: /setup/*\nDisallow: /marketing/*\nDisallow: /public/article/*\nDisallow: /public/resources/documents/*\nDisallow: /public/search/\nDisallow: /public/search*\nDisallow: /search*\nDisallow: /public/page/wsj-x-marketing.html\nDisallow: /public/page/news-media-marketing.html\nDisallow: /public/page/0_0_WP_RT_MARKETING.html\nDisallow: /news/articles/SB2*\nDisallow: /news/articles/SB3*\nDisallow: /news/articles/SB4*\nDisallow: /articles/SB2*\nDisallow: /articles/SB3*\nDisallow: /articles/SB4*\nDisallow: /article/AP*\nDisallow: /article/BT-CO*\nDisallow: /article/DN-CO*\nDisallow: /article/PR-CO*\nDisallow: /article/HUG*\nDisallow: /video/search/*\nDisallow: /articles/BT-CO*\nDisallow: /articles/DN-CO*\nDisallow: /articles/PR-CO*\nDisallow: /news/articles/BT-CO*\nDisallow: /news/articles/DN-CO*\nDisallow: /news/articles/PR-CO*\nDisallow: /catchup/*\nDisallow: /articles/the-meaning-behind-juneteenth-11592413234\nDisallow: /emailservice/*\nDisallow: /emailsignup/*\nDisallow: /insetsrv/v1/*\nDisallow: /user/fpd/api/*\nDisallow: /Date(*\nDisallow: /auth/sso/proxy-login*\nDisallow: /client/\n\n# For Buyside Search Results\nDisallow: /buyside/search-results?*term=*\n# Don&apos;t crawl non-indexable sites\nDisallow: /*?type=mdc_*&amp;id=*\nDisallow: /*?id=*&amp;type=mdc_*\nDisallow: /market-data/quotes/*/options/*\nDisallow: /subscribe/?inttrackingCode=*\nDisallow: /subscribe/?template=*\n\nUser-agent: mediapartners-google\nDisallow: /\nAllow: /watchlist\n\nSitemap: https://www.wsj.com/sitemap.xml\nSitemap: https://www.wsj.com/wsjsitemaps/wsj_google_news.xml\nSitemap: https://www.wsj.com/wsj_video_recent.xml\nSitemap: https://www.wsj.com/sitemap_topics.xml\nSitemap: https://www.wsj.com/sitemaps/web/wsj/en/sitemap_wsj_en_index.xml\nSitemap: https://www.wsj.com/live_news_sitemap.xml\nSitemap: https://www.wsj.com/authors_sitemap.xml\nSitemap: https://www.wsj.com/sitemaps/web/video/en/sitemap_video_en_index.xml\nSitemap: https://www.wsj.com/buyside/sitemap.xml\nSitemap: https://www.wsj.com/wsj_quote_index_sitemap.xml\nSitemap: https://www.wsj.com/wsjsitemaps/wsj_recipes.xml\nSitemap: https://www.wsj.com/sitemap_topic_collections.xml\n\n\n&quot;,&quot;chain_hash&quot;:&quot;967a2e0c54b0cbf732a1d0cf54a46971d9d3f061749dd0a9f63e8c99d3784ef5&quot;,&quot;content_hash&quot;:&quot;6d323cf2335125e910c428421578e42d32672de0515e6e57b50b37320b77b57e&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:e4fe535076f52b3701be449735a4e276fb17acde3bf81fb8eed521f8240b0cf5</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · body_bytes</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:4309,&quot;chain_hash&quot;:&quot;e4fe535076f52b3701be449735a4e276fb17acde3bf81fb8eed521f8240b0cf5&quot;,&quot;content_hash&quot;:&quot;c7708cdfc3b953a2ed1df04c03a16b1c170e18e58fff4607d93f05b24e7660bc&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:9f14daa6b2366ad1a702d01732cb7b6472dd5c88fef63f75f3120da4b0231ce0</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · body_sha256</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;0a13480217709fc421a9899c8cd116a4ad2c9aca43be15d69fc35b143d777d7a&quot;,&quot;chain_hash&quot;:&quot;9f14daa6b2366ad1a702d01732cb7b6472dd5c88fef63f75f3120da4b0231ce0&quot;,&quot;content_hash&quot;:&quot;790616f7aef02ba8176413872b03b312a933ccdea4fca6ef3c135670c43e45d0&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:1d2c558c38314736322dedfb2765dadaeec1c94fffd061de077757f8b93a1dfe</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:Amazonbot</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;1d2c558c38314736322dedfb2765dadaeec1c94fffd061de077757f8b93a1dfe&quot;,&quot;content_hash&quot;:&quot;cae72f7b541d0ce3d52de3d6d1bd6f590f9fe9538d8454d74049c06fd0a1445f&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Amazonbot&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:6f89b14ef047f26861d70b5b8a1b4713c01c5210cce1a2444e5e03d21938eb9f</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:Applebot-Extended</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;6f89b14ef047f26861d70b5b8a1b4713c01c5210cce1a2444e5e03d21938eb9f&quot;,&quot;content_hash&quot;:&quot;22f412db4da5b45fcc962a1ed0a411c1156efa2e8e8cc4a40fa9f1012c4bb4ed&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Applebot-Extended&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:ab3c510838a597f1f9ea81942cd5d411a6c125b83aabe1f0e139c801852922e6</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:Bytespider</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;ab3c510838a597f1f9ea81942cd5d411a6c125b83aabe1f0e139c801852922e6&quot;,&quot;content_hash&quot;:&quot;2431c8a2c805e403ee919b39990a989b27dc08301108a749381f9a35bfdaa5d5&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:ee508ae2b9c660255763ee3e75de2d5e5fd63d67d0e83b5ef2f610ba3735ee12</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:CCBot</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;ee508ae2b9c660255763ee3e75de2d5e5fd63d67d0e83b5ef2f610ba3735ee12&quot;,&quot;content_hash&quot;:&quot;4fa25137603cf2afd33aa93de7ebe2e10e2130de0d334bd076e1b28e7d6e69bc&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:CCBot&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:2e7e30db9cf092ef8e3c40c790d29a823a11b4653629e3fc37d1b28252a6ae3f</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:ChatGPT-User</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;partial&quot;,&quot;chain_hash&quot;:&quot;2e7e30db9cf092ef8e3c40c790d29a823a11b4653629e3fc37d1b28252a6ae3f&quot;,&quot;content_hash&quot;:&quot;34172549ee2646692432d3e865e04633c49e011fdef73c0427753eb0dbcebcba&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:8c346c07f7a25cbbb68549a85a4701db16975c45b8333768d9fc94786acbb965</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:ClaudeBot</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;8c346c07f7a25cbbb68549a85a4701db16975c45b8333768d9fc94786acbb965&quot;,&quot;content_hash&quot;:&quot;084623145e4560203fe1615c521e6e7c82880de446faaef188a005fd536a4cae&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:b79cfe4409f55ae6dce6af10d1639c0e6cb29f1c173eb44718962840da76ddb1</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:GPTBot</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;partial&quot;,&quot;chain_hash&quot;:&quot;b79cfe4409f55ae6dce6af10d1639c0e6cb29f1c173eb44718962840da76ddb1&quot;,&quot;content_hash&quot;:&quot;31973b548fb97da7bd9a003df620f009fe0e5472ca9030c74bf8a51cfba47f57&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:60bbf58c8e98a76d86fc32aed1383d5a2d1f0639bfa528048e039c1a2796eab2</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:Google-Extended</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;60bbf58c8e98a76d86fc32aed1383d5a2d1f0639bfa528048e039c1a2796eab2&quot;,&quot;content_hash&quot;:&quot;f20b40328d0065dd7ac8d23ddad4c9aee9b9e59a99636e5b2f27d2257d8db67a&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:25d534ec0b5de0b4ca6ae69eb93e8a3648bb1e8dd31be07596f9d9a746a083e2</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:OAI-SearchBot</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;partial&quot;,&quot;chain_hash&quot;:&quot;25d534ec0b5de0b4ca6ae69eb93e8a3648bb1e8dd31be07596f9d9a746a083e2&quot;,&quot;content_hash&quot;:&quot;6037d717da146f53703b9f1b5b50f5d8c9a22c479819e228d92d9aa54d395ce9&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:17eb1246275e1c43eb3165b8c7982400de5909b3e32662cc88c17eb03a9a604c</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:PerplexityBot</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;17eb1246275e1c43eb3165b8c7982400de5909b3e32662cc88c17eb03a9a604c&quot;,&quot;content_hash&quot;:&quot;0920a210dd4cde42fdc7221f3e4308cba0c0191be4477fa5686798cde403a90c&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:18613b4dd0599172cf9ce52e27f512540af9ce4f3991bc5060fc74b64b75c7b4</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:anthropic-ai</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;18613b4dd0599172cf9ce52e27f512540af9ce4f3991bc5060fc74b64b75c7b4&quot;,&quot;content_hash&quot;:&quot;5a5c76aad6161d0c8632993a59c914485aa2c5eb591ebe1d8e3c2fb82dd5507e&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:167115c827434a9de3cce50fd0c9fa4db823adad0ade085786d5f566f5db3cc7</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:meta-externalagent</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;167115c827434a9de3cce50fd0c9fa4db823adad0ade085786d5f566f5db3cc7&quot;,&quot;content_hash&quot;:&quot;033daa933ee381bea8a0f435396a08b75521c0dc6e1f013b19502b052e6bde61&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:d219488895a9414a1d36583a9b6ecb74ebef074e59a6c45895506e11e1a395e9</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · content_type</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;text/plain; charset=utf-8&quot;,&quot;chain_hash&quot;:&quot;d219488895a9414a1d36583a9b6ecb74ebef074e59a6c45895506e11e1a395e9&quot;,&quot;content_hash&quot;:&quot;fa1a94edaed4f37e51bad063b474ac1ab907a4e29cbf9f859f9b9525f42dc63e&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:0ab9e61d74c9c0ab688c2643cd35a9b037574e04d8bb7cf8d832cd6a2330b9b7</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · status</title>
-    <updated>2026-08-10T21:12:33.431Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:404,&quot;before&quot;:200,&quot;chain_hash&quot;:&quot;0ab9e61d74c9c0ab688c2643cd35a9b037574e04d8bb7cf8d832cd6a2330b9b7&quot;,&quot;content_hash&quot;:&quot;50a854bb438d64a98982025f17d9b691d61831eadd63e15245b2b89d621145ee&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-08-10T21:12:33.431Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:commitments-watch:9648abf894c951ade16d76f646bc0f0293bcd65a15cbd5d2e34e62b2150a6311</id>
