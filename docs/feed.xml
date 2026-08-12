@@ -3,9 +3,17 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-08-12T21:12:34.817Z</updated>
+  <updated>2026-08-12T22:06:29.955Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:forecast-graders:ed3086c29bf5cad2ffa9f1b6949f783d5484dc2f0ee6ca77ed2b2ddf37560589</id>
+    <title>[기관 전망 박제 — 한은·KB·건산연·주산연] [변경] page:khi-press · items</title>
+    <updated>2026-08-12T22:06:29.955Z</updated>
+    <category term="forecast-graders"/>
+    <link href="https://www.khi.re.kr/notice/notice3.php"/>
+    <content type="text">{&quot;after&quot;:[&quot;2026-08-11 · 2026년 8월 아파트입주전망지수 홍보담당&quot;,&quot;2026-08-06 · 2026년 8월 아파트분양전망지수 홍보담당&quot;,&quot;2026-07-14 · 2026년 7월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-07-09 · 2026년 7월 아파트입주전망지수 홍보담당&quot;,&quot;2026-07-07 · 2026년 7월 아파트분양전망지수 홍보담당&quot;,&quot;2026-06-16 · 2026년 6월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-06-11 · 2026년 6월 아파트입주전망지수 홍보담당&quot;,&quot;2026-06-09 · 2026년 6월 아파트분양전망지수 홍보담당&quot;,&quot;2026-05-19 · 2026년 5월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-05-14 · 2026년 5월 아파트입주전망지수 홍보담당&quot;],&quot;before&quot;:[&quot;2026-08-06 · 2026년 8월 아파트분양전망지수 홍보담당&quot;,&quot;2026-07-14 · 2026년 7월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-07-09 · 2026년 7월 아파트입주전망지수 홍보담당&quot;,&quot;2026-07-07 · 2026년 7월 아파트분양전망지수 홍보담당&quot;,&quot;2026-06-16 · 2026년 6월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-06-11 · 2026년 6월 아파트입주전망지수 홍보담당&quot;,&quot;2026-06-09 · 2026년 6월 아파트분양전망지수 홍보담당&quot;,&quot;2026-05-19 · 2026년 5월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-05-14 · 2026년 5월 아파트입주전망지수 홍보담당&quot;,&quot;2026-05-12 · 2026년 5월 아파트분양전망지수 홍보담당&quot;],&quot;chain_hash&quot;:&quot;ed3086c29bf5cad2ffa9f1b6949f783d5484dc2f0ee6ca77ed2b2ddf37560589&quot;,&quot;content_hash&quot;:&quot;f04ff70fd0ac0b54e10c4fce536887d5a69dd0a8a1c2270f50079bad2e4c76ab&quot;,&quot;entity_id&quot;:&quot;page:khi-press&quot;,&quot;field&quot;:&quot;items&quot;,&quot;observed_at&quot;:&quot;2026-08-12T22:06:29.955Z&quot;,&quot;source_url&quot;:&quot;https://www.khi.re.kr/notice/notice3.php&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:consent-census:6c062591b2f24bc682fd83769dc9561f8d4d3f4dc7bde6090d4d2eccd8523ac8</id>
     <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
@@ -957,13 +965,5 @@
     <category term="ai-vendor-ledger"/>
     <link href="https://openrouter.ai/api/v1/models"/>
     <content type="text">{&quot;after&quot;:&quot;SpaceXAI: Grok 4.5&quot;,&quot;before&quot;:&quot;xAI: Grok 4.5&quot;,&quot;chain_hash&quot;:&quot;e4d620976608628be49766ec0abf8438f70b675bf1f9117cc22e9b5a061f96fa&quot;,&quot;content_hash&quot;:&quot;48024aeaa9984e84ba95bf2d907907fcb09f0f45897daba6135b555de0c2a5cd&quot;,&quot;entity_id&quot;:&quot;model:x-ai/grok-4.5&quot;,&quot;field&quot;:&quot;name&quot;,&quot;observed_at&quot;:&quot;2026-08-08T20:37:28.153Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:2f6d6e60d08d0c3989dc36538171e095460bc56b3ab93674e8670787ad106378</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:x-ai/grok-build-0.1 · name</title>
-    <updated>2026-08-08T20:37:28.153Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;SpaceXAI: Grok Build 0.1&quot;,&quot;before&quot;:&quot;xAI: Grok Build 0.1&quot;,&quot;chain_hash&quot;:&quot;2f6d6e60d08d0c3989dc36538171e095460bc56b3ab93674e8670787ad106378&quot;,&quot;content_hash&quot;:&quot;df85c339a2cade5f4f37e4eef1ef58a7c93bb7f7b9b762933c26d94a5d291514&quot;,&quot;entity_id&quot;:&quot;model:x-ai/grok-build-0.1&quot;,&quot;field&quot;:&quot;name&quot;,&quot;observed_at&quot;:&quot;2026-08-08T20:37:28.153Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
 </feed>
