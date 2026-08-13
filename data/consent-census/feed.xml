@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-08-12T21:12:34.817Z</updated>
+  <updated>2026-08-13T21:13:16.689Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:0e407a9df6da176bfc755d5bb21712084cb8b489f1b261640d1475c76af21373</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-08-13T21:13:16.689Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;d99bcdc47319e8fa12aa5f957baa71d98bd9443a824e7d33dad3c6a4ad0d24cd&quot;,&quot;before&quot;:&quot;6a7714d7c2032039a64d6f2a33ef5374d0bc5d26b52bf55ebd3d398ecd318963&quot;,&quot;chain_hash&quot;:&quot;0e407a9df6da176bfc755d5bb21712084cb8b489f1b261640d1475c76af21373&quot;,&quot;content_hash&quot;:&quot;4e52a7008165bc58580a0bcc461021ba3b0243d91a0badcfc1f69d1a483865af&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-13T21:13:16.689Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:3f52bf7157a44dc3386a7dd4a694c4487840581c195dc595e1365e40f2ecf09c</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-08-13T21:13:16.689Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:625164,&quot;before&quot;:623384,&quot;chain_hash&quot;:&quot;3f52bf7157a44dc3386a7dd4a694c4487840581c195dc595e1365e40f2ecf09c&quot;,&quot;content_hash&quot;:&quot;e8d3572976b88ceb9f2ecf68de304d83bb851792277251440f5084ce217ad31d&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-13T21:13:16.689Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:c90c054171238f27d5165b3e9f494cfac34c16c095093f4d306de9ee65376310</id>
     <title>[변경] probe:nytimes.com:robots-txt · body_sha256</title>
@@ -339,19 +353,5 @@
     <updated>2026-08-11T21:15:23.132Z</updated>
     <link href="https://amazon.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;bc7ff62ebf86a9c04edb520a0671786370979b310c7ea6baf98953f3b35db5ae&quot;,&quot;content_hash&quot;:&quot;fe0b4c0d63f7dda1b21b83f261f1a2e36334e8c9b0753e9f2185e282ddeaa91e&quot;,&quot;entity_id&quot;:&quot;probe:amazon.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://amazon.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:eb9708abdb29c4928f3068276da625fcf6c73149b2e6c36f3fbb2c5479ca41e2</id>
-    <title>[변경] probe:amazon.com:robots-txt · bot:GPTBot</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://amazon.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;eb9708abdb29c4928f3068276da625fcf6c73149b2e6c36f3fbb2c5479ca41e2&quot;,&quot;content_hash&quot;:&quot;e5a2795d8646731eb1adb53b15af4d4b2f0c6c5375282262d6faf897c5969291&quot;,&quot;entity_id&quot;:&quot;probe:amazon.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://amazon.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:1df4604a474d074899022f157b9589abbf658f88f649d18bb77890cfc65ef053</id>
-    <title>[변경] probe:amazon.com:robots-txt · bot:ClaudeBot</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://amazon.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;1df4604a474d074899022f157b9589abbf658f88f649d18bb77890cfc65ef053&quot;,&quot;content_hash&quot;:&quot;4cfcc8d56467213c9f840c2116ea48e484079538759e78edb90bef66ea8bb06b&quot;,&quot;entity_id&quot;:&quot;probe:amazon.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://amazon.com/robots.txt&quot;}</content>
   </entry>
 </feed>
