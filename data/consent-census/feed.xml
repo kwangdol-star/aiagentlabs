@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-08-13T21:13:16.689Z</updated>
+  <updated>2026-08-14T20:57:23.110Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:c3d75f7a5effb8e1d6fff647fb4f95c99c7e16ccbcd0d3c75b22febf7d2a9cf1</id>
+    <title>[변경] probe:nature.com:llms-txt · status</title>
+    <updated>2026-08-14T20:57:23.110Z</updated>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:404,&quot;before&quot;:200,&quot;chain_hash&quot;:&quot;c3d75f7a5effb8e1d6fff647fb4f95c99c7e16ccbcd0d3c75b22febf7d2a9cf1&quot;,&quot;content_hash&quot;:&quot;9ab2caade51af27c800d0268bbbcb4e3a96f45c77f813a7276d872df45554115&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-08-14T20:57:23.110Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:2142c22d4ddbcb608582d02dc783085edc1f5dc9e93fde8329012352a9a949eb</id>
+    <title>[변경] probe:nature.com:llms-txt · content_type</title>
+    <updated>2026-08-14T20:57:23.110Z</updated>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;text/html; charset=utf-8&quot;,&quot;chain_hash&quot;:&quot;2142c22d4ddbcb608582d02dc783085edc1f5dc9e93fde8329012352a9a949eb&quot;,&quot;content_hash&quot;:&quot;189ffda8fcc825937e7bfc43788daf0bd019f384db1e2edbab3b5c962f85d6b7&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-08-14T20:57:23.110Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:468e5f8098bbbedb40873eb8adc035a9be66c2db4313c4d4f0450c061500ef44</id>
+    <title>[변경] probe:nature.com:llms-txt · body_sha256</title>
+    <updated>2026-08-14T20:57:23.110Z</updated>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea&quot;,&quot;chain_hash&quot;:&quot;468e5f8098bbbedb40873eb8adc035a9be66c2db4313c4d4f0450c061500ef44&quot;,&quot;content_hash&quot;:&quot;0fb823ec30f479ddba22ae83ea626520dba8d0d9f3abdad2a1d2ef04cafc63f5&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-14T20:57:23.110Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:3de9d5d0dc7b25d227ad9ee22d5c440dee7066393bbcea8a5eb79ca21be993bc</id>
+    <title>[변경] probe:nature.com:llms-txt · body_bytes</title>
+    <updated>2026-08-14T20:57:23.110Z</updated>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:3038,&quot;chain_hash&quot;:&quot;3de9d5d0dc7b25d227ad9ee22d5c440dee7066393bbcea8a5eb79ca21be993bc&quot;,&quot;content_hash&quot;:&quot;6b12eba3b327dd39cdd1ced39515b6ec2515b6466d49d0229cf6a23754e1fcbc&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-14T20:57:23.110Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:c0f787d4570f4bbe80815dc9144c35e027829a1567e33553f8c1f9c70af1b7cf</id>
+    <title>[변경] probe:nature.com:llms-txt · body</title>
+    <updated>2026-08-14T20:57:23.110Z</updated>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;&lt;!DOCTYPE html&gt;\n&lt;html lang=\&quot;en\&quot;&gt;\n  &lt;head&gt;\n    &lt;meta\n      http-equiv=\&quot;Content-Security-Policy\&quot;\n      content=\&quot;default-src &apos;self&apos;; img-src &apos;self&apos; data:; media-src &apos;self&apos; data:; object-src &apos;none&apos;; style-src &apos;self&apos; &apos;sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ=&apos;; script-src &apos;self&apos; &apos;sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=&apos;;\&quot;\n    /&gt;\n    &lt;link\n      href=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\&quot;\n      rel=\&quot;preload\&quot;\n      as=\&quot;font\&quot;\n      type=\&quot;font/woff2\&quot;\n      crossorigin\n    /&gt;\n    &lt;link href=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css\&quot; rel=\&quot;stylesheet\&quot; /&gt;\n    &lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=1\&quot; /&gt;\n    &lt;title&gt;Client Challenge&lt;/title&gt;\n    &lt;style&gt;\n      #loading-error {\n        font-size: 16px;\n        font-family: &apos;Inter&apos;, sans-serif;\n        margin-top: 10px;\n        margin-left: 10px;\n        display: none;\n      }\n    &lt;/style&gt;\n  &lt;/head&gt;\n  &lt;body&gt;\n    &lt;noscript&gt;\n      &lt;div class=\&quot;noscript-container\&quot;&gt;\n        &lt;div class=\&quot;noscript-content\&quot;&gt;\n          &lt;img\n            src=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg\&quot;\n            alt=\&quot;\&quot;\n            role=\&quot;presentation\&quot;\n            class=\&quot;error-icon\&quot;\n          /&gt;\n          &lt;span class=\&quot;noscript-span\&quot;\n            &gt;JavaScript is disabled in your browser.&lt;/span\n          &gt;\n          &lt;p&gt;Please enable JavaScript to proceed.&lt;/p&gt;\n        &lt;/div&gt;\n      &lt;/div&gt;\n    &lt;/noscript&gt;\n    &lt;div id=\&quot;loading-error\&quot; role=\&quot;alert\&quot; aria-live=\&quot;polite\&quot;&gt;\n      A required part of this site couldn’t load. This may be due to a browser\n      extension, network issues, or browser settings. Please check your\n      connection, disable any ad blockers, or try using a different browser.\n    &lt;/div&gt;\n    &lt;script&gt;\n      function loadScript(src) {\n        return new Promise((resolve, reject) =&gt; {\n          const script = document.createElement(&apos;script&apos;);\n          script.onload = resolve;\n          script.onerror = (event) =&gt; {\n            console.error(&apos;Script load error event:&apos;, event);\n            document.getElementById(&apos;loading-error&apos;).style.display = &apos;block&apos;;\n            reject(\n              new Error(\n                `Failed to load script: ${src}, Please contact the service administrator.`\n              )\n            );\n          };\n          script.src = src;\n          document.body.appendChild(script);\n        });\n      }\n\n      loadScript(&apos;/_fs-ch-1T1wmsGaOgGaSxcX/errors.js&apos;)\n        .then(() =&gt; {\n          const script = document.createElement(&apos;script&apos;);\n          script.src = &apos;/_fs-ch-1T1wmsGaOgGaSxcX/script.js?reload=true&apos;;\n          script.onerror = (event) =&gt; {\n            console.error(&apos;Script load error event:&apos;, event);\n            const errorMsg = new Error(\n              `Failed to load script: ${script.src}. Please contact the service administrator.`\n            );\n            console.error(errorMsg);\n            handleScriptError();\n          };\n          document.body.appendChild(script);\n        })\n        .catch((error) =&gt; {\n          console.error(error);\n        });\n    &lt;/script&gt;\n  &lt;/body&gt;\n&lt;/html&gt;\n&quot;,&quot;chain_hash&quot;:&quot;c0f787d4570f4bbe80815dc9144c35e027829a1567e33553f8c1f9c70af1b7cf&quot;,&quot;content_hash&quot;:&quot;1a015405e533c462e1814d588b3c72dccea975968f3161c8e77cdb4213c54646&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-08-14T20:57:23.110Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:1e28c3e8e39e0cf8d339421f42dea2d66fafd80add75992d4179cade8e380336</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-08-14T20:57:23.110Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;ccfaecadca470bb0cd602d6a32f2bd82258102b73b2df41552c447de80429a79&quot;,&quot;before&quot;:&quot;d99bcdc47319e8fa12aa5f957baa71d98bd9443a824e7d33dad3c6a4ad0d24cd&quot;,&quot;chain_hash&quot;:&quot;1e28c3e8e39e0cf8d339421f42dea2d66fafd80add75992d4179cade8e380336&quot;,&quot;content_hash&quot;:&quot;302e47a1ea24a13ff4b7cf0f4c383f6e688f4659c45559b44c147147c57929a1&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-14T20:57:23.110Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:ea86c4532788b004b5e17560f61c82c808b8d6b487883f4a0f19c80f7bd6c7ee</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-08-14T20:57:23.110Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:614534,&quot;before&quot;:625164,&quot;chain_hash&quot;:&quot;ea86c4532788b004b5e17560f61c82c808b8d6b487883f4a0f19c80f7bd6c7ee&quot;,&quot;content_hash&quot;:&quot;704ed59f6cdb6d00468c63bbf31a3c6b5188c1beb95171917052baeb9f60a429&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-14T20:57:23.110Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:0e407a9df6da176bfc755d5bb21712084cb8b489f1b261640d1475c76af21373</id>
     <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
@@ -304,54 +353,5 @@
     <updated>2026-08-11T21:15:23.132Z</updated>
     <link href="https://daum.net/llms.txt"/>
     <content type="text">{&quot;after&quot;:&quot;bee150d881b7d9959a5b62b2f2c9329e14063f08ffaf3b46538861f9bae47aa2&quot;,&quot;before&quot;:&quot;be8ef44a65f821df2918664b253711a6ab835283bef51157aba4e53034dd507f&quot;,&quot;chain_hash&quot;:&quot;1b5469ff3ea363ee6c64a98b9a50673eebcac8175922c8113ffd73bab64071f4&quot;,&quot;content_hash&quot;:&quot;f566892eeda68aa4384de79df3434b56a9a2b34903ba462a6275f1fc19c35d1d&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:6a8fe2150cb16a7aa76ff60d28c1bf496d560388968a3817df170d7e1e4af25b</id>
-    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:620660,&quot;before&quot;:623061,&quot;chain_hash&quot;:&quot;6a8fe2150cb16a7aa76ff60d28c1bf496d560388968a3817df170d7e1e4af25b&quot;,&quot;content_hash&quot;:&quot;c932095455525738cbb069aeb596674a208457f423f3e1c7e1fe9a299bc75639&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:4e1bee0d6cbae1dc65088862907adbd12b72ae49063c846ebc32bad23e8ca999</id>
-    <title>[변경] probe:amazon.com:robots-txt · status</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://amazon.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:200,&quot;before&quot;:202,&quot;chain_hash&quot;:&quot;4e1bee0d6cbae1dc65088862907adbd12b72ae49063c846ebc32bad23e8ca999&quot;,&quot;content_hash&quot;:&quot;4f304e522a3a5ca09a1780af22477ff3209b4aa6d1fb6fdf96a646e336b4789a&quot;,&quot;entity_id&quot;:&quot;probe:amazon.com:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://amazon.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:97d4ddc0567913f4a0987d012049ff5b2548bedbef29fb84e0503efeba7deea0</id>
-    <title>[변경] probe:amazon.com:robots-txt · content_type</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://amazon.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;text/plain&quot;,&quot;before&quot;:&quot;text/html; charset=UTF-8&quot;,&quot;chain_hash&quot;:&quot;97d4ddc0567913f4a0987d012049ff5b2548bedbef29fb84e0503efeba7deea0&quot;,&quot;content_hash&quot;:&quot;b9e31af576894f25b0c4a75d9c37c03d8e6715e2b6ce613fcc3afb357c33e4a5&quot;,&quot;entity_id&quot;:&quot;probe:amazon.com:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://amazon.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:4feb006e1752423f4828d25792234802e53885733676092379acf21df3b27d85</id>
-    <title>[변경] probe:amazon.com:robots-txt · bot:meta-externalagent</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://amazon.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;4feb006e1752423f4828d25792234802e53885733676092379acf21df3b27d85&quot;,&quot;content_hash&quot;:&quot;3a8ac38674fe9a44432e0b12d43769bf6cd6856d1ce6c8a31dc07be14b32e168&quot;,&quot;entity_id&quot;:&quot;probe:amazon.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://amazon.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:b7154124514331b46d0585f600de97ccf495185ea9b5798a147e01ac8e078a44</id>
-    <title>[변경] probe:amazon.com:robots-txt · bot:PerplexityBot</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://amazon.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;b7154124514331b46d0585f600de97ccf495185ea9b5798a147e01ac8e078a44&quot;,&quot;content_hash&quot;:&quot;a4b33d0dc0254754475dc77053e0efc98a075bffb38d3452c425e8599c1f8b50&quot;,&quot;entity_id&quot;:&quot;probe:amazon.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://amazon.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:8c338da514f2f0db5715049d0920fb4e109910fbb6b9cfedbfd650807f80f824</id>
-    <title>[변경] probe:amazon.com:robots-txt · bot:OAI-SearchBot</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://amazon.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;8c338da514f2f0db5715049d0920fb4e109910fbb6b9cfedbfd650807f80f824&quot;,&quot;content_hash&quot;:&quot;0a102dab745693b1de7f25f887d57aa6520518abb55476e4c0fca4ac695bee45&quot;,&quot;entity_id&quot;:&quot;probe:amazon.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://amazon.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:bc7ff62ebf86a9c04edb520a0671786370979b310c7ea6baf98953f3b35db5ae</id>
-    <title>[변경] probe:amazon.com:robots-txt · bot:Google-Extended</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://amazon.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;bc7ff62ebf86a9c04edb520a0671786370979b310c7ea6baf98953f3b35db5ae&quot;,&quot;content_hash&quot;:&quot;fe0b4c0d63f7dda1b21b83f261f1a2e36334e8c9b0753e9f2185e282ddeaa91e&quot;,&quot;entity_id&quot;:&quot;probe:amazon.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://amazon.com/robots.txt&quot;}</content>
   </entry>
 </feed>
