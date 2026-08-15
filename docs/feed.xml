@@ -3,9 +3,65 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-08-15T20:29:57.940Z</updated>
+  <updated>2026-08-15T20:48:00.470Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:b7ec325ef26d8c2de411f7955be0d407f5612821a96c9ba3733edcd478f6b437</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:624998,&quot;before&quot;:614534,&quot;chain_hash&quot;:&quot;b7ec325ef26d8c2de411f7955be0d407f5612821a96c9ba3733edcd478f6b437&quot;,&quot;content_hash&quot;:&quot;da41f1960ca49b98336e98fd1473d6907ca05ceaf30849dd9c6b23f508e0572c&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:a09bf2673b4a09c279c14495f5cde566cb018d46988045ffe82cd16b81039565</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;57433a4d896ba35493699de806993246ade1270cd9d834d650b64de677ed4f49&quot;,&quot;before&quot;:&quot;ccfaecadca470bb0cd602d6a32f2bd82258102b73b2df41552c447de80429a79&quot;,&quot;chain_hash&quot;:&quot;a09bf2673b4a09c279c14495f5cde566cb018d46988045ffe82cd16b81039565&quot;,&quot;content_hash&quot;:&quot;8c98dfeade27235558016d10765510e8fc8ec192ed36b6127a48a6f7dfa17da3&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:75949d5648f924af07f29f85690ad61714dd3f2d2fb7864213650850bae1ff54</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:nature.com:llms-txt · body</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <category term="consent-census"/>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;&lt;!DOCTYPE html&gt;\n&lt;html lang=\&quot;en\&quot;&gt;\n  &lt;head&gt;\n    &lt;meta\n      http-equiv=\&quot;Content-Security-Policy\&quot;\n      content=\&quot;default-src &apos;self&apos;; img-src &apos;self&apos; data:; media-src &apos;self&apos; data:; object-src &apos;none&apos;; style-src &apos;self&apos; &apos;sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ=&apos;; script-src &apos;self&apos; &apos;sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=&apos;;\&quot;\n    /&gt;\n    &lt;link\n      href=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\&quot;\n      rel=\&quot;preload\&quot;\n      as=\&quot;font\&quot;\n      type=\&quot;font/woff2\&quot;\n      crossorigin\n    /&gt;\n    &lt;link href=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css\&quot; rel=\&quot;stylesheet\&quot; /&gt;\n    &lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=1\&quot; /&gt;\n    &lt;title&gt;Client Challenge&lt;/title&gt;\n    &lt;style&gt;\n      #loading-error {\n        font-size: 16px;\n        font-family: &apos;Inter&apos;, sans-serif;\n        margin-top: 10px;\n        margin-left: 10px;\n        display: none;\n      }\n    &lt;/style&gt;\n  &lt;/head&gt;\n  &lt;body&gt;\n    &lt;noscript&gt;\n      &lt;div class=\&quot;noscript-container\&quot;&gt;\n        &lt;div class=\&quot;noscript-content\&quot;&gt;\n          &lt;img\n            src=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg\&quot;\n            alt=\&quot;\&quot;\n            role=\&quot;presentation\&quot;\n            class=\&quot;error-icon\&quot;\n          /&gt;\n          &lt;span class=\&quot;noscript-span\&quot;\n            &gt;JavaScript is disabled in your browser.&lt;/span\n          &gt;\n          &lt;p&gt;Please enable JavaScript to proceed.&lt;/p&gt;\n        &lt;/div&gt;\n      &lt;/div&gt;\n    &lt;/noscript&gt;\n    &lt;div id=\&quot;loading-error\&quot; role=\&quot;alert\&quot; aria-live=\&quot;polite\&quot;&gt;\n      A required part of this site couldn’t load. This may be due to a browser\n      extension, network issues, or browser settings. Please check your\n      connection, disable any ad blockers, or try using a different browser.\n    &lt;/div&gt;\n    &lt;script&gt;\n      function loadScript(src) {\n        return new Promise((resolve, reject) =&gt; {\n          const script = document.createElement(&apos;script&apos;);\n          script.onload = resolve;\n          script.onerror = (event) =&gt; {\n            console.error(&apos;Script load error event:&apos;, event);\n            document.getElementById(&apos;loading-error&apos;).style.display = &apos;block&apos;;\n            reject(\n              new Error(\n                `Failed to load script: ${src}, Please contact the service administrator.`\n              )\n            );\n          };\n          script.src = src;\n          document.body.appendChild(script);\n        });\n      }\n\n      loadScript(&apos;/_fs-ch-1T1wmsGaOgGaSxcX/errors.js&apos;)\n        .then(() =&gt; {\n          const script = document.createElement(&apos;script&apos;);\n          script.src = &apos;/_fs-ch-1T1wmsGaOgGaSxcX/script.js?reload=true&apos;;\n          script.onerror = (event) =&gt; {\n            console.error(&apos;Script load error event:&apos;, event);\n            const errorMsg = new Error(\n              `Failed to load script: ${script.src}. Please contact the service administrator.`\n            );\n            console.error(errorMsg);\n            handleScriptError();\n          };\n          document.body.appendChild(script);\n        })\n        .catch((error) =&gt; {\n          console.error(error);\n        });\n    &lt;/script&gt;\n  &lt;/body&gt;\n&lt;/html&gt;\n&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;75949d5648f924af07f29f85690ad61714dd3f2d2fb7864213650850bae1ff54&quot;,&quot;content_hash&quot;:&quot;3a65c9303fa43a80eed60a91f70c6ead00ea2a44d04d86d90e5699cfe89888b7&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:b78663d3f242124432dc20f317acaf139cb0abf5fef9ba1b5b15ab41d0cf2aec</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:nature.com:llms-txt · body_bytes</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <category term="consent-census"/>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:3038,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;b78663d3f242124432dc20f317acaf139cb0abf5fef9ba1b5b15ab41d0cf2aec&quot;,&quot;content_hash&quot;:&quot;696a9b8beb760026ec1b9412a7cb3961351e3ea71f978ca829892337dd813365&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:8fffcbef4f771531987604e02dda525eb5eb28ae9bc8c5805b529ee921f0b7dc</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:nature.com:llms-txt · body_sha256</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <category term="consent-census"/>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;8fffcbef4f771531987604e02dda525eb5eb28ae9bc8c5805b529ee921f0b7dc&quot;,&quot;content_hash&quot;:&quot;c3d549daa82feb0281a6c5367c1babca6769f57ee6195022e9098730aaeedcae&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:1993cbebfe8c5c7fcc1e24d3edd17a6dc763b966e1d48af7ddc9da308b5ba455</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:nature.com:llms-txt · content_type</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <category term="consent-census"/>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;text/html; charset=utf-8&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;1993cbebfe8c5c7fcc1e24d3edd17a6dc763b966e1d48af7ddc9da308b5ba455&quot;,&quot;content_hash&quot;:&quot;338be3215774d18c511b94cd9cffbf8027b61259aa03d557c204fba60da9a96a&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:ffe59ffed44d6a023efb386a01c4056cfb4c2e12bf0bc42cf206cd72ed0d10e4</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:nature.com:llms-txt · status</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <category term="consent-census"/>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:200,&quot;before&quot;:404,&quot;chain_hash&quot;:&quot;ffe59ffed44d6a023efb386a01c4056cfb4c2e12bf0bc42cf206cd72ed0d10e4&quot;,&quot;content_hash&quot;:&quot;f6a7088e98cef8e388e183c9936d62fc4e08d80bc549507a4ac76c34f7a5e6b5&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:ai-vendor-ledger:b3d000c882577904e239c4b5273b7e9257fb4ff55308fba9d524565d8446a736</id>
     <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:tencent/hy3-preview · price_completion</title>
@@ -757,62 +813,6 @@
     <category term="consent-census"/>
     <link href="https://nytimes.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:&quot;d9eaf97452beac39384bc3b87d3c50fb6caa27e7d482a21391a43b613015ec95&quot;,&quot;before&quot;:&quot;ebe60e191c7f2225ed013efe35220463574b2f74a97b684a508be3639dd35ba2&quot;,&quot;chain_hash&quot;:&quot;c90c054171238f27d5165b3e9f494cfac34c16c095093f4d306de9ee65376310&quot;,&quot;content_hash&quot;:&quot;82ab2c56655e3097523be4cea31cb75ebb3c28e657b0264c8b9200666c7d14e6&quot;,&quot;entity_id&quot;:&quot;probe:nytimes.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-12T21:12:34.817Z&quot;,&quot;source_url&quot;:&quot;https://nytimes.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:c625fa3087c3bf10362397023ef665510898ab805468b8815d02141478b5e074</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:Google-Extended</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;c625fa3087c3bf10362397023ef665510898ab805468b8815d02141478b5e074&quot;,&quot;content_hash&quot;:&quot;fe1140067286b673656e16bc9d540481b88b6fdc352cde29420f381220c13f86&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:79b07ff160cc30eb7e4330f22190a970b42a72171e225f05280579ee325cead6</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:OAI-SearchBot</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;partial&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;79b07ff160cc30eb7e4330f22190a970b42a72171e225f05280579ee325cead6&quot;,&quot;content_hash&quot;:&quot;83f5abf8495fd1262409007cfdf4dbfdc836f84433e28854076d09886c367111&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:c45963126c1542b33dcfe56c69bde51f9ef547cbfc04844097f03c34f5129a9e</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:PerplexityBot</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;c45963126c1542b33dcfe56c69bde51f9ef547cbfc04844097f03c34f5129a9e&quot;,&quot;content_hash&quot;:&quot;46f2a5cf42b51c512fe96ec5ab5a886279c0175fc7db1e3a90b202cddb5a1c26&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:2fe01e755df23b944cf48e9ad7e5fe26de8d0a95f39d18bee9d8934710149a1c</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:anthropic-ai</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;2fe01e755df23b944cf48e9ad7e5fe26de8d0a95f39d18bee9d8934710149a1c&quot;,&quot;content_hash&quot;:&quot;873d3ad81e47f9c0cc7b015d7e482d5c0727eaec85295da6f8ba1d25a807f5fa&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:7d69b9dc66b2e35a4ed4b8e614f560d1ff6dfee1fc30ecdfb277588e0065f209</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · bot:meta-externalagent</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;7d69b9dc66b2e35a4ed4b8e614f560d1ff6dfee1fc30ecdfb277588e0065f209&quot;,&quot;content_hash&quot;:&quot;6f5b09a354d3a15bafb4e122f5c4d41ddb5bbdf9cd263cf0f12bb6a70f639208&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:ecedfc104d852555d151dc7f1dd14ee49f514c226c35f3a9a88de3670dfcaae9</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · content_type</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;text/plain; charset=utf-8&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;ecedfc104d852555d151dc7f1dd14ee49f514c226c35f3a9a88de3670dfcaae9&quot;,&quot;content_hash&quot;:&quot;fef5b4a735e0ecda44c459ecc5d706117e5b81522a07395295fe563c6fa4e56a&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:2490e3a216f5a6ebcae65dd8f4e3cecf18364edf83a443bc03c313cb30c4b29c</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:wsj.com:robots-txt · status</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <category term="consent-census"/>
-    <link href="https://wsj.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:200,&quot;before&quot;:404,&quot;chain_hash&quot;:&quot;2490e3a216f5a6ebcae65dd8f4e3cecf18364edf83a443bc03c313cb30c4b29c&quot;,&quot;content_hash&quot;:&quot;9bc6301db061ac918463ebef86198ed335f0d6e747c45e39ad1b3d7974d92483&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:commitments-watch:9648abf894c951ade16d76f646bc0f0293bcd65a15cbd5d2e34e62b2150a6311</id>

@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-08-14T20:57:23.110Z</updated>
+  <updated>2026-08-15T20:48:00.470Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:ffe59ffed44d6a023efb386a01c4056cfb4c2e12bf0bc42cf206cd72ed0d10e4</id>
+    <title>[변경] probe:nature.com:llms-txt · status</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:200,&quot;before&quot;:404,&quot;chain_hash&quot;:&quot;ffe59ffed44d6a023efb386a01c4056cfb4c2e12bf0bc42cf206cd72ed0d10e4&quot;,&quot;content_hash&quot;:&quot;f6a7088e98cef8e388e183c9936d62fc4e08d80bc549507a4ac76c34f7a5e6b5&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:1993cbebfe8c5c7fcc1e24d3edd17a6dc763b966e1d48af7ddc9da308b5ba455</id>
+    <title>[변경] probe:nature.com:llms-txt · content_type</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;text/html; charset=utf-8&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;1993cbebfe8c5c7fcc1e24d3edd17a6dc763b966e1d48af7ddc9da308b5ba455&quot;,&quot;content_hash&quot;:&quot;338be3215774d18c511b94cd9cffbf8027b61259aa03d557c204fba60da9a96a&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:8fffcbef4f771531987604e02dda525eb5eb28ae9bc8c5805b529ee921f0b7dc</id>
+    <title>[변경] probe:nature.com:llms-txt · body_sha256</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;8fffcbef4f771531987604e02dda525eb5eb28ae9bc8c5805b529ee921f0b7dc&quot;,&quot;content_hash&quot;:&quot;c3d549daa82feb0281a6c5367c1babca6769f57ee6195022e9098730aaeedcae&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:b78663d3f242124432dc20f317acaf139cb0abf5fef9ba1b5b15ab41d0cf2aec</id>
+    <title>[변경] probe:nature.com:llms-txt · body_bytes</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:3038,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;b78663d3f242124432dc20f317acaf139cb0abf5fef9ba1b5b15ab41d0cf2aec&quot;,&quot;content_hash&quot;:&quot;696a9b8beb760026ec1b9412a7cb3961351e3ea71f978ca829892337dd813365&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:75949d5648f924af07f29f85690ad61714dd3f2d2fb7864213650850bae1ff54</id>
+    <title>[변경] probe:nature.com:llms-txt · body</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <link href="https://nature.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;&lt;!DOCTYPE html&gt;\n&lt;html lang=\&quot;en\&quot;&gt;\n  &lt;head&gt;\n    &lt;meta\n      http-equiv=\&quot;Content-Security-Policy\&quot;\n      content=\&quot;default-src &apos;self&apos;; img-src &apos;self&apos; data:; media-src &apos;self&apos; data:; object-src &apos;none&apos;; style-src &apos;self&apos; &apos;sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ=&apos;; script-src &apos;self&apos; &apos;sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=&apos;;\&quot;\n    /&gt;\n    &lt;link\n      href=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\&quot;\n      rel=\&quot;preload\&quot;\n      as=\&quot;font\&quot;\n      type=\&quot;font/woff2\&quot;\n      crossorigin\n    /&gt;\n    &lt;link href=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css\&quot; rel=\&quot;stylesheet\&quot; /&gt;\n    &lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=1\&quot; /&gt;\n    &lt;title&gt;Client Challenge&lt;/title&gt;\n    &lt;style&gt;\n      #loading-error {\n        font-size: 16px;\n        font-family: &apos;Inter&apos;, sans-serif;\n        margin-top: 10px;\n        margin-left: 10px;\n        display: none;\n      }\n    &lt;/style&gt;\n  &lt;/head&gt;\n  &lt;body&gt;\n    &lt;noscript&gt;\n      &lt;div class=\&quot;noscript-container\&quot;&gt;\n        &lt;div class=\&quot;noscript-content\&quot;&gt;\n          &lt;img\n            src=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg\&quot;\n            alt=\&quot;\&quot;\n            role=\&quot;presentation\&quot;\n            class=\&quot;error-icon\&quot;\n          /&gt;\n          &lt;span class=\&quot;noscript-span\&quot;\n            &gt;JavaScript is disabled in your browser.&lt;/span\n          &gt;\n          &lt;p&gt;Please enable JavaScript to proceed.&lt;/p&gt;\n        &lt;/div&gt;\n      &lt;/div&gt;\n    &lt;/noscript&gt;\n    &lt;div id=\&quot;loading-error\&quot; role=\&quot;alert\&quot; aria-live=\&quot;polite\&quot;&gt;\n      A required part of this site couldn’t load. This may be due to a browser\n      extension, network issues, or browser settings. Please check your\n      connection, disable any ad blockers, or try using a different browser.\n    &lt;/div&gt;\n    &lt;script&gt;\n      function loadScript(src) {\n        return new Promise((resolve, reject) =&gt; {\n          const script = document.createElement(&apos;script&apos;);\n          script.onload = resolve;\n          script.onerror = (event) =&gt; {\n            console.error(&apos;Script load error event:&apos;, event);\n            document.getElementById(&apos;loading-error&apos;).style.display = &apos;block&apos;;\n            reject(\n              new Error(\n                `Failed to load script: ${src}, Please contact the service administrator.`\n              )\n            );\n          };\n          script.src = src;\n          document.body.appendChild(script);\n        });\n      }\n\n      loadScript(&apos;/_fs-ch-1T1wmsGaOgGaSxcX/errors.js&apos;)\n        .then(() =&gt; {\n          const script = document.createElement(&apos;script&apos;);\n          script.src = &apos;/_fs-ch-1T1wmsGaOgGaSxcX/script.js?reload=true&apos;;\n          script.onerror = (event) =&gt; {\n            console.error(&apos;Script load error event:&apos;, event);\n            const errorMsg = new Error(\n              `Failed to load script: ${script.src}. Please contact the service administrator.`\n            );\n            console.error(errorMsg);\n            handleScriptError();\n          };\n          document.body.appendChild(script);\n        })\n        .catch((error) =&gt; {\n          console.error(error);\n        });\n    &lt;/script&gt;\n  &lt;/body&gt;\n&lt;/html&gt;\n&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;75949d5648f924af07f29f85690ad61714dd3f2d2fb7864213650850bae1ff54&quot;,&quot;content_hash&quot;:&quot;3a65c9303fa43a80eed60a91f70c6ead00ea2a44d04d86d90e5699cfe89888b7&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:a09bf2673b4a09c279c14495f5cde566cb018d46988045ffe82cd16b81039565</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;57433a4d896ba35493699de806993246ade1270cd9d834d650b64de677ed4f49&quot;,&quot;before&quot;:&quot;ccfaecadca470bb0cd602d6a32f2bd82258102b73b2df41552c447de80429a79&quot;,&quot;chain_hash&quot;:&quot;a09bf2673b4a09c279c14495f5cde566cb018d46988045ffe82cd16b81039565&quot;,&quot;content_hash&quot;:&quot;8c98dfeade27235558016d10765510e8fc8ec192ed36b6127a48a6f7dfa17da3&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:b7ec325ef26d8c2de411f7955be0d407f5612821a96c9ba3733edcd478f6b437</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-08-15T20:48:00.470Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:624998,&quot;before&quot;:614534,&quot;chain_hash&quot;:&quot;b7ec325ef26d8c2de411f7955be0d407f5612821a96c9ba3733edcd478f6b437&quot;,&quot;content_hash&quot;:&quot;da41f1960ca49b98336e98fd1473d6907ca05ceaf30849dd9c6b23f508e0572c&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-15T20:48:00.470Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:c3d75f7a5effb8e1d6fff647fb4f95c99c7e16ccbcd0d3c75b22febf7d2a9cf1</id>
     <title>[변경] probe:nature.com:llms-txt · status</title>
@@ -304,54 +353,5 @@
     <updated>2026-08-11T21:15:23.132Z</updated>
     <link href="https://reuters.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;d9a0ce6751a8671e6468acd30c6ae69f7ee32fb82c5927b830ae09a9c1e3ab7f&quot;,&quot;content_hash&quot;:&quot;88d1e7dd5dc9f32927fccbfb1ce7ea971340d9f52d155d3020e3f9b1fd2db776&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:f26fa1aef038bdeaa553d801d17ff6c77cb2487bdfca81ec262506e0757b0ef1</id>
-    <title>[변경] probe:reuters.com:robots-txt · bot:Applebot-Extended</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://reuters.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;f26fa1aef038bdeaa553d801d17ff6c77cb2487bdfca81ec262506e0757b0ef1&quot;,&quot;content_hash&quot;:&quot;3de508c4171b08b1e25acbd8c0cf1ddd3c9872576a13a490baee655696acb1cb&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Applebot-Extended&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:3b407c9ec423d7714d6b68fa1e8849c209606f8434127c25a882d4c39c98fb28</id>
-    <title>[변경] probe:reuters.com:robots-txt · bot:Amazonbot</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://reuters.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;3b407c9ec423d7714d6b68fa1e8849c209606f8434127c25a882d4c39c98fb28&quot;,&quot;content_hash&quot;:&quot;5c01ae54020bb7f7681a1bb379a7ddc66c187c91606ef68de0662390af37aea5&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Amazonbot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:8123b0bc49c8ca81c06f7e76ed6fb1d62d7d73b09e677191ebce2aa3677ea581</id>
-    <title>[변경] probe:reuters.com:robots-txt · body_sha256</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://reuters.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;609b6f008e2bf64b12f786e423d48bddd894eb4cb7a50fbc0fed87bb180cb00c&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;8123b0bc49c8ca81c06f7e76ed6fb1d62d7d73b09e677191ebce2aa3677ea581&quot;,&quot;content_hash&quot;:&quot;81817a2cd4a09307f6f0608c70b9f2648a13f70c25282ae808db09956b065aed&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:22652cca5c241ed220fcd472739b0cfd9fdd5219a7b0c5fa311f582ee2c57621</id>
-    <title>[변경] probe:reuters.com:robots-txt · body_bytes</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://reuters.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:3797,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;22652cca5c241ed220fcd472739b0cfd9fdd5219a7b0c5fa311f582ee2c57621&quot;,&quot;content_hash&quot;:&quot;776fc2de8429ec8f667434744b21e26bd19502da2bbe699b74a4136307d0e7a8&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:198b75678136bc9bb26b1f24e5a25eeaaa039738075f7ee4c56450a3ecb2905b</id>
-    <title>[변경] probe:reuters.com:robots-txt · body</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://reuters.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;User-agent: AASA-Bot\nUser-agent: ADmantX\nUser-agent: AdsBot-Google\nUser-agent: AdsBot-Google-Mobile\nUser-agent: AmazonAdBot\nUser-agent: Amzn-User\nUser-agent: Applebot\nUser-agent: AppleNewsBot\nUser-agent: Bingbot\nUser-agent: BingPreview\nUser-agent: BrightEdge\nUser-agent: BrightEdgeOnCrawl\nUser-agent: CensysInspect\nUser-agent: ChatGPT-User\nUser-agent: Cision\nUser-agent: Clickagy\nUser-agent: Concert\nUser-agent: ContextualBot\nUser-agent: CriteoBot\nUser-agent: DatadogSynthetics\nUser-agent: datadome-pageprotect-scanner\nUser-agent: Discordbot\nUser-agent: doubleverify\nUser-agent: DuckDuckBot\nUser-agent: ElevenlabsBot\nUser-agent: Embedly \nUser-agent: facebookexternalhit\nUser-agent: Googlebot\nUser-agent: Googlebot Smartphone\nUser-agent: Googlebot-News\nUser-agent: Google-Display-Ads-Bot\nUser-agent: Google-InspectionTool\nUser-agent: GoogleOther\nUser-agent: Google-Read-Aloud\nUser-agent: Google-Safety\nUser-agent: Google-Site-Verification\nUser-agent: GTmetrix\nUser-agent: GumGumBot\nUser-agent: ias_crawler\nUser-agent: Iframely\nUser-agent: leiki\nUser-agent: LinkedInBot\nUser-agent: LinkTiger\nUser-agent: Mantisbot\nUser-agent: Mediapartners-Google\nUser-agent: meta-externalads\nUser-agent: meta-webindexer\nUser-agent: MicrosoftPreview\nUser-agent: MJ12bot \nUser-agent: Moreover\nUser-agent: msnbot \nUser-agent: NFBNewslineRobot\nUser-agent: OAI-SearchBot\nUser-agent: Oncrawl\nUser-agent: Opebot-v\nUser-agent: Opoint\nUser-agent: Optimizer\nUser-agent: outbrain \nUser-agent: Pinterestbot\nUser-agent: Prerender\nUser-agent: Proofpoint \nUser-agent: proximic\nUser-agent: PubMatic Crawler Bot\nUser-agent: Quantcastbot\nUser-agent: Qwantbot\nUser-agent: Reuters SEO Screaming Frog Spider 007\nUser-agent: Reuters-NAUWI\nUser-agent: Scom-Crawler-For-Reuters\nUser-agent: SinceraSyntheticUser\nUser-agent: Slurp\nUser-agent: SmartologyBot\nUser-agent: snews\nUser-agent: SocialFlow\nUser-agent: StatusCake\nUser-agent: Storebot-Google\nUser-agent: Stripebot\nUser-agent: TTD-Content\nUser-agent: Twitterbot\nUser-agent: URLDefense\nUser-agent: Verity\nUser-agent: vuln_scan_by_trustedsite_com_halo_security\nUser-agent: WISEbot\nUser-agent: Xenu Link Sleuth\nUser-agent: Yahoo Link Preview\nUser-agent: Yahoo! JAPAN\nUser-agent: YahooMailProxy\nDisallow: /finance/stocks/option\nDisallow: /finance/stocks/financialHighlights\nDisallow: /search\nDisallow: /site-search/\nDisallow: /beta\nDisallow: /designtech\nDisallow: /featured-optimize\nDisallow: /energy-test\nDisallow: /article/beta\nDisallow: /sponsored/previewcampaign\nDisallow: /sponsored/previewarticle\nDisallow: /test/\nDisallow: /news/archive/commentary\nDisallow: /brandfeatures/venture-capital\nDisallow: /assets/siteindex\nDisallow: /article/api/\nDisallow: /practical-law-the-journal/search/\nDisallow: /pf/api/\nDisallow: /fr/\nDisallow: /it/\nDisallow: /es/\nDisallow: /pt/\nDisallow: /de/\nDisallow: /latam/\nDisallow: /jp/\nDisallow: /account/subscribe/payment\n\n# Block all other bots\nUser-agent: *\nAllow: /plus/\nDisallow: /\n\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml\nSITEMAP: https://www.reuters.com/plus/sitemap-index.xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-plj-index/?outputType=xml\nSITEMAP: https://www.reuters.com/graphics/sitemap.xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-index/pictures/?outputType=xml\nSITEMAP: https://www.reuters.com/static/video-sitemap/us/sitemap_video_index.xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/topic-sitemap/?outputType=xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/author-sitemap/?outputType=xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/pressrelease-sitemap/?outputType=xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-ar-index/?outputType=xml&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;198b75678136bc9bb26b1f24e5a25eeaaa039738075f7ee4c56450a3ecb2905b&quot;,&quot;content_hash&quot;:&quot;7788ffd9011f9cc3ed1785ec4a3116f1e2ad3f865c0911bffcc93df6a9659cfc&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:b0ad99def35adb36f367eea302790c68241d2cbea8c84995082dc2fc1796ede1</id>
-    <title>[변경] probe:reuters.com:llms-txt · status</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://reuters.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:401,&quot;before&quot;:403,&quot;chain_hash&quot;:&quot;b0ad99def35adb36f367eea302790c68241d2cbea8c84995082dc2fc1796ede1&quot;,&quot;content_hash&quot;:&quot;6b4c8ebd1d7923362284280465989198748aa8902b4fb72b90365b29eab9b8fc&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:1b5469ff3ea363ee6c64a98b9a50673eebcac8175922c8113ffd73bab64071f4</id>
-    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;bee150d881b7d9959a5b62b2f2c9329e14063f08ffaf3b46538861f9bae47aa2&quot;,&quot;before&quot;:&quot;be8ef44a65f821df2918664b253711a6ab835283bef51157aba4e53034dd507f&quot;,&quot;chain_hash&quot;:&quot;1b5469ff3ea363ee6c64a98b9a50673eebcac8175922c8113ffd73bab64071f4&quot;,&quot;content_hash&quot;:&quot;f566892eeda68aa4384de79df3434b56a9a2b34903ba462a6275f1fc19c35d1d&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
   </entry>
 </feed>
