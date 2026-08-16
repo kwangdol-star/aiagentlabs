@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-08-15T20:48:00.470Z</updated>
+  <updated>2026-08-16T20:47:09.117Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:c83d7a35cf78cc01cf76e690f3a85379c7efd0507779dba7c67cbac112023006</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-08-16T20:47:09.117Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;e005a4d489c877c609b0e8d111ec95834571863a2206f53155a5b00d23b879a0&quot;,&quot;before&quot;:&quot;57433a4d896ba35493699de806993246ade1270cd9d834d650b64de677ed4f49&quot;,&quot;chain_hash&quot;:&quot;c83d7a35cf78cc01cf76e690f3a85379c7efd0507779dba7c67cbac112023006&quot;,&quot;content_hash&quot;:&quot;d1a34ee2f40576b49b39a06f9a4803bb684bd50e79e2d7c642d84dc96a06a4bc&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-16T20:47:09.117Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:56a7c6891c41716bb6b0b9f559653c14d58a21b9a42eb4bc29efb0d32c80c48d</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-08-16T20:47:09.117Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:630645,&quot;before&quot;:624998,&quot;chain_hash&quot;:&quot;56a7c6891c41716bb6b0b9f559653c14d58a21b9a42eb4bc29efb0d32c80c48d&quot;,&quot;content_hash&quot;:&quot;702ef5e10fc04856bc08cc92c589e50fcf9ec2bf72c777a71c33313756c8c2f5&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-16T20:47:09.117Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:ffe59ffed44d6a023efb386a01c4056cfb4c2e12bf0bc42cf206cd72ed0d10e4</id>
     <title>[변경] probe:nature.com:llms-txt · status</title>
@@ -339,19 +353,5 @@
     <updated>2026-08-11T21:15:23.132Z</updated>
     <link href="https://reuters.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:&quot;partial&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;ee70b3d91a4b687a712e40080d921783342de2a324c69b993780475bf19d3d61&quot;,&quot;content_hash&quot;:&quot;519c650b6a761bfb99fd38c671718f0b057f41564892bfcb4f877fe375c2defc&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:7e999445548b2cbd9cebe023401252536b5eb4d124887cbc8f0a692e8cded482</id>
-    <title>[변경] probe:reuters.com:robots-txt · bot:CCBot</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://reuters.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;7e999445548b2cbd9cebe023401252536b5eb4d124887cbc8f0a692e8cded482&quot;,&quot;content_hash&quot;:&quot;e3f8c30646f7330a3ff67340306ded1a930337d9205e77b4654f72d1bb049acc&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:CCBot&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:d9a0ce6751a8671e6468acd30c6ae69f7ee32fb82c5927b830ae09a9c1e3ab7f</id>
-    <title>[변경] probe:reuters.com:robots-txt · bot:Bytespider</title>
-    <updated>2026-08-11T21:15:23.132Z</updated>
-    <link href="https://reuters.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;d9a0ce6751a8671e6468acd30c6ae69f7ee32fb82c5927b830ae09a9c1e3ab7f&quot;,&quot;content_hash&quot;:&quot;88d1e7dd5dc9f32927fccbfb1ce7ea971340d9f52d155d3020e3f9b1fd2db776&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-08-11T21:15:23.132Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
   </entry>
 </feed>
