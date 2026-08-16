@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:ai-jobs-ledger</id>
   <title>AI 랩 채용 원장 — 직무·팀·지역 (글로벌)</title>
-  <updated>2026-08-15T21:58:10.259Z</updated>
+  <updated>2026-08-16T21:57:30.808Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:ai-jobs-ledger:04ca1f3a045905d562d05aaf7fdcb9fd1e64657213a8e039bf966b38e9ed9bd8</id>
+    <title>[삭제] job:scale-ai:4709123005</title>
+    <updated>2026-08-16T21:57:30.808Z</updated>
+    <link href="https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;scale-ai&quot;,&quot;location&quot;:&quot;Doha, Qatar &quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Senior Engineering Manager, Defense&quot;},&quot;chain_hash&quot;:&quot;04ca1f3a045905d562d05aaf7fdcb9fd1e64657213a8e039bf966b38e9ed9bd8&quot;,&quot;content_hash&quot;:&quot;72054f915b13d048a512fbd961a0685c75ea8dd301ad34c651964a7d43c0fdd2&quot;,&quot;entity_id&quot;:&quot;job:scale-ai:4709123005&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-16T21:57:30.808Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/scaleai/jobs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-jobs-ledger:bded90cc5d975b4fc51c87aec4efe8b5981287e118b9f09f1350b4c2de63e146</id>
+    <title>[신규] job:elevenlabs:6e1b66a8-8d2e-43b0-9076-9748b84bcfab</title>
+    <updated>2026-08-16T21:57:30.808Z</updated>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/elevenlabs"/>
+    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;elevenlabs&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Strategic Account Executive - Colombia&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;bded90cc5d975b4fc51c87aec4efe8b5981287e118b9f09f1350b4c2de63e146&quot;,&quot;content_hash&quot;:&quot;0f7ddec9c1a16a964e3bb0ce1961529cbecccdeef93912b505109dad194c5c78&quot;,&quot;entity_id&quot;:&quot;job:elevenlabs:6e1b66a8-8d2e-43b0-9076-9748b84bcfab&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-16T21:57:30.808Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/elevenlabs&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:ai-jobs-ledger:d0875a08808bdcd1ee75553b73a8d3e3904d0107a78d8ef8fc9ac963d88d013a</id>
     <title>[삭제] job:openai:60b4b0f0-c5f1-48af-ad9b-716f2b5ce040</title>
@@ -339,19 +353,5 @@
     <updated>2026-08-14T21:59:58.609Z</updated>
     <link href="https://boards-api.greenhouse.io/v1/boards/databricks/jobs"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;databricks&quot;,&quot;location&quot;:&quot;Connecticut; Maryland; New Jersey; Pennsylvania; Remote - New York; Remote - Virginia; United States&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Sr. Solutions Architect - Retail, Consumer Goods, Travel&quot;},&quot;chain_hash&quot;:&quot;b34e935ec05351bd58b3047ca83175de8d20795c66320a52469fc2394bd7612a&quot;,&quot;content_hash&quot;:&quot;d4af7bb7c0be9b390afb96cd4ec602ce7d68bdb8da2bd956d7ad6a34b8c4cafb&quot;,&quot;entity_id&quot;:&quot;job:databricks:8701550002&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-14T21:59:58.609Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/databricks/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-jobs-ledger:b6a91045efbf74579f2db220116cfe26342cb2874e4abf5ea217934545aee4d8</id>
-    <title>[삭제] job:databricks:8672712002</title>
-    <updated>2026-08-14T21:59:58.609Z</updated>
-    <link href="https://boards-api.greenhouse.io/v1/boards/databricks/jobs"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;databricks&quot;,&quot;location&quot;:&quot;New York City, New York&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Enterprise Geo Account Executive - Financial Services&quot;},&quot;chain_hash&quot;:&quot;b6a91045efbf74579f2db220116cfe26342cb2874e4abf5ea217934545aee4d8&quot;,&quot;content_hash&quot;:&quot;e0e70b7e939290f56a41e3d61e14e54872f96acb581dbc86e3609cd7e97df325&quot;,&quot;entity_id&quot;:&quot;job:databricks:8672712002&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-14T21:59:58.609Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/databricks/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-jobs-ledger:9b2baf99f22c5b890ac0954568ceba10f664e900e91e1d52dea647951b7c8d0b</id>
-    <title>[삭제] job:databricks:8644179002</title>
-    <updated>2026-08-14T21:59:58.609Z</updated>
-    <link href="https://boards-api.greenhouse.io/v1/boards/databricks/jobs"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;databricks&quot;,&quot;location&quot;:&quot;Sydney, Australia&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Enterprise Account Executive&quot;},&quot;chain_hash&quot;:&quot;9b2baf99f22c5b890ac0954568ceba10f664e900e91e1d52dea647951b7c8d0b&quot;,&quot;content_hash&quot;:&quot;06fef484a41138b523e3938a7f343867c7ebd50ecd432d61a8b58c7b97b73179&quot;,&quot;entity_id&quot;:&quot;job:databricks:8644179002&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-14T21:59:58.609Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/databricks/jobs&quot;}</content>
   </entry>
 </feed>

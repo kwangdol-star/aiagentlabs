@@ -3,9 +3,25 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-08-16T21:37:59.499Z</updated>
+  <updated>2026-08-16T21:57:30.808Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:bded90cc5d975b4fc51c87aec4efe8b5981287e118b9f09f1350b4c2de63e146</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [신규] job:elevenlabs:6e1b66a8-8d2e-43b0-9076-9748b84bcfab</title>
+    <updated>2026-08-16T21:57:30.808Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/elevenlabs"/>
+    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;elevenlabs&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Strategic Account Executive - Colombia&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;bded90cc5d975b4fc51c87aec4efe8b5981287e118b9f09f1350b4c2de63e146&quot;,&quot;content_hash&quot;:&quot;0f7ddec9c1a16a964e3bb0ce1961529cbecccdeef93912b505109dad194c5c78&quot;,&quot;entity_id&quot;:&quot;job:elevenlabs:6e1b66a8-8d2e-43b0-9076-9748b84bcfab&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-16T21:57:30.808Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/elevenlabs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:04ca1f3a045905d562d05aaf7fdcb9fd1e64657213a8e039bf966b38e9ed9bd8</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:scale-ai:4709123005</title>
+    <updated>2026-08-16T21:57:30.808Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;scale-ai&quot;,&quot;location&quot;:&quot;Doha, Qatar &quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Senior Engineering Manager, Defense&quot;},&quot;chain_hash&quot;:&quot;04ca1f3a045905d562d05aaf7fdcb9fd1e64657213a8e039bf966b38e9ed9bd8&quot;,&quot;content_hash&quot;:&quot;72054f915b13d048a512fbd961a0685c75ea8dd301ad34c651964a7d43c0fdd2&quot;,&quot;entity_id&quot;:&quot;job:scale-ai:4709123005&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-16T21:57:30.808Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/scaleai/jobs&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:forecast-graders:3e7a749cc671f574ce8e96962b0acb00dd2d385a916a010fc462c552897f0be3</id>
     <title>[기관 전망 박제 — 한은·KB·건산연·주산연] [변경] page:khi-press · items</title>
@@ -349,22 +365,6 @@
     <category term="deal-audit-ledger"/>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;LAWD_CD&quot;:&quot;11620&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-04-30&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;관악위버폴리스&quot;,&quot;aptSeq&quot;:&quot;11620-4558&quot;,&quot;bonbun&quot;:&quot;0859&quot;,&quot;bubun&quot;:&quot;0017&quot;,&quot;buildYear&quot;:&quot;2010&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;98,000&quot;,&quot;dealDay&quot;:&quot;30&quot;,&quot;dealMonth&quot;:&quot;4&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 관악구&quot;,&quot;excluUseAr&quot;:&quot;108.905&quot;,&quot;floor&quot;:&quot;12&quot;,&quot;jibun&quot;:&quot;859-17&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;관악로&quot;,&quot;roadNmBonbun&quot;:&quot;00195&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;3120001&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11620&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11620&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10100&quot;,&quot;umdNm&quot;:&quot;봉천동&quot;},&quot;chain_hash&quot;:&quot;6c01e6a530b3d9c19bdf04dc24e4e0f04c733004d0fb35a29629cd05e2b7f714&quot;,&quot;content_hash&quot;:&quot;ae8a3fe9c910190fe575afdd00ee0dda1ca1a81240cf3f3c9f589619c64e7b85&quot;,&quot;entity_id&quot;:&quot;deal:11620:20260430:봉천동:859-17:관악위버폴리스:108.905:12:98000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-15T22:43:42.847Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:788b076bc4027f1c4b09fc8394bba82943fd0f9f0e4d53c08e59034296e2abef</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [신규] job:anthropic:5391782008</title>
-    <updated>2026-08-15T21:58:10.259Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
-    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;San Francisco, CA&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Manager, Corporate Network Engineering&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;788b076bc4027f1c4b09fc8394bba82943fd0f9f0e4d53c08e59034296e2abef&quot;,&quot;content_hash&quot;:&quot;784d94837cf97853d37d378649b71fdf82c6670f4a04cbd71b7a9bf7ef03a03d&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5391782008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-15T21:58:10.259Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:da633524d64af9f97150797723c3427c34da00e9e91d680816e03031ca74f0e1</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [신규] job:anthropic:5391787008</title>
-    <updated>2026-08-15T21:58:10.259Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
-    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Executive Support Senior Program Manager, Tech Advisor&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;da633524d64af9f97150797723c3427c34da00e9e91d680816e03031ca74f0e1&quot;,&quot;content_hash&quot;:&quot;4fa849e400792da6e4bccbe41b5ae8062633123f7c6acb42272892b37e1d8862&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5391787008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-15T21:58:10.259Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:ai-jobs-ledger:f4e6d30913ab878148213f59144f4a8347fcf02789d1ac6ee9b418168264c066</id>
