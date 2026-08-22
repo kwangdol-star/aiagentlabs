@@ -199,8 +199,8 @@
     },
     "probe:daum.net:llms-txt": {
       "fields": {
-        "body_bytes": 623852,
-        "body_sha256": "3f2cfd751b9744d74435d96f93e2d703c173e729eba7255e0d294bf215e3f495",
+        "body_bytes": 631468,
+        "body_sha256": "b45ddeb119bdfb396a2c247097a4a7aa93f80e2c4533a39879300e88355856fd",
         "content_type": "text/html",
         "status": 200
       },
@@ -408,13 +408,13 @@
     },
     "probe:khan.co.kr:robots-txt": {
       "fields": {
-        "body": "User-agent: AhrefsBot\r\nUser-agent: SemrushBot\r\nUser-agent: ClaudeBot\r\nUser-agent: GPTBot\r\nUser-agent: ChatGPT-User\r\nUser-agent: Google-Extended\r\nUser-agent: Bytespider\r\nDisallow: /\r\n\r\nUser-agent: *\r\nDisallow: /login\r\nDisallow: /SecListData.html\r\nDisallow: /national/national-general/article/201709021732001\r\nDisallow: /national/national-general/article/201609241422011\r\nDisallow: /article/201709021732001\r\n\r\nSitemap: https://www.khan.co.kr/sitemap.xml\r\nSitemap: https://www.khan.co.kr/sitemap/latest-articles.xml\r\nSitemap: https://www.khan.co.kr/sitemap/daily-images.xml\r\nSitemap: https://www.khan.co.kr/sitemap/daily-videos.xml\r\nSitemap: https://www.khan.co.kr/sitemap/authors.xml\r\n\r\nSitemap: https://www.khan.co.kr/rss/rssdata/english_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/newsletter_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/interactive_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/video_news.xml\r\n\r\n#DaumWebMasterTool:35bc55071cd98ae09fdf97e6c96768225c02c9f6ab5b8fe3c1118aefe5139d74:gbyst4GwRZz3X/sV/51MJQ==\r\n",
-        "body_bytes": 1050,
-        "body_sha256": "6eebf9fd22082f296d35dc89cd2340b183f75cb9ae50e53df762258aa9f4a5d5",
+        "body": "User-agent: AhrefsBot\r\nUser-agent: SemrushBot\r\nUser-agent: ClaudeBot\r\nUser-agent: GPTBot\r\nUser-agent: ChatGPT-User\r\nUser-agent: Google-Extended\r\nUser-agent: Bytespider\r\nUser-agent: Applebot-Extended\r\nUser-agent: CCBot\r\nUser-agent: dotbot\r\nUser-agent: DeepSeekBot\r\nDisallow: /\r\n\r\nUser-agent: *\r\nDisallow: /login\r\nDisallow: /SecListData.html\r\nDisallow: /national/national-general/article/201709021732001\r\nDisallow: /national/national-general/article/201609241422011\r\nDisallow: /article/201709021732001\r\n\r\nSitemap: https://www.khan.co.kr/sitemap.xml\r\nSitemap: https://www.khan.co.kr/sitemap/latest-articles.xml\r\nSitemap: https://www.khan.co.kr/sitemap/daily-images.xml\r\nSitemap: https://www.khan.co.kr/sitemap/daily-videos.xml\r\nSitemap: https://www.khan.co.kr/sitemap/authors.xml\r\n\r\nSitemap: https://www.khan.co.kr/rss/rssdata/english_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/newsletter_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/interactive_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/video_news.xml\r\n\r\n#DaumWebMasterTool:35bc55071cd98ae09fdf97e6c96768225c02c9f6ab5b8fe3c1118aefe5139d74:gbyst4GwRZz3X/sV/51MJQ==\r\n",
+        "body_bytes": 1145,
+        "body_sha256": "efb4737dab07f892c114b1784f32f464dc863db5832d187c0b9d1940675fc9b5",
         "bot:Amazonbot": "absent",
-        "bot:Applebot-Extended": "absent",
+        "bot:Applebot-Extended": "blocked",
         "bot:Bytespider": "blocked",
-        "bot:CCBot": "absent",
+        "bot:CCBot": "blocked",
         "bot:ChatGPT-User": "blocked",
         "bot:ClaudeBot": "blocked",
         "bot:GPTBot": "blocked",
@@ -932,5 +932,5 @@
     }
   },
   "source_id": "consent-census",
-  "updated_at": "2026-08-21T20:48:56.968Z"
+  "updated_at": "2026-08-22T20:50:54.358Z"
 }
