@@ -3,9 +3,25 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-08-22T21:58:48.820Z</updated>
+  <updated>2026-08-23T20:47:53.942Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:232812c28865effcaf10f00be93d0edf5dbcfd1f1c56683633ff4587b6349865</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-08-23T20:47:53.942Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:633278,&quot;before&quot;:631468,&quot;chain_hash&quot;:&quot;232812c28865effcaf10f00be93d0edf5dbcfd1f1c56683633ff4587b6349865&quot;,&quot;content_hash&quot;:&quot;e87dd1fbbac69d8824fc9edaac2ca56969a61214c635175ce21cd78883b12a4b&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-23T20:47:53.942Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:0f950666bac99a22362413728b71bc6dd33528730445e4d144f2d5bc284e318a</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-08-23T20:47:53.942Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;e2fa6506a2f8a5a84d132a12e6d8568a4f6826d5666a14d8dd37303fc928a1c0&quot;,&quot;before&quot;:&quot;b45ddeb119bdfb396a2c247097a4a7aa93f80e2c4533a39879300e88355856fd&quot;,&quot;chain_hash&quot;:&quot;0f950666bac99a22362413728b71bc6dd33528730445e4d144f2d5bc284e318a&quot;,&quot;content_hash&quot;:&quot;830dd582ec49dcd83d2c96df10d9b4df8de4e8ff3557fff82d5627d6a5d5950c&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-23T20:47:53.942Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:ai-jobs-ledger:2264300fbfd9ce2b2edce7569d941ae970f861592e720ee49b052b731b03f08e</id>
     <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [신규] job:anthropic:5398753008</title>
@@ -775,28 +791,12 @@
     <content type="text">{&quot;after&quot;:[&quot;2026-08-18 · /경제 글로벌 부동산 산업일반 고객/디지털 전체 제목 내용 작성자 카드형 리스트형 고객/디지털 [KB지식비타민] 블록체인의 다음 진화: AI 에이전트 경제 인프라로의 도약 최승우&quot;,&quot;2026-08-18 · 번호 분류 제목 작성자 발간일 고객/디지털 [KB지식비타민] 블록체인의 다음 진화: AI 에이전트 경제 인프라로의 도약 최승우&quot;,&quot;2026-08-18 · 부동산 KB주택시장리뷰 2026년 8월호 부동산연구팀&quot;,&quot;2026-08-03 · 글로벌 [KB지식비타민] 맥주로 살펴보는 북한 경제정책의 변화 손광수&quot;,&quot;2026-07-15 · 부동산 KB주택시장리뷰 2026년 7월호 부동산연구팀&quot;,&quot;2026-07-14 · 고객/디지털 [KB지식비타민] AI시대, 인재상이 변하고 있다 전아영&quot;,&quot;2026-06-29 · 거시/경제 [KB지식비타민] 인류와 바이러스의 끝나지 않은 전쟁, 팬데믹 이야기 배재현&quot;,&quot;2026-06-16 · 부동산 KB주택시장리뷰 2026년 6월호 부동산연구팀&quot;,&quot;2026-06-15 · G, AI 시대의 차세대 연결 인프라 심경석&quot;,&quot;2026-06-01 · 고객/디지털 AI에게 선택 받는 브랜드: 클릭이 사라진 시대의 마케팅 류혜라&quot;],&quot;before&quot;:[&quot;2026-08-03 · 번호 분류 제목 작성자 발간일 글로벌 [KB지식비타민] 맥주로 살펴보는 북한 경제정책의 변화 손광수&quot;,&quot;2026-08-03 · 일반 고객/디지털 전체 거시/경제 글로벌 부동산 산업일반 고객/디지털 전체 제목 내용 작성자 카드형 리스트형 글로벌 [KB지식비타민] 맥주로 살펴보는 북한 경제정책의 변화 손광수&quot;,&quot;2026-07-15 · 부동산 KB주택시장리뷰 2026년 7월호 부동산연구팀&quot;,&quot;2026-07-14 · 고객/디지털 [KB지식비타민] AI시대, 인재상이 변하고 있다 전아영&quot;,&quot;2026-06-29 · 거시/경제 [KB지식비타민] 인류와 바이러스의 끝나지 않은 전쟁, 팬데믹 이야기 배재현&quot;,&quot;2026-06-16 · 부동산 KB주택시장리뷰 2026년 6월호 부동산연구팀&quot;,&quot;2026-06-15 · G, AI 시대의 차세대 연결 인프라 심경석&quot;,&quot;2026-06-01 · 고객/디지털 AI에게 선택 받는 브랜드: 클릭이 사라진 시대의 마케팅 류혜라&quot;,&quot;2026-05-18 · 고객/디지털 [KB지식비타민] 설명은 됐고, 나 대신 해줘 DIFM(Do It For Me)경제 강윤정&quot;,&quot;2026-05-18 · 부동산 KB주택시장리뷰 2026년 5월호 부동산연구팀&quot;],&quot;chain_hash&quot;:&quot;4ece9ecb75d007727a008e63230549215f4d796a1017507dcb754748dd791e47&quot;,&quot;content_hash&quot;:&quot;a3f478b44dcc3358236e1977d1b087a0a7e7c8950ceaf160b071a506c1bd9bd8&quot;,&quot;entity_id&quot;:&quot;page:kb-research&quot;,&quot;field&quot;:&quot;items&quot;,&quot;observed_at&quot;:&quot;2026-08-19T21:44:50.677Z&quot;,&quot;source_url&quot;:&quot;https://www.kbfg.com/kbresearch/report/reportList.do&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:agg:consent-census:d1dd3beb7ed8b9a904af8ccb4f0acfbbf8991ccca2ae93d51bcc325af41599f8</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-08-19T20:53:49.400Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:630089,&quot;before&quot;:628940,&quot;chain_hash&quot;:&quot;d1dd3beb7ed8b9a904af8ccb4f0acfbbf8991ccca2ae93d51bcc325af41599f8&quot;,&quot;content_hash&quot;:&quot;300aa3a4e836940476bc38421c3e629fd4a149fff78d94dadb002a38553ae4ac&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-19T20:53:49.400Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
     <id>urn:chronicle:agg:consent-census:e1a42a5eb3bf1952fe566f18a45764872d04f9863d4ea5151106feb2e9a6b608</id>
     <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
     <updated>2026-08-19T20:53:49.400Z</updated>
     <category term="consent-census"/>
     <link href="https://daum.net/llms.txt"/>
     <content type="text">{&quot;after&quot;:&quot;e3969c478b489e9a3e6fb7095eba2632ff93e0b4f3be558500e2bd293aa2a481&quot;,&quot;before&quot;:&quot;62bfde330327049106669c6a982310d054a045cef2e6131c399f3cc0fafbc3d0&quot;,&quot;chain_hash&quot;:&quot;e1a42a5eb3bf1952fe566f18a45764872d04f9863d4ea5151106feb2e9a6b608&quot;,&quot;content_hash&quot;:&quot;25351eb403791a26547ec3ec30f43e8fbee2ebe95b9cb28f21534da33fe1b2c0&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-19T20:53:49.400Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:36067f5bbaff68a2de9b8a16edcdd61d80668aeb0dcfe3c41662a1f7716b7dd1</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-08-18T20:50:55.714Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;62bfde330327049106669c6a982310d054a045cef2e6131c399f3cc0fafbc3d0&quot;,&quot;before&quot;:&quot;a6c09731bdc21fcff903b7d8ec5c5a8d5ebc2460b488d616f3668649791a0896&quot;,&quot;chain_hash&quot;:&quot;36067f5bbaff68a2de9b8a16edcdd61d80668aeb0dcfe3c41662a1f7716b7dd1&quot;,&quot;content_hash&quot;:&quot;0c5eb55b5d293812a9e0c7a415f64b2c398b217d5740cafd67bb3f5b9e932a14&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-18T20:50:55.714Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:commitments-watch:d236c6efe9f222c4c72ca9b67599e00d867e17c3eb868a92a839e5373c416836</id>
