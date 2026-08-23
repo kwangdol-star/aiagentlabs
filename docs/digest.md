@@ -1,82 +1,82 @@
-# Chronicle 다이제스트 — 2026-08-16
+# Chronicle 다이제스트 — 2026-08-23
 
-> 최근 30일(2026-07-17~) 관측. 시간해자 아카이브의 축적물 요약.
+> 최근 30일(2026-07-24~) 관측. 시간해자 아카이브의 축적물 요약.
 
 ## 한눈에
-- 소스 **12개** · 추적 엔티티 **66,688** · 원장 총 이벤트 **89,508** · 체인 총 길이 **89,508**
-- 이번 기간: 소멸 **1106** · 수정 **18314** · 신규 **28,329**
+- 소스 **12개** · 추적 엔티티 **70,081** · 원장 총 이벤트 **97,395** · 체인 총 길이 **97,395**
+- 이번 기간: 소멸 **1116** · 수정 **20052** · 신규 **12,931**
 - **3중 공증**: 해시체인 12/12 소스 봉인 · git 히스토리 · TSA 외부앵커 **12/12** 머리 고정
 
 ## 사라진 것 — 소멸 (지금 찍은 자만 소유)
-- `mcp-census` **server:ai.componecat/componecat** — 1.0.0 _(2026-08-16)_
-- `mcp-census` **server:au.com.aiframework/governance-framework-generator** — 1.1.0 _(2026-08-16)_
-- `mcp-census` **server:com.dynsuplabs/mcp-compliance-preflight** — 1.0.0 _(2026-08-16)_
-- `mcp-census` **server:com.incisory/incisory** — 1.0.1 _(2026-08-16)_
-- `mcp-census` **server:com.microsoft/workiq-mailtools** — 1.0.1 _(2026-08-16)_
-- `mcp-census` **server:com.selloracle/etsy-data** — 1.1.0 _(2026-08-16)_
-- `mcp-census` **server:io.github.Bluesoul-Technology/justonce-memory** — 1.0.0 _(2026-08-16)_
-- `mcp-census` **server:io.github.DLeibner/mcplint** — 0.1.12 _(2026-08-16)_
-- `mcp-census` **server:io.github.MaxFreedomPollard/engram** — 1.12.0 _(2026-08-16)_
-- `mcp-census` **server:io.github.dreliq9/caid-mcp** — 0.6.0 _(2026-08-16)_
-- `mcp-census` **server:io.github.gblinproject/gblin-mcp-server** — 0.2.3 _(2026-08-16)_
-- `mcp-census` **server:io.github.gt-works/kids-stay** — 1.0.1 _(2026-08-16)_
-- `mcp-census` **server:io.github.jyswee/oddsockets** — 1.0.0 _(2026-08-16)_
-- `mcp-census` **server:io.github.ktcod/x402-json-repair-mcp** — 0.1.0 _(2026-08-16)_
-- `mcp-census` **server:io.github.las7/mcp** — 2.0.3 _(2026-08-16)_
-- `deal-audit-ledger` **deal:11530:20260518:구로동:110-11:늘푸른주상복합:84.93:10:55000** — {"LAWD_CD":"11530","_chronicle_window_date":"2026-05-18","aptDong":"","aptNm":"늘푸른주상복합","aptSeq":"11530-3348","bonbun":"0110","bubun":"0011"… _(2026-08-15)_
-- `deal-audit-ledger` **deal:11620:20260430:봉천동:859-17:관악위버폴리스:108.905:12:98000** — {"LAWD_CD":"11620","_chronicle_window_date":"2026-04-30","aptDong":"","aptNm":"관악위버폴리스","aptSeq":"11620-4558","bonbun":"0859","bubun":"0017"… _(2026-08-15)_
-- `ai-jobs-ledger` **job:anthropic:5208218008** — AI Compliance Officer _(2026-08-15)_
-- `ai-jobs-ledger` **job:anthropic:5383702008** — Personnel Security Management Specialist _(2026-08-15)_
-- `ai-jobs-ledger` **job:databricks:8431924002** — Training & Operations Manager _(2026-08-15)_
-- `ai-jobs-ledger` **job:databricks:8565280002** — Manager, Delivery Solutions Architects - Financial Services _(2026-08-15)_
-- `ai-jobs-ledger` **job:openai:60b4b0f0-c5f1-48af-ad9b-716f2b5ce040** — Construction Manager, Industrial Compute _(2026-08-15)_
-- `ai-vendor-ledger` **model:inclusionai/ling-3.0-tiny:free** — inclusionAI: Ling 3.0 Tiny (free) _(2026-08-15)_
-- `ai-vendor-ledger` **model:openai/gpt-5.3-chat** — OpenAI: GPT-5.3 Chat _(2026-08-15)_
-- `deal-audit-ledger` **deal:11110:20260525:내수동:72:경희궁의아침3단지:174.55:8:267000** — {"LAWD_CD":"11110","_chronicle_window_date":"2026-05-25","aptDong":"","aptNm":"경희궁의아침3단지","aptSeq":"11110-116","bonbun":"0072","bubun":"0000… _(2026-08-14)_
-- …외 1081건 더 (원장 changes.jsonl에 전량 보존)
+- `mcp-census` **server:ai.crestsystems/counterparty-intelligence** — 1.0.0 _(2026-08-23)_
+- `mcp-census` **server:ai.epanya/epanya** — 0.1.0 _(2026-08-23)_
+- `mcp-census` **server:ai.kaiv/commerce-demo** — 1.0.0 _(2026-08-23)_
+- `mcp-census` **server:ai.offerhopper.mcp/shopping-optimizer** — 1.0.2 _(2026-08-23)_
+- `mcp-census` **server:com.flightpowers/google-flights-mcp** — 1.0.0 _(2026-08-23)_
+- `mcp-census` **server:com.it.dpf/mcp-server** — 0.1.2 _(2026-08-23)_
+- `mcp-census` **server:com.samedaydesk/ai-readiness** — 1.0.0 _(2026-08-23)_
+- `mcp-census` **server:dev.hatchloop/data-enrichment** — 1.0.0 _(2026-08-23)_
+- `mcp-census` **server:dev.hatchloop/pdf-generator** — 1.0.0 _(2026-08-23)_
+- `mcp-census` **server:dev.hatchloop/url-shortener** — 1.0.0 _(2026-08-23)_
+- `mcp-census` **server:io.github.GJB65/compliance-intelligence** — 1.1.0 _(2026-08-23)_
+- `mcp-census` **server:io.github.HypnoLabs-io/motley-mcp** — 0.1.0 _(2026-08-23)_
+- `mcp-census` **server:io.github.LincChad/novence-mcp** — 0.1.0 _(2026-08-23)_
+- `mcp-census` **server:io.github.SEKeener/airtreks-mcp** — 1.0.2 _(2026-08-23)_
+- `mcp-census` **server:io.github.Tunolabs/xyzdb** — 1.1.2 _(2026-08-23)_
+- `mcp-census` **server:io.github.adebayojuwon200-pixel/eodly** — 0.1.1 _(2026-08-23)_
+- `mcp-census` **server:io.github.applefanaimail-blip/bridgenode-mcp** — 1.0.7 _(2026-08-23)_
+- `mcp-census` **server:io.github.jchen225/gloria-mcp** — 1.0.0 _(2026-08-23)_
+- `mcp-census` **server:io.github.riverliu8/pptogo-mcp** — 1.0.0 _(2026-08-23)_
+- `mcp-census` **server:io.github.sam-moreton/openqr** — 1.0.0 _(2026-08-23)_
+- `mcp-census` **server:io.github.samuelbushi/uizze** — 1.1.12 _(2026-08-23)_
+- `mcp-census` **server:io.github.tk26/minoa** — 1.1.1 _(2026-08-23)_
+- `mcp-census` **server:io.github.zhangxueliang1218/realagent-mcp** — 0.3.1 _(2026-08-23)_
+- `mcp-census` **server:io.misar.mail/misarmail** — 1.0.0 _(2026-08-23)_
+- `mcp-census` **server:net.01mind/orpheus** — 3.0.0 _(2026-08-23)_
+- …외 1091건 더 (원장 changes.jsonl에 전량 보존)
 
 ## 바뀐 것 — 조용한 수정
-- `forecast-graders` **page:khi-press** · items: ["2026-08-11 · 2026년 8월 아파트입주전망지수 홍보담당","2026-08-06 · 2026년 8월 아파트분양전망지수 홍보담당","… → ["2026-08-13 · 2026년 8월 주택사업경기전망지수 홍보담당","2026-08-11 · 2026년 8월 아파트입주전망지수 홍보담당",… _(2026-08-16)_
-- `mcp-census` **server:agency.goji/goji** · description_sha256: 018a0e2d64b5faab61212490c92539a0df9bf4bbe9630dab4b9a0fa5426ef97c → 61aaf051eff719e55d43e2ea490123690c4b6de55b3560dabc0df587aba9147c _(2026-08-16)_
-- `mcp-census` **server:agency.goji/goji** · repository_url: https://github.com/goji-agency/website → https://github.com/goji-agency/goji-mcp _(2026-08-16)_
-- `mcp-census` **server:agency.goji/goji** · version: 1.0.0 → 1.0.1 _(2026-08-16)_
-- `mcp-census` **server:ai.analyticslegends/sap-analytics** · repository_url: ∅ → https://github.com/analyticslegends/analytics-legends-mcp _(2026-08-16)_
-- `mcp-census` **server:ai.analyticslegends/sap-analytics** · version: 1.0.1 → 1.0.4 _(2026-08-16)_
-- `mcp-census` **server:ai.ankimcp/anki-mcp-server** · version: 0.22.5 → 0.24.1 _(2026-08-16)_
-- `mcp-census` **server:ai.ankimcp/anki-mcp-server-addon** · version: 0.19.0 → 0.27.1 _(2026-08-16)_
-- `mcp-census` **server:ai.assetlog/assetlog** · description_sha256: 9695ca621a12e0123adcad9f1c93bfe4dcc9e430310addfcf0fdaaa1d15dfba1 → 8930de85aa8a7d5d6b0ed66a5abda50619a678b4e94464f8f965d4f5aedabd0d _(2026-08-16)_
-- `mcp-census` **server:ai.assetlog/assetlog** · version: 1.0.0 → 1.1.0 _(2026-08-16)_
-- `mcp-census` **server:ai.bassethound/bassethound** · version: 0.6.0 → 0.7.0 _(2026-08-16)_
-- `mcp-census` **server:ai.bluenexus/universal-mcp** · version: 1.14.1 → 1.16.1 _(2026-08-16)_
-- `mcp-census` **server:ai.bowmark/bowmark** · version: 8.33.5 → 8.49.0 _(2026-08-16)_
-- `mcp-census` **server:ai.codenib/codenib** · description_sha256: 46b458c5258a5bcfe983a67a5accb6dcef70be88038dc3e2da12b732a3b822cc → a66adfb68cacac058d5d9612b30b12f88d848105d372f10f76d0bca165f91ebf _(2026-08-16)_
-- `mcp-census` **server:ai.codenib/codenib** · version: 0.2.0 → 0.2.1 _(2026-08-16)_
-- `mcp-census` **server:ai.dinglebear/cortex** · version: 3.12.0 → 3.13.2 _(2026-08-16)_
-- `mcp-census` **server:ai.elfa/mcp** · version: 2.0.0 → 3.0.0 _(2026-08-16)_
-- `mcp-census` **server:ai.epinu/epinu** · description_sha256: 87db56142c48390988d6da087cda57a53fe5ac3c2baf649651a93784f9b446ec → 957965b855695f70c85fddfa2ead166c394d784f19201d02ae989c96e62b07f2 _(2026-08-16)_
-- `mcp-census` **server:ai.epinu/epinu** · version: 1.0.2 → 1.0.4 _(2026-08-16)_
-- `mcp-census` **server:ai.etincel/etincel-nonfiction** · repository_url: ∅ → https://github.com/AIStoryHub/etincel _(2026-08-16)_
-- `mcp-census` **server:ai.etincel/etincel-nonfiction** · version: 0.1.0 → 0.10.1 _(2026-08-16)_
-- `mcp-census` **server:ai.hermitsh/texts** · version: 0.5.0 → 0.5.1 _(2026-08-16)_
-- `mcp-census` **server:ai.izap/whatsapp** · version: 1.4.1 → 1.5.1 _(2026-08-16)_
-- `mcp-census` **server:ai.justdomain/just-domain** · description_sha256: 6adf1c0b2ad21c75e1197f7a1355845737970aabfbba1b2a31a27bbbc5568d83 → ab98ae4e07572484c959a6a4cf45a3019158046a4e7170b62d8eb7dfa90d0174 _(2026-08-16)_
-- `mcp-census` **server:ai.justdomain/just-domain** · version: 0.3.5 → 0.4.0 _(2026-08-16)_
-- …외 18289건 더 (원장 changes.jsonl에 전량 보존)
+- `mcp-census` **server:ai.afmr/discovery** · version: 1.0.0 → 1.0.1 _(2026-08-23)_
+- `mcp-census` **server:ai.analyticslegends/sap-analytics** · version: 1.0.4 → 1.0.6 _(2026-08-23)_
+- `mcp-census` **server:ai.assetlog/assetlog** · description_sha256: 8930de85aa8a7d5d6b0ed66a5abda50619a678b4e94464f8f965d4f5aedabd0d → ca5e0dd64b2cc03f07cadafa30aa060e0e272810f681d6f378d69df31d1b3698 _(2026-08-23)_
+- `mcp-census` **server:ai.assetlog/assetlog** · version: 1.1.0 → 1.4.0 _(2026-08-23)_
+- `mcp-census` **server:ai.authoryze/authoryze** · description_sha256: 7c2270760f5a6e3ff4599f270405414d6dfee3246ea307ad0c1a75bf17a1f4f1 → 7ab2cc06a605d5de81b902d96fb16064e88bab4d71e2a243362dce557bd24df9 _(2026-08-23)_
+- `mcp-census` **server:ai.authoryze/authoryze** · repository_url: ∅ → https://github.com/kevinfee3/authoryze-mcp _(2026-08-23)_
+- `mcp-census` **server:ai.authoryze/authoryze** · version: 1.0.0 → 1.0.1 _(2026-08-23)_
+- `mcp-census` **server:ai.bluenexus/universal-mcp** · version: 1.16.1 → 1.17.1 _(2026-08-23)_
+- `mcp-census` **server:ai.bowmark/bowmark** · version: 8.49.0 → 8.52.1 _(2026-08-23)_
+- `mcp-census` **server:ai.brainattic/knowledge-base** · version: 1.0.0 → 2.0.0 _(2026-08-23)_
+- `mcp-census` **server:ai.cdbx/mcp-server** · description_sha256: eeb2713e921b0ca080c85db2f2afde39f47a2bf7ac7a086d24ac2176bd0b8316 → e76f577babcde46239add0adc7d6e936038cc9716740e3e8204f695889eee97a _(2026-08-23)_
+- `mcp-census` **server:ai.cdbx/mcp-server** · version: 1.0.0 → 1.1.0 _(2026-08-23)_
+- `mcp-census` **server:ai.certscore/mcp-light** · description_sha256: babd95d7bf411d150ae21e4c47031ef4e5d7fcba7ea6d0fb0492b45be66cc26d → a4d54cebf3129cc4703b17ecc3c1d7f3c5035c36b40cfcd61f66fae424119881 _(2026-08-23)_
+- `mcp-census` **server:ai.certscore/mcp-light** · version: 0.2.12 → 0.2.15 _(2026-08-23)_
+- `mcp-census` **server:ai.clarx/mcp** · version: 0.2.1 → 0.2.2 _(2026-08-23)_
+- `mcp-census` **server:ai.cnaps/studio** · description_sha256: 3bf2ef1abf04bae425aea228947f079909cc90e2d5f3a10ae53101bc324e4299 → 95dde5998ec32023ce607a042daad46d8fc07a1b86e77948df32e02d87f01bee _(2026-08-23)_
+- `mcp-census` **server:ai.cnaps/studio** · version: 1.0.0 → 1.0.2 _(2026-08-23)_
+- `mcp-census` **server:ai.codenib/codenib** · version: 0.2.1 → 0.2.2 _(2026-08-23)_
+- `mcp-census` **server:ai.elicitly/elicitly** · version: 0.4.1 → 0.5.1 _(2026-08-23)_
+- `mcp-census` **server:ai.elicitly/pro** · version: 2026.8.17 → 2026.8.19 _(2026-08-23)_
+- `mcp-census` **server:ai.finestructure/fine-structure** · description_sha256: 81a7ad2832997c6ecaa84e44025197cc6283946f12867533feb5a7a9625f0ae2 → 7220735a9b1f0bfa0a6116bf266faf757138d7b204d3e0794265b2fe1438089a _(2026-08-23)_
+- `mcp-census` **server:ai.finestructure/fine-structure** · version: 1.0.0 → 1.0.2 _(2026-08-23)_
+- `mcp-census` **server:ai.fodda/brand-intelligence** · version: 1.33.0 → 1.46.31 _(2026-08-23)_
+- `mcp-census` **server:ai.fodda/deep-research** · version: 1.33.0 → 1.46.31 _(2026-08-23)_
+- `mcp-census` **server:ai.fodda/earnings-intelligence** · version: 1.33.0 → 1.46.31 _(2026-08-23)_
+- …외 20027건 더 (원장 changes.jsonl에 전량 보존)
 
 ## 소스별 현황
 | 소스 | 엔티티 | 체인 | 최신 | 앵커 | 신규 | 소멸 | 수정 |
 | --- | ---: | ---: | --- | :---: | ---: | ---: | ---: |
 | agent-commerce-census | 96 | 96 | 2026-07-13 | ⚓ | 0 | 0 | 0 |
-| ai-jobs-ledger | 2,653 | 4,789 | 2026-08-15 | ⚓ | 938 | 801 | 323 |
-| ai-vendor-ledger | 413 | 779 | 2026-08-15 | ⚓ | 97 | 29 | 308 |
-| bunyang-capsule | 1,384 | 1,385 | 2026-08-14 | ⚓ | 148 | 0 | 0 |
-| commitments-watch | 8 | 34 | 2026-08-10 | ⚓ | 0 | 0 | 24 |
+| ai-jobs-ledger | 2,768 | 5,358 | 2026-08-22 | ⚓ | 1,021 | 795 | 326 |
+| ai-vendor-ledger | 421 | 877 | 2026-08-22 | ⚓ | 102 | 25 | 307 |
+| bunyang-capsule | 1,402 | 1,403 | 2026-08-21 | ⚓ | 163 | 0 | 0 |
+| commitments-watch | 8 | 38 | 2026-08-17 | ⚓ | 0 | 0 | 24 |
 | compute-price-index | 227 | 227 | 2026-07-10 | ⚓ | 0 | 0 | 0 |
-| consent-census | 67 | 335 | 2026-08-16 | ⚓ | 0 | 0 | 257 |
+| consent-census | 67 | 366 | 2026-08-23 | ⚓ | 0 | 0 | 257 |
 | datago-watch | 1 | 1 | 2026-07-11 | ⚓ | 0 | 0 | 0 |
-| deal-audit-ledger | 39,718 | 53,660 | 2026-08-15 | ⚓ | 5,006 | 207 | 11501 |
-| forecast-graders | 6 | 53 | 2026-08-16 | ⚓ | 0 | 0 | 5 |
+| deal-audit-ledger | 40,624 | 56,537 | 2026-08-21 | ⚓ | 4,754 | 199 | 11350 |
+| forecast-graders | 6 | 54 | 2026-08-19 | ⚓ | 0 | 0 | 5 |
 | llm-korea-capsule | 44 | 44 | 2026-07-13 | ⚓ | 0 | 0 | 0 |
-| mcp-census | 22,071 | 28,105 | 2026-08-16 | ⚓ | 22,140 | 69 | 5896 |
+| mcp-census | 24,417 | 32,394 | 2026-08-23 | ⚓ | 6,891 | 97 | 7783 |
 
-_생성 2026-08-16T21:41:47.159Z · 무결성 검증은 `npm run verify`, 재현은 각 소스 snapshots/ 원본._
+_생성 2026-08-23T21:43:01.748Z · 무결성 검증은 `npm run verify`, 재현은 각 소스 snapshots/ 원본._
