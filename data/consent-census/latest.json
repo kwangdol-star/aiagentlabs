@@ -149,9 +149,9 @@
     },
     "probe:chosun.com:robots-txt": {
       "fields": {
-        "body": "User-agent: *\nDisallow: /main/bosi*\nDisallow: /test*\nDisallow: /search\nDisallow: /nsearch\nDisallow: /earlybird\nDisallow: /economy/realty/\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: DeepSeekBot\nDisallow: /\n\nSitemap: https://www.chosun.com/arc/outboundfeeds/news-sitemap/?outputType=xml\nSitemap: https://www.chosun.com/arc/outboundfeeds/sitemap/section/index/?outputType=xml",
-        "body_bytes": 374,
-        "body_sha256": "e4b21204208b4188ffb12d52a530430fcf705f55db782da6ede2447cbf9b630d",
+        "body": "User-agent: *\nDisallow: /main/bosi*\nDisallow: /test*\nDisallow: /search\nDisallow: /nsearch\nDisallow: /earlybird\nDisallow: /economy/realty/\nDisallow: /jp\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: DeepSeekBot\nDisallow: /\n\nSitemap: https://www.chosun.com/arc/outboundfeeds/news-sitemap/?outputType=xml\nSitemap: https://www.chosun.com/arc/outboundfeeds/sitemap/section/index/?outputType=xml",
+        "body_bytes": 388,
+        "body_sha256": "480b06e725b3720905aaca0359126d99c1f9dc8374217677157f85cf39c374a4",
         "bot:Amazonbot": "absent",
         "bot:Applebot-Extended": "absent",
         "bot:Bytespider": "absent",
@@ -199,8 +199,8 @@
     },
     "probe:daum.net:llms-txt": {
       "fields": {
-        "body_bytes": 629382,
-        "body_sha256": "d99952c38e3e249bead8927e6f2a9958eced9e3b5ae81ed2f65f14ea95548872",
+        "body_bytes": 637837,
+        "body_sha256": "6b2f58b966e5a2a423332bc77641b658bb8d2a71c2b71b3230253239fa5b8fe1",
         "content_type": "text/html",
         "status": 200
       },
@@ -932,5 +932,5 @@
     }
   },
   "source_id": "consent-census",
-  "updated_at": "2026-08-25T20:57:29.412Z"
+  "updated_at": "2026-08-26T23:53:19.116Z"
 }

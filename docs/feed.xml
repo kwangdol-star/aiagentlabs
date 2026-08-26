@@ -3,9 +3,49 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-08-25T22:49:55.087Z</updated>
+  <updated>2026-08-26T23:53:19.116Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:f1654154bf1d9756e29b7df524f1af8a5fe5248a96ef4b70a8e3323a09f03965</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:chosun.com:robots-txt · body</title>
+    <updated>2026-08-26T23:53:19.116Z</updated>
+    <category term="consent-census"/>
+    <link href="https://chosun.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;User-agent: *\nDisallow: /main/bosi*\nDisallow: /test*\nDisallow: /search\nDisallow: /nsearch\nDisallow: /earlybird\nDisallow: /economy/realty/\nDisallow: /jp\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: DeepSeekBot\nDisallow: /\n\nSitemap: https://www.chosun.com/arc/outboundfeeds/news-sitemap/?outputType=xml\nSitemap: https://www.chosun.com/arc/outboundfeeds/sitemap/section/index/?outputType=xml&quot;,&quot;before&quot;:&quot;User-agent: *\nDisallow: /main/bosi*\nDisallow: /test*\nDisallow: /search\nDisallow: /nsearch\nDisallow: /earlybird\nDisallow: /economy/realty/\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: DeepSeekBot\nDisallow: /\n\nSitemap: https://www.chosun.com/arc/outboundfeeds/news-sitemap/?outputType=xml\nSitemap: https://www.chosun.com/arc/outboundfeeds/sitemap/section/index/?outputType=xml&quot;,&quot;chain_hash&quot;:&quot;f1654154bf1d9756e29b7df524f1af8a5fe5248a96ef4b70a8e3323a09f03965&quot;,&quot;content_hash&quot;:&quot;3bd58a143bbc85808c59839bd4464fab253c5e17378b84bbe0468a808a52934d&quot;,&quot;entity_id&quot;:&quot;probe:chosun.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-08-26T23:53:19.116Z&quot;,&quot;source_url&quot;:&quot;https://chosun.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:f6e9b78d120143f131dd487e03640677269e3789faba13fd7e173c7a0a45f8c3</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:chosun.com:robots-txt · body_bytes</title>
+    <updated>2026-08-26T23:53:19.116Z</updated>
+    <category term="consent-census"/>
+    <link href="https://chosun.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:388,&quot;before&quot;:374,&quot;chain_hash&quot;:&quot;f6e9b78d120143f131dd487e03640677269e3789faba13fd7e173c7a0a45f8c3&quot;,&quot;content_hash&quot;:&quot;adf6446e5e9f0fc8df41fc674dfaac40e0e8449d703fd3405c810d9d3388077d&quot;,&quot;entity_id&quot;:&quot;probe:chosun.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-26T23:53:19.116Z&quot;,&quot;source_url&quot;:&quot;https://chosun.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:e6060400d8b7c3f8c2985ba6c58acd23218ea5e0859d32219453a06a2af3073e</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:chosun.com:robots-txt · body_sha256</title>
+    <updated>2026-08-26T23:53:19.116Z</updated>
+    <category term="consent-census"/>
+    <link href="https://chosun.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;480b06e725b3720905aaca0359126d99c1f9dc8374217677157f85cf39c374a4&quot;,&quot;before&quot;:&quot;e4b21204208b4188ffb12d52a530430fcf705f55db782da6ede2447cbf9b630d&quot;,&quot;chain_hash&quot;:&quot;e6060400d8b7c3f8c2985ba6c58acd23218ea5e0859d32219453a06a2af3073e&quot;,&quot;content_hash&quot;:&quot;e1d2d410826a1a349921d80194626256dede50536d38026502eb9bbe64998ee5&quot;,&quot;entity_id&quot;:&quot;probe:chosun.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-26T23:53:19.116Z&quot;,&quot;source_url&quot;:&quot;https://chosun.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:cd048df29210df23544c9da299b2d8d6038c95f1f16cd0fa4dd01f6a4145504d</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-08-26T23:53:19.116Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:637837,&quot;before&quot;:629382,&quot;chain_hash&quot;:&quot;cd048df29210df23544c9da299b2d8d6038c95f1f16cd0fa4dd01f6a4145504d&quot;,&quot;content_hash&quot;:&quot;f6bae57d1cf432934847e273108ce5717866e75589ae9a9b656112bd3501e736&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-26T23:53:19.116Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:8c323c8216de2ab13ebd0021edd158f6c64aa18fd3458fb28648908f2c427998</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-08-26T23:53:19.116Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;6b2f58b966e5a2a423332bc77641b658bb8d2a71c2b71b3230253239fa5b8fe1&quot;,&quot;before&quot;:&quot;d99952c38e3e249bead8927e6f2a9958eced9e3b5ae81ed2f65f14ea95548872&quot;,&quot;chain_hash&quot;:&quot;8c323c8216de2ab13ebd0021edd158f6c64aa18fd3458fb28648908f2c427998&quot;,&quot;content_hash&quot;:&quot;04071e7e9a1c6f1b85bfae478abba31f6e88edf1cdc7ff6d8511a368add36109&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-26T23:53:19.116Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:deal-audit-ledger:8f813dfa505e479dd4816689a9c159fd4995feb1721c7f107d875caf1592dd0b</id>
     <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [삭제] deal:11740:20260615:강일동:742:강동리버스트4단지:59.99:11:113000</title>
@@ -365,46 +405,6 @@
     <category term="consent-census"/>
     <link href="https://reuters.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:&quot;17ba1bc16d7f1ce120e61814395d40c99fbb99ec4055e0401bed685e91acd570&quot;,&quot;before&quot;:&quot;09a07ecac8d13b9b88bc5cd17fd6f1ab56f734b35892358d288126c09562f5c8&quot;,&quot;chain_hash&quot;:&quot;2e17cbbb8fe9edb51b5bc0c1dc6873fd20d8be2ea2e5c1dac4b05e4faaabdde3&quot;,&quot;content_hash&quot;:&quot;88198ef55adcdde9bb0c4cddad725714b0fa94536f7d0cfa793e1aaa26f20589&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-25T20:57:29.412Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:cf80320d2576ab4e3a2902f778838f9ed62dfa99b349d11de85a00bda5aada43</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-08-24T20:58:04.432Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:624308,&quot;before&quot;:633278,&quot;chain_hash&quot;:&quot;cf80320d2576ab4e3a2902f778838f9ed62dfa99b349d11de85a00bda5aada43&quot;,&quot;content_hash&quot;:&quot;1bdc85418a64c52c9aedc8a41517f4fe9d16162cf9a7aea7c139a6a7630ce9d4&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-24T20:58:04.432Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:f152e6c41b88707e85e7d4d3635be3126e783baed16098137566f9df2e1cb472</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-08-24T20:58:04.432Z</updated>
-    <category term="consent-census"/>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;e375770819033e9cfa33deab123c579d89808bfbfda313161d5e7f38952b7dea&quot;,&quot;before&quot;:&quot;e2fa6506a2f8a5a84d132a12e6d8568a4f6826d5666a14d8dd37303fc928a1c0&quot;,&quot;chain_hash&quot;:&quot;f152e6c41b88707e85e7d4d3635be3126e783baed16098137566f9df2e1cb472&quot;,&quot;content_hash&quot;:&quot;695b5bf3519f32bdc96055b5e000fce24ca9dcda8019e1e5bb3f3d2caa117519&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-24T20:58:04.432Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:b6056ac7bcde9f046341a9c4fc4656d8908a8a60f2c72ab7ea12936c72811e25</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · body</title>
-    <updated>2026-08-24T20:58:04.432Z</updated>
-    <category term="consent-census"/>
-    <link href="https://hani.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;User-agent: *\nDisallow: /arti/PRINT/\nDisallow: /arti/PREVIEW/\nDisallow: /api/\nDisallow: /fortunes/result\nDisallow: /test/\n\nUser-agent: 01-AI-Bot\nUser-agent: AddSearchBot\nUser-agent: AgentTimes\nUser-agent: Ai2Bot\nUser-agent: Ai2Bot-Dolma\nUser-agent: AI2Bot-DeepResearchEval\nUser-agent: aiHitBot\nUser-agent: AIWebIndex\nUser-agent: AhrefsBot\nUser-agent: amazon-kendra\nUser-agent: amazon-QBusiness\nUser-agent: Amazonbot\nUser-agent: AmazonBuyForMe\nUser-agent: Amzn-SearchBot\nUser-agent: Amzn-User\nUser-agent: Andibot\nUser-agent: Anomura\nUser-agent: anthropic-ai\nUser-agent: ApifyBot\nUser-agent: ApifyWebsiteContentCrawler\nUser-agent: Applebot-Extended\nUser-agent: Aranet-SearchBot\nUser-agent: atlassian-bot\nUser-agent: Awario\nUser-agent: AzureAI-SearchBot\nUser-agent: bedrockbot\nUser-agent: bigsur.ai\nUser-agent: BLP_bbot\nUser-agent: Brightbot\nUser-agent: Brightbot 1.0\nUser-agent: BuddyBot\nUser-agent: Bytespider\nUser-agent: CCBot\nUser-agent: Channel3Bot\nUser-agent: ChatGLM-Spider\nUser-agent: ChatGPT Agent\nUser-agent: ClaudeBot\nUser-agent: Claude-Code\nUser-agent: Claude-User\nUser-agent: Claude-Web\nUser-agent: Cloudflare-AutoRAG\nUser-agent: CloudVertexBot\nUser-agent: cohere-ai\nUser-agent: cohere-training-data-crawler\nUser-agent: Cotoyogi\nUser-agent: CragCrawler\nUser-agent: Crawl4AI\nUser-agent: Crawlspace\nUser-agent: Datenbank Crawler\nUser-agent: DeepSeekBot\nUser-agent: Diffbot\nUser-agent: DuckAssistBot\nUser-agent: Echobot Bot\nUser-agent: EchoboxBot\nUser-agent: ExaBot\nUser-agent: Factset_spyderbot\nUser-agent: FirecrawlAgent\nUser-agent: FriendlyCrawler\nUser-agent: GeistHaus-PageFetcher\nUser-agent: Google-Agent\nUser-agent: Google-CloudVertexBot\nUser-agent: Google-Extended\nUser-agent: Google-Firebase\nUser-agent: Google-Gemini-CLI\nUser-agent: Google-NotebookLM\nUser-agent: GoogleAgent-Mariner\nUser-agent: GoogleOther\nUser-agent: GoogleOther-Image\nUser-agent: GoogleOther-Video\nUser-agent: GPTBot\nUser-agent: HenkBot\nUser-agent: iAskBot\nUser-agent: iaskspider\nUser-agent: iaskspider/2.0\nUser-agent: IbouBot\nUser-agent: ICC-Crawler\nUser-agent: ImagesiftBot\nUser-agent: imageSpider\nUser-agent: img2dataset\nUser-agent: ISSCyberRiskCrawler\nUser-agent: kagi-fetcher\nUser-agent: Kangaroo Bot\nUser-agent: KlaviyoAIBot\nUser-agent: KunatoCrawler\nUser-agent: laion-huggingface-processor\nUser-agent: LAIONDownloader\nUser-agent: LCC\nUser-agent: LinerBot\nUser-agent: LinkupBot\nUser-agent: meta-externalagent\nUser-agent: meta-externalfetcher\nUser-agent: meta-webindexer\nUser-agent: Mozilla-Tabstack\nUser-agent: MyCentralAIScraperBot\nUser-agent: NagetBot\nUser-agent: netEstate Imprint Crawler\nUser-agent: newsai\nUser-agent: NotebookLM\nUser-agent: NovaAct\nUser-agent: omgili\nUser-agent: omgilibot\nUser-agent: OpenAI\nUser-agent: PanguBot\nUser-agent: Panscient\nUser-agent: panscient.com\nUser-agent: PetalBot\nUser-agent: PhindBot\nUser-agent: Poggio-Citations\nUser-agent: Poseidon Research Crawler\nUser-agent: QualifiedBot\nUser-agent: Querit-SearchBot\nUser-agent: QueritBot\nUser-agent: QuillBot\nUser-agent: QuillBot.com\nUser-agent: SBIntuitionsBot\nUser-agent: Scrapy\nUser-agent: SemrushBot-OCOB\nUser-agent: SemrushBot-SWA\nUser-agent: Shap-User\nUser-agent: ShapBot\nUser-agent: Sidetrade indexer bot\nUser-agent: Spider\nUser-agent: TavilyBot\nUser-agent: Terra Cotta\nUser-agent: TerraCotta\nUser-agent: Thinkbot\nUser-agent: TikTokSpider\nUser-agent: Timpibot\nUser-agent: TongyiBot\nUser-agent: TwinAgent\nUser-agent: UseAI\nUser-agent: VelenPublicWebCrawler\nUser-agent: WARDBot\nUser-agent: Webzio-Extended\nUser-agent: wpbot\nUser-agent: WRTNBot\nUser-agent: YaK\nUser-agent: YandexAdditional\nUser-agent: YandexAdditionalBot\nUser-agent: YiyanBot\nUser-agent: YouBot\nUser-agent: ZanistaBot\nDisallow: /\n\nUser-agent: ChatGPT-User\nUser-agent: OAI-SearchBot\nUser-agent: Claude-SearchBot\nUser-agent: Gemini-Deep-Research\nUser-agent: GoogleAgent-URLContext\nUser-agent: MistralAI-User\nUser-agent: MistralAI-User/1.0\nUser-agent: Kimi-User\nUser-agent: Manus-User\nUser-agent: Operator\nAllow: /arti/\nAllow: /sitemap/\nDisallow: /arti/PRINT/\nDisallow: /arti/PREVIEW/\nDisallow: /\n\nSitemap: https://www.hani.co.kr/sitemap/sections\nSitemap: https://www.hani.co.kr/sitemap/latest-articles\n&quot;,&quot;before&quot;:&quot;User-agent: *\nDisallow: /arti/PRINT/\nDisallow: /fortunes/result\nDisallow: /arti/PREVIEW/\nDisallow: /api/\nDisallow: /test/\n\nUser-agent: GPTBot\nUser-agent: Bytespider\nUser-agent: Amazonbot\nUser-agent: ClaudeBot\nUser-agent: BLP_bbot\nUser-agent: Slackbot\nDisallow: /\n\n\nSitemap: https://www.hani.co.kr/sitemap/sections&quot;,&quot;chain_hash&quot;:&quot;b6056ac7bcde9f046341a9c4fc4656d8908a8a60f2c72ab7ea12936c72811e25&quot;,&quot;content_hash&quot;:&quot;7773a71892c5207b7529c450d37e0f72f6d3b99ed9864876a32889a600531e39&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-08-24T20:58:04.432Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:a8f2e055b6b0bb3f9b6dc28caa43c80e9336735bb820fd5246d562bb11161045</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · body_bytes</title>
-    <updated>2026-08-24T20:58:04.432Z</updated>
-    <category term="consent-census"/>
-    <link href="https://hani.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:4142,&quot;before&quot;:313,&quot;chain_hash&quot;:&quot;a8f2e055b6b0bb3f9b6dc28caa43c80e9336735bb820fd5246d562bb11161045&quot;,&quot;content_hash&quot;:&quot;0efbcff6c85170b4d514502b07baf127b22be3a50703fe558ef6e9ff7842ed31&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-24T20:58:04.432Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:bcc441d1b8212d6d3d8f26c2b1b1075e56bd0e3c1f1068ad47b3eca0e8579c69</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:hani.co.kr:robots-txt · body_sha256</title>
-    <updated>2026-08-24T20:58:04.432Z</updated>
-    <category term="consent-census"/>
-    <link href="https://hani.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;49d96169b5a57228835cd92dafad4198576fa8b914eac55709c2e4d16eae7d27&quot;,&quot;before&quot;:&quot;c6ba2cacd32228379929777a9a47cd7e255b891bbe0ac354c6558487bf721520&quot;,&quot;chain_hash&quot;:&quot;bcc441d1b8212d6d3d8f26c2b1b1075e56bd0e3c1f1068ad47b3eca0e8579c69&quot;,&quot;content_hash&quot;:&quot;a0e6718ce41824893a56f5faec1e32cdb74651a3619a30a7a12a73a636bca022&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-24T20:58:04.432Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:consent-census:09a9a1c654a694adef10753b14995110bbcad031b4d450785c5b0d1d54b79222</id>
