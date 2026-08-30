@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-08-29T22:48:41.101Z</updated>
+  <updated>2026-08-30T22:56:29.713Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:ceddb618b93d6bd4b4cb428ceb83c53fbd40d8d28ba3f7c3e2e0ffd10ad86ec3</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-08-30T22:56:29.713Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;6dbb02ab68b93346ab29db1634c93be324b7f9158d3d28f688065997baecf568&quot;,&quot;before&quot;:&quot;925b1a740254eff210d17d03c53028a64248a725bf674c1697a7f7b9682ccc7d&quot;,&quot;chain_hash&quot;:&quot;ceddb618b93d6bd4b4cb428ceb83c53fbd40d8d28ba3f7c3e2e0ffd10ad86ec3&quot;,&quot;content_hash&quot;:&quot;2c57596144228fd9f55646f330a21c4c2b1212787033700bcfd3ed8d0b9e30a9&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-30T22:56:29.713Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:886c47eb2f34339df8dc74e1bdaad38da1918d6980ec3ec948a9f39d38ef58d0</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-08-30T22:56:29.713Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:641647,&quot;before&quot;:636291,&quot;chain_hash&quot;:&quot;886c47eb2f34339df8dc74e1bdaad38da1918d6980ec3ec948a9f39d38ef58d0&quot;,&quot;content_hash&quot;:&quot;afe824fef76e41cabca6f3985cdf6897d8c4231af5c9c64dcb38e14c53718858&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-30T22:56:29.713Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:0afb737a1545d1138360873a46f27b471494cdaf89f9fee310a69085a533e661</id>
     <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
@@ -339,19 +353,5 @@
     <updated>2026-08-22T20:50:54.358Z</updated>
     <link href="https://khan.co.kr/robots.txt"/>
     <content type="text">{&quot;after&quot;:&quot;User-agent: AhrefsBot\r\nUser-agent: SemrushBot\r\nUser-agent: ClaudeBot\r\nUser-agent: GPTBot\r\nUser-agent: ChatGPT-User\r\nUser-agent: Google-Extended\r\nUser-agent: Bytespider\r\nUser-agent: Applebot-Extended\r\nUser-agent: CCBot\r\nUser-agent: dotbot\r\nUser-agent: DeepSeekBot\r\nDisallow: /\r\n\r\nUser-agent: *\r\nDisallow: /login\r\nDisallow: /SecListData.html\r\nDisallow: /national/national-general/article/201709021732001\r\nDisallow: /national/national-general/article/201609241422011\r\nDisallow: /article/201709021732001\r\n\r\nSitemap: https://www.khan.co.kr/sitemap.xml\r\nSitemap: https://www.khan.co.kr/sitemap/latest-articles.xml\r\nSitemap: https://www.khan.co.kr/sitemap/daily-images.xml\r\nSitemap: https://www.khan.co.kr/sitemap/daily-videos.xml\r\nSitemap: https://www.khan.co.kr/sitemap/authors.xml\r\n\r\nSitemap: https://www.khan.co.kr/rss/rssdata/english_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/newsletter_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/interactive_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/video_news.xml\r\n\r\n#DaumWebMasterTool:35bc55071cd98ae09fdf97e6c96768225c02c9f6ab5b8fe3c1118aefe5139d74:gbyst4GwRZz3X/sV/51MJQ==\r\n&quot;,&quot;before&quot;:&quot;User-agent: AhrefsBot\r\nUser-agent: SemrushBot\r\nUser-agent: ClaudeBot\r\nUser-agent: GPTBot\r\nUser-agent: ChatGPT-User\r\nUser-agent: Google-Extended\r\nUser-agent: Bytespider\r\nDisallow: /\r\n\r\nUser-agent: *\r\nDisallow: /login\r\nDisallow: /SecListData.html\r\nDisallow: /national/national-general/article/201709021732001\r\nDisallow: /national/national-general/article/201609241422011\r\nDisallow: /article/201709021732001\r\n\r\nSitemap: https://www.khan.co.kr/sitemap.xml\r\nSitemap: https://www.khan.co.kr/sitemap/latest-articles.xml\r\nSitemap: https://www.khan.co.kr/sitemap/daily-images.xml\r\nSitemap: https://www.khan.co.kr/sitemap/daily-videos.xml\r\nSitemap: https://www.khan.co.kr/sitemap/authors.xml\r\n\r\nSitemap: https://www.khan.co.kr/rss/rssdata/english_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/newsletter_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/interactive_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/video_news.xml\r\n\r\n#DaumWebMasterTool:35bc55071cd98ae09fdf97e6c96768225c02c9f6ab5b8fe3c1118aefe5139d74:gbyst4GwRZz3X/sV/51MJQ==\r\n&quot;,&quot;chain_hash&quot;:&quot;bf0fa9a2a3f433ff4cf9ca13271bc3ad2ddd82231d29165c3c7f54bb1bc6a099&quot;,&quot;content_hash&quot;:&quot;bc001d6ae9b716747784d34abeda2a7232647df0c732837a4df429a111c7da22&quot;,&quot;entity_id&quot;:&quot;probe:khan.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-08-22T20:50:54.358Z&quot;,&quot;source_url&quot;:&quot;https://khan.co.kr/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:9fee57219e9769fe83d2a1e933e6c73823888714a050d9f9d45cfdd2ffd5d6de</id>
-    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-08-22T20:50:54.358Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;b45ddeb119bdfb396a2c247097a4a7aa93f80e2c4533a39879300e88355856fd&quot;,&quot;before&quot;:&quot;3f2cfd751b9744d74435d96f93e2d703c173e729eba7255e0d294bf215e3f495&quot;,&quot;chain_hash&quot;:&quot;9fee57219e9769fe83d2a1e933e6c73823888714a050d9f9d45cfdd2ffd5d6de&quot;,&quot;content_hash&quot;:&quot;0ade40a8d52b7236e56352a77eb621552a24c5d9a528070a1fce632ad4d555dd&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-22T20:50:54.358Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:e5de33d33669847e2fb4ce008af0d53fd2cd72be503888bf183a7c7770c695c0</id>
-    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-08-22T20:50:54.358Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:631468,&quot;before&quot;:623852,&quot;chain_hash&quot;:&quot;e5de33d33669847e2fb4ce008af0d53fd2cd72be503888bf183a7c7770c695c0&quot;,&quot;content_hash&quot;:&quot;72a0f1d3b5c7f4bf4764545509881f75b152bec228a61e1dc2d643e082fa6ac2&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-08-22T20:50:54.358Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
   </entry>
 </feed>
