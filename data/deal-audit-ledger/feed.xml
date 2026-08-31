@@ -2,356 +2,356 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:deal-audit-ledger</id>
   <title>실거래 취소·정정 원장 — 아파트 매매 (서울)</title>
-  <updated>2026-08-30T00:26:14.708Z</updated>
+  <updated>2026-08-31T00:42:16.444Z</updated>
   <author><name>chronicle</name></author>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:18b981080417a4cc5f45dc550d9d8367f991c0ac2d9c04c404c404973439d1a1</id>
-    <title>[삭제] deal:11740:20260704:성내동:413-6:신이모닝빌:84.91:6:89500</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:67853c8630eff9754765c5174729112dc7447b0fba04496072cebb0ad455da86</id>
+    <title>[삭제] deal:11740:20260626:길동:445-1:강동역에스케이허브:99.55:24:92000</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-07-04&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;신이모닝빌&quot;,&quot;aptSeq&quot;:&quot;11740-418&quot;,&quot;bonbun&quot;:&quot;0413&quot;,&quot;bubun&quot;:&quot;0006&quot;,&quot;buildYear&quot;:&quot;2004&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;89,500&quot;,&quot;dealDay&quot;:&quot;4&quot;,&quot;dealMonth&quot;:&quot;7&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강남구, 서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;84.91&quot;,&quot;floor&quot;:&quot;6&quot;,&quot;jibun&quot;:&quot;413-6&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;풍성로55길&quot;,&quot;roadNmBonbun&quot;:&quot;00006&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;4172429&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10800&quot;,&quot;umdNm&quot;:&quot;성내동&quot;},&quot;chain_hash&quot;:&quot;18b981080417a4cc5f45dc550d9d8367f991c0ac2d9c04c404c404973439d1a1&quot;,&quot;content_hash&quot;:&quot;7bf149821de288e9be070f2b0b19b26fcf9832fcee768b3d1edf9b9f04fe67fc&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260704:성내동:413-6:신이모닝빌:84.91:6:89500&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-06-26&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;강동역에스케이허브&quot;,&quot;aptSeq&quot;:&quot;11740-2622&quot;,&quot;bonbun&quot;:&quot;0445&quot;,&quot;bubun&quot;:&quot;0001&quot;,&quot;buildYear&quot;:&quot;2006&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;92,000&quot;,&quot;dealDay&quot;:&quot;26&quot;,&quot;dealMonth&quot;:&quot;6&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;99.55&quot;,&quot;floor&quot;:&quot;24&quot;,&quot;jibun&quot;:&quot;445-1&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;천호대로&quot;,&quot;roadNmBonbun&quot;:&quot;01107&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;2000008&quot;,&quot;roadNmSeq&quot;:&quot;02&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10500&quot;,&quot;umdNm&quot;:&quot;길동&quot;},&quot;chain_hash&quot;:&quot;67853c8630eff9754765c5174729112dc7447b0fba04496072cebb0ad455da86&quot;,&quot;content_hash&quot;:&quot;c0e94e48894fe259f9154db784a0fc00fbc66da60a353a06fe7977a62375e1b4&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260626:길동:445-1:강동역에스케이허브:99.55:24:92000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:1b08c037719b41d16c6573955c85d8835f9785cfe32ba865632f6e63fad7f27d</id>
-    <title>[삭제] deal:11650:20260617:서초동:1617-13:상지리츠빌(1617-13):170.8:2:235000</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:c2ba3b4c740f513935cb45125971051554b207584a17a44bfefcf51b19c3412d</id>
+    <title>[삭제] deal:11410:20260607:홍은동:398-6:명가:79.92:4:47000</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;LAWD_CD&quot;:&quot;11650&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-06-17&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;상지리츠빌(1617-13)&quot;,&quot;aptSeq&quot;:&quot;11650-723&quot;,&quot;bonbun&quot;:&quot;1617&quot;,&quot;bubun&quot;:&quot;0013&quot;,&quot;buildYear&quot;:&quot;2004&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;235,000&quot;,&quot;dealDay&quot;:&quot;17&quot;,&quot;dealMonth&quot;:&quot;6&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 서초구&quot;,&quot;excluUseAr&quot;:&quot;170.8&quot;,&quot;floor&quot;:&quot;2&quot;,&quot;jibun&quot;:&quot;1617-13&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;서리풀4길&quot;,&quot;roadNmBonbun&quot;:&quot;00036&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;4163368&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11650&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11650&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10800&quot;,&quot;umdNm&quot;:&quot;서초동&quot;},&quot;chain_hash&quot;:&quot;1b08c037719b41d16c6573955c85d8835f9785cfe32ba865632f6e63fad7f27d&quot;,&quot;content_hash&quot;:&quot;26b6cece7c35860b4b58a495c5b33604281b91fcc5b86c92f88178bb8eadc5c8&quot;,&quot;entity_id&quot;:&quot;deal:11650:20260617:서초동:1617-13:상지리츠빌(1617-13):170.8:2:235000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;LAWD_CD&quot;:&quot;11410&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-06-07&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;명가&quot;,&quot;aptSeq&quot;:&quot;11410-3865&quot;,&quot;bonbun&quot;:&quot;0398&quot;,&quot;bubun&quot;:&quot;0006&quot;,&quot;buildYear&quot;:&quot;2009&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;47,000&quot;,&quot;dealDay&quot;:&quot;7&quot;,&quot;dealMonth&quot;:&quot;6&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 서대문구&quot;,&quot;excluUseAr&quot;:&quot;79.92&quot;,&quot;floor&quot;:&quot;4&quot;,&quot;jibun&quot;:&quot;398-6&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;가좌로&quot;,&quot;roadNmBonbun&quot;:&quot;00100&quot;,&quot;roadNmBubun&quot;:&quot;00021&quot;,&quot;roadNmCd&quot;:&quot;3005053&quot;,&quot;roadNmSeq&quot;:&quot;02&quot;,&quot;roadNmSggCd&quot;:&quot;11410&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11410&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;11800&quot;,&quot;umdNm&quot;:&quot;홍은동&quot;},&quot;chain_hash&quot;:&quot;c2ba3b4c740f513935cb45125971051554b207584a17a44bfefcf51b19c3412d&quot;,&quot;content_hash&quot;:&quot;cc1683ffa600a86caaf22c0f5b4c6b626d7c89d224cb7a0b974b8072895f4d35&quot;,&quot;entity_id&quot;:&quot;deal:11410:20260607:홍은동:398-6:명가:79.92:4:47000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:0040da25c4825145fb615a86dc36e0a8bb49083d4123eef33d5664ce340c2bae</id>
-    <title>[삭제] deal:11560:20260720:영등포동3가:19-2:포레스트힐시티:13.53:7:9800</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:0d68885aeee321d42d3aa85df06be4ce208f43af8903b49d3ff2b448a70a5139</id>
+    <title>[삭제] deal:11140:20260423:남대문로5가:827:남산트라팰리스:148.47:30:240000</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;LAWD_CD&quot;:&quot;11560&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-07-20&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;포레스트힐시티&quot;,&quot;aptSeq&quot;:&quot;11560-1680&quot;,&quot;bonbun&quot;:&quot;0019&quot;,&quot;bubun&quot;:&quot;0002&quot;,&quot;buildYear&quot;:&quot;2014&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;9,800&quot;,&quot;dealDay&quot;:&quot;20&quot;,&quot;dealMonth&quot;:&quot;7&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 영등포구&quot;,&quot;excluUseAr&quot;:&quot;13.53&quot;,&quot;floor&quot;:&quot;7&quot;,&quot;jibun&quot;:&quot;19-2&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;영중로6길&quot;,&quot;roadNmBonbun&quot;:&quot;00012&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;4154816&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11560&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11560&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10400&quot;,&quot;umdNm&quot;:&quot;영등포동3가&quot;},&quot;chain_hash&quot;:&quot;0040da25c4825145fb615a86dc36e0a8bb49083d4123eef33d5664ce340c2bae&quot;,&quot;content_hash&quot;:&quot;14b5d20af72e1bc05a219905e9cded5b05ce6205319ec2f91a9009eed0fffc4f&quot;,&quot;entity_id&quot;:&quot;deal:11560:20260720:영등포동3가:19-2:포레스트힐시티:13.53:7:9800&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;LAWD_CD&quot;:&quot;11140&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-04-23&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;남산트라팰리스&quot;,&quot;aptSeq&quot;:&quot;11140-1119&quot;,&quot;bonbun&quot;:&quot;0827&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;2010&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;240,000&quot;,&quot;dealDay&quot;:&quot;23&quot;,&quot;dealMonth&quot;:&quot;4&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 용산구&quot;,&quot;excluUseAr&quot;:&quot;148.47&quot;,&quot;floor&quot;:&quot;30&quot;,&quot;jibun&quot;:&quot;827&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;소월로2길&quot;,&quot;roadNmBonbun&quot;:&quot;00030&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;4103213&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11140&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11140&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;11800&quot;,&quot;umdNm&quot;:&quot;남대문로5가&quot;},&quot;chain_hash&quot;:&quot;0d68885aeee321d42d3aa85df06be4ce208f43af8903b49d3ff2b448a70a5139&quot;,&quot;content_hash&quot;:&quot;9795d133175a810113d7c595ca2b38548f0257f5ea611074d64f31dcdca100c5&quot;,&quot;entity_id&quot;:&quot;deal:11140:20260423:남대문로5가:827:남산트라팰리스:148.47:30:240000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:1b9d00c7bd0fc95fd35d855ceba2c68432f20dd197da7da3547910183a56e97b</id>
-    <title>[삭제] deal:11380:20260617:신사동:278-1:우공101동:83.97:2:43500</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:cca7201dedc7f3d60c1568b979e79415992c1480cd85e77c69cefcb6f53b324f</id>
+    <title>[변경] deal:11740:20260717:길동:414-5:골드클래스:59.14:12:63500 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;LAWD_CD&quot;:&quot;11380&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-06-17&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;우공101동&quot;,&quot;aptSeq&quot;:&quot;11380-270&quot;,&quot;bonbun&quot;:&quot;0278&quot;,&quot;bubun&quot;:&quot;0001&quot;,&quot;buildYear&quot;:&quot;2004&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;43,500&quot;,&quot;dealDay&quot;:&quot;17&quot;,&quot;dealMonth&quot;:&quot;6&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 은평구&quot;,&quot;excluUseAr&quot;:&quot;83.97&quot;,&quot;floor&quot;:&quot;2&quot;,&quot;jibun&quot;:&quot;278-1&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;갈현로3길&quot;,&quot;roadNmBonbun&quot;:&quot;00033&quot;,&quot;roadNmBubun&quot;:&quot;00007&quot;,&quot;roadNmCd&quot;:&quot;4133042&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11380&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11380&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10900&quot;,&quot;umdNm&quot;:&quot;신사동&quot;},&quot;chain_hash&quot;:&quot;1b9d00c7bd0fc95fd35d855ceba2c68432f20dd197da7da3547910183a56e97b&quot;,&quot;content_hash&quot;:&quot;4b88ab6b8a7b2ef3267cb7c180b8b1a9f5cc4b4c741cfb2c5ab26a3b98aae2f1&quot;,&quot;entity_id&quot;:&quot;deal:11380:20260617:신사동:278-1:우공101동:83.97:2:43500&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.28&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;cca7201dedc7f3d60c1568b979e79415992c1480cd85e77c69cefcb6f53b324f&quot;,&quot;content_hash&quot;:&quot;a080026c80b99892e54d0be48bc89c8d04ae1cb45754dee19668644e902fec72&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260717:길동:414-5:골드클래스:59.14:12:63500&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:6b9cd97604f7df9aa6873e9b17b08dc9efc8c615c4f9bb483b0f17794ed9ca30</id>
-    <title>[삭제] deal:11140:20260515:흥인동:13-1:청계천두산위브더제니스:92.1357:16:139000</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:57063210c911e00069a5e0d4b2de1fd2e8a92d668294b1a83db8a84fa31b0c33</id>
+    <title>[변경] deal:11740:20260630:둔촌동:630:둔촌푸르지오:59.98:15:149000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;LAWD_CD&quot;:&quot;11140&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-05-15&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;청계천두산위브더제니스&quot;,&quot;aptSeq&quot;:&quot;11140-1226&quot;,&quot;bonbun&quot;:&quot;0013&quot;,&quot;bubun&quot;:&quot;0001&quot;,&quot;buildYear&quot;:&quot;2014&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;139,000&quot;,&quot;dealDay&quot;:&quot;15&quot;,&quot;dealMonth&quot;:&quot;5&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 중구&quot;,&quot;excluUseAr&quot;:&quot;92.1357&quot;,&quot;floor&quot;:&quot;16&quot;,&quot;jibun&quot;:&quot;13-1&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;다산로46길&quot;,&quot;roadNmBonbun&quot;:&quot;00017&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;4103069&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11140&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11140&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;16300&quot;,&quot;umdNm&quot;:&quot;흥인동&quot;},&quot;chain_hash&quot;:&quot;6b9cd97604f7df9aa6873e9b17b08dc9efc8c615c4f9bb483b0f17794ed9ca30&quot;,&quot;content_hash&quot;:&quot;4af8e9e53cea8bd68795808af7d229f05cbd8b6020b4901838d79ca9523e436e&quot;,&quot;entity_id&quot;:&quot;deal:11140:20260515:흥인동:13-1:청계천두산위브더제니스:92.1357:16:139000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;57063210c911e00069a5e0d4b2de1fd2e8a92d668294b1a83db8a84fa31b0c33&quot;,&quot;content_hash&quot;:&quot;b54c8646892d02108acbb457523f421c338e0a3aa9371b4e484a2691f30a3bc0&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260630:둔촌동:630:둔촌푸르지오:59.98:15:149000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:e1de76146e0ec4d220750f51ea1ebea812c7bf0b1ec560f8ea95df4be67be923</id>
-    <title>[변경] deal:11740:20260804:둔촌동:545:둔촌하이츠:59.79:18:114000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:af8c5502d28b93e35303399dace0ed78ae207b05654d7dc35ad7d715869627e5</id>
+    <title>[변경] deal:11740:20260630:둔촌동:630:둔촌푸르지오:59.98:15:149000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;e1de76146e0ec4d220750f51ea1ebea812c7bf0b1ec560f8ea95df4be67be923&quot;,&quot;content_hash&quot;:&quot;9f6e334ac1f625720f8caba6d6a5b9f2ceca66ee009b89741511b513e917b94a&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260804:둔촌동:545:둔촌하이츠:59.79:18:114000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;110&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;af8c5502d28b93e35303399dace0ed78ae207b05654d7dc35ad7d715869627e5&quot;,&quot;content_hash&quot;:&quot;d030b3d0f1826a7ba3ed4eb9ca9dee027d745c8f589a426708f0c9a3e56a0593&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260630:둔촌동:630:둔촌푸르지오:59.98:15:149000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:f6e5e9b662683872e3080ddda73b15f595dd9731f00765386a825797b3bf7c95</id>
-    <title>[변경] deal:11740:20260623:암사동:509:선사현대아파트:72.85:21:164000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:4ea3351cf0b0c42ae255d6aed2babfba701d911a7aae60e000c2696ffcc8d317</id>
+    <title>[변경] deal:11740:20260627:강일동:66:강동리버스트8단지:49.74:1:91000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;f6e5e9b662683872e3080ddda73b15f595dd9731f00765386a825797b3bf7c95&quot;,&quot;content_hash&quot;:&quot;3c1514bbe34f65354b21437e08facc152055147a1f893bf5a0838369b3eba164&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260623:암사동:509:선사현대아파트:72.85:21:164000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;4ea3351cf0b0c42ae255d6aed2babfba701d911a7aae60e000c2696ffcc8d317&quot;,&quot;content_hash&quot;:&quot;234ccf0ce45c5e80aa0035cc4362edbbc009ae8c6baa871f6da22c58833b92f2&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260627:강일동:66:강동리버스트8단지:49.74:1:91000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:c3a4094472b8b773758e4d399bfe793f6320e4038cf7d2a49950a6564c779abb</id>
-    <title>[변경] deal:11740:20260623:암사동:509:선사현대아파트:72.85:21:164000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:5ae338d5cabcf824c84a0898e6cc9075eeea0077caac3cca587b033441a7a0ac</id>
+    <title>[변경] deal:11740:20260627:강일동:66:강동리버스트8단지:49.74:1:91000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;101&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;c3a4094472b8b773758e4d399bfe793f6320e4038cf7d2a49950a6564c779abb&quot;,&quot;content_hash&quot;:&quot;a591e43f095423cd1e6529c5f2d2a91b93d2df760d66f14cc003e026b7f027b5&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260623:암사동:509:선사현대아파트:72.85:21:164000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;805동&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;5ae338d5cabcf824c84a0898e6cc9075eeea0077caac3cca587b033441a7a0ac&quot;,&quot;content_hash&quot;:&quot;e6e7771628655b286f52cea51d47e44d28ff665babe57b177038ccad20a63b7f&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260627:강일동:66:강동리버스트8단지:49.74:1:91000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:b9383456d79e40cf439d33731275f9bd2e5158c8cb2e7ce3f76ace52ab5e407c</id>
-    <title>[변경] deal:11740:20260612:상일동:515:고덕숲아이파크:59.97:10:165000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:c50703b82234b8babd00736ca25617e0f8eb66dd36b56c46976a448d1cf6958a</id>
+    <title>[변경] deal:11740:20260612:길동:323-1:주풍그린빌:139.61:4:98000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.24&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;b9383456d79e40cf439d33731275f9bd2e5158c8cb2e7ce3f76ace52ab5e407c&quot;,&quot;content_hash&quot;:&quot;8f5efae23648514c0e61d6596487b3681af6c4cf746cc8ba4a90ced10433150e&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260612:상일동:515:고덕숲아이파크:59.97:10:165000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;c50703b82234b8babd00736ca25617e0f8eb66dd36b56c46976a448d1cf6958a&quot;,&quot;content_hash&quot;:&quot;7d2356985bf8beb49599b90b4f3b00faa94ef413d718997d95315a261ac5a490&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260612:길동:323-1:주풍그린빌:139.61:4:98000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:bba8ef00810b82f6238d8119432c1f782cad091d973903e68549fe10c34d39cc</id>
-    <title>[변경] deal:11740:20260612:상일동:515:고덕숲아이파크:59.97:10:165000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:7aaaea5bffa67ece74f4ce39a49964c82e2d1a5e832e17ae3a0313348e755570</id>
+    <title>[변경] deal:11740:20260605:길동:483:강동헤리티지자이:45.795:11:145000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;108&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;bba8ef00810b82f6238d8119432c1f782cad091d973903e68549fe10c34d39cc&quot;,&quot;content_hash&quot;:&quot;0766710475a90f81e92c18522819c66d5a940abfb1462058f5f249b96a802734&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260612:상일동:515:고덕숲아이파크:59.97:10:165000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.21&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;7aaaea5bffa67ece74f4ce39a49964c82e2d1a5e832e17ae3a0313348e755570&quot;,&quot;content_hash&quot;:&quot;9aeec5b42ff5e76fc9069fc1f6ca693fc9e424fbe10208083a87eb9aaf940a14&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260605:길동:483:강동헤리티지자이:45.795:11:145000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:b565cab33ccd8c001c15f0a627e1115cdb277e96b3005f3faa18b4fb206a36bf</id>
-    <title>[변경] deal:11740:20260529:고덕동:688:래미안힐스테이트고덕:84.9:4:195000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:93c4007b20a11bd0a8006714d552238e903ad31aae83fce1b027d5eb2caa1fe0</id>
+    <title>[변경] deal:11740:20260605:길동:483:강동헤리티지자이:45.795:11:145000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;b565cab33ccd8c001c15f0a627e1115cdb277e96b3005f3faa18b4fb206a36bf&quot;,&quot;content_hash&quot;:&quot;8ca2e3a35b428f6f29a6b068364d9d97cc63ff96b2255861583e65dfc557c738&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260529:고덕동:688:래미안힐스테이트고덕:84.9:4:195000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;105&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;93c4007b20a11bd0a8006714d552238e903ad31aae83fce1b027d5eb2caa1fe0&quot;,&quot;content_hash&quot;:&quot;da2c3cd3d1e6751959f7898544858ae0fa2fe91ed6a517caa67b27cbbd9f5523&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260605:길동:483:강동헤리티지자이:45.795:11:145000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:856277ad869cb4223b1d671c9a473e5dc379162c90a3b06d08836f61ead0c773</id>
-    <title>[변경] deal:11740:20260529:고덕동:688:래미안힐스테이트고덕:84.9:4:195000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:481de11d9c20fb0bb96ab15a63e8ea9b5c600aeb9a79f734a132076c63c15273</id>
+    <title>[변경] deal:11740:20260605:고덕동:486:아남1:84.91:14:150500 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;123&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;856277ad869cb4223b1d671c9a473e5dc379162c90a3b06d08836f61ead0c773&quot;,&quot;content_hash&quot;:&quot;ee257828bc46c9067952b2da6fbbce682c99125a671bf92c62c7c0cba2fe78ad&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260529:고덕동:688:래미안힐스테이트고덕:84.9:4:195000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;481de11d9c20fb0bb96ab15a63e8ea9b5c600aeb9a79f734a132076c63c15273&quot;,&quot;content_hash&quot;:&quot;4f9a1b3749d6a6b3bdec1c8b30be2e9f94c336eb13a4698dc7e808416f3d3079&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260605:고덕동:486:아남1:84.91:14:150500&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:c81287cc4dc1763a7d16e4047db0ea1b60674c64781d8927179d4f31ba7f14ed</id>
-    <title>[변경] deal:11740:20260527:길동:477:이편한세상강동에코포레:59.97:14:151000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:e96726fd34d5e87bef114f048eb4e27e33537f58edf2731835d5afbdce1fd317</id>
+    <title>[변경] deal:11740:20260605:고덕동:486:아남1:84.91:14:150500 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;c81287cc4dc1763a7d16e4047db0ea1b60674c64781d8927179d4f31ba7f14ed&quot;,&quot;content_hash&quot;:&quot;7337154a07f4383efc49accb08e73c61e62a502c9b2c2f2dcc87c76ad081b69e&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260527:길동:477:이편한세상강동에코포레:59.97:14:151000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;7&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;e96726fd34d5e87bef114f048eb4e27e33537f58edf2731835d5afbdce1fd317&quot;,&quot;content_hash&quot;:&quot;b656f8fcf2cef1d0cd15f12546f6247ba805a890b8d963e1886e733555c0f452&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260605:고덕동:486:아남1:84.91:14:150500&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:b29b9248853041904b427781b33a0e1988cf97fe8ba8df141813795abbc175c6</id>
-    <title>[변경] deal:11740:20260527:길동:477:이편한세상강동에코포레:59.97:14:151000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:33d9d8ec763dc9a4f6c9cd7cf1994bf41065cfadd757786bd2249eda0836232a</id>
+    <title>[변경] deal:11740:20260604:길동:483:강동헤리티지자이:45.795:2:127000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;106&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;b29b9248853041904b427781b33a0e1988cf97fe8ba8df141813795abbc175c6&quot;,&quot;content_hash&quot;:&quot;3cda8265686c451b49297313b07df6b9e971e6a9b8f00de6da8678c3607a4e9c&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260527:길동:477:이편한세상강동에코포레:59.97:14:151000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;33d9d8ec763dc9a4f6c9cd7cf1994bf41065cfadd757786bd2249eda0836232a&quot;,&quot;content_hash&quot;:&quot;86e2b954e8618a55608aabeba938a81a3dd09e6c47ed7b8b70cbe6bdbc68de70&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260604:길동:483:강동헤리티지자이:45.795:2:127000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:782e293fb69c5ffb574af5816c8829652712834ed2b0dee46f653611e97acae2</id>
-    <title>[변경] deal:11740:20260523:천호동:571:래미안강동팰리스:84.97:23:173500 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:17996d82fffa07abe20c72d270f3683a8a848df4fbe5a6a8acd654777cacf7e6</id>
+    <title>[변경] deal:11740:20260604:길동:483:강동헤리티지자이:45.795:2:127000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;782e293fb69c5ffb574af5816c8829652712834ed2b0dee46f653611e97acae2&quot;,&quot;content_hash&quot;:&quot;545a8ac248193ee87673a3d7172a97ac03be64f13401370deec08a42140e0206&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260523:천호동:571:래미안강동팰리스:84.97:23:173500&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;105&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;17996d82fffa07abe20c72d270f3683a8a848df4fbe5a6a8acd654777cacf7e6&quot;,&quot;content_hash&quot;:&quot;323707a2c224c100490c99d0584dde5c122604a6b8db049a9777b4d9c0e9ead6&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260604:길동:483:강동헤리티지자이:45.795:2:127000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:71b8478ea86fc955cbe0fc3ae15fe49015e39f2cee277f57dcc65aceea0837de</id>
-    <title>[변경] deal:11740:20260523:천호동:571:래미안강동팰리스:84.97:23:173500 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:a9e249bb1af6faba6d8dc82357d9228f2b27927b4757000f7fc5ec9facf2a4f5</id>
+    <title>[변경] deal:11740:20260530:천호동:568:강변그대가리버뷰:84.93:5:148000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;102동&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;71b8478ea86fc955cbe0fc3ae15fe49015e39f2cee277f57dcc65aceea0837de&quot;,&quot;content_hash&quot;:&quot;e93387ebca7e903f8ab2e717db0bf80d6dde841cb310a38afcbf3ad58929c7f8&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260523:천호동:571:래미안강동팰리스:84.97:23:173500&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;a9e249bb1af6faba6d8dc82357d9228f2b27927b4757000f7fc5ec9facf2a4f5&quot;,&quot;content_hash&quot;:&quot;d40027d098fd571aac3d53cc7e425648b9698e5128238c7307c9fcc6048ba4ea&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260530:천호동:568:강변그대가리버뷰:84.93:5:148000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:93690d06448946540f1445340db97403ad631444d9d805e38b72dbb8b14fa4c2</id>
-    <title>[변경] deal:11740:20260520:암사동:463-18:우암쎈스뷰:76.05:4:67750 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:56de4b5feb33c0ad7e8ebc2cd45fd5486294933721549b1a2325a0a7ea51e394</id>
+    <title>[변경] deal:11740:20260530:천호동:568:강변그대가리버뷰:84.93:5:148000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;93690d06448946540f1445340db97403ad631444d9d805e38b72dbb8b14fa4c2&quot;,&quot;content_hash&quot;:&quot;a10f01c532e266f68635c6910352539c3375ed8d2b8830ce4979c8807b63f0a3&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260520:암사동:463-18:우암쎈스뷰:76.05:4:67750&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;105&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;56de4b5feb33c0ad7e8ebc2cd45fd5486294933721549b1a2325a0a7ea51e394&quot;,&quot;content_hash&quot;:&quot;b743c397fde28c42b5bba88bece8b1e0a5c9a58d27f5ad523720a8b259da8ebc&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260530:천호동:568:강변그대가리버뷰:84.93:5:148000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:0cb0e3ebe1b322ca71dfc081fee07273f86df0a904d3507363663f1c4ee061f2</id>
-    <title>[변경] deal:11740:20260512:명일동:251-1:현대(명일):57.09:12:107500 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:e19895e3ad55c5a4eaf067c1d64d6d130a73bc62e68b523de79f55cc49c8dcae</id>
+    <title>[변경] deal:11740:20260528:상일동:519:고덕아르테온:84.95:3:207000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.25&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;0cb0e3ebe1b322ca71dfc081fee07273f86df0a904d3507363663f1c4ee061f2&quot;,&quot;content_hash&quot;:&quot;d5359dec05f0c41967030ca8ee211d4c2c90fe2749c42ccc5c3fded84216f5fd&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260512:명일동:251-1:현대(명일):57.09:12:107500&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;e19895e3ad55c5a4eaf067c1d64d6d130a73bc62e68b523de79f55cc49c8dcae&quot;,&quot;content_hash&quot;:&quot;142082b46646e4ce69ba4c2aa54343818be852a2f3f7d39978ece4a540c88465&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260528:상일동:519:고덕아르테온:84.95:3:207000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:22ec615e6c62784351f41791fc085b3c684be2751daebbae8c11812b45180fc1</id>
-    <title>[변경] deal:11740:20260512:명일동:251-1:현대(명일):57.09:12:107500 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:1e5899801213227066f1f93b94d60ddd910562998901d57a528b03c7bb435a7d</id>
+    <title>[변경] deal:11740:20260528:상일동:519:고덕아르테온:84.95:3:207000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;102&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;22ec615e6c62784351f41791fc085b3c684be2751daebbae8c11812b45180fc1&quot;,&quot;content_hash&quot;:&quot;96980c72490c61e06faa95babbc68e18ac38de0202074b96be8cff50906e8a34&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260512:명일동:251-1:현대(명일):57.09:12:107500&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;325&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;1e5899801213227066f1f93b94d60ddd910562998901d57a528b03c7bb435a7d&quot;,&quot;content_hash&quot;:&quot;dfec4c47604140e18b6c24f460eba0be0a51f4f9a100f27f8c082c1cf8faa8ad&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260528:상일동:519:고덕아르테온:84.95:3:207000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:52d55c59c8d61f2f222e770e6313af0bbac3ce91a23f4f3f2183846423320288</id>
-    <title>[변경] deal:11740:20260512:길동:53:삼익파크맨션:63.35:1:130000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:f4146bc2bcfb0d1648aaadc3397744e31dee542447e9975c47e0e32dbf733806</id>
+    <title>[변경] deal:11740:20260525:명일동:251-1:현대(명일):84.66:15:135000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;52d55c59c8d61f2f222e770e6313af0bbac3ce91a23f4f3f2183846423320288&quot;,&quot;content_hash&quot;:&quot;058e77deb964114a9a7858c28510521ffce15be1306b0ea1e54ce15150fa3cef&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260512:길동:53:삼익파크맨션:63.35:1:130000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.24&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;f4146bc2bcfb0d1648aaadc3397744e31dee542447e9975c47e0e32dbf733806&quot;,&quot;content_hash&quot;:&quot;a96987506101b3981225497f5c84252b34926d96badc8bc0acdefb51255ad689&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260525:명일동:251-1:현대(명일):84.66:15:135000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:950b88bc464d39492a615f1f0d93db35a525184164ec499545c8c986d353fc07</id>
-    <title>[변경] deal:11740:20260512:길동:53:삼익파크맨션:63.35:1:130000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:96b552cbd932e7d74a819ff39e64136aec7145a41983f0889abbe9b711787231</id>
+    <title>[변경] deal:11740:20260525:명일동:251-1:현대(명일):84.66:15:135000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;512&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;950b88bc464d39492a615f1f0d93db35a525184164ec499545c8c986d353fc07&quot;,&quot;content_hash&quot;:&quot;e99d80db1d06db5a014945a24ed901b465abfd37e97fc6494d23f683aab821af&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260512:길동:53:삼익파크맨션:63.35:1:130000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;101&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;96b552cbd932e7d74a819ff39e64136aec7145a41983f0889abbe9b711787231&quot;,&quot;content_hash&quot;:&quot;9c0b3ec00cf59e81e6c37b04ca8d6d908cc66af8cdf48663fda7fa28a039274f&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260525:명일동:251-1:현대(명일):84.66:15:135000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:5f0c085047febf240604009f6539d5154d8cb0871e2850f1b4f52b579187d47a</id>
-    <title>[변경] deal:11740:20260502:암사동:509:선사현대아파트:59.64:16:145000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:ee1e05787b437171ac963138d3c6b5034fad6c768e6922a2b6dba2cb456fde1e</id>
+    <title>[변경] deal:11740:20260520:천호동:288-5:삼익아파트:114.49:9:110000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;5f0c085047febf240604009f6539d5154d8cb0871e2850f1b4f52b579187d47a&quot;,&quot;content_hash&quot;:&quot;27fbf394627da313ce33226797490cd3ed7b9422359c5c1bf0bf7a13d6bba92d&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260502:암사동:509:선사현대아파트:59.64:16:145000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;ee1e05787b437171ac963138d3c6b5034fad6c768e6922a2b6dba2cb456fde1e&quot;,&quot;content_hash&quot;:&quot;1a0e7102194dc1a532b10316913febb8b0fa9cd29b875a9fdc0398e43f8953c2&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260520:천호동:288-5:삼익아파트:114.49:9:110000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:e40a2b379b3e9bf0af232a4bb62e401a4e790d79df9b82d509e1375805345c0a</id>
-    <title>[변경] deal:11740:20260502:암사동:509:선사현대아파트:59.64:16:145000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:8f441c1024864f4ef6ca3402485e5900e7eb3f1b2c43f5eecefe1e126f3ad36b</id>
+    <title>[변경] deal:11740:20260520:천호동:288-5:삼익아파트:114.49:9:110000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;107&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;e40a2b379b3e9bf0af232a4bb62e401a4e790d79df9b82d509e1375805345c0a&quot;,&quot;content_hash&quot;:&quot;0bbb3b5836d0b151b58acc2c34ca5ed3a4c825953eef3da5299906d52c5e23a1&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260502:암사동:509:선사현대아파트:59.64:16:145000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;101&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;8f441c1024864f4ef6ca3402485e5900e7eb3f1b2c43f5eecefe1e126f3ad36b&quot;,&quot;content_hash&quot;:&quot;43c914c529e19b3ed665b4bb13df8b45bee69ecebb66b8e4cdf1fa07fb1151b2&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260520:천호동:288-5:삼익아파트:114.49:9:110000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:1e91286da9de216f9a50569d3b63f5cf9bddf62ec197a3bc7f38b3547436da48</id>
-    <title>[변경] deal:11740:20260424:길동:53:삼익파크맨션:79.57:3:141000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:26f97879f6de17ef9fd9bb44df0909985b7fc99b96cf905e5eef00453fa26d17</id>
+    <title>[변경] deal:11740:20260520:성내동:607:라움포레:59.1:2:75000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.25&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;1e91286da9de216f9a50569d3b63f5cf9bddf62ec197a3bc7f38b3547436da48&quot;,&quot;content_hash&quot;:&quot;d8b4d6d1ac32e4d10910316fd1a41bb2b25ba53cc26f8f99eb1cb71e18c8c4de&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260424:길동:53:삼익파크맨션:79.57:3:141000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;26f97879f6de17ef9fd9bb44df0909985b7fc99b96cf905e5eef00453fa26d17&quot;,&quot;content_hash&quot;:&quot;0c4c1bf6c0dd8ce2b6f6cc15f9326d855d14438c1fd7c088d8cd18486d7a7e10&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260520:성내동:607:라움포레:59.1:2:75000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:a540e5bb01b30130607dcacc9afb73316abdbef8388798bf418cb05b6ed0eba8</id>
-    <title>[변경] deal:11740:20260424:길동:53:삼익파크맨션:79.57:3:141000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:d274518e62b9e8fc5939064af097eada8f62d1bc16b12e85977915530884ecef</id>
+    <title>[변경] deal:11740:20260520:성내동:607:라움포레:59.1:2:75000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;510&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;a540e5bb01b30130607dcacc9afb73316abdbef8388798bf418cb05b6ed0eba8&quot;,&quot;content_hash&quot;:&quot;173313450f374f5bc4f3178c195d7828955a9150041c6311bc1a9717357f5885&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260424:길동:53:삼익파크맨션:79.57:3:141000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;101동&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;d274518e62b9e8fc5939064af097eada8f62d1bc16b12e85977915530884ecef&quot;,&quot;content_hash&quot;:&quot;13c14b5b6f87b845e32a81387bc96625e3125e2ae24a93bb474e3b79c7bd782a&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260520:성내동:607:라움포레:59.1:2:75000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:cd4d4d06f61896f8d562725c77f22104597bd68864bf2043a638c8cef59f981a</id>
-    <title>[변경] deal:11710:20260723:가락동:913:헬리오시티:59.96:19:193000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:6fd8ea39e55adbe2b31eb024eb7b919dcd6be15d2f9500b0ad6ab43fb0b81ada</id>
+    <title>[변경] deal:11740:20260511:성내동:607:라움포레:59.05:6:90000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;cd4d4d06f61896f8d562725c77f22104597bd68864bf2043a638c8cef59f981a&quot;,&quot;content_hash&quot;:&quot;b8a2fd8d7a23a595374b71abcd849c304ec6248c71a5f5c0b04166ab6d244765&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260723:가락동:913:헬리오시티:59.96:19:193000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;6fd8ea39e55adbe2b31eb024eb7b919dcd6be15d2f9500b0ad6ab43fb0b81ada&quot;,&quot;content_hash&quot;:&quot;28a6c549fb130e4097c9e5cccc615d08b76549c63ee557bc87eed87fced0a7fe&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260511:성내동:607:라움포레:59.05:6:90000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:fdd6e28f2fa4708096a67a567a830cfffcdba4e84642938ba4e932168374685a</id>
-    <title>[변경] deal:11710:20260723:가락동:913:헬리오시티:59.96:19:193000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:1ad9fca5b7f55487574bd42d70c1006db10555e449da45b081920740350545f9</id>
+    <title>[변경] deal:11740:20260511:성내동:607:라움포레:59.05:6:90000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;503&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;fdd6e28f2fa4708096a67a567a830cfffcdba4e84642938ba4e932168374685a&quot;,&quot;content_hash&quot;:&quot;d83341bc889a7026d8e2915efa16413eff57756d31865f80c6bccfb8a7191e9b&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260723:가락동:913:헬리오시티:59.96:19:193000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;101동&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;1ad9fca5b7f55487574bd42d70c1006db10555e449da45b081920740350545f9&quot;,&quot;content_hash&quot;:&quot;5abcb88a7f2b40951e46874d7e1e45ec5e01750b0e461df0ba474b9720631d09&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260511:성내동:607:라움포레:59.05:6:90000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:62cea79bee2daea42ee7fab57b3e892e9ee5a59cb71589a7da1e079afb1e02b8</id>
-    <title>[변경] deal:11710:20260703:거여동:293:거여4단지:39.6:5:99500 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:50a2ed545e3ccec8cc70e698ff68faa232109e4462f40af22822bcbd4b113426</id>
+    <title>[변경] deal:11740:20260506:상일동:514:고덕롯데캐슬베네루체:84.923:16:180000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;62cea79bee2daea42ee7fab57b3e892e9ee5a59cb71589a7da1e079afb1e02b8&quot;,&quot;content_hash&quot;:&quot;d8456f1dcc5f74ab873b6af3a940972ff5e6525613a4e3c063233238d825a266&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260703:거여동:293:거여4단지:39.6:5:99500&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;50a2ed545e3ccec8cc70e698ff68faa232109e4462f40af22822bcbd4b113426&quot;,&quot;content_hash&quot;:&quot;3e30afbbaab5c15ac027a374b8614866966633d52816d2bbad03875c14149aee&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260506:상일동:514:고덕롯데캐슬베네루체:84.923:16:180000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:ab188134afe6291ed81e330998ec588088859010c83aee5f83369130661d522d</id>
-    <title>[변경] deal:11710:20260703:거여동:293:거여4단지:39.6:5:99500 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:d0d35f3dc71179c8221fa5cdacbcb6002db55df9c74ed6bdb42b08ee0fb9ae9e</id>
+    <title>[변경] deal:11740:20260506:상일동:514:고덕롯데캐슬베네루체:84.923:16:180000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;403&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;ab188134afe6291ed81e330998ec588088859010c83aee5f83369130661d522d&quot;,&quot;content_hash&quot;:&quot;0577bea81ab86d18185b5befdc5104e8a5566012635b357d31302326a119750b&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260703:거여동:293:거여4단지:39.6:5:99500&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;707&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;d0d35f3dc71179c8221fa5cdacbcb6002db55df9c74ed6bdb42b08ee0fb9ae9e&quot;,&quot;content_hash&quot;:&quot;526f911b6453b0dd71722a841943c77c2d48fb5010321b8d328578bb088c7c7b&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260506:상일동:514:고덕롯데캐슬베네루체:84.923:16:180000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:5892f29975948a98f1e5746b75a9af8e16be0fa75d729d0dc692c61b5ad2a611</id>
-    <title>[변경] deal:11710:20260703:가락동:101-4:아키죤II:75.29:4:87000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:d723e964191bd157335f5b17382c6e62699a29c16f46a8077c45d316ef160c11</id>
+    <title>[변경] deal:11740:20260504:명일동:312-256:삼보힐아파트:81.52:2:64000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;5892f29975948a98f1e5746b75a9af8e16be0fa75d729d0dc692c61b5ad2a611&quot;,&quot;content_hash&quot;:&quot;714aa23deba15ecbc7f614f20320bdd5f83abd652dbc233af7137df29610000d&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260703:가락동:101-4:아키죤II:75.29:4:87000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;d723e964191bd157335f5b17382c6e62699a29c16f46a8077c45d316ef160c11&quot;,&quot;content_hash&quot;:&quot;972689f12bbbaef9063ef39c708b91a16b3fc84d82d851fc3ac0c727a77023b5&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260504:명일동:312-256:삼보힐아파트:81.52:2:64000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:a593b297e535cd6a768ed884486a2727099e87c9b675f2e9a70b2147231058c4</id>
-    <title>[변경] deal:11710:20260701:가락동:166-6:테라펠리체송파:29.1078:5:59500 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:61b5af91e119ee67c78c90a1af6853b9054fc6fb6c828f4ba2e84e57240ab290</id>
+    <title>[변경] deal:11740:20260404:상일동:514:고덕롯데캐슬베네루체:84.146:8:175000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;a593b297e535cd6a768ed884486a2727099e87c9b675f2e9a70b2147231058c4&quot;,&quot;content_hash&quot;:&quot;f123cba9f5d6403c21ac85e95842d5cd57f76dcd18414152bffbfcd80cdf323d&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260701:가락동:166-6:테라펠리체송파:29.1078:5:59500&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;61b5af91e119ee67c78c90a1af6853b9054fc6fb6c828f4ba2e84e57240ab290&quot;,&quot;content_hash&quot;:&quot;7aea2135c342978a8fe27e8842a9965b8585d58c1e9dcebeffbcf6615905d7c9&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260404:상일동:514:고덕롯데캐슬베네루체:84.146:8:175000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:2fc4613209b18473c877a514e75807274dfd903002df857a94419d6759c10064</id>
-    <title>[변경] deal:11710:20260617:풍납동:260:현대리버빌1지구:43.2:12:105000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:e1c143a1d54b9811a90df92fc70b9351a07cfcadb99d5d62c1013c5640e4b07e</id>
+    <title>[변경] deal:11740:20260404:상일동:514:고덕롯데캐슬베네루체:84.146:8:175000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;2fc4613209b18473c877a514e75807274dfd903002df857a94419d6759c10064&quot;,&quot;content_hash&quot;:&quot;f259012a58320ac9a0f4fb8b189875275f44dec008b1e0be53383fae89783643&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260617:풍납동:260:현대리버빌1지구:43.2:12:105000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;719&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;e1c143a1d54b9811a90df92fc70b9351a07cfcadb99d5d62c1013c5640e4b07e&quot;,&quot;content_hash&quot;:&quot;1ec9017df427d3091ead09483de129424e639d30a8a98827b010567daf6dd3a8&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260404:상일동:514:고덕롯데캐슬베네루체:84.146:8:175000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:998a5f5f832a6205cd9fba07d36408d56dfb52abcd9a1090821e90620711cc2e</id>
-    <title>[변경] deal:11710:20260617:풍납동:260:현대리버빌1지구:43.2:12:105000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:f0690c8c46f9a6cfe72df570cfe4b33f7a1c009a1e4fa68f422dd3553977c823</id>
+    <title>[변경] deal:11710:20260627:문정동:145:문정시영:35.46:13:89000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;307&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;998a5f5f832a6205cd9fba07d36408d56dfb52abcd9a1090821e90620711cc2e&quot;,&quot;content_hash&quot;:&quot;60a57ca614e03f69c6c2830482474eb853d43238d1275ea407016f631a0366b3&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260617:풍납동:260:현대리버빌1지구:43.2:12:105000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;f0690c8c46f9a6cfe72df570cfe4b33f7a1c009a1e4fa68f422dd3553977c823&quot;,&quot;content_hash&quot;:&quot;74aea49bb409c6761527bcf6ff6cca6be7e96bb9c7e9252f56f3c14fa7c92c9d&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260627:문정동:145:문정시영:35.46:13:89000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:a4bb89d567c428953ebcd6bf6d97e1d37684e1e6afc421b073b644ced7934003</id>
-    <title>[변경] deal:11710:20260523:장지동:901:위례24단지(꿈에그린):59.63:2:184000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:48cd28b0bdffe7c8b3bb6d9bba10b343f26549a891248cdc38c13bd4e344a7c0</id>
+    <title>[변경] deal:11710:20260627:문정동:145:문정시영:35.46:13:89000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;a4bb89d567c428953ebcd6bf6d97e1d37684e1e6afc421b073b644ced7934003&quot;,&quot;content_hash&quot;:&quot;3e3d9da1b7bfcb8af0c2faf2cad1dcedf230a112c47061a09adc89ae339dbc08&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260523:장지동:901:위례24단지(꿈에그린):59.63:2:184000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;10&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;48cd28b0bdffe7c8b3bb6d9bba10b343f26549a891248cdc38c13bd4e344a7c0&quot;,&quot;content_hash&quot;:&quot;b3f05f099e4ddeae56d635bd3deb312d64a5fd0905da416179ca2295e2e18097&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260627:문정동:145:문정시영:35.46:13:89000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:0b37c48b8ee32d3ca2346383f91948dceef514dcc44adb1cdebfe4426667bf20</id>
-    <title>[변경] deal:11710:20260523:장지동:901:위례24단지(꿈에그린):59.63:2:184000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:aac10e8238a7f8ec1dd90d967b79613380b08eb0bb3497eb3a79cfc3e2f717ef</id>
+    <title>[변경] deal:11710:20260624:마천동:582:송파파크데일1단지:84.86:14:135300 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;2416&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;0b37c48b8ee32d3ca2346383f91948dceef514dcc44adb1cdebfe4426667bf20&quot;,&quot;content_hash&quot;:&quot;307a609afbadd87ca5d7948abef7b44d7ca8c47604a7e531846bd848a2cb33f5&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260523:장지동:901:위례24단지(꿈에그린):59.63:2:184000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;aac10e8238a7f8ec1dd90d967b79613380b08eb0bb3497eb3a79cfc3e2f717ef&quot;,&quot;content_hash&quot;:&quot;c5521666a243a65a81f90ed7ca7cd637ec072a287bb5c33623124ca31dad1b5a&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260624:마천동:582:송파파크데일1단지:84.86:14:135300&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:95d7b5fd2ca444c34ab8a801e23955748de69e90444c7e7c2a9323ec912ee349</id>
-    <title>[변경] deal:11710:20260523:장지동:883:힐스테이트송파위례:101.8:22:220000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:6c71fb20a90763ace4cf2680d9486508498a1420e69d3ccf65a510eb362889b6</id>
+    <title>[변경] deal:11710:20260624:마천동:582:송파파크데일1단지:84.86:14:135300 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;95d7b5fd2ca444c34ab8a801e23955748de69e90444c7e7c2a9323ec912ee349&quot;,&quot;content_hash&quot;:&quot;3477a8c4728231b34b3b24e785e970ab83c943e279c1a6c59d1cf6b92f1f1fc5&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260523:장지동:883:힐스테이트송파위례:101.8:22:220000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;110&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;6c71fb20a90763ace4cf2680d9486508498a1420e69d3ccf65a510eb362889b6&quot;,&quot;content_hash&quot;:&quot;c86f07e1fa05750d8a5b58ac6c7d78f7d3ac0d4efb7a582f137dc4915c8fda13&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260624:마천동:582:송파파크데일1단지:84.86:14:135300&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:97f577e921bd6dfa0e5bf0cdc814d80ee32b80e17f9ea0888b52ce2b39d2538a</id>
-    <title>[변경] deal:11710:20260523:장지동:883:힐스테이트송파위례:101.8:22:220000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:4dd0868387593aa099c6b9bcfa889bdc6034821978cc3cc247864b71c5b76e3c</id>
+    <title>[변경] deal:11710:20260620:풍납동:514:잠실올림픽공원아이파크:75.99:6:224000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;104동&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;97f577e921bd6dfa0e5bf0cdc814d80ee32b80e17f9ea0888b52ce2b39d2538a&quot;,&quot;content_hash&quot;:&quot;7e88663c9a6ccbec64c3f1eb409036ce0e42e8882dc56de4159f19861c1d4a4e&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260523:장지동:883:힐스테이트송파위례:101.8:22:220000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;4dd0868387593aa099c6b9bcfa889bdc6034821978cc3cc247864b71c5b76e3c&quot;,&quot;content_hash&quot;:&quot;d54e2c40104c3770eed049d709f1ba10564a3f787eea1a3133025d938e0f2993&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260620:풍납동:514:잠실올림픽공원아이파크:75.99:6:224000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:0f6da6b3bc6fa64afcba48b1f8e797178438c5c37af1a7d47d6eee0c1347c97f</id>
-    <title>[변경] deal:11710:20260523:오금동:619:송파호반베르디움더퍼스트:101.4632:19:162500 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:17c281243c6081ea6a67dc5b102f777d88a254238767b2fb11976aa8d17b0c61</id>
+    <title>[변경] deal:11710:20260620:풍납동:514:잠실올림픽공원아이파크:75.99:6:224000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.25&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;0f6da6b3bc6fa64afcba48b1f8e797178438c5c37af1a7d47d6eee0c1347c97f&quot;,&quot;content_hash&quot;:&quot;f55a56c1b94794646bc9453d1a376dc69f0a685a4b022ccc4069a04e6c0fc94c&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260523:오금동:619:송파호반베르디움더퍼스트:101.4632:19:162500&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;103&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;17c281243c6081ea6a67dc5b102f777d88a254238767b2fb11976aa8d17b0c61&quot;,&quot;content_hash&quot;:&quot;344b48341761eef9c472eca9f2899bc32024d9fad19f6123a630e166aea75879&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260620:풍납동:514:잠실올림픽공원아이파크:75.99:6:224000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:592e6300355207d8af1a44cce1c677efa2638a73ae33f9b18e330e4fe63c29b9</id>
-    <title>[변경] deal:11710:20260523:오금동:619:송파호반베르디움더퍼스트:101.4632:19:162500 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:e6b010ca738a63c31a4d31e51fbd1073322faf1f3cbb1e8226720640aa312e51</id>
+    <title>[변경] deal:11710:20260618:오금동:67:송파더플래티넘:66.94:6:146000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;103동&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;592e6300355207d8af1a44cce1c677efa2638a73ae33f9b18e330e4fe63c29b9&quot;,&quot;content_hash&quot;:&quot;53ceb2bdf0101041cfa5ce4233815caecca981b664a150b4cf8b1213f660be8f&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260523:오금동:619:송파호반베르디움더퍼스트:101.4632:19:162500&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;e6b010ca738a63c31a4d31e51fbd1073322faf1f3cbb1e8226720640aa312e51&quot;,&quot;content_hash&quot;:&quot;bf6cafb3c38bc6de2a591ee06f72fdd82665ed6e212ca3ba43a2ffba60327dc5&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260618:오금동:67:송파더플래티넘:66.94:6:146000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:9371ca67f068fa78d32a16644fd1afd973c212ad825813cac17afc96d07f9a37</id>
-    <title>[변경] deal:11710:20260507:잠실동:35:트리지움:59.88:4:269000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:dc2fe8bf69bcacfba8a63d600a6ff5f418da084b8b59705de384dc7ea634707a</id>
+    <title>[변경] deal:11710:20260618:오금동:67:송파더플래티넘:66.94:6:146000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;9371ca67f068fa78d32a16644fd1afd973c212ad825813cac17afc96d07f9a37&quot;,&quot;content_hash&quot;:&quot;977d33c0eead02f8ae501f242102363dc8fe5affe840113dbba2fbd065623e19&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260507:잠실동:35:트리지움:59.88:4:269000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;102&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;dc2fe8bf69bcacfba8a63d600a6ff5f418da084b8b59705de384dc7ea634707a&quot;,&quot;content_hash&quot;:&quot;ad659a15fd6b24c9365196f5d21aa6ac46755b6260390f8a43c42535d69ab4bf&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260618:오금동:67:송파더플래티넘:66.94:6:146000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:5ffc6ff6afe3ef2cb96a8947cf4b41f800e9c86cd7e0c292cce7200c422e9545</id>
-    <title>[변경] deal:11710:20260507:잠실동:35:트리지움:59.88:4:269000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:5844d38dd492855d468b5537635f445551a21590db76e83ee4e891311fbe3523</id>
+    <title>[변경] deal:11710:20260618:가락동:142:풍림1:80.52:6:129500 · cdealType</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;301&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;5ffc6ff6afe3ef2cb96a8947cf4b41f800e9c86cd7e0c292cce7200c422e9545&quot;,&quot;content_hash&quot;:&quot;22ae521c42ca6c7b52d409f8831e9495ee43da8bd2ef28c7495b8039ce74e3b4&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260507:잠실동:35:트리지움:59.88:4:269000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;O&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;5844d38dd492855d468b5537635f445551a21590db76e83ee4e891311fbe3523&quot;,&quot;content_hash&quot;:&quot;70912ec1bc3fd60ef753a4a5f26bd653674f18ae4a7ed4701eb21202775cf016&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260618:가락동:142:풍림1:80.52:6:129500&quot;,&quot;field&quot;:&quot;cdealType&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:74f02a98b5a603f6708562aab7dd08e79001b6a194dfe75e191f721843bb0e3b</id>
-    <title>[변경] deal:11710:20260501:오금동:164:우창:109.72:8:179000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:eb25fd6f27004453c47ee55885983d23d3bb764a8e769cedeabfd361bdf3a81f</id>
+    <title>[변경] deal:11710:20260618:가락동:142:풍림1:80.52:6:129500 · cdealDay</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;74f02a98b5a603f6708562aab7dd08e79001b6a194dfe75e191f721843bb0e3b&quot;,&quot;content_hash&quot;:&quot;2541c98db0a5d579669030e6d2ac881dcfc3db8c6bc698b086f8330e2c425222&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260501:오금동:164:우창:109.72:8:179000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.07.14&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;eb25fd6f27004453c47ee55885983d23d3bb764a8e769cedeabfd361bdf3a81f&quot;,&quot;content_hash&quot;:&quot;887d261ccc20961ec3733aeee8e47353d2ab32a24eaf023f6e70310bb7636d2c&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260618:가락동:142:풍림1:80.52:6:129500&quot;,&quot;field&quot;:&quot;cdealDay&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:961cfd1c25a54a5dc92f856911c261982ae52fb9342c5ace6e476e8069bcf9c9</id>
-    <title>[변경] deal:11710:20260501:오금동:164:우창:109.72:8:179000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:c2aad9c9ea00229edfe588d12507940d7e34ca73587f12f180ebe3cbf80990e1</id>
+    <title>[변경] deal:11710:20260613:송파동:171:잠실더샵루벤:106.8873:15:246000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;3&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;961cfd1c25a54a5dc92f856911c261982ae52fb9342c5ace6e476e8069bcf9c9&quot;,&quot;content_hash&quot;:&quot;78a2bf54f9ece3cdcbe624ab1c9597979dc224a02a89f64470e6390660f50d86&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260501:오금동:164:우창:109.72:8:179000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;c2aad9c9ea00229edfe588d12507940d7e34ca73587f12f180ebe3cbf80990e1&quot;,&quot;content_hash&quot;:&quot;04878ecc9c2c87abb2ab970606a806a509944fa8a2e81f7b4606c2e334001a94&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260613:송파동:171:잠실더샵루벤:106.8873:15:246000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:8c7043565780fb19ae6db52f6492bba0937aae1a5c26dbe7497128fe46da06dc</id>
-    <title>[변경] deal:11710:20260501:가락동:913:헬리오시티:59.96:12:250000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:66b21a921e39a36048c97ef8bc2c63e0bff66899db9ba56244ea2a383ec7c3af</id>
+    <title>[변경] deal:11710:20260613:송파동:171:잠실더샵루벤:106.8873:15:246000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;8c7043565780fb19ae6db52f6492bba0937aae1a5c26dbe7497128fe46da06dc&quot;,&quot;content_hash&quot;:&quot;250c89a5b36a2f0ed8adb21e0541c5f9c487690b088490b8f4771fe9f0e015ba&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260501:가락동:913:헬리오시티:59.96:12:250000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;101&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;66b21a921e39a36048c97ef8bc2c63e0bff66899db9ba56244ea2a383ec7c3af&quot;,&quot;content_hash&quot;:&quot;9f6033c41ed8b4103b7a13fabada01f0b6463b45094625f86e43e7f76a82d22e&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260613:송파동:171:잠실더샵루벤:106.8873:15:246000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:3356c24647ac79216093c6674e99fd11654d3dea91aa6f2695e18c5dd90af571</id>
-    <title>[변경] deal:11710:20260501:가락동:913:헬리오시티:59.96:12:250000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:71a82474933091fb6b83ca3e925359bcbaf89ecd5675c54cd11090a73fbc44ed</id>
+    <title>[변경] deal:11710:20260613:거여동:290:거여1단지:39.6:7:92000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;214&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;3356c24647ac79216093c6674e99fd11654d3dea91aa6f2695e18c5dd90af571&quot;,&quot;content_hash&quot;:&quot;b3997b7e211c946561fd4a99cc76538065fe25bb6379cff3134545877c68a76b&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260501:가락동:913:헬리오시티:59.96:12:250000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;71a82474933091fb6b83ca3e925359bcbaf89ecd5675c54cd11090a73fbc44ed&quot;,&quot;content_hash&quot;:&quot;fa6001dfcdb17df3238eb1897934a4d867e5a00114a48172a0ce7d42597bdf93&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260613:거여동:290:거여1단지:39.6:7:92000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:c82dfb0afcbcce28b33e02faa533e45f73604a35aacef12b8838b27723f32324</id>
-    <title>[변경] deal:11710:20260430:장지동:878:위례신도시송파푸르지오:106.0884:4:217000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:b0ba759ee610e1e1bfa6552f876589bcb589f6cfb994831ea7f23bb5d3076840</id>
+    <title>[변경] deal:11710:20260613:거여동:290:거여1단지:39.6:7:92000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;c82dfb0afcbcce28b33e02faa533e45f73604a35aacef12b8838b27723f32324&quot;,&quot;content_hash&quot;:&quot;40f9bb13a6a45f195fd1b065ccfae1cbf7baae00925663da6708743a99bc2649&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260430:장지동:878:위례신도시송파푸르지오:106.0884:4:217000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;104&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;b0ba759ee610e1e1bfa6552f876589bcb589f6cfb994831ea7f23bb5d3076840&quot;,&quot;content_hash&quot;:&quot;594391bce6aba0d5e52eb1019eeb4cb56deda3b6a62d5b6096ea3800c123ce5e&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260613:거여동:290:거여1단지:39.6:7:92000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:17372117cfbcac5db270e386acac7fa0f6aeed9bec2882c8a04173c42b0fa722</id>
-    <title>[변경] deal:11710:20260430:장지동:878:위례신도시송파푸르지오:106.0884:4:217000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:35602707e486d3faa2f8dda8d60eff659f5f71c77a5b1a50c084d85895cb9790</id>
+    <title>[변경] deal:11710:20260530:잠실동:44:레이크팰리스:84.82:4:295000 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;105&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;17372117cfbcac5db270e386acac7fa0f6aeed9bec2882c8a04173c42b0fa722&quot;,&quot;content_hash&quot;:&quot;ad8ccac84c753b7a17db960eef286f5e65115eeeea259e961c5537de1ba9f697&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260430:장지동:878:위례신도시송파푸르지오:106.0884:4:217000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;35602707e486d3faa2f8dda8d60eff659f5f71c77a5b1a50c084d85895cb9790&quot;,&quot;content_hash&quot;:&quot;b53370f705c99e936511673d227967ce6ff96a08c3dbf9ab7f5b3d0ab8eda908&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260530:잠실동:44:레이크팰리스:84.82:4:295000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:0bb13eaf5c23a943aae26d321a83b8c2bd52252417777667e348e99eaf54e457</id>
-    <title>[변경] deal:11710:20260430:잠실동:19:잠실엘스:84.8:3:335000 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:86a677019e00fc193d5a0465648ab0805450e6c06d933240310c19c050543bde</id>
+    <title>[변경] deal:11710:20260530:잠실동:44:레이크팰리스:84.82:4:295000 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.26&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;0bb13eaf5c23a943aae26d321a83b8c2bd52252417777667e348e99eaf54e457&quot;,&quot;content_hash&quot;:&quot;446637fea1763d2c188e292308f837b2f6662997d051a390c20fe2dfa2f06b1d&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260430:잠실동:19:잠실엘스:84.8:3:335000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;113&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;86a677019e00fc193d5a0465648ab0805450e6c06d933240310c19c050543bde&quot;,&quot;content_hash&quot;:&quot;051c12aa8735cd1b060d530950262b18ce2d9cb0791183efa5a7f61287bba8cb&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260530:잠실동:44:레이크팰리스:84.82:4:295000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:632204a17215628631538af6d72190761fb309a5196c1de20c932c9d59a97d01</id>
-    <title>[변경] deal:11710:20260430:잠실동:19:잠실엘스:84.8:3:335000 · aptDong</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:b7e81f4743b4b8133fbf5f9a572605477648db343ebdcbb15ab45bcab7048162</id>
+    <title>[변경] deal:11710:20260530:잠실동:22:리센츠:84.99:20:357500 · rgstDate</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;145&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;632204a17215628631538af6d72190761fb309a5196c1de20c932c9d59a97d01&quot;,&quot;content_hash&quot;:&quot;2c5045a47169c88524a62c2814566650c6558757253c0c366db7f49a0c009f56&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260430:잠실동:19:잠실엘스:84.8:3:335000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;b7e81f4743b4b8133fbf5f9a572605477648db343ebdcbb15ab45bcab7048162&quot;,&quot;content_hash&quot;:&quot;2c6e2c3656fd27a87250a0856cfce4c78661ad5ec0d98cb6109b553e1774aa98&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260530:잠실동:22:리센츠:84.99:20:357500&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:deal-audit-ledger:1a6aa8bbb293ee12e2c8a943305eaae6b7d25e2fec00eed2d3d42c7caed63583</id>
-    <title>[변경] deal:11710:20260429:가락동:913:헬리오시티:84.98:33:281500 · rgstDate</title>
-    <updated>2026-08-30T00:26:14.708Z</updated>
+    <id>urn:chronicle:deal-audit-ledger:ae25a42cb3b808b295aaa13e9bf1484dcb85bf45aa94433858a41951e7778669</id>
+    <title>[변경] deal:11710:20260530:잠실동:22:리센츠:84.99:20:357500 · aptDong</title>
+    <updated>2026-08-31T00:42:16.444Z</updated>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.08.27&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;1a6aa8bbb293ee12e2c8a943305eaae6b7d25e2fec00eed2d3d42c7caed63583&quot;,&quot;content_hash&quot;:&quot;4f5b160e87b48299052ec2171ce2d27231c515295c73786555305f0afc5b0d7e&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260429:가락동:913:헬리오시티:84.98:33:281500&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-08-30T00:26:14.708Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;224&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;ae25a42cb3b808b295aaa13e9bf1484dcb85bf45aa94433858a41951e7778669&quot;,&quot;content_hash&quot;:&quot;470a9bf143877540e4724ea678cb4b94f74d3aa273463d5da6e2ab2d425e820c&quot;,&quot;entity_id&quot;:&quot;deal:11710:20260530:잠실동:22:리센츠:84.99:20:357500&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-08-31T00:42:16.444Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
 </feed>
