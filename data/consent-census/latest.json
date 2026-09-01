@@ -31,29 +31,13 @@
     },
     "probe:arstechnica.com:llms-txt": {
       "fields": {
-        "status": 404
+        "status": 403
       },
       "source_url": "https://arstechnica.com/llms.txt"
     },
     "probe:arstechnica.com:robots-txt": {
       "fields": {
-        "body": "Sitemap: https://arstechnica.com/sitemap.xml\n\n# Google Image\nUser-agent: Googlebot-Image\nDisallow:\nAllow: /*\n\n# Google AdSense\nUser-agent: Mediapartners-Google*\nDisallow:\n\nUser-agent: Google-Extended\nUser-agent: Google-CloudVertexBot\nUser-agent: GoogleOther\nUser-agent: Applebot-Extended\nUser-agent: meta-webindexer\nUser-agent: meta-externalagent\nUser-agent: meta-externalfetcher\nUser-agent: ClaudeBot\nUser-agent: Claude-SearchBot\nUser-agent: Claude-User\nUser-agent: PerplexityBot\nUser-agent: Perplexity-User\nUser-agent: cohere-training-data-crawler\nUser-agent: cohere-ai\nUser-agent: CCBot\nUser-agent: PanguBot\nUser-agent: PetalBot\nUser-agent: Bytespider\nUser-agent: Diffbot\nUser-agent: DuckAssistBot\nUser-agent: MistralAI-User\nUser-agent: Timpibot\nUser-agent: Webzio\nUser-agent: Webzio-Extended\nUser-agent: archive.org_bot\nUser-agent: ia_archiver\nUser-agent: ia_archiver-web.archive.org\nUser-agent: heritrix\nUser-agent: anthropic-ai\nUser-agent: Claude-Web\nUser-agent: FacebookBot\nUser-agent: Omgilibot\nUser-agent: YouBot\nDisallow: /\n\nUser-agent: Amazonbot\nDisallow: /\nAllow: /feed/amazon-rss\n\n# Global\nUser-agent: *\nDisallow: /cgi-bin/\nDisallow: /wp/wp-admin/\nDisallow: /wp/wp-includes/\nDisallow: /wp/wp-content/\nDisallow: /wp-content/plugins/\nDisallow: /wp-content/mu_plugins/\nDisallow: /wp-content/cache/\nDisallow: /wp-content/themes/\nDisallow: /trackback/\nDisallow: /comments/\nDisallow: /category/*/*\nDisallow: */trackback/\nDisallow: */comments/\nDisallow: /search\nDisallow: */*comments=\nDisallow: */*comments-page=\nDisallow: /services/*\nDisallow: /com.condenast/yv8*\n\n# Xenforo\nDisallow: /civis/account/\nDisallow: /civis/members/\nDisallow: /civis/attachments/\nDisallow: /civis/goto/\nDisallow: /civis/help/\nDisallow: /civis/posts/\nDisallow: /civis/login/\nDisallow: /civis/search/\nDisallow: /civis/admin.php\nDisallow: /civis/threads/*in_iframe=1*\nDisallow: /civis/threads/*wp_data=*\nDisallow: */toggle-*.json?\n",
-        "body_bytes": 1912,
-        "body_sha256": "0abd612f8a892958ba16c55737464c09dc2d9490edcf9789496518e2f4651621",
-        "bot:Amazonbot": "blocked",
-        "bot:Applebot-Extended": "blocked",
-        "bot:Bytespider": "blocked",
-        "bot:CCBot": "blocked",
-        "bot:ChatGPT-User": "absent",
-        "bot:ClaudeBot": "blocked",
-        "bot:GPTBot": "absent",
-        "bot:Google-Extended": "blocked",
-        "bot:OAI-SearchBot": "absent",
-        "bot:PerplexityBot": "blocked",
-        "bot:anthropic-ai": "blocked",
-        "bot:meta-externalagent": "blocked",
-        "content_type": "text/plain",
-        "status": 200
+        "status": 403
       },
       "source_url": "https://arstechnica.com/robots.txt"
     },
@@ -149,9 +133,9 @@
     },
     "probe:chosun.com:robots-txt": {
       "fields": {
-        "body": "User-agent: *\nDisallow: /main/bosi*\nDisallow: /test*\nDisallow: /search\nDisallow: /nsearch\nDisallow: /earlybird\nDisallow: /economy/realty/\nDisallow: /jp\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: DeepSeekBot\nDisallow: /\n\nSitemap: https://www.chosun.com/arc/outboundfeeds/news-sitemap/?outputType=xml\nSitemap: https://www.chosun.com/arc/outboundfeeds/sitemap/section/index/?outputType=xml",
-        "body_bytes": 388,
-        "body_sha256": "480b06e725b3720905aaca0359126d99c1f9dc8374217677157f85cf39c374a4",
+        "body": "User-agent: *\nDisallow: /main/bosi*\nDisallow: /test*\nDisallow: /search\nDisallow: /nsearch\nDisallow: /earlybird\nDisallow: /economy/realty/\nDisallow: /jp\n\nUser-agent: GPTBot\nDisallow: /\n\nUser-agent: DeepSeekBot\nDisallow: /\n\nUser-agent: ChosunResearchArchiveCollector\nDisallow: /\n\nSitemap: https://www.chosun.com/arc/outboundfeeds/news-sitemap/?outputType=xml\nSitemap: https://www.chosun.com/arc/outboundfeeds/sitemap/section/index/?outputType=xml",
+        "body_bytes": 444,
+        "body_sha256": "beb398ddd76621dfd0673f5abda8a4558a17733a1fa1ccb9da11e2915ce6504a",
         "bot:Amazonbot": "absent",
         "bot:Applebot-Extended": "absent",
         "bot:Bytespider": "absent",
@@ -199,8 +183,8 @@
     },
     "probe:daum.net:llms-txt": {
       "fields": {
-        "body_bytes": 641647,
-        "body_sha256": "6dbb02ab68b93346ab29db1634c93be324b7f9158d3d28f688065997baecf568",
+        "body_bytes": 647154,
+        "body_sha256": "22a2330cd474f1d699c6fa389499bce7f91a587b43b8ec42c679463baa54b102",
         "content_type": "text/html",
         "status": 200
       },
@@ -932,5 +916,5 @@
     }
   },
   "source_id": "consent-census",
-  "updated_at": "2026-08-30T22:56:29.713Z"
+  "updated_at": "2026-09-01T00:00:27.664Z"
 }
