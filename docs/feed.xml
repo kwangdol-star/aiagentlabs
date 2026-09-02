@@ -3,9 +3,25 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-09-02T00:20:43.115Z</updated>
+  <updated>2026-09-02T22:49:42.427Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:19c1173b9be7f9dc802b2883f442ca4ba184d2b435de275fbc8ff6025a84eef8</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-09-02T22:49:42.427Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:637450,&quot;before&quot;:637345,&quot;chain_hash&quot;:&quot;19c1173b9be7f9dc802b2883f442ca4ba184d2b435de275fbc8ff6025a84eef8&quot;,&quot;content_hash&quot;:&quot;635304273c89ffd701914600658e47f96d14aee597fd0356a6597c8f32614f65&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-09-02T22:49:42.427Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:74045809777c045457e48590e9f109032fceca2888567721cf8d819d5808f35a</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-09-02T22:49:42.427Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;8816193d37f30af010adace1dc62dd3cc6b993991611d2f91d39f56c07d1c8b3&quot;,&quot;before&quot;:&quot;5c47967ba54ccd57c8c17c4320e908403f9fc89cc7b89f30798e33fc13d14c44&quot;,&quot;chain_hash&quot;:&quot;74045809777c045457e48590e9f109032fceca2888567721cf8d819d5808f35a&quot;,&quot;content_hash&quot;:&quot;c3c923bab518d1402a89a25757ca7269ff89454922ff94d8bb15d3ed2f0a3964&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-09-02T22:49:42.427Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:deal-audit-ledger:13d70e773aec4fd8e910719a6663223fb7e9b202954986ebd833eae9faf8a681</id>
     <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11710:20260831:오금동:166:상아1차아파트:60.7:7:170000</title>
@@ -325,22 +341,6 @@
     <category term="ai-jobs-ledger"/>
     <link href="https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;together-ai&quot;,&quot;location&quot;:&quot;San Francisco&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Infrastructure Design Engineer&quot;},&quot;chain_hash&quot;:&quot;3d08a473fcab932bf4d33c26e92571f07deaf423e3ce177ec7852d3c15068887&quot;,&quot;content_hash&quot;:&quot;b79e95b57bf30d9ff068bbe6b73ff32580ddef13e9b64291fae21ad89e9a8901&quot;,&quot;entity_id&quot;:&quot;job:together-ai:5135876007&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-01T23:35:22.196Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/togetherai/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:90707de7dca153029e095a6cb1d0834c4912c0ff1413e075bc8423559cb8d651</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:arstechnica.com:robots-txt · bot:Bytespider</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <category term="consent-census"/>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;90707de7dca153029e095a6cb1d0834c4912c0ff1413e075bc8423559cb8d651&quot;,&quot;content_hash&quot;:&quot;25e99fbef17b2a6ee28f4314b6189c1301560e94ec3a7e538186df0c7338ca7c&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:3111d49221d59750dd7ad66f7d2fd381365adf9237f29f2877d1399c3c27d025</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:arstechnica.com:robots-txt · bot:CCBot</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <category term="consent-census"/>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;3111d49221d59750dd7ad66f7d2fd381365adf9237f29f2877d1399c3c27d025&quot;,&quot;content_hash&quot;:&quot;f77284bbc241d4a1025fff876ec26dcc9108f893e98cc5e8c0b90e5986f37f28&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:CCBot&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:consent-census:41144fdb6f53b15b347f20a4abbdadd0508f390f953f2c53ab0aa5009287f04d</id>

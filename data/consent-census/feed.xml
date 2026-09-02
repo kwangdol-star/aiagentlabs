@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-09-01T22:46:19.291Z</updated>
+  <updated>2026-09-02T22:49:42.427Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:74045809777c045457e48590e9f109032fceca2888567721cf8d819d5808f35a</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-09-02T22:49:42.427Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;8816193d37f30af010adace1dc62dd3cc6b993991611d2f91d39f56c07d1c8b3&quot;,&quot;before&quot;:&quot;5c47967ba54ccd57c8c17c4320e908403f9fc89cc7b89f30798e33fc13d14c44&quot;,&quot;chain_hash&quot;:&quot;74045809777c045457e48590e9f109032fceca2888567721cf8d819d5808f35a&quot;,&quot;content_hash&quot;:&quot;c3c923bab518d1402a89a25757ca7269ff89454922ff94d8bb15d3ed2f0a3964&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-09-02T22:49:42.427Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:19c1173b9be7f9dc802b2883f442ca4ba184d2b435de275fbc8ff6025a84eef8</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-09-02T22:49:42.427Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:637450,&quot;before&quot;:637345,&quot;chain_hash&quot;:&quot;19c1173b9be7f9dc802b2883f442ca4ba184d2b435de275fbc8ff6025a84eef8&quot;,&quot;content_hash&quot;:&quot;635304273c89ffd701914600658e47f96d14aee597fd0356a6597c8f32614f65&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-09-02T22:49:42.427Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:a4051185bde3ad19439557a4270b9ae9326a4d77943616b09b406af1fb9f29db</id>
     <title>[변경] probe:forbes.com:robots-txt · body_sha256</title>
@@ -339,19 +353,5 @@
     <updated>2026-09-01T00:00:27.664Z</updated>
     <link href="https://arstechnica.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;Sitemap: https://arstechnica.com/sitemap.xml\n\n# Google Image\nUser-agent: Googlebot-Image\nDisallow:\nAllow: /*\n\n# Google AdSense\nUser-agent: Mediapartners-Google*\nDisallow:\n\nUser-agent: Google-Extended\nUser-agent: Google-CloudVertexBot\nUser-agent: GoogleOther\nUser-agent: Applebot-Extended\nUser-agent: meta-webindexer\nUser-agent: meta-externalagent\nUser-agent: meta-externalfetcher\nUser-agent: ClaudeBot\nUser-agent: Claude-SearchBot\nUser-agent: Claude-User\nUser-agent: PerplexityBot\nUser-agent: Perplexity-User\nUser-agent: cohere-training-data-crawler\nUser-agent: cohere-ai\nUser-agent: CCBot\nUser-agent: PanguBot\nUser-agent: PetalBot\nUser-agent: Bytespider\nUser-agent: Diffbot\nUser-agent: DuckAssistBot\nUser-agent: MistralAI-User\nUser-agent: Timpibot\nUser-agent: Webzio\nUser-agent: Webzio-Extended\nUser-agent: archive.org_bot\nUser-agent: ia_archiver\nUser-agent: ia_archiver-web.archive.org\nUser-agent: heritrix\nUser-agent: anthropic-ai\nUser-agent: Claude-Web\nUser-agent: FacebookBot\nUser-agent: Omgilibot\nUser-agent: YouBot\nDisallow: /\n\nUser-agent: Amazonbot\nDisallow: /\nAllow: /feed/amazon-rss\n\n# Global\nUser-agent: *\nDisallow: /cgi-bin/\nDisallow: /wp/wp-admin/\nDisallow: /wp/wp-includes/\nDisallow: /wp/wp-content/\nDisallow: /wp-content/plugins/\nDisallow: /wp-content/mu_plugins/\nDisallow: /wp-content/cache/\nDisallow: /wp-content/themes/\nDisallow: /trackback/\nDisallow: /comments/\nDisallow: /category/*/*\nDisallow: */trackback/\nDisallow: */comments/\nDisallow: /search\nDisallow: */*comments=\nDisallow: */*comments-page=\nDisallow: /services/*\nDisallow: /com.condenast/yv8*\n\n# Xenforo\nDisallow: /civis/account/\nDisallow: /civis/members/\nDisallow: /civis/attachments/\nDisallow: /civis/goto/\nDisallow: /civis/help/\nDisallow: /civis/posts/\nDisallow: /civis/login/\nDisallow: /civis/search/\nDisallow: /civis/admin.php\nDisallow: /civis/threads/*in_iframe=1*\nDisallow: /civis/threads/*wp_data=*\nDisallow: */toggle-*.json?\n&quot;,&quot;chain_hash&quot;:&quot;c994601e56995a5b3ddb37b6efe8545df7742aa97695cab2a0a8c7433c93f27e&quot;,&quot;content_hash&quot;:&quot;2ea9090c6a7397dda7b6ffeb4670578b3e2de4c7cb9ece73b61c02b400c27a83&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-09-01T00:00:27.664Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:216f8fa7f5b4de52707461f8dd498139bcdc070fbb85a7a84b7bbe5ca2e23116</id>
-    <title>[변경] probe:arstechnica.com:llms-txt · status</title>
-    <updated>2026-09-01T00:00:27.664Z</updated>
-    <link href="https://arstechnica.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:403,&quot;before&quot;:404,&quot;chain_hash&quot;:&quot;216f8fa7f5b4de52707461f8dd498139bcdc070fbb85a7a84b7bbe5ca2e23116&quot;,&quot;content_hash&quot;:&quot;5754cc48f5c8cb720b546cbece60239743dbd6d3b7d5f098da97a46ffb517bfd&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-09-01T00:00:27.664Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:ceddb618b93d6bd4b4cb428ceb83c53fbd40d8d28ba3f7c3e2e0ffd10ad86ec3</id>
-    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-08-30T22:56:29.713Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;6dbb02ab68b93346ab29db1634c93be324b7f9158d3d28f688065997baecf568&quot;,&quot;before&quot;:&quot;925b1a740254eff210d17d03c53028a64248a725bf674c1697a7f7b9682ccc7d&quot;,&quot;chain_hash&quot;:&quot;ceddb618b93d6bd4b4cb428ceb83c53fbd40d8d28ba3f7c3e2e0ffd10ad86ec3&quot;,&quot;content_hash&quot;:&quot;2c57596144228fd9f55646f330a21c4c2b1212787033700bcfd3ed8d0b9e30a9&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-08-30T22:56:29.713Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
   </entry>
 </feed>
