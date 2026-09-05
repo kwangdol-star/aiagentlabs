@@ -1,5 +1,5 @@
 {
-  "record_count": 2912,
+  "record_count": 2910,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -6051,17 +6051,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
-    "job:anthropic:5406245008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "Remote-Friendly, United States",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Data Center Portfolio Lead"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
     "job:anthropic:5406367008": {
       "fields": {
         "employment_type": null,
@@ -10462,17 +10451,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
-    "job:databricks:8350956002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Singapore",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Senior Software Engineer- Singapore"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
     "job:databricks:8353049002": {
       "fields": {
         "employment_type": null,
@@ -14606,17 +14584,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Solutions Architect"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
-    "job:databricks:8605979002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "West Coast - United States",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Strategy & Execution Manager"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -20802,6 +20769,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
+    "job:openai:0b9e565a-ae5f-40fc-8350-b59f71f76df1": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Software Engineer, Host Assurance"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
     "job:openai:0e078d07-fb0b-4893-b90a-f50e413f3e13": {
       "fields": {
         "employment_type": "FullTime",
@@ -21283,6 +21261,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Senior Vendor Manager - SMB Sales"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
+    "job:openai:1db8dc12-c4b8-4fb7-8451-0d48df402bda": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Product Manager, Statsig"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -25818,6 +25807,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
+    "job:openai:a14780e7-0316-478c-8e6a-d7629c31c49d": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Software Engineer, HSM Infrastructure Security, Consumer Devices"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
     "job:openai:a1b4bfdf-673a-4ac4-a459-70118caabc09": {
       "fields": {
         "employment_type": "FullTime",
@@ -28843,17 +28843,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
-    "job:openai:faa6042d-ac67-4a76-a723-3ca7015adc34": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Director of Product Finance, Compute & Infrastructure Demand"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
     "job:openai:fabfc6c5-57b5-49ba-aae9-e7dd5d7030ca": {
       "fields": {
         "employment_type": "FullTime",
@@ -29852,17 +29841,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Infrastructure Software Engineer, Enterprise GenAI"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"
-    },
-    "job:scale-ai:4670010005": {
-      "fields": {
-        "employment_type": null,
-        "lab": "scale-ai",
-        "location": "New York, NY; Washington, DC",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Field Marketing & Events Lead, Public Sector"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"
     },
@@ -32035,5 +32013,5 @@
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-09-04T23:22:20.399Z"
+  "updated_at": "2026-09-05T23:21:48.575Z"
 }
