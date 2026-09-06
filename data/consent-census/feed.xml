@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-09-05T22:10:45.268Z</updated>
+  <updated>2026-09-06T22:15:10.106Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:1bf13b6f546abfc2cc0ae60c717013a974611965bd9098a2eb772c9f7e5ca7f1</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-09-06T22:15:10.106Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;bc5a345820e5846a879eafc46b0955da0056b4a0f6036f94c4acfd68da7420df&quot;,&quot;before&quot;:&quot;1de6ec0a52130a46154099dd6bfe39b47365ec41e82b3f7792b56d5873eb21a5&quot;,&quot;chain_hash&quot;:&quot;1bf13b6f546abfc2cc0ae60c717013a974611965bd9098a2eb772c9f7e5ca7f1&quot;,&quot;content_hash&quot;:&quot;a044986e6cd7936dc17d5fa94fd7b8baf188c76d47bf2b15c773743aaf40f307&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-09-06T22:15:10.106Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:a505d9878758b0bb7ff63a0cf6a4377b9a78a5101eec0447b829df5be056822b</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-09-06T22:15:10.106Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:638707,&quot;before&quot;:630498,&quot;chain_hash&quot;:&quot;a505d9878758b0bb7ff63a0cf6a4377b9a78a5101eec0447b829df5be056822b&quot;,&quot;content_hash&quot;:&quot;4cd09d2fd36cf8ee7ab945e8a59b6b2413034f0121060ba194d0b4387706258e&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-09-06T22:15:10.106Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:225a46be0e51b370d14cebe0e7c806f3eb1e64c25f7496cfd8f65b2804cedf35</id>
     <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
@@ -339,19 +353,5 @@
     <updated>2026-09-01T00:00:27.664Z</updated>
     <link href="https://arstechnica.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;0c3a7cb2862696670f2aee0b314acd00f90d765d05ccaf0591d0c6cf47548de5&quot;,&quot;content_hash&quot;:&quot;58b00e6a6940e420e500aa6f142f402f826768994eeef5adcf417512c04ff586&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-09-01T00:00:27.664Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:2020788713fc84cf03a18fabd2b9098a557793f63461d4e4a4a3cdcaa477e15a</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:Google-Extended</title>
-    <updated>2026-09-01T00:00:27.664Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;2020788713fc84cf03a18fabd2b9098a557793f63461d4e4a4a3cdcaa477e15a&quot;,&quot;content_hash&quot;:&quot;f544003c365370263947268175a1d55b49a41ffd9ca2ae88e997285c8697675d&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-09-01T00:00:27.664Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:fdb07084104b245b8e4464dc1c1cbca4a193c4fb27e041a9bd302ace7593c02b</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:GPTBot</title>
-    <updated>2026-09-01T00:00:27.664Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;fdb07084104b245b8e4464dc1c1cbca4a193c4fb27e041a9bd302ace7593c02b&quot;,&quot;content_hash&quot;:&quot;c5baf7445e4c228af4a5b3380c6bafa8926cdaf62c9878a578c8e23f96b95b08&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-09-01T00:00:27.664Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
   </entry>
 </feed>
