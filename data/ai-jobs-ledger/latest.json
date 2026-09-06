@@ -584,17 +584,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
-    "job:anthropic:5023394008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Anthropic Fellows Program"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
     "job:anthropic:5025624008": {
       "fields": {
         "employment_type": null,
@@ -3653,17 +3642,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
-    "job:anthropic:5358112008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "San Francisco, CA",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Cash Manager, Treasury"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
     "job:anthropic:5358114008": {
       "fields": {
         "employment_type": null,
@@ -3716,17 +3694,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Tax Director, Provision & Compliance"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
-    "job:anthropic:5358130008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "San Francisco, CA",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Corporate Finance & Strategy, Cash Flow Forecasting"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -9073,6 +9040,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Enterprise Account Executive - Media"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:7841778002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Bengaluru, India",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Staff Software Engineer - Search Platform"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -25488,6 +25466,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
+    "job:openai:98f65aa5-0f19-4942-9296-63382883dc55": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Site Selection Lead"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
     "job:openai:990397de-c00c-4577-b093-d8c82b4e9145": {
       "fields": {
         "employment_type": "FullTime",
@@ -27420,7 +27409,7 @@
         "location": null,
         "provider": "ashby",
         "team": null,
-        "title": "Power Land Developer, Development & Power Projects"
+        "title": "Powered Land Developer, Development & Power Projects"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -32010,8 +31999,19 @@
         "title": "Senior Software Engineer — Infra Agent Systems UK"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"
+    },
+    "job:together-ai:5222294007": {
+      "fields": {
+        "employment_type": null,
+        "lab": "together-ai",
+        "location": "Amsterdam",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Senior Software Engineer — Infra Agent Systems "
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-09-05T23:21:48.575Z"
+  "updated_at": "2026-09-06T23:11:57.230Z"
 }
