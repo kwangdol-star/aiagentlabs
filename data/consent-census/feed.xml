@@ -2,8 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-09-10T22:47:37.299Z</updated>
+  <updated>2026-09-11T22:45:20.665Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:9211dd8ba4359dcc42de7c9debc7f5ce561001e2c2732154311315199e6abde6</id>
+    <title>[변경] probe:reuters.com:robots-txt · body_sha256</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://reuters.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;361da2d208858704b344b29d1572f1fa4212b5e6d8d400b4a01ad70d87628373&quot;,&quot;before&quot;:&quot;fbc6791b95c23845361bcf796e10ba4db9e53dac7873d2ba7436b26091e554cb&quot;,&quot;chain_hash&quot;:&quot;9211dd8ba4359dcc42de7c9debc7f5ce561001e2c2732154311315199e6abde6&quot;,&quot;content_hash&quot;:&quot;068acbde6f3da17e8c2295a8a2dfc58104041d9ba41e0f642e94757242424a50&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:afc052db72b9e971274a35f320b59c236e7b5ba7771e956a0304e4cb24124877</id>
+    <title>[변경] probe:reuters.com:robots-txt · body_bytes</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://reuters.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:4451,&quot;before&quot;:3908,&quot;chain_hash&quot;:&quot;afc052db72b9e971274a35f320b59c236e7b5ba7771e956a0304e4cb24124877&quot;,&quot;content_hash&quot;:&quot;64dfeca3d070f064bebc355330d530b71759714c82f2acc340fbf2aa553f827c&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:6d4487632222ad5e82418967cf4f4d10f277ade8b9ca282d62ae0c1dde03b829</id>
+    <title>[변경] probe:reuters.com:robots-txt · body</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://reuters.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;# NOTICE: Collection of content, data and/or information from reuters.com through\n# automated means is prohibited unless you have prior written consent from Reuters \n# and may only be conducted for the purposes explicitly described in such permission. \n#\n# The terms and conditions for reuters.com may be found at \n# https://www.reuters.com/info-pages/terms-of-use/ \n#\n# If you would like to seek permission to license the content and/or other materials \n# of Reuters, please contact https://reutersagency.com/contact-us/enquire/\n\nUser-agent: AASA-Bot\nUser-agent: ADmantX\nUser-agent: AdmiralBot\nUser-agent: AdsBot-Google\nUser-agent: AdsBot-Google-Mobile\nUser-agent: AmazonAdBot\nUser-agent: Amzn-User\nUser-agent: Applebot\nUser-agent: AppleNewsBot\nUser-agent: Bingbot\nUser-agent: BingPreview\nUser-agent: BrightEdge\nUser-agent: BrightEdgeOnCrawl\nUser-agent: CensysInspect\nUser-agent: ChatGPT-User\nUser-agent: Cision\nUser-agent: Clickagy\nUser-agent: Concert\nUser-agent: ContextualBot\nUser-agent: CriteoBot\nUser-agent: DatadogSynthetics\nUser-agent: datadome-pageprotect-scanner\nUser-agent: Discordbot\nUser-agent: doubleverify\nUser-agent: ElevenlabsBot\nUser-agent: Embedly \nUser-agent: facebookexternalhit\nUser-agent: Googlebot\nUser-agent: Googlebot Smartphone\nUser-agent: Googlebot-News\nUser-agent: Google-Display-Ads-Bot\nUser-agent: Google-InspectionTool\nUser-agent: GoogleOther\nUser-agent: Google-Read-Aloud\nUser-agent: Google-Safety\nUser-agent: Google-Site-Verification\nUser-agent: GTmetrix\nUser-agent: GumGumBot\nUser-agent: ias_crawler\nUser-agent: Iframely\nUser-agent: leiki\nUser-agent: LinkedInBot\nUser-agent: LinkTiger\nUser-agent: Mantisbot\nUser-agent: Mediapartners-Google\nUser-agent: meta-externalads\nUser-agent: meta-webindexer\nUser-agent: MicrosoftPreview\nUser-agent: MJ12bot \nUser-agent: Moreover\nUser-agent: msnbot \nUser-agent: NFBNewslineRobot\nUser-agent: OAI-SearchBot\nUser-agent: Oncrawl\nUser-agent: Opebot-v\nUser-agent: Opoint\nUser-agent: Optimizer\nUser-agent: outbrain \nUser-agent: Pinterestbot\nUser-agent: Prerender\nUser-agent: Proofpoint \nUser-agent: proximic\nUser-agent: PubMatic Crawler Bot\nUser-agent: Quantcastbot\nUser-agent: Qwantbot\nUser-agent: Reuters SEO Screaming Frog Spider 007\nUser-agent: Reuters-NAUWI\nUser-agent: Scom-Crawler-For-Reuters\nUser-agent: SinceraSyntheticUser\nUser-agent: Slurp\nUser-agent: SmartologyBot\nUser-agent: snews\nUser-agent: SocialFlow\nUser-agent: StatusCake\nUser-agent: Storebot-Google\nUser-agent: Stripebot\nUser-agent: TTD-Content\nUser-agent: Twitterbot\nUser-agent: URLDefense\nUser-agent: Verity\nUser-agent: vuln_scan_by_trustedsite_com_halo_security\nUser-agent: WISEbot\nUser-agent: Xenu Link Sleuth\nUser-agent: Yahoo Link Preview\nUser-agent: Yahoo! JAPAN\nUser-agent: YahooMailProxy\nDisallow: /finance/stocks/option\nDisallow: /finance/stocks/financialHighlights\nDisallow: /search\nDisallow: /site-search/\nDisallow: /beta\nDisallow: /designtech\nDisallow: /featured-optimize\nDisallow: /energy-test\nDisallow: /article/beta\nDisallow: /sponsored/previewcampaign\nDisallow: /sponsored/previewarticle\nDisallow: /test/\nDisallow: /news/archive/commentary\nDisallow: /brandfeatures/venture-capital\nDisallow: /assets/siteindex\nDisallow: /article/api/\nDisallow: /practical-law-the-journal/search/\nDisallow: /pf/api/\nDisallow: /fr/\nDisallow: /it/\nDisallow: /es/\nDisallow: /pt/\nDisallow: /de/\nDisallow: /latam/\nDisallow: /jp/\nDisallow: /account/subscribe/payment\n\nUser-agent: Applebot-Extended\nDisallow: /\n\n# Block all other bots\nUser-agent: *\nAllow: /plus/\nDisallow: /\n\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml\nSITEMAP: https://www.reuters.com/plus/sitemap-index.xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-plj-index/?outputType=xml\nSITEMAP: https://www.reuters.com/graphics/sitemap.xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-index/pictures/?outputType=xml\nSITEMAP: https://www.reuters.com/static/video-sitemap/us/sitemap_video_index.xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/topic-sitemap/?outputType=xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/author-sitemap/?outputType=xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/pressrelease-sitemap/?outputType=xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-ar-index/?outputType=xml\nSITEMAP: https://www.reuters.com/service/archive-sitemap/sitemap.xml&quot;,&quot;before&quot;:&quot;User-agent: AASA-Bot\nUser-agent: ADmantX\nUser-agent: AdmiralBot\nUser-agent: AdsBot-Google\nUser-agent: AdsBot-Google-Mobile\nUser-agent: AmazonAdBot\nUser-agent: Amzn-User\nUser-agent: Applebot\nUser-agent: AppleNewsBot\nUser-agent: Bingbot\nUser-agent: BingPreview\nUser-agent: BrightEdge\nUser-agent: BrightEdgeOnCrawl\nUser-agent: CensysInspect\nUser-agent: ChatGPT-User\nUser-agent: Cision\nUser-agent: Clickagy\nUser-agent: Concert\nUser-agent: ContextualBot\nUser-agent: CriteoBot\nUser-agent: DatadogSynthetics\nUser-agent: datadome-pageprotect-scanner\nUser-agent: Discordbot\nUser-agent: doubleverify\nUser-agent: ElevenlabsBot\nUser-agent: Embedly \nUser-agent: facebookexternalhit\nUser-agent: Googlebot\nUser-agent: Googlebot Smartphone\nUser-agent: Googlebot-News\nUser-agent: Google-Display-Ads-Bot\nUser-agent: Google-InspectionTool\nUser-agent: GoogleOther\nUser-agent: Google-Read-Aloud\nUser-agent: Google-Safety\nUser-agent: Google-Site-Verification\nUser-agent: GTmetrix\nUser-agent: GumGumBot\nUser-agent: ias_crawler\nUser-agent: Iframely\nUser-agent: leiki\nUser-agent: LinkedInBot\nUser-agent: LinkTiger\nUser-agent: Mantisbot\nUser-agent: Mediapartners-Google\nUser-agent: meta-externalads\nUser-agent: meta-webindexer\nUser-agent: MicrosoftPreview\nUser-agent: MJ12bot \nUser-agent: Moreover\nUser-agent: msnbot \nUser-agent: NFBNewslineRobot\nUser-agent: OAI-SearchBot\nUser-agent: Oncrawl\nUser-agent: Opebot-v\nUser-agent: Opoint\nUser-agent: Optimizer\nUser-agent: outbrain \nUser-agent: Pinterestbot\nUser-agent: Prerender\nUser-agent: Proofpoint \nUser-agent: proximic\nUser-agent: PubMatic Crawler Bot\nUser-agent: Quantcastbot\nUser-agent: Qwantbot\nUser-agent: Reuters SEO Screaming Frog Spider 007\nUser-agent: Reuters-NAUWI\nUser-agent: Scom-Crawler-For-Reuters\nUser-agent: SinceraSyntheticUser\nUser-agent: Slurp\nUser-agent: SmartologyBot\nUser-agent: snews\nUser-agent: SocialFlow\nUser-agent: StatusCake\nUser-agent: Storebot-Google\nUser-agent: Stripebot\nUser-agent: TTD-Content\nUser-agent: Twitterbot\nUser-agent: URLDefense\nUser-agent: Verity\nUser-agent: vuln_scan_by_trustedsite_com_halo_security\nUser-agent: WISEbot\nUser-agent: Xenu Link Sleuth\nUser-agent: Yahoo Link Preview\nUser-agent: Yahoo! JAPAN\nUser-agent: YahooMailProxy\nDisallow: /finance/stocks/option\nDisallow: /finance/stocks/financialHighlights\nDisallow: /search\nDisallow: /site-search/\nDisallow: /beta\nDisallow: /designtech\nDisallow: /featured-optimize\nDisallow: /energy-test\nDisallow: /article/beta\nDisallow: /sponsored/previewcampaign\nDisallow: /sponsored/previewarticle\nDisallow: /test/\nDisallow: /news/archive/commentary\nDisallow: /brandfeatures/venture-capital\nDisallow: /assets/siteindex\nDisallow: /article/api/\nDisallow: /practical-law-the-journal/search/\nDisallow: /pf/api/\nDisallow: /fr/\nDisallow: /it/\nDisallow: /es/\nDisallow: /pt/\nDisallow: /de/\nDisallow: /latam/\nDisallow: /jp/\nDisallow: /account/subscribe/payment\n\nUser-agent: Applebot-Extended\nDisallow: /\n\n# Block all other bots\nUser-agent: *\nAllow: /plus/\nDisallow: /\n\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-index/?outputType=xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml\nSITEMAP: https://www.reuters.com/plus/sitemap-index.xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-plj-index/?outputType=xml\nSITEMAP: https://www.reuters.com/graphics/sitemap.xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-index/pictures/?outputType=xml\nSITEMAP: https://www.reuters.com/static/video-sitemap/us/sitemap_video_index.xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/topic-sitemap/?outputType=xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/author-sitemap/?outputType=xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/pressrelease-sitemap/?outputType=xml\nSITEMAP: https://www.reuters.com/arc/outboundfeeds/sitemap-ar-index/?outputType=xml\nSITEMAP: https://www.reuters.com/service/archive-sitemap/sitemap.xml&quot;,&quot;chain_hash&quot;:&quot;6d4487632222ad5e82418967cf4f4d10f277ade8b9ca282d62ae0c1dde03b829&quot;,&quot;content_hash&quot;:&quot;9ec2dcc90622a8b8ba40be24e9ff7d074b64fa37b3643354cd25f63e7f591373&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:dd42a2e30abdba209a3514608e84a4d577c0cf57169fdf26e94098a137624fc2</id>
+    <title>[변경] probe:github.com:robots-txt · bot:anthropic-ai</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://github.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;partial&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;dd42a2e30abdba209a3514608e84a4d577c0cf57169fdf26e94098a137624fc2&quot;,&quot;content_hash&quot;:&quot;ae444f111423e75b8b19119d59cba30c6a716945471a560a7d9d713486cac7f2&quot;,&quot;entity_id&quot;:&quot;probe:github.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://github.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:13c4016ba36e46adc97600e0a6b90bcdf1c31c0e7620a19a525987a37d280af7</id>
+    <title>[변경] probe:github.com:robots-txt · bot:PerplexityBot</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://github.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;partial&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;13c4016ba36e46adc97600e0a6b90bcdf1c31c0e7620a19a525987a37d280af7&quot;,&quot;content_hash&quot;:&quot;b5d6c40c5b371137fbf8e1df459acd3733a530bd3b359630f9833391646adc20&quot;,&quot;entity_id&quot;:&quot;probe:github.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://github.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:99b138ddcaa54ecf6cbeee6de7ed5488ad28972f6e060ab9424f7706b7e0d819</id>
+    <title>[변경] probe:github.com:robots-txt · bot:OAI-SearchBot</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://github.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;partial&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;99b138ddcaa54ecf6cbeee6de7ed5488ad28972f6e060ab9424f7706b7e0d819&quot;,&quot;content_hash&quot;:&quot;2573fafd81882018a2df41159361ee69b17de0dc5f9e88ebb19a3b452f611955&quot;,&quot;entity_id&quot;:&quot;probe:github.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://github.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:656cb4ba0c43303f7679f4b4cd48b266f64a095eded518aac0bb01c2be3ddb80</id>
+    <title>[변경] probe:github.com:robots-txt · bot:GPTBot</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://github.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;partial&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;656cb4ba0c43303f7679f4b4cd48b266f64a095eded518aac0bb01c2be3ddb80&quot;,&quot;content_hash&quot;:&quot;b41a959ab9a0e979874b3f32c8853bde745e30f3a82f56a92f11ea3f15408858&quot;,&quot;entity_id&quot;:&quot;probe:github.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://github.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:be286d848ba15cd44e73c37650308f54d96436dbb752e899093bb49e6ce9dd51</id>
+    <title>[변경] probe:github.com:robots-txt · bot:ClaudeBot</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://github.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;partial&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;be286d848ba15cd44e73c37650308f54d96436dbb752e899093bb49e6ce9dd51&quot;,&quot;content_hash&quot;:&quot;b87b5879aa18617d5279bce5026ba5a2fb45e8de7ee70a218a3b0144fc9d0478&quot;,&quot;entity_id&quot;:&quot;probe:github.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://github.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:327277250026b332a73c6f181558f94b167f971308350a4b9f4daaa72e54d283</id>
+    <title>[변경] probe:github.com:robots-txt · bot:Bytespider</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://github.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;327277250026b332a73c6f181558f94b167f971308350a4b9f4daaa72e54d283&quot;,&quot;content_hash&quot;:&quot;26492dbd2048d91c43155b8d9a196331d9e94a22f00e757e38ba0fce9b7cca1b&quot;,&quot;entity_id&quot;:&quot;probe:github.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://github.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:1bdc0294a1081f8c299cc4fedf544c7fd939f26df6e439cd8b79e97b8d440280</id>
+    <title>[변경] probe:github.com:robots-txt · body_sha256</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://github.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;2bae6090fc5d11abb40a21102415eda2ce0ebfd8e1a92431c9e97ba478db711d&quot;,&quot;before&quot;:&quot;05a5baaac2db2fe11b62ae620d6e0f864ee187fb9d676a7bf55204178700296b&quot;,&quot;chain_hash&quot;:&quot;1bdc0294a1081f8c299cc4fedf544c7fd939f26df6e439cd8b79e97b8d440280&quot;,&quot;content_hash&quot;:&quot;954ebf37aaeceb3d971d08fbd6a08f061d7449aba8f5948f17f9cf9343be5ce6&quot;,&quot;entity_id&quot;:&quot;probe:github.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://github.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:2b437762c57d1f7ade7c7e6f694032720ee365af9df926d1bf92e7de6a0b70b0</id>
+    <title>[변경] probe:github.com:robots-txt · body_bytes</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://github.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:5317,&quot;before&quot;:2274,&quot;chain_hash&quot;:&quot;2b437762c57d1f7ade7c7e6f694032720ee365af9df926d1bf92e7de6a0b70b0&quot;,&quot;content_hash&quot;:&quot;eff8efd2af7bbfee0f15e36bd0d79823aa77101af5be081d919c578483cc18ab&quot;,&quot;entity_id&quot;:&quot;probe:github.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://github.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:3318b2c5c02212ac1e6c538023b2bf9c78f5f5a6107a01e9f2c7b483c9af8d61</id>
+    <title>[변경] probe:github.com:robots-txt · body</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://github.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;# If you would like to crawl GitHub contact us via https://support.github.com?tags=dotcom-robots\n# We also provide an extensive API: https://docs.github.com\nUser-agent: GPTBot\nUser-agent: OAI-SearchBot\nUser-agent: ClaudeBot\nUser-agent: anthropic-ai\nUser-agent: PerplexityBot\nCrawl-delay: 1\nAllow: /$\nAllow: /about\nAllow: /customer-stories\nAllow: /enterprise\nAllow: /features\nAllow: /marketplace\nAllow: /mcp\nAllow: /newsroom\nAllow: /pricing\nAllow: /resources\nAllow: /security\nAllow: /solutions\nDisallow: /*/*/pulse\nDisallow: /*/*/projects\nDisallow: /*/*/forks\nDisallow: /*/*/issues/new\nDisallow: /*/*/milestones/new\nDisallow: /*/*/issues/search\nDisallow: /*/*/commits/\nDisallow: /*/*/branches\nDisallow: /*/*/contributors\nDisallow: /*/*/tags\nDisallow: /*/*/stargazers\nDisallow: /*/*/watchers\nDisallow: /*/*/network\nDisallow: /*/*/graphs\nDisallow: /*/*/compare\nDisallow: /*/tree/\nDisallow: /gist/\nDisallow: /*/download\nDisallow: /*/revisions\nDisallow: /*/commits/*?author\nDisallow: /*/commits/*?path\nDisallow: /*/comments\nDisallow: /*/archive/\nDisallow: /*/blame/\nDisallow: /*/raw/\nDisallow: /*/cache/\nDisallow: /.git/\nDisallow: */.git/\nDisallow: /*.git$\nDisallow: /search/advanced\nDisallow: /search$\nDisallow: /*q=\nDisallow: /*.atom$\nDisallow: /ekansa/Open-Context-Data\nDisallow: /ekansa/opencontext-*\nDisallow: */tarball/\nDisallow: */zipball/\nDisallow: /*source=*\nDisallow: /*ref_cta=*\nDisallow: /*plan=*\nDisallow: /*return_to=*\nDisallow: /*ref_loc=*\nDisallow: /*setup_organization=*\nDisallow: /*source_repo=*\nDisallow: /*ref_page=*\nDisallow: /*referrer=*\nDisallow: /*report=*\nDisallow: /*author=*\nDisallow: /*since=*\nDisallow: /*until=*\nDisallow: /*commits?author=*\nDisallow: /*report-abuse?report=*\nDisallow: /*tab=*\nDisallow: /account-login\nDisallow: /Explodingstuff/\nDisallow: /copilot/\nDisallow: /copilot/c/\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: AdsBot-Google\nUser-agent: AdsBot-Google-Mobile\nDisallow: /*/*/pulse\nDisallow: /*/*/projects\nDisallow: /*/*/forks\nDisallow: /*/*/issues/new\nDisallow: /*/*/milestones/new\nDisallow: /*/*/issues/search\nDisallow: /*/*/commits/\nDisallow: /*/*/branches\nDisallow: /*/*/contributors\nDisallow: /*/*/tags\nDisallow: /*/*/stargazers\nDisallow: /*/*/watchers\nDisallow: /*/*/network\nDisallow: /*/*/graphs\nDisallow: /*/*/compare\nDisallow: /*/tree/\nDisallow: /gist/\nDisallow: /*/download\nDisallow: /*/revisions\nDisallow: /*/commits/*?author\nDisallow: /*/commits/*?path\nDisallow: /*/comments\nDisallow: /*/archive/\nDisallow: /*/blame/\nDisallow: /*/raw/\nDisallow: /*/cache/\nDisallow: /.git/\nDisallow: */.git/\nDisallow: /*.git$\nDisallow: /search/advanced\nDisallow: /search$\nDisallow: /*q=\nDisallow: /*.atom$\nDisallow: /ekansa/Open-Context-Data\nDisallow: /ekansa/opencontext-*\nDisallow: */tarball/\nDisallow: */zipball/\nDisallow: /*source=*\nDisallow: /*ref_cta=*\nDisallow: /*plan=*\nDisallow: /*return_to=*\nDisallow: /*ref_loc=*\nDisallow: /*setup_organization=*\nDisallow: /*source_repo=*\nDisallow: /*ref_page=*\nDisallow: /*referrer=*\nDisallow: /*report=*\nDisallow: /*author=*\nDisallow: /*since=*\nDisallow: /*until=*\nDisallow: /*commits?author=*\nDisallow: /*report-abuse?report=*\nDisallow: /*tab=*\nDisallow: /account-login\nDisallow: /Explodingstuff/\nDisallow: /copilot/\nDisallow: /copilot/c/\n\nUser-agent: bingbot\nDisallow: /ekansa/Open-Context-Data\nDisallow: /ekansa/opencontext-*\nDisallow: /account-login\nDisallow: */tarball/\nDisallow: */zipball/\nDisallow: /Explodingstuff/\nDisallow: /copilot/\nDisallow: /copilot/c/\n\nUser-agent: adidxbot\nDisallow: /ekansa/Open-Context-Data\nDisallow: /ekansa/opencontext-*\nDisallow: /account-login\nDisallow: */tarball/\nDisallow: */zipball/\nDisallow: /Explodingstuff/\nDisallow: /copilot/\nDisallow: /copilot/c/\n\nUser-agent: BingPreview\nDisallow: /ekansa/Open-Context-Data\nDisallow: /ekansa/opencontext-*\nDisallow: /account-login\nDisallow: */tarball/\nDisallow: */zipball/\nDisallow: /Explodingstuff/\nDisallow: /copilot/\nDisallow: /copilot/c/\n\nUser-agent: baidu\ncrawl-delay: 1\n\n\nUser-agent: *\nAllow: /*?tab=achievements&amp;achievement=*\nDisallow: /*/*/pulse\nDisallow: /*/*/projects\nDisallow: /*/*/forks\nDisallow: /*/*/issues/new\nDisallow: /*/*/milestones/new\nDisallow: /*/*/issues/search\nDisallow: /*/*/commits/\nDisallow: /*/*/branches\nDisallow: /*/*/contributors\nDisallow: /*/*/tags\nDisallow: /*/*/stargazers\nDisallow: /*/*/watchers\nDisallow: /*/*/network\nDisallow: /*/*/graphs\nDisallow: /*/*/compare\nDisallow: /*/tree/\nDisallow: /gist/\nDisallow: /*/download\nDisallow: /*/revisions\nDisallow: /*/commits/*?author\nDisallow: /*/commits/*?path\nDisallow: /*/comments\nDisallow: /*/archive/\nDisallow: /*/blame/\nDisallow: /*/raw/\nDisallow: /*/cache/\nDisallow: /.git/\nDisallow: */.git/\nDisallow: /*.git$\nDisallow: /search/advanced\nDisallow: /search$\nDisallow: /*q=\nDisallow: /*.atom$\nDisallow: /ekansa/Open-Context-Data\nDisallow: /ekansa/opencontext-*\nDisallow: */tarball/\nDisallow: */zipball/\nDisallow: /*source=*\nDisallow: /*ref_cta=*\nDisallow: /*plan=*\nDisallow: /*return_to=*\nDisallow: /*ref_loc=*\nDisallow: /*setup_organization=*\nDisallow: /*source_repo=*\nDisallow: /*ref_page=*\nDisallow: /*referrer=*\nDisallow: /*report=*\nDisallow: /*author=*\nDisallow: /*since=*\nDisallow: /*until=*\nDisallow: /*commits?author=*\nDisallow: /*report-abuse?report=*\nDisallow: /*tab=*\nDisallow: /account-login\nDisallow: /Explodingstuff/\nDisallow: /copilot/\nDisallow: /copilot/c/\n&quot;,&quot;before&quot;:&quot;# If you would like to crawl GitHub contact us via https://support.github.com?tags=dotcom-robots\n# We also provide an extensive API: https://docs.github.com\nUser-agent: bingbot\nDisallow: /ekansa/Open-Context-Data\nDisallow: /ekansa/opencontext-*\nDisallow: /account-login\nDisallow: */tarball/\nDisallow: */zipball/\nDisallow: /Explodingstuff/\nDisallow: /copilot/\nDisallow: /copilot/c/\n\nUser-agent: adidxbot\nDisallow: /ekansa/Open-Context-Data\nDisallow: /ekansa/opencontext-*\nDisallow: /account-login\nDisallow: */tarball/\nDisallow: */zipball/\nDisallow: /Explodingstuff/\nDisallow: /copilot/\nDisallow: /copilot/c/\n\nUser-agent: BingPreview\nDisallow: /ekansa/Open-Context-Data\nDisallow: /ekansa/opencontext-*\nDisallow: /account-login\nDisallow: */tarball/\nDisallow: */zipball/\nDisallow: /Explodingstuff/\nDisallow: /copilot/\nDisallow: /copilot/c/\n\nUser-agent: baidu\ncrawl-delay: 1\n\n\nUser-agent: *\n\nDisallow: /*/*/pulse\nDisallow: /*/*/projects\nDisallow: /*/*/forks\nDisallow: /*/*/issues/new\nDisallow: /*/*/milestones/new\nDisallow: /*/*/issues/search\nDisallow: /*/*/commits/\nDisallow: /*/*/branches\nDisallow: /*/*/contributors\nDisallow: /*/*/tags\nDisallow: /*/*/stargazers\nDisallow: /*/*/watchers\nDisallow: /*/*/network\nDisallow: /*/*/graphs\nDisallow: /*/*/compare\n\nDisallow: /*/tree/\nDisallow: /gist/\nDisallow: /*/download\nDisallow: /*/revisions\nDisallow: /*/commits/*?author\nDisallow: /*/commits/*?path\nDisallow: /*/comments\nDisallow: /*/archive/\nDisallow: /*/blame/\nDisallow: /*/raw/\nDisallow: /*/cache/\nDisallow: /.git/\nDisallow: */.git/\nDisallow: /*.git$\nDisallow: /search/advanced\nDisallow: /search$\nDisallow: /*q=\nDisallow: /*.atom$\n\nDisallow: /ekansa/Open-Context-Data\nDisallow: /ekansa/opencontext-*\nDisallow: */tarball/\nDisallow: */zipball/\n\nDisallow: /*source=*\nDisallow: /*ref_cta=*\nDisallow: /*plan=*\nDisallow: /*return_to=*\nDisallow: /*ref_loc=*\nDisallow: /*setup_organization=*\nDisallow: /*source_repo=*\nDisallow: /*ref_page=*\nDisallow: /*source=*\nDisallow: /*referrer=*\nDisallow: /*report=*\nDisallow: /*author=*\nDisallow: /*since=*\nDisallow: /*until=*\nDisallow: /*commits?author=*\nDisallow: /*report-abuse?report=*\nDisallow: /*tab=*\nAllow: /*?tab=achievements&amp;achievement=*\n\nDisallow: /account-login\nDisallow: /Explodingstuff/\n\nDisallow: /copilot/\nDisallow: /copilot/c/\n\n&quot;,&quot;chain_hash&quot;:&quot;3318b2c5c02212ac1e6c538023b2bf9c78f5f5a6107a01e9f2c7b483c9af8d61&quot;,&quot;content_hash&quot;:&quot;f9da906e59bbe8f0cd5bb97f80e7ceeedac42d10a675d995f4b5c3193bd04852&quot;,&quot;entity_id&quot;:&quot;probe:github.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://github.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:ead22fdd7c2d7a74ccd19431b41810a4a6498b0a9ec8fa8a34ac1a16ede395b3</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;4cb649e958c2844a3da355229de3f37d99efc1ad7fbf745569dee9f9e593a16f&quot;,&quot;before&quot;:&quot;5e829cb8a77d5d8673d80574052acf63eac6af89dcd4ba02150a9cd7601bc2a8&quot;,&quot;chain_hash&quot;:&quot;ead22fdd7c2d7a74ccd19431b41810a4a6498b0a9ec8fa8a34ac1a16ede395b3&quot;,&quot;content_hash&quot;:&quot;87dff515ba3f7bb238c37754d7de62cc2078d84bdf455f89576a7145a9bcc5ff&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:102ba9b2a3c45d9b1f38d1e84874d21893882345689b0710543bcfced40ca872</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-09-11T22:45:20.665Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:650360,&quot;before&quot;:639297,&quot;chain_hash&quot;:&quot;102ba9b2a3c45d9b1f38d1e84874d21893882345689b0710543bcfced40ca872&quot;,&quot;content_hash&quot;:&quot;81e39fb22b6ac814ed14519ed1c4b0671387efc8b583f13186a3ca2ab52eafe4&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-09-11T22:45:20.665Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:9fe3654482c751743d8a3ac2d5f94ffce0af4f82812c35875e46ac68080713d2</id>
     <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
@@ -255,103 +353,5 @@
     <updated>2026-09-01T22:46:19.291Z</updated>
     <link href="https://arstechnica.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:200,&quot;before&quot;:403,&quot;chain_hash&quot;:&quot;e76a1b7bcc4b5b4eaeb73ac24f65d862eadf8afff036228975738df73d6fb3a1&quot;,&quot;content_hash&quot;:&quot;d615b1961d4b29d8d1fca2f37e3b2a67dca75379450077d349d8b50634b263c1&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:6ff204ef5b63cae95f4c0d71c32f69c3fb5e27178c89de6de2856427b0a12cd4</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · content_type</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;text/plain&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;6ff204ef5b63cae95f4c0d71c32f69c3fb5e27178c89de6de2856427b0a12cd4&quot;,&quot;content_hash&quot;:&quot;92229f351f1a4346aec5840cfa3e5ca3344a258f2289f471371986a7dbd4e91b&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:2429e13bd92ee6307af5719ad08c0928ed6b2a602508c98c01fdbf9b0445ce5b</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:meta-externalagent</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;2429e13bd92ee6307af5719ad08c0928ed6b2a602508c98c01fdbf9b0445ce5b&quot;,&quot;content_hash&quot;:&quot;a0628f8c996d83676bf6af70242e8daf8185d16b790b7ca7fb778e1a99093908&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:d42c7de1e731257dfe4ba7de51730c5cd5745ff9d7a9515ac262be83299cdd72</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:anthropic-ai</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;d42c7de1e731257dfe4ba7de51730c5cd5745ff9d7a9515ac262be83299cdd72&quot;,&quot;content_hash&quot;:&quot;78ccb1e7790d41c80a26acd540c41cd18b3e57d1f4847ed9318a3cf9ae40b02b&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:006104322aeda53d6d942d118ac29adef26da790318b562996c76e2c5a70c85f</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:PerplexityBot</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;006104322aeda53d6d942d118ac29adef26da790318b562996c76e2c5a70c85f&quot;,&quot;content_hash&quot;:&quot;684e0972572d5e1661c6418f65ab72ef77bf0a62fd1d326554a44a4c635f2467&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:d30b4e879a5b9fba7e003c7a9f76111e09d127983e6a28fa114bd04dcadfc4f2</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:OAI-SearchBot</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;d30b4e879a5b9fba7e003c7a9f76111e09d127983e6a28fa114bd04dcadfc4f2&quot;,&quot;content_hash&quot;:&quot;a8080e3f916eeeda85360012109e7100b37b77d21c5d0b233b9032828fa6667c&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:acd44738124155b856b2cafbbeea8532bcf87b3122ba7dc4399f9be71871f040</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:Google-Extended</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;acd44738124155b856b2cafbbeea8532bcf87b3122ba7dc4399f9be71871f040&quot;,&quot;content_hash&quot;:&quot;24cbb3a2173e20b9cba3be5e4b571f45908e0ae2c9074cbf48840e97346e8a01&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:6e65ed35be6ac7a81bbc85c19184f177af22478f52276857ac5db4986bd0c1cf</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:GPTBot</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;6e65ed35be6ac7a81bbc85c19184f177af22478f52276857ac5db4986bd0c1cf&quot;,&quot;content_hash&quot;:&quot;d05368e9a63c96b0224f7348fd39c0cb667ecaa0d1cedfd93371e3eff77841a9&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:def8be6dc2ec8efd59d12daaf74aea91741e84886b467534a559fb8b08f69c66</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:ClaudeBot</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;def8be6dc2ec8efd59d12daaf74aea91741e84886b467534a559fb8b08f69c66&quot;,&quot;content_hash&quot;:&quot;1a0339d28c3720936643a5b79fc64311f5585db32457f70d607dd8de1b0766fd&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:41144fdb6f53b15b347f20a4abbdadd0508f390f953f2c53ab0aa5009287f04d</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:ChatGPT-User</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;41144fdb6f53b15b347f20a4abbdadd0508f390f953f2c53ab0aa5009287f04d&quot;,&quot;content_hash&quot;:&quot;25b72ef9c67dc7fdb3fcd46053273cdeed675bb1996fef1e4f2d62c6db9fd9a5&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:3111d49221d59750dd7ad66f7d2fd381365adf9237f29f2877d1399c3c27d025</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:CCBot</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;3111d49221d59750dd7ad66f7d2fd381365adf9237f29f2877d1399c3c27d025&quot;,&quot;content_hash&quot;:&quot;f77284bbc241d4a1025fff876ec26dcc9108f893e98cc5e8c0b90e5986f37f28&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:CCBot&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:90707de7dca153029e095a6cb1d0834c4912c0ff1413e075bc8423559cb8d651</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:Bytespider</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;90707de7dca153029e095a6cb1d0834c4912c0ff1413e075bc8423559cb8d651&quot;,&quot;content_hash&quot;:&quot;25e99fbef17b2a6ee28f4314b6189c1301560e94ec3a7e538186df0c7338ca7c&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:ffbe58140490e50a1d4e3f37c9c0802333f31ad20d5465374b1980751b2a1c67</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:Applebot-Extended</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;ffbe58140490e50a1d4e3f37c9c0802333f31ad20d5465374b1980751b2a1c67&quot;,&quot;content_hash&quot;:&quot;bf8375a148bd8a4780c9aaa3538ba1bddfd7992ae1da4969878ec65600203294&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Applebot-Extended&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:dfbff2f32757474834a1d3cedbfb6ffb9bf812fb881040d8cac59a31f8d566a3</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · bot:Amazonbot</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;blocked&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;dfbff2f32757474834a1d3cedbfb6ffb9bf812fb881040d8cac59a31f8d566a3&quot;,&quot;content_hash&quot;:&quot;70f1214a6b158008945beb7ff320529d3cf4771d51622e18598f24c36a865e1e&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Amazonbot&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:dc8c30af6eaa49f9788f689c04a666fd380f9003c1891fde5e1892fbd71c00c6</id>
-    <title>[변경] probe:arstechnica.com:robots-txt · body_sha256</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://arstechnica.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;0abd612f8a892958ba16c55737464c09dc2d9490edcf9789496518e2f4651621&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;dc8c30af6eaa49f9788f689c04a666fd380f9003c1891fde5e1892fbd71c00c6&quot;,&quot;content_hash&quot;:&quot;32fed15c1d9c781ed8fa38711df4c50a7d438994a57e035f9b623fae76d23503&quot;,&quot;entity_id&quot;:&quot;probe:arstechnica.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://arstechnica.com/robots.txt&quot;}</content>
   </entry>
 </feed>
