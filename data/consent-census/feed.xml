@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-09-12T22:31:35.297Z</updated>
+  <updated>2026-09-13T22:36:22.438Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:cf41ddbd98bafc2743936d7209dcc574c6185ddf9cea3adcf7668dca2111acab</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-09-13T22:36:22.438Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;0730f55b07d4fb7231a73f44aa5d186c724b88d5a64958db384cdf8737768c91&quot;,&quot;before&quot;:&quot;25e053ee901aa7a31e998cb59ebcf22f285e0868404cc7e368e7a24f54d15e86&quot;,&quot;chain_hash&quot;:&quot;cf41ddbd98bafc2743936d7209dcc574c6185ddf9cea3adcf7668dca2111acab&quot;,&quot;content_hash&quot;:&quot;1d94b8eddfd809bafaf72aff0ad46ada9f34248caf47644254c37f5262b02bf9&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-09-13T22:36:22.438Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:4281e49e2f56f59989803345ed5054a8637c26309cc49a213bd2b7356b6cf32f</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-09-13T22:36:22.438Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:650511,&quot;before&quot;:662423,&quot;chain_hash&quot;:&quot;4281e49e2f56f59989803345ed5054a8637c26309cc49a213bd2b7356b6cf32f&quot;,&quot;content_hash&quot;:&quot;fd40822fafc5972654773f4bffcb051235ab662d6638930e46390b638b43864d&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-09-13T22:36:22.438Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:313ffcbe8badfbaa6cbacd00083462bef4670aaa6c6922f3a4d60ee088dc1a0a</id>
     <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
@@ -339,19 +353,5 @@
     <updated>2026-09-01T22:46:19.291Z</updated>
     <link href="https://donga.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:665,&quot;before&quot;:688,&quot;chain_hash&quot;:&quot;f7c8e71bffe5bd24fd21d946e81e152118acb3e29e83a2fffacfafd263d1d9ed&quot;,&quot;content_hash&quot;:&quot;5945de82a94a7b40957e2d74eeab9702dabfd9360f48e518420878f72c6e028f&quot;,&quot;entity_id&quot;:&quot;probe:donga.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://donga.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:5e69e77c576a4d2b4652c5afe0c6deec9a6111bc07fb0682896901797c5c72df</id>
-    <title>[변경] probe:donga.com:robots-txt · body</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://donga.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;User-agent: *\nAllow: /news/Sports/article/\nDisallow: /search\nDisallow: /news/search\nDisallow: /news/View\nDisallow: /news/dongaars\nDisallow: /NEWS\nDisallow: /HUB\nDisallow: /VOICE\nDisallow: /ISSUE\nDisallow: /BIZN\nDisallow: /STUDIO\nDisallow: /SPORTS\nDisallow: /VODA\nDisallow: /WEEKLY\nDisallow: /WOMAN\nDisallow: /SHINDONGA\n\n#DaumWebMasterTool:6af926b3c34377464b5bd427ad530c7c714d0d5950fa49080ae66373d9c6e7cb:xUUuR78FZ7e9iXukGuOVLQ==\n\nSitemap: https://www.donga.com/sitemap/donga-newsmap.xml\nSitemap: https://image.donga.com/sitemap/donga-sitemap.xml\nSitemap: https://www.donga.com/sitemap/foreign-newsmap.xml\nSitemap: https://image.donga.com/sitemap/foreign-sitemap.xml&quot;,&quot;before&quot;:&quot;User-agent: *\r\nAllow: /news/Sports/article/\r\nDisallow: /search\r\nDisallow: /news/search\r\nDisallow: /news/View\r\nDisallow: /news/dongaars\r\nDisallow: /NEWS\r\nDisallow: /HUB\r\nDisallow: /VOICE\r\nDisallow: /ISSUE\r\nDisallow: /BIZN\r\nDisallow: /STUDIO\r\nDisallow: /SPORTS\r\nDisallow: /VODA\r\nDisallow: /WEEKLY\r\nDisallow: /WOMAN\r\nDisallow: /SHINDONGA\r\n\r\n#DaumWebMasterTool:6af926b3c34377464b5bd427ad530c7c714d0d5950fa49080ae66373d9c6e7cb:xUUuR78FZ7e9iXukGuOVLQ==\r\n\r\nSitemap: https://www.donga.com/sitemap/donga-newsmap.xml\r\nSitemap: https://image.donga.com/sitemap/donga-sitemap.xml\r\nSitemap: https://www.donga.com/sitemap/foreign-newsmap.xml\r\nSitemap: https://image.donga.com/sitemap/foreign-sitemap.xml&quot;,&quot;chain_hash&quot;:&quot;5e69e77c576a4d2b4652c5afe0c6deec9a6111bc07fb0682896901797c5c72df&quot;,&quot;content_hash&quot;:&quot;d38fa78b2d6ec61699a373eaeeac5b06268e7067e7179683c3af17bc910ca90b&quot;,&quot;entity_id&quot;:&quot;probe:donga.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://donga.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:4a053e36ed12e63475dae2c44b58434eb6df405e714c469569a2050206a37f37</id>
-    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-09-01T22:46:19.291Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;5c47967ba54ccd57c8c17c4320e908403f9fc89cc7b89f30798e33fc13d14c44&quot;,&quot;before&quot;:&quot;22a2330cd474f1d699c6fa389499bce7f91a587b43b8ec42c679463baa54b102&quot;,&quot;chain_hash&quot;:&quot;4a053e36ed12e63475dae2c44b58434eb6df405e714c469569a2050206a37f37&quot;,&quot;content_hash&quot;:&quot;3424a02a316cd18c98f050d41b7de2b8b8815f50192e36253e1db06a16783d48&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-09-01T22:46:19.291Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
   </entry>
 </feed>
