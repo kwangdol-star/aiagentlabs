@@ -3,9 +3,17 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-09-13T22:36:22.438Z</updated>
+  <updated>2026-09-13T23:14:15.965Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:forecast-graders:3d72e0834c1ace49b379d2344d77b7cabd24672b0fb3b6e73890af881b07ad64</id>
+    <title>[기관 전망 박제 — 한은·KB·건산연·주산연] [변경] page:khi-press · items</title>
+    <updated>2026-09-13T23:14:15.965Z</updated>
+    <category term="forecast-graders"/>
+    <link href="https://www.khi.re.kr/notice/notice3.php"/>
+    <content type="text">{&quot;after&quot;:[&quot;2026-09-10 · 2026년 9월 아파트입주전망지수 홍보담당&quot;,&quot;2026-09-08 · 2026년 9월 아파트분양전망지수 홍보담당&quot;,&quot;2026-08-13 · 2026년 8월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-08-11 · 2026년 8월 아파트입주전망지수 홍보담당&quot;,&quot;2026-08-06 · 2026년 8월 아파트분양전망지수 홍보담당&quot;,&quot;2026-07-14 · 2026년 7월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-07-09 · 2026년 7월 아파트입주전망지수 홍보담당&quot;,&quot;2026-07-07 · 2026년 7월 아파트분양전망지수 홍보담당&quot;,&quot;2026-06-16 · 2026년 6월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-06-11 · 2026년 6월 아파트입주전망지수 홍보담당&quot;],&quot;before&quot;:[&quot;2026-09-08 · 2026년 9월 아파트분양전망지수 홍보담당&quot;,&quot;2026-08-13 · 2026년 8월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-08-11 · 2026년 8월 아파트입주전망지수 홍보담당&quot;,&quot;2026-08-06 · 2026년 8월 아파트분양전망지수 홍보담당&quot;,&quot;2026-07-14 · 2026년 7월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-07-09 · 2026년 7월 아파트입주전망지수 홍보담당&quot;,&quot;2026-07-07 · 2026년 7월 아파트분양전망지수 홍보담당&quot;,&quot;2026-06-16 · 2026년 6월 주택사업경기전망지수 홍보담당&quot;,&quot;2026-06-11 · 2026년 6월 아파트입주전망지수 홍보담당&quot;,&quot;2026-06-09 · 2026년 6월 아파트분양전망지수 홍보담당&quot;],&quot;chain_hash&quot;:&quot;3d72e0834c1ace49b379d2344d77b7cabd24672b0fb3b6e73890af881b07ad64&quot;,&quot;content_hash&quot;:&quot;bbd4886064bf4d6d5945cb1c8e5b0e305151f1481d771b2a0c3e79f01cfac542&quot;,&quot;entity_id&quot;:&quot;page:khi-press&quot;,&quot;field&quot;:&quot;items&quot;,&quot;observed_at&quot;:&quot;2026-09-13T23:14:15.965Z&quot;,&quot;source_url&quot;:&quot;https://www.khi.re.kr/notice/notice3.php&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:consent-census:4281e49e2f56f59989803345ed5054a8637c26309cc49a213bd2b7356b6cf32f</id>
     <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
@@ -957,13 +965,5 @@
     <category term="mcp-census"/>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;218548f6f5a15b0638e784a64a4b779875bf586385babb43ae469f82aa20513f&quot;,&quot;repository_url&quot;:&quot;https://github.com/sbanerjee1875/Financegenius.ai&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;eaaf3b83f0ab7df3b1e9bd0c9b994889ae030001fe4f6fa606ece4a7baab8ae1&quot;,&quot;content_hash&quot;:&quot;7352570be33941e38c1cf5ff66c904a71a0b22ffcb1cd0e8abe208932b635d5a&quot;,&quot;entity_id&quot;:&quot;server:io.github.sbanerjee1875/financegenius&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-06T22:19:40.162Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:mcp-census:192c6d2060969fb8ad1d574063c96c7963070e9e77a6f23d966d107ccb254c30</id>
-    <title>[MCP 생태계 센서스 — 등록 서버·버전] [삭제] server:io.github.truecalc/truecalc-mcp</title>
-    <updated>2026-09-06T22:19:40.162Z</updated>
-    <category term="mcp-census"/>
-    <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;9972c05e7a60ef10e5fe9f9c61a22fe9ace2b77ccf338afead7a793bd0df8728&quot;,&quot;repository_url&quot;:&quot;https://github.com/truecalc/core&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;8.1.1&quot;},&quot;chain_hash&quot;:&quot;192c6d2060969fb8ad1d574063c96c7963070e9e77a6f23d966d107ccb254c30&quot;,&quot;content_hash&quot;:&quot;8118e1c0fa8eb6c25fd50e34445ce3b9c705b308c7e34eb0616fd4fb094aadb7&quot;,&quot;entity_id&quot;:&quot;server:io.github.truecalc/truecalc-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-06T22:19:40.162Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
 </feed>
