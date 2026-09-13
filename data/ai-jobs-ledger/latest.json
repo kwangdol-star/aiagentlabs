@@ -1,5 +1,5 @@
 {
-  "record_count": 2958,
+  "record_count": 2957,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -6326,6 +6326,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
+    "job:anthropic:5417758008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA | New York City, NY | Washington, DC",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Enforcement Operations Lead, Cloud Partners"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
     "job:anthropic:5417967008": {
       "fields": {
         "employment_type": null,
@@ -8086,17 +8097,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere"
     },
-    "job:cohere:fcf20b30-cab9-4aba-a848-45e28d24030f": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "cohere",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Senior Account Executive, Latin America Federal (US)"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere"
-    },
     "job:cohere:fd92000d-241c-4cf6-86b1-2d9ab796bcbf": {
       "fields": {
         "employment_type": "FullTime",
@@ -8115,7 +8115,7 @@
         "location": null,
         "provider": "ashby",
         "team": null,
-        "title": "Account Executive, SLED (US)"
+        "title": "Account Executive, SLED (West)"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere"
     },
@@ -10330,6 +10330,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:8320183002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Bengaluru, India",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Senior Software Engineer - Backend"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:8320187002": {
       "fields": {
         "employment_type": null,
@@ -10415,17 +10426,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Manager, International Statutory & Technical Accounting"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
-    "job:databricks:8340837002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "London, United Kingdom",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Senior Solutions Architect (DS/ML/GenAI/LLM)"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -16156,7 +16156,7 @@
         "location": "Bengaluru, India",
         "provider": "greenhouse",
         "team": null,
-        "title": "Sr. IT Full Stack Developer (AI Agents)"
+        "title": "Sr Full Stack Developer (AI Agents)"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -23240,7 +23240,7 @@
         "location": null,
         "provider": "ashby",
         "team": null,
-        "title": "Community Engagement Lead - Ohio"
+        "title": "Community Engagement Lead, Ohio"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -26233,17 +26233,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Staff Security Reliability Engineer"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:a38926a6-a514-4ee0-bfe1-408922a2790c": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "GTM Strategy & Operations, India & South East Asia"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -32541,5 +32530,5 @@
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-09-12T23:25:36.948Z"
+  "updated_at": "2026-09-13T23:35:07.308Z"
 }
