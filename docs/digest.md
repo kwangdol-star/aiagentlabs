@@ -1,82 +1,82 @@
-# Chronicle 다이제스트 — 2026-09-06
+# Chronicle 다이제스트 — 2026-09-13
 
-> 최근 30일(2026-08-07~) 관측. 시간해자 아카이브의 축적물 요약.
+> 최근 30일(2026-08-14~) 관측. 시간해자 아카이브의 축적물 요약.
 
 ## 한눈에
-- 소스 **12개** · 추적 엔티티 **75,692** · 원장 총 이벤트 **115,409** · 체인 총 길이 **115,409**
-- 이번 기간: 소멸 **1250** · 수정 **21394** · 신규 **14,255**
+- 소스 **12개** · 추적 엔티티 **76,694** · 원장 총 이벤트 **120,018** · 체인 총 길이 **120,018**
+- 이번 기간: 소멸 **1157** · 수정 **20179** · 신규 **12,478**
 - **3중 공증**: 해시체인 12/12 소스 봉인 · git 히스토리 · TSA 외부앵커 **12/12** 머리 고정
 
 ## 사라진 것 — 소멸 (지금 찍은 자만 소유)
-- `mcp-census` **server:com.datakoot/base-intel-mcp** — 2.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.datakoot/domain-intel-mcp** — 2.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.datakoot/economy-intel-mcp** — 2.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.datakoot/filings-intel-mcp** — 2.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.datakoot/market-intel-mcp** — 2.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.datakoot/package-intel-mcp** — 2.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.datakoot/regulatory-intel-mcp** — 2.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.datakoot/security-intel-mcp** — 2.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.datakoot/weather-intel-mcp** — 2.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.defaultprivacy/default-privacy** — 1.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.delvynstudio/mcp** — 1.0.1 _(2026-09-06)_
-- `mcp-census` **server:com.flightmussy/flightmussy** — 1.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.flightpowers/freemium-google-flights-and-booking** — 1.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.luniumpay/lunium** — 1.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.mcpsearchconsole/search-console** — 0.4.1 _(2026-09-06)_
-- `mcp-census` **server:com.permitreporter/georgia-permits** — 1.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.smklog/parcel-quotes** — 1.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.spytrend/ad-spy** — 1.0.0 _(2026-09-06)_
-- `mcp-census` **server:com.uicockpit/mcp** — 0.5.1 _(2026-09-06)_
-- `mcp-census` **server:com.unlistedinc/unlisted** — 1.0.0 _(2026-09-06)_
-- `mcp-census` **server:io.github.0200project/base-tx-explain** — 0.1.2 _(2026-09-06)_
-- `mcp-census` **server:io.github.Bender1011001/agent-research-network** — 0.1.0 _(2026-09-06)_
-- `mcp-census` **server:io.github.RhythmP28/magic-hour** — 3.4.7 _(2026-09-06)_
-- `mcp-census` **server:io.github.RuyaaCapital-admin/socializioz-chatgpt-mcp** — 1.0.2 _(2026-09-06)_
-- `mcp-census` **server:io.github.WRG-11/wrg-mcp-server** — 1.0.8 _(2026-09-06)_
-- …외 1225건 더 (원장 changes.jsonl에 전량 보존)
+- `deal-audit-ledger` **deal:11140:20260604:회현동1가:206:SK리더스뷰남산:137.53:15:212000** — {"LAWD_CD":"11140","_chronicle_window_date":"2026-06-04","aptDong":"","aptNm":"SK리더스뷰남산","aptSeq":"11140-1099","bonbun":"0206","bubun":"0000… _(2026-09-13)_
+- `deal-audit-ledger` **deal:11140:20260702:흥인동:13-1:청계천두산위브더제니스:124.1323:6:158000** — {"LAWD_CD":"11140","_chronicle_window_date":"2026-07-02","aptDong":"","aptNm":"청계천두산위브더제니스","aptSeq":"11140-1226","bonbun":"0013","bubun":"0… _(2026-09-13)_
+- `deal-audit-ledger` **deal:11170:20260523:한남동:29-4:한성1:44.43:6:59100** — {"LAWD_CD":"11170","_chronicle_window_date":"2026-05-23","aptDong":"","aptNm":"한성1","aptSeq":"11170-114","bonbun":"0029","bubun":"0004","bui… _(2026-09-13)_
+- `deal-audit-ledger` **deal:11215:20260529:자양동:859:래미안프리미어팰리스:84.81:24:169000** — {"LAWD_CD":"11215","_chronicle_window_date":"2026-05-29","aptDong":"","aptNm":"래미안프리미어팰리스","aptSeq":"11215-4343","bonbun":"0859","bubun":"00… _(2026-09-13)_
+- `deal-audit-ledger` **deal:11320:20260727:방학동:716-5:이에스에이아파트2:84.98:13:66000** — {"LAWD_CD":"11320","_chronicle_window_date":"2026-07-27","aptDong":"","aptNm":"이에스에이아파트2","aptSeq":"11320-105","bonbun":"0716","bubun":"0005… _(2026-09-13)_
+- `deal-audit-ledger` **deal:11320:20260901:방학동:717-2:방학지음재힐스:14.86:8:11000** — {"LAWD_CD":"11320","_chronicle_window_date":"2026-09-01","aptDong":"","aptNm":"방학지음재힐스","aptSeq":"11320-3496","bonbun":"0717","bubun":"0002"… _(2026-09-13)_
+- `deal-audit-ledger` **deal:11650:20260521:반포동:612-2:반포2차ApelBaum:243.3:7:446000** — {"LAWD_CD":"11650","_chronicle_window_date":"2026-05-21","aptDong":"","aptNm":"반포2차ApelBaum","aptSeq":"11650-3385","bonbun":"0612","bubun":"… _(2026-09-13)_
+- `deal-audit-ledger` **deal:11650:20260521:방배동:808-8:리치팰리스:110.27:1:150000** — {"LAWD_CD":"11650","_chronicle_window_date":"2026-05-21","aptDong":"","aptNm":"리치팰리스","aptSeq":"11650-3534","bonbun":"0808","bubun":"0008","… _(2026-09-13)_
+- `deal-audit-ledger` **deal:11650:20260601:반포동:99-1:엘리제빌:201.81:4:291000** — {"LAWD_CD":"11650","_chronicle_window_date":"2026-06-01","aptDong":"","aptNm":"엘리제빌","aptSeq":"11650-3430","bonbun":"0099","bubun":"0001","b… _(2026-09-13)_
+- `deal-audit-ledger` **deal:11710:20260422:잠실동:40:갤러리아팰리스:151.189:31:280000** — {"LAWD_CD":"11710","_chronicle_window_date":"2026-04-22","aptDong":"","aptNm":"갤러리아팰리스","aptSeq":"11710-281","bonbun":"0040","bubun":"0000",… _(2026-09-13)_
+- `ai-jobs-ledger` **job:anthropic:5184585008** — Data Science, Finance & Strategy _(2026-09-12)_
+- `ai-jobs-ledger` **job:anthropic:5398641008** — Safety & Security Counsel _(2026-09-12)_
+- `ai-jobs-ledger` **job:anthropic:5398653008** — Safety & Security Counsel, EMEA _(2026-09-12)_
+- `ai-jobs-ledger` **job:anthropic:5398659008** — Safety & Security Counsel, EMEA _(2026-09-12)_
+- `ai-jobs-ledger` **job:databricks:8185059002** — Sr. Technical Enablement Specialist _(2026-09-12)_
+- `ai-jobs-ledger` **job:databricks:8223331002** — Legal Counsel, Commercial  _(2026-09-12)_
+- `ai-jobs-ledger` **job:openai:3de4718b-8f4c-4b63-8637-02077a0113aa** — Security Engineer, Host Assurance _(2026-09-12)_
+- `ai-vendor-ledger` **model:inception/mercury-2.5-preview** — Inception: Mercury 2.5 Preview _(2026-09-12)_
+- `ai-vendor-ledger` **model:minimax/minimax-m2.7:free** — MiniMax: MiniMax M2.7 (free) _(2026-09-12)_
+- `ai-vendor-ledger` **model:minimax/minimax-m3:free** — MiniMax: MiniMax M3 (free) _(2026-09-12)_
+- `ai-vendor-ledger` **model:nex-agi/nex-n2-mini** — Nex AGI: Nex-N2-Mini _(2026-09-12)_
+- `ai-vendor-ledger` **model:nex-agi/nex-n2-pro** — Nex AGI: Nex-N2-Pro _(2026-09-12)_
+- `ai-vendor-ledger` **model:nousresearch/hermes-4-70b** — Nous: Hermes 4 70B _(2026-09-12)_
+- `ai-vendor-ledger` **model:z-ai/glm-5.2:free** — Z.ai: GLM 5.2 (free) _(2026-09-12)_
+- `ai-vendor-ledger` **model:~openai/gpt-latest** — OpenAI GPT Latest _(2026-09-12)_
+- …외 1132건 더 (원장 changes.jsonl에 전량 보존)
 
 ## 바뀐 것 — 조용한 수정
-- `mcp-census` **server:ai.abmeter/abmeter** · description_sha256: 315adee1e994eb95391d013826cc0df1c564ea4b5d2b585c6b213ca7f5361316 → dd5eecdfc9fc7de90b225dffae0ec30eeaeb9e8e76ad0a12fa1c4c285805ffc3 _(2026-09-06)_
-- `mcp-census` **server:ai.abmeter/abmeter** · version: 0.1.0 → 0.2.0 _(2026-09-06)_
-- `mcp-census` **server:ai.advisorsai/store-readiness** · description_sha256: b7a14e72f6a79f7513cbf1554f51b85f23522522f3cca4da4ef5a70f30305f60 → e951784ed02e687952b4a906de02963ef317e1929c518558233666315e415243 _(2026-09-06)_
-- `mcp-census` **server:ai.advisorsai/store-readiness** · version: 1.0.0 → 1.0.6 _(2026-09-06)_
-- `mcp-census` **server:ai.aetherwealth/mcp** · version: 0.2.14 → 0.2.15 _(2026-09-06)_
-- `mcp-census` **server:ai.agentlookups/counterscript** · description_sha256: 9edd12ccea46e5cefb7501fad4ebf78cd90710e28e32e9a5c795d21a505ce8d5 → de8ad107937ca83bac50b86331a9719f120288fce6ae08d75044a0258524826e _(2026-09-06)_
-- `mcp-census` **server:ai.agentlookups/counterscript** · version: 1.0.0 → 1.0.1 _(2026-09-06)_
-- `mcp-census` **server:ai.agentlookups/groundtruth** · description_sha256: e95929091054a82ad52559882472d3834c87c2b186d8f5017a5be80808c2f20d → 09acfb56e18d588c73c1157b11a773218273ad16db812d715ebbd0cbb968eca7 _(2026-09-06)_
-- `mcp-census` **server:ai.agentlookups/groundtruth** · version: 1.0.0 → 1.0.1 _(2026-09-06)_
-- `mcp-census` **server:ai.agentlookups/plumbline** · description_sha256: c3103c4973bf58197d9d21bbb8addc7b97cdde3bdda25d90045e6cf80b933513 → 938f4238365ed52cc25c5de588b053ae205d5ae7a792653a974411c0976c2e83 _(2026-09-06)_
-- `mcp-census` **server:ai.agentlookups/plumbline** · version: 1.0.0 → 1.0.1 _(2026-09-06)_
-- `mcp-census` **server:ai.alpic.mcp/alpic-mcp** · description_sha256: fadbd167793fcc205bc34c1e027e624e355d34ad59d6860872389397d7d0762c → 7dbe3c476c68af083db7a6df80e8ed7162c78c3942bdef7b3b9b5b23e9c28598 _(2026-09-06)_
-- `mcp-census` **server:ai.alpic.mcp/alpic-mcp** · version: 0.0.1 → 0.0.2 _(2026-09-06)_
-- `mcp-census` **server:ai.ankimcp/anki-mcp-server** · version: 0.24.1 → 0.25.0 _(2026-09-06)_
-- `mcp-census` **server:ai.ankimcp/anki-mcp-server-addon** · version: 0.27.1 → 0.28.0 _(2026-09-06)_
-- `mcp-census` **server:ai.assetlog/assetlog** · version: 1.4.0 → 1.5.0 _(2026-09-06)_
-- `mcp-census` **server:ai.astrofabric/mcp** · description_sha256: c43d1a235def8c2d595eca499edfbaefcf0230f122e0797d5bf231ed02fbb78f → 967372269add92d997bf55e0bb5b7220f041cedb8dcc01773a442e302dce73dc _(2026-09-06)_
-- `mcp-census` **server:ai.astrofabric/mcp** · version: 1.0.1 → 1.1.0 _(2026-09-06)_
-- `mcp-census` **server:ai.bluenexus/universal-mcp** · version: 1.17.1 → 1.19.0 _(2026-09-06)_
-- `mcp-census` **server:ai.borealhost/mcp** · version: 0.3.0 → 0.4.2 _(2026-09-06)_
-- `mcp-census` **server:ai.bourdon/bourdon** · version: 0.15.0 → 0.19.0 _(2026-09-06)_
-- `mcp-census` **server:ai.bowmark/bowmark** · version: 8.52.1 → 8.97.2 _(2026-09-06)_
-- `mcp-census` **server:ai.buywhere/buywhere-mcp** · status: active → deprecated _(2026-09-06)_
-- `mcp-census` **server:ai.buywhere/catalog-api** · description_sha256: bacfab69ecd803f28801b963d189583b9e32a0e4f0f6e1559c61b0af4cacc125 → 23315b8569db682647b137bd466ac57d6bbfa5fe15fd9d467ff87837fb4e7567 _(2026-09-06)_
-- `mcp-census` **server:ai.buywhere/catalog-api** · repository_url: https://github.com/BuyWhere/buywhere → https://github.com/BuyWhere/buywhere-mcp _(2026-09-06)_
-- …외 21369건 더 (원장 changes.jsonl에 전량 보존)
+- `forecast-graders` **page:khi-press** · items: ["2026-09-08 · 2026년 9월 아파트분양전망지수 홍보담당","2026-08-13 · 2026년 8월 주택사업경기전망지수 홍보담당",… → ["2026-09-10 · 2026년 9월 아파트입주전망지수 홍보담당","2026-09-08 · 2026년 9월 아파트분양전망지수 홍보담당","… _(2026-09-13)_
+- `consent-census` **probe:daum.net:llms-txt** · body_bytes: 662423 → 650511 _(2026-09-13)_
+- `consent-census` **probe:daum.net:llms-txt** · body_sha256: 25e053ee901aa7a31e998cb59ebcf22f285e0868404cc7e368e7a24f54d15e86 → 0730f55b07d4fb7231a73f44aa5d186c724b88d5a64958db384cdf8737768c91 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11140:20260622:신당동:844:남산타운:84.88:14:167000** · aptDong:  → 26 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11140:20260622:신당동:844:남산타운:84.88:14:167000** · rgstDate:  → 26.09.09 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11170:20260521:이촌동:415:한강(대우):84.98:12:258000** · aptDong:  → 107 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11170:20260521:이촌동:415:한강(대우):84.98:12:258000** · rgstDate:  → 26.09.03 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11170:20260525:한강로3가:98:센트럴파크:102.8617:8:345000** · aptDong:  → 103 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11170:20260525:한강로3가:98:센트럴파크:102.8617:8:345000** · rgstDate:  → 26.09.09 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11170:20260531:이촌동:402:강촌:84.85:12:259000** · aptDong:  → 104 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11170:20260531:이촌동:402:강촌:84.85:12:259000** · rgstDate:  → 26.09.08 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11170:20260611:용문동:90:브라운스톤:84.98:9:199000** · aptDong:  → 103 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11170:20260611:용문동:90:브라운스톤:84.98:9:199000** · rgstDate:  → 26.09.09 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11170:20260612:한남동:828:한남아이파크애비뉴:49.6243:4:86500** · rgstDate:  → 26.09.07 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11170:20260629:원효로1가:28-7:시온캐슬용산:19.33:10:43000** · rgstDate:  → 26.09.09 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11170:20260702:이촌동:402:강촌:114.595:10:313500** · aptDong:  → 103 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11170:20260702:이촌동:402:강촌:114.595:10:313500** · rgstDate:  → 26.09.09 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11200:20260520:행당동:346:행당한진타운:114.62:14:198000** · aptDong:  → 116 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11200:20260520:행당동:346:행당한진타운:114.62:14:198000** · rgstDate:  → 26.09.08 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11200:20260522:마장동:818:현대:59.91:10:134200** · aptDong:  → 102 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11200:20260522:마장동:818:현대:59.91:10:134200** · rgstDate:  → 26.09.04 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11200:20260704:금호동1가:633:벽산:59.9:16:169000** · aptDong:  → 203 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11200:20260704:금호동1가:633:벽산:59.9:16:169000** · rgstDate:  → 26.09.09 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11200:20260709:마장동:820:왕십리금호어울림:59.97:15:115000** · aptDong:  → 106 _(2026-09-13)_
+- `deal-audit-ledger` **deal:11200:20260709:마장동:820:왕십리금호어울림:59.97:15:115000** · rgstDate:  → 26.09.09 _(2026-09-13)_
+- …외 20154건 더 (원장 changes.jsonl에 전량 보존)
 
 ## 소스별 현황
 | 소스 | 엔티티 | 체인 | 최신 | 앵커 | 신규 | 소멸 | 수정 |
 | --- | ---: | ---: | --- | :---: | ---: | ---: | ---: |
 | agent-commerce-census | 96 | 96 | 2026-07-13 | ⚓ | 0 | 0 | 0 |
-| ai-jobs-ledger | 2,910 | 6,508 | 2026-09-05 | ⚓ | 1,146 | 830 | 361 |
-| ai-vendor-ledger | 431 | 1,133 | 2026-09-05 | ⚓ | 162 | 68 | 301 |
-| bunyang-capsule | 1,504 | 1,505 | 2026-09-04 | ⚓ | 214 | 0 | 0 |
-| commitments-watch | 8 | 50 | 2026-08-31 | ⚓ | 0 | 0 | 24 |
+| ai-jobs-ledger | 2,958 | 6,943 | 2026-09-12 | ⚓ | 1,096 | 769 | 324 |
+| ai-vendor-ledger | 445 | 1,227 | 2026-09-12 | ⚓ | 120 | 75 | 322 |
+| bunyang-capsule | 1,551 | 1,552 | 2026-09-12 | ⚓ | 167 | 0 | 0 |
+| commitments-watch | 8 | 60 | 2026-09-07 | ⚓ | 0 | 0 | 26 |
 | compute-price-index | 227 | 227 | 2026-07-10 | ⚓ | 0 | 0 | 0 |
-| consent-census | 67 | 471 | 2026-09-06 | ⚓ | 0 | 0 | 279 |
+| consent-census | 67 | 503 | 2026-09-13 | ⚓ | 0 | 0 | 177 |
 | datago-watch | 1 | 1 | 2026-07-11 | ⚓ | 0 | 0 | 0 |
-| deal-audit-ledger | 42,379 | 66,512 | 2026-09-05 | ⚓ | 4,350 | 240 | 12827 |
-| forecast-graders | 6 | 56 | 2026-09-02 | ⚓ | 0 | 0 | 6 |
+| deal-audit-ledger | 43,272 | 70,500 | 2026-09-13 | ⚓ | 3,774 | 213 | 13223 |
+| forecast-graders | 6 | 59 | 2026-09-13 | ⚓ | 0 | 0 | 7 |
 | llm-korea-capsule | 44 | 44 | 2026-07-13 | ⚓ | 0 | 0 | 0 |
-| mcp-census | 28,019 | 38,806 | 2026-09-06 | ⚓ | 8,383 | 112 | 7596 |
+| mcp-census | 28,019 | 38,806 | 2026-09-06 | ⚓ | 7,321 | 100 | 6100 |
 
-_생성 2026-09-06T22:58:37.902Z · 무결성 검증은 `npm run verify`, 재현은 각 소스 snapshots/ 원본._
+_생성 2026-09-13T23:17:12.682Z · 무결성 검증은 `npm run verify`, 재현은 각 소스 snapshots/ 원본._
