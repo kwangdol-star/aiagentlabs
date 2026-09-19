@@ -3,9 +3,25 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-09-19T22:17:52.894Z</updated>
+  <updated>2026-09-19T22:30:08.220Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:5491d50f29f3c32d466ac0a334e4bc94092f68e3741c5caa8cadf4982f7ba3ea</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-09-19T22:30:08.220Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:735024,&quot;before&quot;:715718,&quot;chain_hash&quot;:&quot;5491d50f29f3c32d466ac0a334e4bc94092f68e3741c5caa8cadf4982f7ba3ea&quot;,&quot;content_hash&quot;:&quot;25c1f2f875c48372316cd5bdb7b53e88b591aeb959e4a92dfdc8623611bf1cf8&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-09-19T22:30:08.220Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:8d45ebb5587af7ea132f0211b144448fdfd9fa05ef5ed342b89b28d22aaab13b</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-09-19T22:30:08.220Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;4c6dbbb1058d44872e8e14e73df7575515cd2120c5b221613d506ccdfce99f5c&quot;,&quot;before&quot;:&quot;d044e8036eabe2cb55ac8763faf8364f9f3a233471b1ff92db915206533012fd&quot;,&quot;chain_hash&quot;:&quot;8d45ebb5587af7ea132f0211b144448fdfd9fa05ef5ed342b89b28d22aaab13b&quot;,&quot;content_hash&quot;:&quot;467ebbd4afbe68bd7d2e77e5e01ba6cf49429b3dc9e7bf0cabb37227138a8e93&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-09-19T22:30:08.220Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:ai-vendor-ledger:929c2cec559e812dac53ccd814d98c2682ab0f07e44df883551a950578cd411f</id>
     <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [신규] model:z-ai/glm-5.2:free</title>
@@ -645,22 +661,6 @@
     <category term="consent-census"/>
     <link href="https://reuters.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:&quot;358ed34d0588fa2fcf3ffdf78033e1c15536bc7275c77211e9da92eed5a6284a&quot;,&quot;before&quot;:&quot;8e266f0bdfef06291b43109363d571a7d98b94b57d511123264b0eb37cdc4050&quot;,&quot;chain_hash&quot;:&quot;a6b8bf3c45da2f86535589a89d8eea6253226bd2fdc2b41572e253459e3c9f2d&quot;,&quot;content_hash&quot;:&quot;c084f55be0d85d9cd003fda46b62a33e6bda01938cb3c06a9d2591f61ace3b0a&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-09-16T23:10:04.298Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:74f7c0e5e3346f3d2033956611c0431ac90554c5d9d73763558224b69d7f4ba0</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:reuters.com:robots-txt · body_bytes</title>
-    <updated>2026-09-15T23:05:23.710Z</updated>
-    <category term="consent-census"/>
-    <link href="https://reuters.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:4436,&quot;before&quot;:4451,&quot;chain_hash&quot;:&quot;74f7c0e5e3346f3d2033956611c0431ac90554c5d9d73763558224b69d7f4ba0&quot;,&quot;content_hash&quot;:&quot;fa86d2cb1bf6b79e9e6175b7071c84abb42482f13aa8b8ed4bf9d8b7c6357971&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-09-15T23:05:23.710Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:8b8e5b96a2503a259ba6988146aeee12877f69d43639d6bf710ed6a18f7c0add</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:reuters.com:robots-txt · body_sha256</title>
-    <updated>2026-09-15T23:05:23.710Z</updated>
-    <category term="consent-census"/>
-    <link href="https://reuters.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;8e266f0bdfef06291b43109363d571a7d98b94b57d511123264b0eb37cdc4050&quot;,&quot;before&quot;:&quot;361da2d208858704b344b29d1572f1fa4212b5e6d8d400b4a01ad70d87628373&quot;,&quot;chain_hash&quot;:&quot;8b8e5b96a2503a259ba6988146aeee12877f69d43639d6bf710ed6a18f7c0add&quot;,&quot;content_hash&quot;:&quot;cc93fe7168244dcc4b4a336cf9e123b99fe5ba9d719d809eb4ec2b3bb3f74773&quot;,&quot;entity_id&quot;:&quot;probe:reuters.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-09-15T23:05:23.710Z&quot;,&quot;source_url&quot;:&quot;https://reuters.com/robots.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:commitments-watch:a4021bfdc0d17765e2ec4b622776f534da97f940b306de003172722e26d935eb</id>
