@@ -199,8 +199,8 @@
     },
     "probe:daum.net:llms-txt": {
       "fields": {
-        "body_bytes": 735024,
-        "body_sha256": "4c6dbbb1058d44872e8e14e73df7575515cd2120c5b221613d506ccdfce99f5c",
+        "body_bytes": 685300,
+        "body_sha256": "0b81de0664a3ec5f0555efbeba120060d8768cad45f913409ede233d9e151ae9",
         "content_type": "text/html",
         "status": 200
       },
@@ -408,21 +408,21 @@
     },
     "probe:khan.co.kr:robots-txt": {
       "fields": {
-        "body": "User-agent: AhrefsBot\r\nUser-agent: SemrushBot\r\nUser-agent: ClaudeBot\r\nUser-agent: GPTBot\r\nUser-agent: ChatGPT-User\r\nUser-agent: Google-Extended\r\nUser-agent: Bytespider\r\nUser-agent: Applebot-Extended\r\nUser-agent: CCBot\r\nUser-agent: dotbot\r\nUser-agent: DeepSeekBot\r\nDisallow: /\r\n\r\nUser-agent: *\r\nDisallow: /login\r\nDisallow: /SecListData.html\r\nDisallow: /national/national-general/article/201709021732001\r\nDisallow: /national/national-general/article/201609241422011\r\nDisallow: /article/201709021732001\r\n\r\nSitemap: https://www.khan.co.kr/sitemap.xml\r\nSitemap: https://www.khan.co.kr/sitemap/latest-articles.xml\r\nSitemap: https://www.khan.co.kr/sitemap/daily-images.xml\r\nSitemap: https://www.khan.co.kr/sitemap/daily-videos.xml\r\nSitemap: https://www.khan.co.kr/sitemap/authors.xml\r\n\r\nSitemap: https://www.khan.co.kr/rss/rssdata/english_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/newsletter_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/interactive_news.xml\r\nSitemap: https://www.khan.co.kr/rss/rssdata/video_news.xml\r\n\r\n#DaumWebMasterTool:35bc55071cd98ae09fdf97e6c96768225c02c9f6ab5b8fe3c1118aefe5139d74:gbyst4GwRZz3X/sV/51MJQ==\r\n",
-        "body_bytes": 1145,
-        "body_sha256": "efb4737dab07f892c114b1784f32f464dc863db5832d187c0b9d1940675fc9b5",
+        "body": "# ====================================================\n# AI Data Collection Policy\n#\n# Crawling or use of content from this site for\n# AI training, LLM development, or machine learning\n# purposes is prohibited without prior written consent.\n#\n# Contact: <https://www.khan.co.kr/company/copyright>\n# ====================================================\n\n# Block AI Learning Bots & Scrapers\nUser-agent: GPTBot\nUser-agent: ClaudeBot\nUser-agent: Claude-Web\nUser-agent: anthropic-ai\nUser-agent: Google-Extended\nUser-agent: GoogleOther\nUser-agent: GoogleOther-Image\nUser-agent: Bytespider\nUser-agent: TikTokSpider\nUser-agent: Applebot-Extended\nUser-agent: CCBot\nUser-agent: DeepSeekBot\nUser-agent: cohere-ai\nUser-agent: meta-externalagent\nUser-agent: Diffbot\nUser-agent: Omgilibot\nUser-agent: Omgili\nUser-agent: PetalBot\nUser-agent: PanguBot\nUser-agent: WRTNBot\nUser-agent: YouBot\nUser-agent: FriendlyCrawler\nUser-agent: ICC-Crawler\nUser-agent: ImagesiftBot\nUser-agent: img2dataset\nUser-agent: Scrapy\nUser-agent: 01-AI-Bot\nUser-agent: ChatGLM-Spider\nUser-agent: TongyiBot\nUser-agent: YiyanBot\nDisallow: /\n\n# Block SEO & Marketing Bots\nUser-agent: AhrefsBot\nUser-agent: SemrushBot\nUser-agent: dotbot\nUser-agent: DataForSeoBot\nDisallow: /\n\n# Allow AI Search Bots - block non-public pages only\nUser-agent: ChatGPT-User\nUser-agent: OAI-SearchBot\nUser-agent: Operator\nUser-agent: PerplexityBot\nUser-agent: Perplexity-User\nUser-agent: Claude-SearchBot\nUser-agent: Gemini-Deep-Research\nUser-agent: GoogleAgent-URLContext\nUser-agent: MistralAI-User\nUser-agent: Kimi-User\nUser-agent: Manus-User\nDisallow: /login\nDisallow: /SecListData.html\nDisallow: /print.html\nDisallow: /article/201709021732001\nDisallow: /national/national-general/article/201709021732001\nDisallow: /article/201609241422011\nDisallow: /national/national-general/article/201609241422011\n\n# Default Rules for General Search Engines\nUser-agent: *\nDisallow: /login\nDisallow: /SecListData.html\nDisallow: /article/201709021732001\nDisallow: /national/national-general/article/201709021732001\nDisallow: /print.html?art_id=201709021732001&media=khan&type=basic\nDisallow: /article/201609241422011\nDisallow: /national/national-general/article/201609241422011\nDisallow: /print.html?art_id=201609241422011&media=khan&type=basic\n\n# Sitemap and RSS Feed Locations\nSitemap: https://www.khan.co.kr/sitemap.xml\nSitemap: https://www.khan.co.kr/sitemap/latest-articles.xml\nSitemap: https://www.khan.co.kr/sitemap/daily-images.xml\nSitemap: https://www.khan.co.kr/sitemap/daily-videos.xml\nSitemap: https://www.khan.co.kr/sitemap/authors.xml\nSitemap: https://www.khan.co.kr/rss/rssdata/english_news.xml\nSitemap: https://www.khan.co.kr/rss/rssdata/newsletter_news.xml\nSitemap: https://www.khan.co.kr/rss/rssdata/interactive_news.xml\nSitemap: https://www.khan.co.kr/rss/rssdata/video_news.xml\n\n#DaumWebMasterTool:35bc55071cd98ae09fdf97e6c96768225c02c9f6ab5b8fe3c1118aefe5139d74:gbyst4GwRZz3X/sV/51MJQ==",
+        "body_bytes": 2930,
+        "body_sha256": "7a90a2a6b45b65a9d6da6c6a0cf313f2b0460bc7be4941c06e31e88087535ae3",
         "bot:Amazonbot": "absent",
         "bot:Applebot-Extended": "blocked",
         "bot:Bytespider": "blocked",
         "bot:CCBot": "blocked",
-        "bot:ChatGPT-User": "blocked",
+        "bot:ChatGPT-User": "partial",
         "bot:ClaudeBot": "blocked",
         "bot:GPTBot": "blocked",
         "bot:Google-Extended": "blocked",
-        "bot:OAI-SearchBot": "absent",
-        "bot:PerplexityBot": "absent",
-        "bot:anthropic-ai": "absent",
-        "bot:meta-externalagent": "absent",
+        "bot:OAI-SearchBot": "partial",
+        "bot:PerplexityBot": "partial",
+        "bot:anthropic-ai": "blocked",
+        "bot:meta-externalagent": "blocked",
         "content_type": "text/plain",
         "status": 200
       },
@@ -932,5 +932,5 @@
     }
   },
   "source_id": "consent-census",
-  "updated_at": "2026-09-19T22:30:08.220Z"
+  "updated_at": "2026-09-20T22:41:34.467Z"
 }
