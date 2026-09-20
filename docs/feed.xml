@@ -3,9 +3,97 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-09-20T22:41:34.467Z</updated>
+  <updated>2026-09-20T23:34:50.458Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:46a63c89483d3503c95adb4cf28d7ce3ae9bbf90a6a611b3c5215c4f741ffeb2</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [신규] job:cohere:595a2d50-46a5-4ff9-af1c-d58cea9d8e68</title>
+    <updated>2026-09-20T23:34:50.458Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/cohere"/>
+    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;cohere&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Revenue Enablement Program Manager - EMEA&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;46a63c89483d3503c95adb4cf28d7ce3ae9bbf90a6a611b3c5215c4f741ffeb2&quot;,&quot;content_hash&quot;:&quot;fe1087c7f9b7acf30728b1df16d9f934f717643f3c30612af5374c5765207af2&quot;,&quot;entity_id&quot;:&quot;job:cohere:595a2d50-46a5-4ff9-af1c-d58cea9d8e68&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-20T23:34:50.458Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/cohere&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:d31eb8fbb555c62937327eab040a3d1e00329f035aaacad31464611ff2a5f2aa</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:anthropic:5413576008</title>
+    <updated>2026-09-20T23:34:50.458Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;San Francisco, CA | New York City, NY&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Product Manager, Safeguards (Account Integrity &amp; Abuse) &quot;},&quot;chain_hash&quot;:&quot;d31eb8fbb555c62937327eab040a3d1e00329f035aaacad31464611ff2a5f2aa&quot;,&quot;content_hash&quot;:&quot;0025cdf190d815a2e8f7fb14d56b7908aadaa6b5cfe9b354cbefe4d9ca498d14&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5413576008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-20T23:34:50.458Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:be5cec0e46dd812d31872c5fff7a538c11012cc3daec34cfdfc0e1065f425c9e</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:cohere:0cade8fa-d7bf-4e40-8ee1-b601ab439d12</title>
+    <updated>2026-09-20T23:34:50.458Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/cohere"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;cohere&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Senior Account Executive - Manufacturing&quot;},&quot;chain_hash&quot;:&quot;be5cec0e46dd812d31872c5fff7a538c11012cc3daec34cfdfc0e1065f425c9e&quot;,&quot;content_hash&quot;:&quot;cb97555bf696109f38efa98d611e02d77fba52ed38aac24a43879fd53a2a8ac6&quot;,&quot;entity_id&quot;:&quot;job:cohere:0cade8fa-d7bf-4e40-8ee1-b601ab439d12&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-20T23:34:50.458Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/cohere&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:0c9c5e97de47cb5642a859f261e1e460df7d402020e5e561a9296e43165781d1</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:databricks:8417656002</title>
+    <updated>2026-09-20T23:34:50.458Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://boards-api.greenhouse.io/v1/boards/databricks/jobs"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;databricks&quot;,&quot;location&quot;:&quot;Remote - Texas&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Sr. Solutions Architect&quot;},&quot;chain_hash&quot;:&quot;0c9c5e97de47cb5642a859f261e1e460df7d402020e5e561a9296e43165781d1&quot;,&quot;content_hash&quot;:&quot;0c9110729fc26ec9f28e0e867628fa4436a0d53c93736a04e95f6794b1e16142&quot;,&quot;entity_id&quot;:&quot;job:databricks:8417656002&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-20T23:34:50.458Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/databricks/jobs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:0011af938d5d68bbc7f056f584dbee07821b3a3fa812b8f32716159f2e9a0aa0</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:databricks:8520123002</title>
+    <updated>2026-09-20T23:34:50.458Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://boards-api.greenhouse.io/v1/boards/databricks/jobs"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;databricks&quot;,&quot;location&quot;:&quot;United States&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Senior Customer Enablement Architect&quot;},&quot;chain_hash&quot;:&quot;0011af938d5d68bbc7f056f584dbee07821b3a3fa812b8f32716159f2e9a0aa0&quot;,&quot;content_hash&quot;:&quot;6b29b09aeb2424ebad1841f8e1928482a23bb0d0f24f9100ea8131b72b47e18a&quot;,&quot;entity_id&quot;:&quot;job:databricks:8520123002&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-20T23:34:50.458Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/databricks/jobs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:9b85013f9de1d9ffe22ff5ae766fce393a5d6c42d194b217f48ce5027ba47458</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:elevenlabs:20a29846-f8f5-483c-a3cb-52f14c525366</title>
+    <updated>2026-09-20T23:34:50.458Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/elevenlabs"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;elevenlabs&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;General Manager - Italy&quot;},&quot;chain_hash&quot;:&quot;9b85013f9de1d9ffe22ff5ae766fce393a5d6c42d194b217f48ce5027ba47458&quot;,&quot;content_hash&quot;:&quot;88a75b03b47adcb668615bd2c5c464f5f63cfa535cb2fdac0ed272a370b7a171&quot;,&quot;entity_id&quot;:&quot;job:elevenlabs:20a29846-f8f5-483c-a3cb-52f14c525366&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-20T23:34:50.458Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/elevenlabs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:b9a458518227ca57b397b3968b0f40cce554808ab9411a8132fe6c1c9a63e742</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:elevenlabs:3cfeeeae-fa89-4708-ad93-533953c29486</title>
+    <updated>2026-09-20T23:34:50.458Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/elevenlabs"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;elevenlabs&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;General Manager - Poland&quot;},&quot;chain_hash&quot;:&quot;b9a458518227ca57b397b3968b0f40cce554808ab9411a8132fe6c1c9a63e742&quot;,&quot;content_hash&quot;:&quot;07ff76c372526b8a46ebbdeb1e4ebe6ab5e8f01a7690f3f3e95990070d5b52bf&quot;,&quot;entity_id&quot;:&quot;job:elevenlabs:3cfeeeae-fa89-4708-ad93-533953c29486&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-20T23:34:50.458Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/elevenlabs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:74c690113725882179faabce6c65ef07eb8c2cc597abe6c8eac1acdf7ad905c3</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:elevenlabs:a3873284-4344-4f3c-9bce-19a5de75d6fc</title>
+    <updated>2026-09-20T23:34:50.458Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/elevenlabs"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;elevenlabs&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;General Manager - Switzerland&quot;},&quot;chain_hash&quot;:&quot;74c690113725882179faabce6c65ef07eb8c2cc597abe6c8eac1acdf7ad905c3&quot;,&quot;content_hash&quot;:&quot;745362897c702cea06aae009192cf99284cb273667e258bfed0c147ae887b241&quot;,&quot;entity_id&quot;:&quot;job:elevenlabs:a3873284-4344-4f3c-9bce-19a5de75d6fc&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-20T23:34:50.458Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/elevenlabs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:c3d4c668045d9c5789ac23326b25e2f5940d60ea72ac73ceddc377f79b18c76e</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:elevenlabs:ca1269c6-12c7-419a-ab4d-458a0a907a17</title>
+    <updated>2026-09-20T23:34:50.458Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/elevenlabs"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;elevenlabs&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;General Manager - UK&quot;},&quot;chain_hash&quot;:&quot;c3d4c668045d9c5789ac23326b25e2f5940d60ea72ac73ceddc377f79b18c76e&quot;,&quot;content_hash&quot;:&quot;9d79a32db7e94eb4fec5e4e5818175f1ed1afab1809056e33a5679be86f791c4&quot;,&quot;entity_id&quot;:&quot;job:elevenlabs:ca1269c6-12c7-419a-ab4d-458a0a907a17&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-20T23:34:50.458Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/elevenlabs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:4f72b1e2375e46be90bbce7105ef3810bcaa0e0ed2f3044c82377c354d2765fb</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:elevenlabs:ceb4eb7b-f1ad-429d-a2ec-11fd902948b8</title>
+    <updated>2026-09-20T23:34:50.458Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/elevenlabs"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;elevenlabs&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;General Manager - Denmark&quot;},&quot;chain_hash&quot;:&quot;4f72b1e2375e46be90bbce7105ef3810bcaa0e0ed2f3044c82377c354d2765fb&quot;,&quot;content_hash&quot;:&quot;2c32ff06d1eaad8f5f9f297d76d3313e95421a0fdaf2df7952f366818227046f&quot;,&quot;entity_id&quot;:&quot;job:elevenlabs:ceb4eb7b-f1ad-429d-a2ec-11fd902948b8&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-20T23:34:50.458Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/elevenlabs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:e357c2946f8fc53dfac03df36a42164988d652583c73a9879ce0f1d2ced9e8dd</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:bed15207-f4bc-4a51-ae13-de017ddf3cba</title>
+    <updated>2026-09-20T23:34:50.458Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Sales Manager, Digital Natives&quot;},&quot;chain_hash&quot;:&quot;e357c2946f8fc53dfac03df36a42164988d652583c73a9879ce0f1d2ced9e8dd&quot;,&quot;content_hash&quot;:&quot;83b2a75e6ebc7b44f0645b108e16e5f41c1a7d4453bb6badf828ced714ac30bb&quot;,&quot;entity_id&quot;:&quot;job:openai:bed15207-f4bc-4a51-ae13-de017ddf3cba&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-20T23:34:50.458Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:consent-census:2e6ffb4da540735c6da3752c202a44cad5ddea1c771cd3664864d9836f46b83d</id>
     <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
@@ -245,38 +333,6 @@
     <category term="bunyang-capsule"/>
     <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026820011&amp;pblancNo=2026820011"/>
     <content type="text">{&quot;after&quot;:{&quot;BSNS_MBY_NM&quot;:&quot;한국토지주택공사 경기남부지역본부&quot;,&quot;CNSTRCT_ENTRPS_NM&quot;:&quot;한신공영(주)&quot;,&quot;CNTRCT_CNCLS_BGNDE&quot;:&quot;2026-12-29&quot;,&quot;CNTRCT_CNCLS_ENDDE&quot;:&quot;2026-12-30&quot;,&quot;GNRL_RNK1_CRSPAREA_ENDDE&quot;:&quot;2026-09-28&quot;,&quot;GNRL_RNK1_CRSPAREA_RCPTDE&quot;:&quot;2026-09-28&quot;,&quot;GNRL_RNK1_ETC_AREA_ENDDE&quot;:&quot;2026-09-28&quot;,&quot;GNRL_RNK1_ETC_AREA_RCPTDE&quot;:&quot;2026-09-28&quot;,&quot;GNRL_RNK1_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK1_ETC_GG_RCPTDE&quot;:null,&quot;GNRL_RNK2_CRSPAREA_ENDDE&quot;:&quot;2026-09-29&quot;,&quot;GNRL_RNK2_CRSPAREA_RCPTDE&quot;:&quot;2026-09-29&quot;,&quot;GNRL_RNK2_ETC_AREA_ENDDE&quot;:&quot;2026-09-29&quot;,&quot;GNRL_RNK2_ETC_AREA_RCPTDE&quot;:&quot;2026-09-29&quot;,&quot;GNRL_RNK2_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK2_ETC_GG_RCPTDE&quot;:null,&quot;HMPG_ADRES&quot;:&quot;https://www.apply.lh.or.kr&quot;,&quot;HOUSE_DTL_SECD&quot;:&quot;03&quot;,&quot;HOUSE_DTL_SECD_NM&quot;:&quot;국민&quot;,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026820011&quot;,&quot;HOUSE_NM&quot;:&quot;시흥하중지구 A-4블록 신혼희망타운(공공분양) 추가입주자모집&quot;,&quot;HOUSE_SECD&quot;:&quot;10&quot;,&quot;HOUSE_SECD_NM&quot;:&quot;신혼희망타운&quot;,&quot;HSSPLY_ADRES&quot;:&quot;경기도 시흥시 하중동 일원 (시흥하중 공공주택지구 내 A-4블록)&quot;,&quot;HSSPLY_ZIP&quot;:&quot;14972&quot;,&quot;IMPRMN_BSNS_AT&quot;:&quot;N&quot;,&quot;LRSCL_BLDLND_AT&quot;:&quot;N&quot;,&quot;MDAT_TRGET_AREA_SECD&quot;:&quot;N&quot;,&quot;MDHS_TELNO&quot;:&quot;16001004&quot;,&quot;MVN_PREARNGE_YM&quot;:&quot;202807&quot;,&quot;NPLN_PRVOPR_PUBLIC_HOUSE_AT&quot;:&quot;N&quot;,&quot;NSPRC_NM&quot;:null,&quot;PARCPRC_ULS_AT&quot;:&quot;Y&quot;,&quot;PBLANC_NO&quot;:&quot;2026820011&quot;,&quot;PBLANC_URL&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026820011&amp;pblancNo=2026820011&quot;,&quot;PRZWNER_PRESNATN_DE&quot;:&quot;2026-10-08&quot;,&quot;PUBLIC_HOUSE_EARTH_AT&quot;:&quot;Y&quot;,&quot;PUBLIC_HOUSE_SPCLW_APPLC_AT&quot;:&quot;Y&quot;,&quot;RCEPT_BGNDE&quot;:&quot;2026-09-28&quot;,&quot;RCEPT_ENDDE&quot;:&quot;2026-09-29&quot;,&quot;RCRIT_PBLANC_DE&quot;:&quot;2026-09-18&quot;,&quot;RENT_SECD&quot;:&quot;0&quot;,&quot;RENT_SECD_NM&quot;:&quot;분양주택&quot;,&quot;SPECLT_RDN_EARTH_AT&quot;:&quot;N&quot;,&quot;SPSPLY_RCEPT_BGNDE&quot;:null,&quot;SPSPLY_RCEPT_ENDDE&quot;:null,&quot;SUBSCRPT_AREA_CODE&quot;:&quot;410&quot;,&quot;SUBSCRPT_AREA_CODE_NM&quot;:&quot;경기&quot;,&quot;TOT_SUPLY_HSHLDCO&quot;:61,&quot;_chronicle_window_date&quot;:&quot;2026-09-18&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;d8a2ecc8adb49014aaf9f2ddcd90b7fea27de0cf07b5d7d0c47d6bb81bde37a8&quot;,&quot;content_hash&quot;:&quot;854828a80452532c36f4fb45b8316ad2a063bdf9ec5b76ba3ae4afbe8c58904c&quot;,&quot;entity_id&quot;:&quot;apt:2026820011:2026820011&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-19T23:39:35.373Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026820011&amp;pblancNo=2026820011&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:85f79b89304a19b08ec3530de8bd5f8fe052619a08968838d54227bc0597734d</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [변경] job:anthropic:5386949008 · location</title>
-    <updated>2026-09-19T23:36:10.190Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
-    <content type="text">{&quot;after&quot;:&quot;New York City, NY; San Francisco, CA; Seattle, WA; Washington, DC&quot;,&quot;before&quot;:&quot;New York City, NY; San Francisco, CA; Seattle, WA&quot;,&quot;chain_hash&quot;:&quot;85f79b89304a19b08ec3530de8bd5f8fe052619a08968838d54227bc0597734d&quot;,&quot;content_hash&quot;:&quot;3733ece5b81bef0b81f5f8e29311a8587f012efc1c38dda32bf2241c41d172a9&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5386949008&quot;,&quot;field&quot;:&quot;location&quot;,&quot;observed_at&quot;:&quot;2026-09-19T23:36:10.190Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:dc0afc2e2bbec8ac8d822b73afa6c3069f6e0622154f938345806a86646a3bd5</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [신규] job:anthropic:5413576008</title>
-    <updated>2026-09-19T23:36:10.190Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
-    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;San Francisco, CA | New York City, NY&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Product Manager, Safeguards (Account Integrity &amp; Abuse) &quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;dc0afc2e2bbec8ac8d822b73afa6c3069f6e0622154f938345806a86646a3bd5&quot;,&quot;content_hash&quot;:&quot;ab931fe4b76ba53e6c1a5d80b4cc62facd4817ddfa1ebd21af4ee1b8b56c3461&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5413576008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-19T23:36:10.190Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:ce7ff7dbb3b0badb7c28abbb6b678a113a6c71fe590a42b724ce466c32a9e657</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [신규] job:anthropic:5422950008</title>
-    <updated>2026-09-19T23:36:10.190Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
-    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Security Technology Deployment Specialist&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;ce7ff7dbb3b0badb7c28abbb6b678a113a6c71fe590a42b724ce466c32a9e657&quot;,&quot;content_hash&quot;:&quot;d5c0a31cfded467829802f076a14e6487162f909a247b1e5af6d358139fba1fb&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5422950008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-19T23:36:10.190Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:34955b62f284bc816e7af8afd5e43e4b5094bc6de0d9bc90efbbd46cfdd9e887</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [신규] job:anthropic:5427969008</title>
-    <updated>2026-09-19T23:36:10.190Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
-    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;San Francisco, CA | Seattle, WA&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Compute &amp; Infrastructure Counsel, Real Estate&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;34955b62f284bc816e7af8afd5e43e4b5094bc6de0d9bc90efbbd46cfdd9e887&quot;,&quot;content_hash&quot;:&quot;f2955a5e5f902ca708ccc9f94aea1101e150ec630c66875f61d16a75c647bb69&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5427969008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-19T23:36:10.190Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:ai-jobs-ledger:0d44c14230ac138ba541a74e97786d2eb3197b66414aa9de27c42917b895b8c8</id>
@@ -685,62 +741,6 @@
     <category term="deal-audit-ledger"/>
     <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;LAWD_CD&quot;:&quot;11680&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-06-11&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;현대썬앤빌테헤란&quot;,&quot;aptSeq&quot;:&quot;11680-4542&quot;,&quot;bonbun&quot;:&quot;0894&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;2016&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;77,000&quot;,&quot;dealDay&quot;:&quot;11&quot;,&quot;dealMonth&quot;:&quot;6&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강남구&quot;,&quot;excluUseAr&quot;:&quot;49.24&quot;,&quot;floor&quot;:&quot;7&quot;,&quot;jibun&quot;:&quot;894&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;삼성로85길&quot;,&quot;roadNmBonbun&quot;:&quot;00033&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;4166431&quot;,&quot;roadNmSeq&quot;:&quot;00&quot;,&quot;roadNmSggCd&quot;:&quot;11680&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11680&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10600&quot;,&quot;umdNm&quot;:&quot;대치동&quot;},&quot;chain_hash&quot;:&quot;a8d4ea78ec4ed7543fd5367da5fe8c22ee846375add2ca246d33af091551e566&quot;,&quot;content_hash&quot;:&quot;f11a1b6f011ee8abaad90c266467647597db456684cf5672b803cfb87eb1d1f0&quot;,&quot;entity_id&quot;:&quot;deal:11680:20260611:대치동:894:현대썬앤빌테헤란:49.24:7:77000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-19T00:27:33.343Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:1008166848c7c9574e38ee7aa274658b67a239394b6276c8c1242c693bd12aaf</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:3fb79b50-dd7c-47d9-b5de-56f50b90c99e</title>
-    <updated>2026-09-18T23:36:59.593Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Pricing Strategist, API&quot;},&quot;chain_hash&quot;:&quot;1008166848c7c9574e38ee7aa274658b67a239394b6276c8c1242c693bd12aaf&quot;,&quot;content_hash&quot;:&quot;d8cd33f9582450b5c910abcdf5f3e24688a627bc4b728603ffc1f7937c11f3ec&quot;,&quot;entity_id&quot;:&quot;job:openai:3fb79b50-dd7c-47d9-b5de-56f50b90c99e&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-18T23:36:59.593Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:14963010746b9a3a0b46340c25ce1cf8a14bb512cc1df62f7d6e6f9eb888ec17</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:52f0ec3e-8ccc-4e37-b27b-74948e0e414e</title>
-    <updated>2026-09-18T23:36:59.593Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Senior Workplace Operations Manager&quot;},&quot;chain_hash&quot;:&quot;14963010746b9a3a0b46340c25ce1cf8a14bb512cc1df62f7d6e6f9eb888ec17&quot;,&quot;content_hash&quot;:&quot;e6a23ef96308f1324989acc5e4361178bb11a27cf03a5e5b4d3924b131580afd&quot;,&quot;entity_id&quot;:&quot;job:openai:52f0ec3e-8ccc-4e37-b27b-74948e0e414e&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-18T23:36:59.593Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:9e7813f7de5b85f63ee450c4f3addea270aecb520ac5977002cf4cfa12a00192</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:a51bf098-168e-407a-bf8a-31c38336c6d3</title>
-    <updated>2026-09-18T23:36:59.593Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Technical Community Lead, Pro&quot;},&quot;chain_hash&quot;:&quot;9e7813f7de5b85f63ee450c4f3addea270aecb520ac5977002cf4cfa12a00192&quot;,&quot;content_hash&quot;:&quot;001522e187e0dce60a3455b3df67016f1b36ca10abc06e3b3656350dccc0f439&quot;,&quot;entity_id&quot;:&quot;job:openai:a51bf098-168e-407a-bf8a-31c38336c6d3&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-18T23:36:59.593Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:ca9d2a477ec0b700b07d1b8ab70619219c9a9061ad4d21d69cce5fb363b179ad</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:d2e1f1e6-e1dd-4dc3-9a8d-73bce0114a28</title>
-    <updated>2026-09-18T23:36:59.593Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Strategy &amp; Operations Launch Programs&quot;},&quot;chain_hash&quot;:&quot;ca9d2a477ec0b700b07d1b8ab70619219c9a9061ad4d21d69cce5fb363b179ad&quot;,&quot;content_hash&quot;:&quot;4ed672062dfc7ebf621650889227170e302d1afb95d1ebb0da817d71154bb4cf&quot;,&quot;entity_id&quot;:&quot;job:openai:d2e1f1e6-e1dd-4dc3-9a8d-73bce0114a28&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-18T23:36:59.593Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:2e54c80f53a2bd702557cec01b89a86c6e1206d9bebda3c9963112b409490e39</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:db053b0e-c1a5-4b7a-bcb6-6e766629e7b1</title>
-    <updated>2026-09-18T23:36:59.593Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Software Engineer, Internal Applications - Enterprise&quot;},&quot;chain_hash&quot;:&quot;2e54c80f53a2bd702557cec01b89a86c6e1206d9bebda3c9963112b409490e39&quot;,&quot;content_hash&quot;:&quot;2e1dfae1c20d5c5a11390fa9c1a29633d08a6e647b8c0d306295cc1a64ca57c3&quot;,&quot;entity_id&quot;:&quot;job:openai:db053b0e-c1a5-4b7a-bcb6-6e766629e7b1&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-18T23:36:59.593Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:56ae1188298f645ec2a582961a142bec4b3d371dea6d1f9c877420ca9b2a68af</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:f269776d-f2e2-4e65-aafa-7b62cb381594</title>
-    <updated>2026-09-18T23:36:59.593Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Senior Marketing Strategist, Paid &amp; New Demand Channels&quot;},&quot;chain_hash&quot;:&quot;56ae1188298f645ec2a582961a142bec4b3d371dea6d1f9c877420ca9b2a68af&quot;,&quot;content_hash&quot;:&quot;96067d8decff46b3b478c7ef4c66f247a9543be8dfb8be4eb62a80babf9fd362&quot;,&quot;entity_id&quot;:&quot;job:openai:f269776d-f2e2-4e65-aafa-7b62cb381594&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-18T23:36:59.593Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:6079397be6452e1021688cab5d25d6699143c0b4c679d670c13685bc1f77e36d</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:scale-ai:4690504005</title>
-    <updated>2026-09-18T23:36:59.593Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;scale-ai&quot;,&quot;location&quot;:&quot;London, UK&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Director, Forward Deployed Engineering&quot;},&quot;chain_hash&quot;:&quot;6079397be6452e1021688cab5d25d6699143c0b4c679d670c13685bc1f77e36d&quot;,&quot;content_hash&quot;:&quot;b323d057c8bf0da6f2396f51dacde85487e2f90d9ea3281d9eb0efbf0ee8902d&quot;,&quot;entity_id&quot;:&quot;job:scale-ai:4690504005&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-18T23:36:59.593Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/scaleai/jobs&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:consent-census:bb12fe9356468463b43e8dcd3b57062172a58cbb54d61ba63996a0f54c1c2e3e</id>
