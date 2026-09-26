@@ -1,5 +1,5 @@
 {
-  "record_count": 2972,
+  "record_count": 2970,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -1186,17 +1186,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Product Management, Research"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
-    "job:anthropic:5123851008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Infrastructure Tax Lead"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -5542,17 +5531,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Engineering Manager, Inference Infrastructure"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
-    "job:anthropic:5411707008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "San Francisco, CA | New York City, NY",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Recruiter, G&A  "
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -12196,7 +12174,7 @@
         "location": "EMEA; Germany; London, United Kingdom; Paris, France; Remote - Netherlands",
         "provider": "greenhouse",
         "team": null,
-        "title": "EMEA Energy Industry Go-To-Market (GTM) Leader"
+        "title": "EMEA Energy Industry GTM Leader"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -14353,17 +14331,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Solutions Architect"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
-    "job:databricks:8606312002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Mexico City",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Sr. Solutions Engineer"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -20843,6 +20810,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Technical Program Manager, Manufacturing Operations"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
+    "job:openai:0dc7f3f1-0f8c-4d71-8264-ae0f208efeb1": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Technical Recruiter"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -32695,5 +32673,5 @@
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-09-26T00:11:34.960Z"
+  "updated_at": "2026-09-26T23:56:59.475Z"
 }
