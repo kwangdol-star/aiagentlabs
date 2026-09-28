@@ -3,9 +3,33 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-09-27T23:24:12.287Z</updated>
+  <updated>2026-09-28T00:00:58.056Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:2b6c125db9f7d07f24005016bb939835b71f3afefebcaf9810e5655d018aac2e</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [신규] job:anthropic:5435710008</title>
+    <updated>2026-09-28T00:00:58.056Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
+    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;San Francisco, CA&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Product Finance &amp; Strategy, Monetization&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;2b6c125db9f7d07f24005016bb939835b71f3afefebcaf9810e5655d018aac2e&quot;,&quot;content_hash&quot;:&quot;9233a4abf41bc2a046d07e1540dffbdbaf46e5420797b6985677dab5a8794555&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5435710008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-28T00:00:58.056Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:f3ae38dadf4505e27fb998e9007bfe5566edcce59e2749ebde19331c1a6ba4a5</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [신규] job:databricks:8403943002</title>
+    <updated>2026-09-28T00:00:58.056Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://boards-api.greenhouse.io/v1/boards/databricks/jobs"/>
+    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;databricks&quot;,&quot;location&quot;:&quot;Remote - United Kingdom&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Lead Solutions Architect - Generative AI (EMEA Emerging DNB)&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;f3ae38dadf4505e27fb998e9007bfe5566edcce59e2749ebde19331c1a6ba4a5&quot;,&quot;content_hash&quot;:&quot;1f8f037e01dc608d6baee9bc7146543dcb4965e7ae860f1868652064f2bbe223&quot;,&quot;entity_id&quot;:&quot;job:databricks:8403943002&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-28T00:00:58.056Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/databricks/jobs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-jobs-ledger:5b60cfad388be552c33885e8aefc1c5f5ee4cc10b3dcb4fe017989ec721acdec</id>
+    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:7aee5d38-6543-4fd7-b110-8cdb609c5c9e</title>
+    <updated>2026-09-28T00:00:58.056Z</updated>
+    <category term="ai-jobs-ledger"/>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Partnerships, Life Sciences&quot;},&quot;chain_hash&quot;:&quot;5b60cfad388be552c33885e8aefc1c5f5ee4cc10b3dcb4fe017989ec721acdec&quot;,&quot;content_hash&quot;:&quot;8ddab033d047601cc50949c2fd1ae79dea8e6040a639237ba64992ddcccad8fc&quot;,&quot;entity_id&quot;:&quot;job:openai:7aee5d38-6543-4fd7-b110-8cdb609c5c9e&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-28T00:00:58.056Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:mcp-census:96185a97eb94b02277d4f53e935563a54d62734f4706b053ed48f6948becbed8</id>
     <title>[MCP 생태계 센서스 — 등록 서버·버전] [삭제] server:io.github.cjkehoe/thedoseguy</title>
@@ -557,30 +581,6 @@
     <category term="ai-vendor-ledger"/>
     <link href="https://openrouter.ai/api/v1/models"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:32768,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Z.ai: GLM 5.2 (free)&quot;,&quot;price_completion&quot;:&quot;0&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;ac19759ea36b397ed06a032312df598e223fc2a6671409db68ccf4ae395e4631&quot;,&quot;content_hash&quot;:&quot;37233f458b57391ac98a14b1c812bae167ab57db09eb431bd2747523a7c46b99&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.2:free&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-26T22:38:21.356Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:3c9b9d0d35dee4b9caba8ff80bcf9b973eefb55c8a47f3be826643b6f9d3651c</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:46703db4-6023-4ac6-93a8-22dc95009945</title>
-    <updated>2026-09-26T00:11:34.960Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Software Engineer, Integrity Foundations - London&quot;},&quot;chain_hash&quot;:&quot;3c9b9d0d35dee4b9caba8ff80bcf9b973eefb55c8a47f3be826643b6f9d3651c&quot;,&quot;content_hash&quot;:&quot;3091071d49842c9c640bbb8e89e0918223fa6f38f5d39c1eae77af832c3a3b6a&quot;,&quot;entity_id&quot;:&quot;job:openai:46703db4-6023-4ac6-93a8-22dc95009945&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-26T00:11:34.960Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:d90162f279fe761d32dbe165fd48f48f70ae06fdfa67d51ceed691b0ea9dcbfd</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:4e7497e5-ad6b-4fa6-af97-a10813dce126</title>
-    <updated>2026-09-26T00:11:34.960Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Executive Business Partner, APAC&quot;},&quot;chain_hash&quot;:&quot;d90162f279fe761d32dbe165fd48f48f70ae06fdfa67d51ceed691b0ea9dcbfd&quot;,&quot;content_hash&quot;:&quot;fa6cca9f1d1cb64cac337df247b675335252db706e73cd3afd68c176bc323443&quot;,&quot;entity_id&quot;:&quot;job:openai:4e7497e5-ad6b-4fa6-af97-a10813dce126&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-26T00:11:34.960Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-jobs-ledger:f338658940fa48a24d10c8c664eb71756fd6d219b0665906ed32e43843c988f9</id>
-    <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:8a6b3b10-1d7c-4352-9187-2ba5126c644f</title>
-    <updated>2026-09-26T00:11:34.960Z</updated>
-    <category term="ai-jobs-ledger"/>
-    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Head of Technical Success, Government&quot;},&quot;chain_hash&quot;:&quot;f338658940fa48a24d10c8c664eb71756fd6d219b0665906ed32e43843c988f9&quot;,&quot;content_hash&quot;:&quot;ae4e690f3838ed4767ed071ec716c2d79536d58d0e741787e9b34507b4c1615f&quot;,&quot;entity_id&quot;:&quot;job:openai:8a6b3b10-1d7c-4352-9187-2ba5126c644f&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-26T00:11:34.960Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:ai-jobs-ledger:38843a984315a6d69674c2ae9e9d1296c0ecc0fb7f529586d325fda0aec27c83</id>

@@ -1,5 +1,5 @@
 {
-  "record_count": 2970,
+  "record_count": 2971,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -6799,6 +6799,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
+    "job:anthropic:5435710008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Product Finance & Strategy, Monetization"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
     "job:cohere:011f3609-e5f1-4700-8140-f717f39a45b0": {
       "fields": {
         "employment_type": "FullTime",
@@ -10943,6 +10954,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Director, Strategic Accounts - Logistics & Tech, m/f/d"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:8403943002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Remote - United Kingdom",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -24850,17 +24872,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
-    "job:openai:7aee5d38-6543-4fd7-b110-8cdb609c5c9e": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Partnerships, Life Sciences"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
     "job:openai:7b05d54f-c4ef-4677-bb05-f69288f585d8": {
       "fields": {
         "employment_type": "FullTime",
@@ -32673,5 +32684,5 @@
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-09-26T23:56:59.475Z"
+  "updated_at": "2026-09-28T00:00:58.056Z"
 }

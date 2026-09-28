@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:ai-jobs-ledger</id>
   <title>AI 랩 채용 원장 — 직무·팀·지역 (글로벌)</title>
-  <updated>2026-09-26T23:56:59.475Z</updated>
+  <updated>2026-09-28T00:00:58.056Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:ai-jobs-ledger:5b60cfad388be552c33885e8aefc1c5f5ee4cc10b3dcb4fe017989ec721acdec</id>
+    <title>[삭제] job:openai:7aee5d38-6543-4fd7-b110-8cdb609c5c9e</title>
+    <updated>2026-09-28T00:00:58.056Z</updated>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Partnerships, Life Sciences&quot;},&quot;chain_hash&quot;:&quot;5b60cfad388be552c33885e8aefc1c5f5ee4cc10b3dcb4fe017989ec721acdec&quot;,&quot;content_hash&quot;:&quot;8ddab033d047601cc50949c2fd1ae79dea8e6040a639237ba64992ddcccad8fc&quot;,&quot;entity_id&quot;:&quot;job:openai:7aee5d38-6543-4fd7-b110-8cdb609c5c9e&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-28T00:00:58.056Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-jobs-ledger:f3ae38dadf4505e27fb998e9007bfe5566edcce59e2749ebde19331c1a6ba4a5</id>
+    <title>[신규] job:databricks:8403943002</title>
+    <updated>2026-09-28T00:00:58.056Z</updated>
+    <link href="https://boards-api.greenhouse.io/v1/boards/databricks/jobs"/>
+    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;databricks&quot;,&quot;location&quot;:&quot;Remote - United Kingdom&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Lead Solutions Architect - Generative AI (EMEA Emerging DNB)&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;f3ae38dadf4505e27fb998e9007bfe5566edcce59e2749ebde19331c1a6ba4a5&quot;,&quot;content_hash&quot;:&quot;1f8f037e01dc608d6baee9bc7146543dcb4965e7ae860f1868652064f2bbe223&quot;,&quot;entity_id&quot;:&quot;job:databricks:8403943002&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-28T00:00:58.056Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/databricks/jobs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-jobs-ledger:2b6c125db9f7d07f24005016bb939835b71f3afefebcaf9810e5655d018aac2e</id>
+    <title>[신규] job:anthropic:5435710008</title>
+    <updated>2026-09-28T00:00:58.056Z</updated>
+    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
+    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;San Francisco, CA&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Product Finance &amp; Strategy, Monetization&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;2b6c125db9f7d07f24005016bb939835b71f3afefebcaf9810e5655d018aac2e&quot;,&quot;content_hash&quot;:&quot;9233a4abf41bc2a046d07e1540dffbdbaf46e5420797b6985677dab5a8794555&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5435710008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-28T00:00:58.056Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:ai-jobs-ledger:366e266b093e96aede81ffa0824a191f044baaf344c64cec25f5232a190b98f0</id>
     <title>[삭제] job:databricks:8606312002</title>
@@ -332,26 +353,5 @@
     <updated>2026-09-26T00:11:34.960Z</updated>
     <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;Singapore&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Applied AI Architect&quot;},&quot;chain_hash&quot;:&quot;8183f328dbd8ca05404c549bee2fb402504db994502f5823d885ed595626d046&quot;,&quot;content_hash&quot;:&quot;eb77dd604e0d02e187e3960e3f999cf5d15ddba80deab0a702ee9b1e38098eac&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5390742008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-26T00:11:34.960Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-jobs-ledger:86116cdadcbb73242319be62960e52cd4b02a72f190f8bad564c2b27a6055dd1</id>
-    <title>[삭제] job:anthropic:5367585008</title>
-    <updated>2026-09-26T00:11:34.960Z</updated>
-    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;San Francisco, CA | New York City, NY&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Software Engineer, Desktop&quot;},&quot;chain_hash&quot;:&quot;86116cdadcbb73242319be62960e52cd4b02a72f190f8bad564c2b27a6055dd1&quot;,&quot;content_hash&quot;:&quot;fd3fc8f7b140ed0a2ecb73dcca047a73329c5c86a7ae257c345a25d42be3424d&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5367585008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-26T00:11:34.960Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-jobs-ledger:e13d7238a7b3ded93f2d074ac067e35efc75b0d619a5f765211928695b8f9ae5</id>
-    <title>[삭제] job:anthropic:5305402008</title>
-    <updated>2026-09-26T00:11:34.960Z</updated>
-    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;San Francisco, CA&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Staff Software Engineer, Web Platform&quot;},&quot;chain_hash&quot;:&quot;e13d7238a7b3ded93f2d074ac067e35efc75b0d619a5f765211928695b8f9ae5&quot;,&quot;content_hash&quot;:&quot;de2326fef2d3a62e77849d2047ceaf688d33b9c83c7890174280d42a73d2ea2a&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5305402008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-26T00:11:34.960Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-jobs-ledger:c349a1d3a7412f943852cff9f54db7a3d969726f6aecea2cee447030a0de6727</id>
-    <title>[삭제] job:anthropic:5234538008</title>
-    <updated>2026-09-26T00:11:34.960Z</updated>
-    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;San Francisco, CA | New York City, NY&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Director, Compute Infrastructure Procurement Operations&quot;},&quot;chain_hash&quot;:&quot;c349a1d3a7412f943852cff9f54db7a3d969726f6aecea2cee447030a0de6727&quot;,&quot;content_hash&quot;:&quot;25b8a3fcfc2efe2c38fac4d51d0cd46db75e9a453f2835600327001d4f676c39&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5234538008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-09-26T00:11:34.960Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
   </entry>
 </feed>
