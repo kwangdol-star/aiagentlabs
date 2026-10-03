@@ -1,5 +1,5 @@
 {
-  "record_count": 458,
+  "record_count": 466,
   "records": {
     "model:aion-labs/aion-2.0": {
       "fields": {
@@ -457,6 +457,30 @@
       },
       "source_url": "https://openrouter.ai/api/v1/models"
     },
+    "model:anthropic/claude-sonnet-5.5": {
+      "fields": {
+        "context_length": 1000000,
+        "modality": "text+image+file->text",
+        "name": "Anthropic: Claude Sonnet 5.5",
+        "price_completion": "0.00001",
+        "price_image": null,
+        "price_prompt": "0.000002",
+        "price_request": null
+      },
+      "source_url": "https://openrouter.ai/api/v1/models"
+    },
+    "model:anthropic/claude-sonnet-5.5:batch": {
+      "fields": {
+        "context_length": 1000000,
+        "modality": "text+image+file->text",
+        "name": "Anthropic: Claude Sonnet 5.5 (batch)",
+        "price_completion": "0.000005",
+        "price_image": null,
+        "price_prompt": "0.000001",
+        "price_request": null
+      },
+      "source_url": "https://openrouter.ai/api/v1/models"
+    },
     "model:anthropic/claude-sonnet-5:batch": {
       "fields": {
         "context_length": 1000000,
@@ -465,6 +489,18 @@
         "price_completion": "0.000005",
         "price_image": null,
         "price_prompt": "0.000001",
+        "price_request": null
+      },
+      "source_url": "https://openrouter.ai/api/v1/models"
+    },
+    "model:apodex/apodex-1.1-mini:free": {
+      "fields": {
+        "context_length": 262144,
+        "modality": "text->text",
+        "name": "Apodex: Apodex 1.1 Mini (free)",
+        "price_completion": "0",
+        "price_image": null,
+        "price_prompt": "0",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -666,9 +702,9 @@
         "context_length": 163840,
         "modality": "text->text",
         "name": "DeepSeek: DeepSeek V3",
-        "price_completion": "0.00000089",
+        "price_completion": "0.0000010287",
         "price_image": null,
-        "price_prompt": "0.00000032",
+        "price_prompt": "0.0000002574",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -678,9 +714,9 @@
         "context_length": 163840,
         "modality": "text->text",
         "name": "DeepSeek: DeepSeek V3 0324",
-        "price_completion": "0.000001",
+        "price_completion": "0.00000114",
         "price_image": null,
-        "price_prompt": "0.00000025",
+        "price_prompt": "0.00000029",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -721,18 +757,6 @@
       },
       "source_url": "https://openrouter.ai/api/v1/models"
     },
-    "model:deepseek/deepseek-r1-distill-llama-70b": {
-      "fields": {
-        "context_length": 8192,
-        "modality": "text->text",
-        "name": "DeepSeek: R1 Distill Llama 70B",
-        "price_completion": "0.0000008",
-        "price_image": null,
-        "price_prompt": "0.0000008",
-        "price_request": null
-      },
-      "source_url": "https://openrouter.ai/api/v1/models"
-    },
     "model:deepseek/deepseek-v3.1-terminus": {
       "fields": {
         "context_length": 163840,
@@ -750,9 +774,9 @@
         "context_length": 163840,
         "modality": "text->text",
         "name": "DeepSeek: DeepSeek V3.2",
-        "price_completion": "0.0000004",
+        "price_completion": "0.00000042",
         "price_image": null,
-        "price_prompt": "0.000000269",
+        "price_prompt": "0.00000028",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -774,21 +798,21 @@
         "context_length": 1048576,
         "modality": "text->text",
         "name": "DeepSeek: DeepSeek V4 Flash 0423",
-        "price_completion": "0.00000009408",
+        "price_completion": "0.000000056",
         "price_image": null,
-        "price_prompt": "0.00000004704",
+        "price_prompt": "0.000000028",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
     },
     "model:deepseek/deepseek-v4-flash-0731": {
       "fields": {
-        "context_length": 1310720,
+        "context_length": 1048576,
         "modality": "text->text",
         "name": "DeepSeek: DeepSeek V4 Flash 0731",
-        "price_completion": "0.00000032",
+        "price_completion": "0.00000128",
         "price_image": null,
-        "price_prompt": "0.000000021",
+        "price_prompt": "0.0000000152",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -798,9 +822,9 @@
         "context_length": 1048576,
         "modality": "text+image->text",
         "name": "DeepSeek: DeepSeek V4 Flash Vision Exp",
-        "price_completion": "0.00000066",
+        "price_completion": "0.0000006468",
         "price_image": null,
-        "price_prompt": "0.00000022",
+        "price_prompt": "0.0000002156",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -810,9 +834,9 @@
         "context_length": 1048576,
         "modality": "text->text",
         "name": "DeepSeek: DeepSeek V4 Pro 0423",
-        "price_completion": "0.000000696",
+        "price_completion": "0.0000004176",
         "price_image": null,
-        "price_prompt": "0.000000348",
+        "price_prompt": "0.0000002088",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -822,9 +846,9 @@
         "context_length": 1048576,
         "modality": "text->text",
         "name": "DeepSeek: DeepSeek V4 Pro 0813",
-        "price_completion": "0.000000792",
+        "price_completion": "0.0000042",
         "price_image": null,
-        "price_prompt": "0.000000264",
+        "price_prompt": "0.00000022",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -834,9 +858,9 @@
         "context_length": 1048576,
         "modality": "text+image->text",
         "name": "DeepSeek: DeepSeek V4.1 Flash",
-        "price_completion": "0.00000029",
+        "price_completion": "0.0000012",
         "price_image": null,
-        "price_prompt": "0.000000035",
+        "price_prompt": "0.0000003",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -1446,21 +1470,9 @@
         "context_length": 262144,
         "modality": "text->text",
         "name": "inclusionAI: Ling 3.0 Flash Fin",
-        "price_completion": "0.00000018",
+        "price_completion": "0.0000001232",
         "price_image": null,
-        "price_prompt": "0.00000006",
-        "price_request": null
-      },
-      "source_url": "https://openrouter.ai/api/v1/models"
-    },
-    "model:inclusionai/ling-3.0-flash-fin:free": {
-      "fields": {
-        "context_length": 262144,
-        "modality": "text->text",
-        "name": "inclusionAI: Ling 3.0 Flash Fin (free)",
-        "price_completion": "0",
-        "price_image": null,
-        "price_prompt": "0",
+        "price_prompt": "0.000000042",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -1485,6 +1497,18 @@
         "price_completion": "0.0000000616",
         "price_image": null,
         "price_prompt": "0.000000021",
+        "price_request": null
+      },
+      "source_url": "https://openrouter.ai/api/v1/models"
+    },
+    "model:inclusionai/ling-3.1-flash": {
+      "fields": {
+        "context_length": 262144,
+        "modality": "text->text",
+        "name": "inclusionAI: Ling 3.1 Flash",
+        "price_completion": "0",
+        "price_image": null,
+        "price_prompt": "0",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -1662,9 +1686,9 @@
         "context_length": 131072,
         "modality": "text+image->text",
         "name": "Meta: Muse Glimmer 30B",
-        "price_completion": "0.0000012",
+        "price_completion": "0.0000015",
         "price_image": null,
-        "price_prompt": "0.0000003",
+        "price_prompt": "0.00000035",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -1672,7 +1696,7 @@
     "model:meta/muse-spark-1.1": {
       "fields": {
         "context_length": 1048576,
-        "modality": "text+image+file+audio+video->text",
+        "modality": "text+image+file+video->text",
         "name": "Meta: Muse Spark 1.1",
         "price_completion": "0.00000425",
         "price_image": null,
@@ -1684,7 +1708,7 @@
     "model:meta/muse-spark-1.2": {
       "fields": {
         "context_length": 1048576,
-        "modality": "text+image+file+audio+video->text",
+        "modality": "text+image+file+video->text",
         "name": "Meta: Muse Spark 1.2",
         "price_completion": "0.00000425",
         "price_image": null,
@@ -1696,7 +1720,7 @@
     "model:meta/muse-spark-1.2-contributor": {
       "fields": {
         "context_length": 1048576,
-        "modality": "text+image+file+audio+video->text",
+        "modality": "text+image+file+video->text",
         "name": "Meta: Muse Spark 1.2 Contributor",
         "price_completion": "0.0000002",
         "price_image": null,
@@ -1708,7 +1732,7 @@
     "model:meta/muse-spark-1.3": {
       "fields": {
         "context_length": 1048576,
-        "modality": "text+image+file+audio+video->text",
+        "modality": "text+image+file+video->text",
         "name": "Meta: Muse Spark 1.3",
         "price_completion": "0.00000425",
         "price_image": null,
@@ -1720,7 +1744,7 @@
     "model:meta/muse-spark-1.3-contributor": {
       "fields": {
         "context_length": 1048576,
-        "modality": "text+image+file+audio+video->text",
+        "modality": "text+image+file+video->text",
         "name": "Meta: Muse Spark 1.3 Contributor",
         "price_completion": "0.0000002",
         "price_image": null,
@@ -1772,7 +1796,7 @@
         "name": "MiniMax: MiniMax M1",
         "price_completion": "0.0000022",
         "price_image": null,
-        "price_prompt": "0.0000004",
+        "price_prompt": "0.00000055",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -1830,9 +1854,9 @@
         "context_length": 204800,
         "modality": "text->text",
         "name": "MiniMax: MiniMax M2.7",
-        "price_completion": "0.0000012",
+        "price_completion": "0.00000084",
         "price_image": null,
-        "price_prompt": "0.0000003",
+        "price_prompt": "0.00000021",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -2214,9 +2238,9 @@
         "context_length": 262144,
         "modality": "text+image->text",
         "name": "MoonshotAI: Kimi K2.7 Code",
-        "price_completion": "0.0000033",
+        "price_completion": "0.00000335",
         "price_image": null,
-        "price_prompt": "0.0000006562",
+        "price_prompt": "0.0000006712",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -2226,9 +2250,9 @@
         "context_length": 1048576,
         "modality": "text+image+video->text",
         "name": "MoonshotAI: Kimi K3",
-        "price_completion": "0.000015",
+        "price_completion": "0.000013",
         "price_image": null,
-        "price_prompt": "0.000003",
+        "price_prompt": "0.000000639",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -2265,6 +2289,30 @@
         "price_completion": "0.0000019",
         "price_image": null,
         "price_prompt": "0.0000009",
+        "price_request": null
+      },
+      "source_url": "https://openrouter.ai/api/v1/models"
+    },
+    "model:nex-agi/nex-n2.5-mini": {
+      "fields": {
+        "context_length": 262144,
+        "modality": "text+image->text",
+        "name": "Nex AGI: Nex-N2.5-Mini",
+        "price_completion": "0.0000001",
+        "price_image": null,
+        "price_prompt": "0.000000025",
+        "price_request": null
+      },
+      "source_url": "https://openrouter.ai/api/v1/models"
+    },
+    "model:nex-agi/nex-n2.5-pro": {
+      "fields": {
+        "context_length": 262144,
+        "modality": "text+image->text",
+        "name": "Nex AGI: Nex-N2.5-Pro",
+        "price_completion": "0.00000025",
+        "price_image": null,
+        "price_prompt": "0.000000075",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -2358,9 +2406,9 @@
         "context_length": 262144,
         "modality": "text->text",
         "name": "NVIDIA: Nemotron 3 Ultra",
-        "price_completion": "0.0000024",
+        "price_completion": "0.0000022",
         "price_image": null,
-        "price_prompt": "0.0000006",
+        "price_prompt": "0.0000005",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -2403,12 +2451,12 @@
     },
     "model:nvidia/nemotron-3.5-lightning": {
       "fields": {
-        "context_length": 1000000,
+        "context_length": 262144,
         "modality": "text->text",
         "name": "NVIDIA: Nemotron 3.5 Lightning",
-        "price_completion": "0.0000002",
+        "price_completion": "0.00000017",
         "price_image": null,
-        "price_prompt": "0.00000008",
+        "price_prompt": "0.0000000595",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -2421,6 +2469,18 @@
         "price_completion": "0",
         "price_image": null,
         "price_prompt": "0",
+        "price_request": null
+      },
+      "source_url": "https://openrouter.ai/api/v1/models"
+    },
+    "model:nvidia/switchyard": {
+      "fields": {
+        "context_length": 1000000,
+        "modality": "text->text",
+        "name": "NVIDIA: Switchyard",
+        "price_completion": "-1",
+        "price_image": null,
+        "price_prompt": "-1",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -3162,9 +3222,9 @@
         "context_length": 1050000,
         "modality": "text+image+file->text",
         "name": "OpenAI: GPT-5.6 Sol Pro",
-        "price_completion": "0.00001",
+        "price_completion": "0.00002",
         "price_image": null,
-        "price_prompt": "0.000002",
+        "price_prompt": "0.000004",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -3397,6 +3457,30 @@
       },
       "source_url": "https://openrouter.ai/api/v1/models"
     },
+    "model:openai/gpt-6.1-sol": {
+      "fields": {
+        "context_length": 1050000,
+        "modality": "text+image+file->text",
+        "name": "OpenAI: GPT-6.1 Sol",
+        "price_completion": "0.00001",
+        "price_image": null,
+        "price_prompt": "0.000002",
+        "price_request": null
+      },
+      "source_url": "https://openrouter.ai/api/v1/models"
+    },
+    "model:openai/gpt-6.1-sol-pro": {
+      "fields": {
+        "context_length": 1050000,
+        "modality": "text+image+file->text",
+        "name": "OpenAI: GPT-6.1 Sol Pro",
+        "price_completion": "0.00001",
+        "price_image": null,
+        "price_prompt": "0.000002",
+        "price_request": null
+      },
+      "source_url": "https://openrouter.ai/api/v1/models"
+    },
     "model:openai/gpt-audio": {
       "fields": {
         "context_length": 128000,
@@ -3438,9 +3522,9 @@
         "context_length": 131072,
         "modality": "text->text",
         "name": "OpenAI: gpt-oss-120b",
-        "price_completion": "0.0000006",
+        "price_completion": "0.00000017",
         "price_image": null,
-        "price_prompt": "0.00000015",
+        "price_prompt": "0.000000037",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -3978,9 +4062,9 @@
         "context_length": 262144,
         "modality": "text->text",
         "name": "Qwen: Qwen3 30B A3B Instruct 2507",
-        "price_completion": "0.0000003",
+        "price_completion": "0.00000019305",
         "price_image": null,
-        "price_prompt": "0.0000001",
+        "price_prompt": "0.00000004815",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -4242,9 +4326,9 @@
         "context_length": 262144,
         "modality": "text+image+video->text",
         "name": "Qwen: Qwen3.5-35B-A3B",
-        "price_completion": "0.00000125",
+        "price_completion": "0.000001",
         "price_image": null,
-        "price_prompt": "0.0000003125",
+        "price_prompt": "0.00000015",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -4734,9 +4818,9 @@
         "context_length": 1048576,
         "modality": "text->text",
         "name": "Tencent: Hy4 preview",
-        "price_completion": "0.000002501",
+        "price_completion": "0.0000022509",
         "price_image": null,
-        "price_prompt": "0.000000834",
+        "price_prompt": "0.0000007506",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -4784,7 +4868,7 @@
         "name": "Thinking Machines: Inkling",
         "price_completion": "0.00000405",
         "price_image": null,
-        "price_prompt": "0.000001",
+        "price_prompt": "0.00000095",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -4845,6 +4929,18 @@
         "price_completion": "0.0000075",
         "price_image": null,
         "price_prompt": "0.0000025",
+        "price_request": null
+      },
+      "source_url": "https://openrouter.ai/api/v1/models"
+    },
+    "model:unbiased/pareto-26.10-preview": {
+      "fields": {
+        "context_length": 1048576,
+        "modality": "text+image->text",
+        "name": "Pareto 26.10 Preview",
+        "price_completion": "0.0000032",
+        "price_image": null,
+        "price_prompt": "0.0000008",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -4986,9 +5082,9 @@
         "context_length": 500000,
         "modality": "text+image+file->text",
         "name": "SpaceXAI: Grok 4.7",
-        "price_completion": "0.0000048",
+        "price_completion": "0.000006",
         "price_image": null,
-        "price_prompt": "0.0000016",
+        "price_prompt": "0.000002",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -5031,7 +5127,7 @@
     },
     "model:xiaomi/mimo-v2.6-flash": {
       "fields": {
-        "context_length": 1048576,
+        "context_length": 1050000,
         "modality": "text+image+audio+video->text",
         "name": "Xiaomi: MiMo-V2.6-Flash",
         "price_completion": "0.00000028",
@@ -5178,9 +5274,9 @@
         "context_length": 204800,
         "modality": "text->text",
         "name": "Z.ai: GLM 5.1",
-        "price_completion": "0.0000030316",
+        "price_completion": "0.0000044",
         "price_image": null,
-        "price_prompt": "0.0000009646",
+        "price_prompt": "0.0000014",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -5190,33 +5286,33 @@
         "context_length": 1048576,
         "modality": "text->text",
         "name": "Z.ai: GLM 5.2",
-        "price_completion": "0.0000020416",
+        "price_completion": "0.00000349",
         "price_image": null,
-        "price_prompt": "0.0000006496",
+        "price_prompt": "0.00000025",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
     },
     "model:z-ai/glm-5.3": {
       "fields": {
-        "context_length": 1310720,
+        "context_length": 1048576,
         "modality": "text->text",
         "name": "Z.ai: GLM 5.3",
-        "price_completion": "0.0000011924",
+        "price_completion": "0.00000339",
         "price_image": null,
-        "price_prompt": "0.0000003794",
+        "price_prompt": "0.00000022",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
     },
     "model:z-ai/glm-5.3-flash": {
       "fields": {
-        "context_length": 1310720,
+        "context_length": 1048576,
         "modality": "text+image+video->text",
         "name": "Z.ai: GLM 5.3 Flash",
         "price_completion": "0.0000005",
         "price_image": null,
-        "price_prompt": "0.00000004",
+        "price_prompt": "0.00000015",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -5334,9 +5430,9 @@
         "context_length": 1048576,
         "modality": "text+image->text",
         "name": "DeepSeek: DeepSeek Flash Latest",
-        "price_completion": "0.00000029",
+        "price_completion": "0.0000024",
         "price_image": null,
-        "price_prompt": "0.000000035",
+        "price_prompt": "0.000000003",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -5346,21 +5442,21 @@
         "context_length": 1048576,
         "modality": "text->text",
         "name": "DeepSeek: DeepSeek Pro Latest",
-        "price_completion": "0.00000074844",
+        "price_completion": "0.0000042",
         "price_image": null,
-        "price_prompt": "0.00000024948",
+        "price_prompt": "0.000000176",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
     },
     "model:~deepseek/deepseek-v4-flash-latest": {
       "fields": {
-        "context_length": 1310720,
+        "context_length": 1048576,
         "modality": "text->text",
         "name": "DeepSeek: DeepSeek V4 Flash Latest",
-        "price_completion": "0.00000032",
+        "price_completion": "0.00000128",
         "price_image": null,
-        "price_prompt": "0.000000021",
+        "price_prompt": "0.0000000152",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -5394,9 +5490,9 @@
         "context_length": 1048576,
         "modality": "text+image+video->text",
         "name": "MoonshotAI: Kimi Latest",
-        "price_completion": "0.000009",
+        "price_completion": "0.000013",
         "price_image": null,
-        "price_prompt": "0.000001",
+        "price_prompt": "0.0000005112",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
@@ -5466,38 +5562,38 @@
         "context_length": 500000,
         "modality": "text+image+file->text",
         "name": "xAI: Grok Latest",
-        "price_completion": "0.0000048",
+        "price_completion": "0.000006",
         "price_image": null,
-        "price_prompt": "0.0000016",
+        "price_prompt": "0.000002",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
     },
     "model:~z-ai/glm-flash-latest": {
       "fields": {
-        "context_length": 1310720,
+        "context_length": 1048576,
         "modality": "text+image+video->text",
         "name": "Z.ai: GLM Flash Latest",
         "price_completion": "0.0000005",
         "price_image": null,
-        "price_prompt": "0.00000004",
+        "price_prompt": "0.0000000272",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
     },
     "model:~z-ai/glm-latest": {
       "fields": {
-        "context_length": 1310720,
+        "context_length": 1048576,
         "modality": "text->text",
         "name": "Z.ai: GLM Latest",
-        "price_completion": "0.0000011924",
+        "price_completion": "0.0000024",
         "price_image": null,
-        "price_prompt": "0.0000003794",
+        "price_prompt": "0.00000008",
         "price_request": null
       },
       "source_url": "https://openrouter.ai/api/v1/models"
     }
   },
   "source_id": "ai-vendor-ledger",
-  "updated_at": "2026-09-26T22:38:21.356Z"
+  "updated_at": "2026-10-03T22:49:12.863Z"
 }
