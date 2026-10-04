@@ -1,5 +1,5 @@
 {
-  "record_count": 2929,
+  "record_count": 2928,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -2135,17 +2135,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
-    "job:anthropic:5251612008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "San Francisco, CA | Seattle, WA",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Technical Program Manager, Databases"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
     "job:anthropic:5251866008": {
       "fields": {
         "employment_type": null,
@@ -2154,17 +2143,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Product Manager, Claude Tag"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
-    "job:anthropic:5252781008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "San Francisco, CA | New York City, NY",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Program Manager, Communications"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -4841,17 +4819,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
-    "job:anthropic:5397699008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "San Francisco, CA | New York City, NY | Washington, DC",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Head of Vulnerability Disclosure & Security Community"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
     "job:anthropic:5397708008": {
       "fields": {
         "employment_type": null,
@@ -6953,6 +6920,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
+    "job:anthropic:5440535008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Program Manager, Safeguards Policy, Enforcement, and Threat Intelligence"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
     "job:anthropic:5440799008": {
       "fields": {
         "employment_type": null,
@@ -7566,6 +7544,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Lead Member of Technical Staff, Inference Infrastructure"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere"
+    },
+    "job:cohere:582c4a60-14a2-49d5-b4d3-24c4ec50508d": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "cohere",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Staff Technical Program Manager, Machine Learning"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere"
     },
@@ -12651,6 +12640,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:8538833002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Ottawa, Canada",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Director, Enterprise Sales, Public Sector"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:8538884002": {
       "fields": {
         "employment_type": null,
@@ -14584,6 +14584,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Sr. Compensation Manager GTM"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:8627551002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "United States",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Sr. Manager, Compensation Analytics & Intelligence "
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -17953,17 +17964,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
-    "job:databricks:8829029002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Bengaluru, India",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "IT Software Engineer, Infrastructure"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
     "job:databricks:8829296002": {
       "fields": {
         "employment_type": null,
@@ -18291,17 +18291,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Strategic Account Executive - Netherlands - Financial Services & Insurance"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
-    },
-    "job:elevenlabs:059c1527-71b9-46f5-a691-0e3b0a1be7f5": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "elevenlabs",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Revenue Compensation Lead"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -22045,17 +22034,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
-    "job:openai:35f81bda-a500-4d0c-96ff-1ba3fa24714f": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Deal Strategy, EMEA"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
     "job:openai:35f99494-1700-4b81-9363-aaead13ea477": {
       "fields": {
         "employment_type": "FullTime",
@@ -24960,6 +24938,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
+    "job:openai:88164d12-c8ed-4b62-ae26-dcb6f1cc8482": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Software Engineer, Enterprise Controls"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
     "job:openai:88654e7f-4e23-4e75-8e54-18c10d09b093": {
       "fields": {
         "employment_type": "FullTime",
@@ -25320,6 +25309,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Account Director, Healthcare"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
+    "job:openai:93eb3037-c062-453f-8e3d-f6656d733746": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Integrated Marketing Manager, Hardware"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -26720,6 +26720,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
+    "job:openai:b94099f6-8418-48b0-82b5-5953a27d636f": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Software Engineer, OpenAI Presence"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
     "job:openai:b9a4a809-a965-4dbe-aeef-6ce1593903dd": {
       "fields": {
         "employment_type": "FullTime",
@@ -27226,17 +27237,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
-    "job:openai:c46d8648-b921-4b71-bb9a-f7d5c8e989f4": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Strategy & Operations, Germany"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
     "job:openai:c4723243-69e5-45e3-a1c4-ad16df988428": {
       "fields": {
         "employment_type": "FullTime",
@@ -27673,7 +27673,7 @@
         "location": null,
         "provider": "ashby",
         "team": null,
-        "title": "Software Engineer, Codex — User Activation"
+        "title": "Full Stack Engineer, Enterprise Expansions"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -29247,17 +29247,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Infrastructure Operations & Sustainability Lead"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:fff02c39-1185-427c-bf89-70d7eaa5e3db": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Software Engineer, Codex -Enterprise Controls"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -32222,5 +32211,5 @@
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-10-03T00:46:54.516Z"
+  "updated_at": "2026-10-04T00:05:37.257Z"
 }
