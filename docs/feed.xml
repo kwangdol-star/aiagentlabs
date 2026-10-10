@@ -3,9 +3,169 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-10-10T01:50:05.327Z</updated>
+  <updated>2026-10-10T23:25:00.563Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:136f77ba92c2e9928512caeda30aa205bc3c789aaea41da0144c773b785ceaa7</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~moonshotai/kimi-latest · price_prompt</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.00000028&quot;,&quot;before&quot;:&quot;0.0000005112&quot;,&quot;chain_hash&quot;:&quot;136f77ba92c2e9928512caeda30aa205bc3c789aaea41da0144c773b785ceaa7&quot;,&quot;content_hash&quot;:&quot;3391ff9a9b81a9e355e86730ef9f32f62dff86d4e0f71660e2fb71112645188b&quot;,&quot;entity_id&quot;:&quot;model:~moonshotai/kimi-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:865c94a8cc32552a678e66c6d9885f344484c679069899a5c5f3d8091cae033b</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~z-ai/glm-flash-latest · price_prompt</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.00000004&quot;,&quot;before&quot;:&quot;0.0000000272&quot;,&quot;chain_hash&quot;:&quot;865c94a8cc32552a678e66c6d9885f344484c679069899a5c5f3d8091cae033b&quot;,&quot;content_hash&quot;:&quot;d4b719e3351b95148074730075a15b7947b1d38100e6a9b5dd01e668ae1dc0ac&quot;,&quot;entity_id&quot;:&quot;model:~z-ai/glm-flash-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:c6b963f2c3c1eadfb9b2e84dd533ebac3336bb3a6daa8f34ee21463896bb594d</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~z-ai/glm-latest · price_completion</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.0000048&quot;,&quot;before&quot;:&quot;0.0000024&quot;,&quot;chain_hash&quot;:&quot;c6b963f2c3c1eadfb9b2e84dd533ebac3336bb3a6daa8f34ee21463896bb594d&quot;,&quot;content_hash&quot;:&quot;eb289b91aff3806662b01ac371f3665eafa39a58468872770133dd019d1ab66a&quot;,&quot;entity_id&quot;:&quot;model:~z-ai/glm-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:cf7ed32d71f8be9d63b0c2ff01016c4187368f332f038821eccda69869e6d34a</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~z-ai/glm-latest · price_prompt</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.000000039&quot;,&quot;before&quot;:&quot;0.00000008&quot;,&quot;chain_hash&quot;:&quot;cf7ed32d71f8be9d63b0c2ff01016c4187368f332f038821eccda69869e6d34a&quot;,&quot;content_hash&quot;:&quot;63b9fda920e49a76a917c87cfd9617898cbf8569f1352eb0f05a8e6097cc4ddb&quot;,&quot;entity_id&quot;:&quot;model:~z-ai/glm-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:a38c5d331777b0282780ad9eb4375a90433f3ed6202fecfe8e3784c898b501fa</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:baidu/ernie-4.5-vl-424b-a47b</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:123000,&quot;modality&quot;:&quot;text+image-&gt;text&quot;,&quot;name&quot;:&quot;Baidu: ERNIE 4.5 VL 424B A47B &quot;,&quot;price_completion&quot;:&quot;0.00000125&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000042&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;a38c5d331777b0282780ad9eb4375a90433f3ed6202fecfe8e3784c898b501fa&quot;,&quot;content_hash&quot;:&quot;ab20703cfaef9318ebd9fb3ebed75fd70be28be719cf883facb37b2d8c6638b9&quot;,&quot;entity_id&quot;:&quot;model:baidu/ernie-4.5-vl-424b-a47b&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:1fd03b3ea23b341905101fbe392acda8321d3f80d27b7eb29d2f9d981205a9cd</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:inclusionai/ling-3.0-flash-sante:free</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;inclusionAI: Ling 3.0 Flash Sante (free)&quot;,&quot;price_completion&quot;:&quot;0&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;1fd03b3ea23b341905101fbe392acda8321d3f80d27b7eb29d2f9d981205a9cd&quot;,&quot;content_hash&quot;:&quot;f7cb3361e9457c866495ac7deaa14c804067085db54654ac7a5a29c2948385bc&quot;,&quot;entity_id&quot;:&quot;model:inclusionai/ling-3.0-flash-sante:free&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:ddf837232e73558d690f841e7f913c58ca30b39d377b61c19f8c45c08bb8c360</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:kwaipilot/kat-coder-pro-v2.5</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Kwaipilot: KAT-Coder-Pro V2.5&quot;,&quot;price_completion&quot;:&quot;0.00000296&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000074&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;ddf837232e73558d690f841e7f913c58ca30b39d377b61c19f8c45c08bb8c360&quot;,&quot;content_hash&quot;:&quot;bd3efc70cdde55e57f806b866e8a5d612b8964030f4158d99571b52647adc468&quot;,&quot;entity_id&quot;:&quot;model:kwaipilot/kat-coder-pro-v2.5&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:0734f97c4535ceb2a7c4521735a3b719ee8fd6bb2f261eb9978376cbe6e8b4a8</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:qwen/qwen-plus-2025-07-28</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:1000000,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen Plus 0728&quot;,&quot;price_completion&quot;:&quot;0.00000078&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000026&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;0734f97c4535ceb2a7c4521735a3b719ee8fd6bb2f261eb9978376cbe6e8b4a8&quot;,&quot;content_hash&quot;:&quot;201a37db92c15f46fc2de4eff255c575d32aedd9c4ac0e7b23568f8e29ebf2b0&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen-plus-2025-07-28&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:cf3abbf72c5f1464f0f4919881d0fc5bf1ab714cf624ba2d1c0c2a4d3ad9f361</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:qwen/qwen3-235b-a22b</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:131072,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3 235B A22B&quot;,&quot;price_completion&quot;:&quot;0.00000182&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.000000455&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;cf3abbf72c5f1464f0f4919881d0fc5bf1ab714cf624ba2d1c0c2a4d3ad9f361&quot;,&quot;content_hash&quot;:&quot;10b9e9dfc92f7fc5ee8511cfb3d29fe1742c9fca2a2b30ddbc8c90e689726937&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-235b-a22b&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:7d55aa0560795ae6026905a5b78e25ca6e272576bedea1728ded86b53bab7587</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:qwen/qwen3-30b-a3b-thinking-2507</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:81920,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3 30B A3B Thinking 2507&quot;,&quot;price_completion&quot;:&quot;0.0000024&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000002&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;7d55aa0560795ae6026905a5b78e25ca6e272576bedea1728ded86b53bab7587&quot;,&quot;content_hash&quot;:&quot;eb0e98a6b2372b0edde27d11b04a4ea3e91fdcf078d9838e4651f5f3e3d28f8d&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-30b-a3b-thinking-2507&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:0f90f65421ee359c0fa0cb5b2e1146403bb8826d03265bd24e048bec719d3bee</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:qwen/qwen3-8b</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:131072,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3 8B&quot;,&quot;price_completion&quot;:&quot;0.000000455&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.000000117&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;0f90f65421ee359c0fa0cb5b2e1146403bb8826d03265bd24e048bec719d3bee&quot;,&quot;content_hash&quot;:&quot;2fc8d3f964894ad890f5c1b049e3fd77962a1e2cf3665157daf40506e118e0ac&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-8b&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:ce7da572e8226de7ee33dd2239de3ee00fdede83ee203820ea5681b5bf88a51e</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:qwen/qwen3-coder-plus</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:1000000,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3 Coder Plus&quot;,&quot;price_completion&quot;:&quot;0.00000325&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000065&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;ce7da572e8226de7ee33dd2239de3ee00fdede83ee203820ea5681b5bf88a51e&quot;,&quot;content_hash&quot;:&quot;48969d5dc12d4b216e61931dcd040433129f4a1492b2fa9d09b2bf9178451817&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-coder-plus&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:dad2e1e436e9a199677f3ec8975d462ef4db249c9461356d84ff7bf329aa0d3e</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:qwen/qwen3-max</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3 Max&quot;,&quot;price_completion&quot;:&quot;0.0000039&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000078&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;dad2e1e436e9a199677f3ec8975d462ef4db249c9461356d84ff7bf329aa0d3e&quot;,&quot;content_hash&quot;:&quot;47d3ae9b5ad3a063fabf7da8f34a056a69ce286e1cff7c7576be6f8d166049d4&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-max&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:b4ad5579bfcf5e24e074b233d4655220d82aa956299bd750efe86a1a0529758f</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:qwen/qwen3-max-thinking</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3 Max Thinking&quot;,&quot;price_completion&quot;:&quot;0.0000039&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000078&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;b4ad5579bfcf5e24e074b233d4655220d82aa956299bd750efe86a1a0529758f&quot;,&quot;content_hash&quot;:&quot;74cb2baa725bcf4b8a70ac2374d5459dcb20abf36b48beadb1725113448012d6&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-max-thinking&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:20478df7e7b103c3428c4db0fc59b8625ed8a384028b342bff9c47585c5a2fa8</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:qwen/qwen3-vl-235b-a22b-thinking</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:131072,&quot;modality&quot;:&quot;text+image-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3 VL 235B A22B Thinking&quot;,&quot;price_completion&quot;:&quot;0.000004&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000004&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;20478df7e7b103c3428c4db0fc59b8625ed8a384028b342bff9c47585c5a2fa8&quot;,&quot;content_hash&quot;:&quot;d8d88340742ed0a0344faca6befb1613ab693dc16dc80480d67badd0a357a469&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-vl-235b-a22b-thinking&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:182224de84c9268f10b96b64d8d06b3fb126025ebf9d274d19808f7c71d962c2</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:qwen/qwen3-vl-32b-instruct</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:131072,&quot;modality&quot;:&quot;text+image-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3 VL 32B Instruct&quot;,&quot;price_completion&quot;:&quot;0.000000416&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.000000104&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;182224de84c9268f10b96b64d8d06b3fb126025ebf9d274d19808f7c71d962c2&quot;,&quot;content_hash&quot;:&quot;d48b3dfc9bf578c5ec319151d75410f91bd470c5ac93c6b913f243afdfef22be&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-vl-32b-instruct&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:9adeeb1534da2772d8ec12b0261371c552719afeb213d9a16bea109c2ed5a084</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:qwen/qwen3-vl-8b-thinking</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:131072,&quot;modality&quot;:&quot;text+image-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3 VL 8B Thinking&quot;,&quot;price_completion&quot;:&quot;0.0000021&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000018&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;9adeeb1534da2772d8ec12b0261371c552719afeb213d9a16bea109c2ed5a084&quot;,&quot;content_hash&quot;:&quot;cd1e0d7858b504fc307bc35becfdeed6699bffc473dbf220fd5e8975f14c0135&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-vl-8b-thinking&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:9cd4fb81d66cdfda9d1d59a2e3842d7b7ba17fe0db8d673602e534dbccbfd1db</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:qwen/qwen3.6-max-preview</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3.6 Max Preview&quot;,&quot;price_completion&quot;:&quot;0.000006162&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.000001027&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;9cd4fb81d66cdfda9d1d59a2e3842d7b7ba17fe0db8d673602e534dbccbfd1db&quot;,&quot;content_hash&quot;:&quot;f480b2ac564f2674a20d1768a11b9bd53af820872f392c4ac5997dafd4f72e78&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3.6-max-preview&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:5eec133ce51f75e9c0ea7b7782ac7fc8069f132de41e55256216f6c5e0eb867a</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:qwen/qwen3.8-27b:free</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text+image+video-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3.8 27B (free)&quot;,&quot;price_completion&quot;:&quot;0&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;5eec133ce51f75e9c0ea7b7782ac7fc8069f132de41e55256216f6c5e0eb867a&quot;,&quot;content_hash&quot;:&quot;53adbf1ba0b41c82008d54ec71f10f170303c78d9501762517e697431d310da3&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3.8-27b:free&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:ai-vendor-ledger:3cc66889a85d55179b089ed5363cb1773e964f951ec7442c866784987c98455e</id>
+    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [삭제] model:stealth/space-bunny-alpha</title>
+    <updated>2026-10-10T23:25:00.563Z</updated>
+    <category term="ai-vendor-ledger"/>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:1000000,&quot;modality&quot;:&quot;text+image+video-&gt;text&quot;,&quot;name&quot;:&quot;Space Bunny Alpha&quot;,&quot;price_completion&quot;:&quot;0&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;3cc66889a85d55179b089ed5363cb1773e964f951ec7442c866784987c98455e&quot;,&quot;content_hash&quot;:&quot;5cd516e4c5a4863140a80626c83cfabdd9101c44a0aaaa5eaa1e68165adc63dd&quot;,&quot;entity_id&quot;:&quot;model:stealth/space-bunny-alpha&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:25:00.563Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:deal-audit-ledger:39162466db4757f461d1b07cae2e980fcce0d8f9812298b436e6dc62b2a48a80</id>
     <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11740:20260704:강일동:668:강일리버파크2단지:84.74:3:125000 · aptDong</title>
@@ -805,165 +965,5 @@
     <category term="bunyang-capsule"/>
     <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000444&amp;pblancNo=2026000444"/>
     <content type="text">{&quot;after&quot;:{&quot;BSNS_MBY_NM&quot;:&quot;(주)아뜨네&quot;,&quot;CNSTRCT_ENTRPS_NM&quot;:&quot;(주)힘찬종합건설&quot;,&quot;CNTRCT_CNCLS_BGNDE&quot;:&quot;2026-10-30&quot;,&quot;CNTRCT_CNCLS_ENDDE&quot;:&quot;2026-11-01&quot;,&quot;GNRL_RNK1_CRSPAREA_ENDDE&quot;:&quot;2026-10-12&quot;,&quot;GNRL_RNK1_CRSPAREA_RCPTDE&quot;:&quot;2026-10-12&quot;,&quot;GNRL_RNK1_ETC_AREA_ENDDE&quot;:&quot;2026-10-12&quot;,&quot;GNRL_RNK1_ETC_AREA_RCPTDE&quot;:&quot;2026-10-12&quot;,&quot;GNRL_RNK1_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK1_ETC_GG_RCPTDE&quot;:null,&quot;GNRL_RNK2_CRSPAREA_ENDDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK2_CRSPAREA_RCPTDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK2_ETC_AREA_ENDDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK2_ETC_AREA_RCPTDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK2_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK2_ETC_GG_RCPTDE&quot;:null,&quot;HMPG_ADRES&quot;:&quot;https://blog.naver.com/him2729&quot;,&quot;HOUSE_DTL_SECD&quot;:&quot;01&quot;,&quot;HOUSE_DTL_SECD_NM&quot;:&quot;민영&quot;,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026000444&quot;,&quot;HOUSE_NM&quot;:&quot;제주시 이도이동 아이린8차 아파트&quot;,&quot;HOUSE_SECD&quot;:&quot;01&quot;,&quot;HOUSE_SECD_NM&quot;:&quot;APT&quot;,&quot;HSSPLY_ADRES&quot;:&quot;제주특별자치도 제주시 이도이동 1045-3번지&quot;,&quot;HSSPLY_ZIP&quot;:&quot;63211&quot;,&quot;IMPRMN_BSNS_AT&quot;:&quot;N&quot;,&quot;LRSCL_BLDLND_AT&quot;:&quot;N&quot;,&quot;MDAT_TRGET_AREA_SECD&quot;:&quot;N&quot;,&quot;MDHS_TELNO&quot;:&quot;0647121135&quot;,&quot;MVN_PREARNGE_YM&quot;:&quot;202611&quot;,&quot;NPLN_PRVOPR_PUBLIC_HOUSE_AT&quot;:&quot;N&quot;,&quot;NSPRC_NM&quot;:null,&quot;PARCPRC_ULS_AT&quot;:&quot;N&quot;,&quot;PBLANC_NO&quot;:&quot;2026000444&quot;,&quot;PBLANC_URL&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000444&amp;pblancNo=2026000444&quot;,&quot;PRZWNER_PRESNATN_DE&quot;:&quot;2026-10-19&quot;,&quot;PUBLIC_HOUSE_EARTH_AT&quot;:&quot;N&quot;,&quot;PUBLIC_HOUSE_SPCLW_APPLC_AT&quot;:&quot;N&quot;,&quot;RCEPT_BGNDE&quot;:&quot;2026-10-12&quot;,&quot;RCEPT_ENDDE&quot;:&quot;2026-10-13&quot;,&quot;RCRIT_PBLANC_DE&quot;:&quot;2026-10-02&quot;,&quot;RENT_SECD&quot;:&quot;0&quot;,&quot;RENT_SECD_NM&quot;:&quot;분양주택&quot;,&quot;SPECLT_RDN_EARTH_AT&quot;:&quot;N&quot;,&quot;SPSPLY_RCEPT_BGNDE&quot;:null,&quot;SPSPLY_RCEPT_ENDDE&quot;:null,&quot;SUBSCRPT_AREA_CODE&quot;:&quot;690&quot;,&quot;SUBSCRPT_AREA_CODE_NM&quot;:&quot;제주&quot;,&quot;TOT_SUPLY_HSHLDCO&quot;:45,&quot;_chronicle_window_date&quot;:&quot;2026-10-02&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;a372fd7882c27daeacb15c195f8b7b3ddb83800f31b7d41fbfa9bcbaef1b9e2f&quot;,&quot;content_hash&quot;:&quot;f65a4d846d646f5fa3025f9fc5298d357391c28ad8d7ba6e8b0e60fdebc3064b&quot;,&quot;entity_id&quot;:&quot;apt:2026000444:2026000444&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T00:09:29.271Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000444&amp;pblancNo=2026000444&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:bunyang-capsule:aa28c575636ce9ec0fffed47f757c68e98e896e79eff53c0622a48eb6541532d</id>
-    <title>[청약홈 APT 분양공고·주택형별 분양가 일간 박제] [신규] apt:2026000463:2026000463</title>
-    <updated>2026-10-04T00:09:29.271Z</updated>
-    <category term="bunyang-capsule"/>
-    <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000463&amp;pblancNo=2026000463"/>
-    <content type="text">{&quot;after&quot;:{&quot;BSNS_MBY_NM&quot;:&quot;대신자산신탁 주식회사&quot;,&quot;CNSTRCT_ENTRPS_NM&quot;:&quot;주식회사 케이씨씨건설&quot;,&quot;CNTRCT_CNCLS_BGNDE&quot;:&quot;2026-11-02&quot;,&quot;CNTRCT_CNCLS_ENDDE&quot;:&quot;2026-11-04&quot;,&quot;GNRL_RNK1_CRSPAREA_ENDDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_CRSPAREA_RCPTDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_ETC_AREA_ENDDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_ETC_AREA_RCPTDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK1_ETC_GG_RCPTDE&quot;:null,&quot;GNRL_RNK2_CRSPAREA_ENDDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_CRSPAREA_RCPTDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_ETC_AREA_ENDDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_ETC_AREA_RCPTDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK2_ETC_GG_RCPTDE&quot;:null,&quot;HMPG_ADRES&quot;:&quot;https://향남역스위첸.com&quot;,&quot;HOUSE_DTL_SECD&quot;:&quot;01&quot;,&quot;HOUSE_DTL_SECD_NM&quot;:&quot;민영&quot;,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026000463&quot;,&quot;HOUSE_NM&quot;:&quot;향남역 그로브 스위첸&quot;,&quot;HOUSE_SECD&quot;:&quot;01&quot;,&quot;HOUSE_SECD_NM&quot;:&quot;APT&quot;,&quot;HSSPLY_ADRES&quot;:&quot;경기도 화성특례시 만세구 향남읍 하길리 404-2번지 일원&quot;,&quot;HSSPLY_ZIP&quot;:&quot;18620&quot;,&quot;IMPRMN_BSNS_AT&quot;:&quot;N&quot;,&quot;LRSCL_BLDLND_AT&quot;:&quot;N&quot;,&quot;MDAT_TRGET_AREA_SECD&quot;:&quot;N&quot;,&quot;MDHS_TELNO&quot;:&quot;18441050&quot;,&quot;MVN_PREARNGE_YM&quot;:&quot;202906&quot;,&quot;NPLN_PRVOPR_PUBLIC_HOUSE_AT&quot;:&quot;N&quot;,&quot;NSPRC_NM&quot;:&quot;문화일보&quot;,&quot;PARCPRC_ULS_AT&quot;:&quot;N&quot;,&quot;PBLANC_NO&quot;:&quot;2026000463&quot;,&quot;PBLANC_URL&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000463&amp;pblancNo=2026000463&quot;,&quot;PRZWNER_PRESNATN_DE&quot;:&quot;2026-10-20&quot;,&quot;PUBLIC_HOUSE_EARTH_AT&quot;:&quot;N&quot;,&quot;PUBLIC_HOUSE_SPCLW_APPLC_AT&quot;:&quot;N&quot;,&quot;RCEPT_BGNDE&quot;:&quot;2026-10-12&quot;,&quot;RCEPT_ENDDE&quot;:&quot;2026-10-14&quot;,&quot;RCRIT_PBLANC_DE&quot;:&quot;2026-10-02&quot;,&quot;RENT_SECD&quot;:&quot;0&quot;,&quot;RENT_SECD_NM&quot;:&quot;분양주택&quot;,&quot;SPECLT_RDN_EARTH_AT&quot;:&quot;N&quot;,&quot;SPSPLY_RCEPT_BGNDE&quot;:&quot;2026-10-12&quot;,&quot;SPSPLY_RCEPT_ENDDE&quot;:&quot;2026-10-12&quot;,&quot;SUBSCRPT_AREA_CODE&quot;:&quot;410&quot;,&quot;SUBSCRPT_AREA_CODE_NM&quot;:&quot;경기&quot;,&quot;TOT_SUPLY_HSHLDCO&quot;:933,&quot;_chronicle_window_date&quot;:&quot;2026-10-02&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;aa28c575636ce9ec0fffed47f757c68e98e896e79eff53c0622a48eb6541532d&quot;,&quot;content_hash&quot;:&quot;58147946eeb1567e534a93f7ef3c585d276725a6c13836bd22932d47b9355819&quot;,&quot;entity_id&quot;:&quot;apt:2026000463:2026000463&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T00:09:29.271Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000463&amp;pblancNo=2026000463&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:bunyang-capsule:ad2055a65bbdf0231766cce3c709bef0f3eaceeeb9504bb5142d2020417d0648</id>
-    <title>[청약홈 APT 분양공고·주택형별 분양가 일간 박제] [신규] apt:2026000468:2026000468</title>
-    <updated>2026-10-04T00:09:29.271Z</updated>
-    <category term="bunyang-capsule"/>
-    <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000468&amp;pblancNo=2026000468"/>
-    <content type="text">{&quot;after&quot;:{&quot;BSNS_MBY_NM&quot;:&quot;코리아신탁(주)&quot;,&quot;CNSTRCT_ENTRPS_NM&quot;:&quot;쌍용건설(주)&quot;,&quot;CNTRCT_CNCLS_BGNDE&quot;:&quot;2026-11-02&quot;,&quot;CNTRCT_CNCLS_ENDDE&quot;:&quot;2026-11-04&quot;,&quot;GNRL_RNK1_CRSPAREA_ENDDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_CRSPAREA_RCPTDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_ETC_AREA_ENDDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_ETC_AREA_RCPTDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK1_ETC_GG_RCPTDE&quot;:null,&quot;GNRL_RNK2_CRSPAREA_ENDDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_CRSPAREA_RCPTDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_ETC_AREA_ENDDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_ETC_AREA_RCPTDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK2_ETC_GG_RCPTDE&quot;:null,&quot;HMPG_ADRES&quot;:&quot;http://쌍용더플래티넘한강.com&quot;,&quot;HOUSE_DTL_SECD&quot;:&quot;01&quot;,&quot;HOUSE_DTL_SECD_NM&quot;:&quot;민영&quot;,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026000468&quot;,&quot;HOUSE_NM&quot;:&quot;쌍용 더 플래티넘 한강&quot;,&quot;HOUSE_SECD&quot;:&quot;01&quot;,&quot;HOUSE_SECD_NM&quot;:&quot;APT&quot;,&quot;HSSPLY_ADRES&quot;:&quot;경기도 양평군 양서면 용담리 212-3번지 일원&quot;,&quot;HSSPLY_ZIP&quot;:&quot;12584&quot;,&quot;IMPRMN_BSNS_AT&quot;:&quot;N&quot;,&quot;LRSCL_BLDLND_AT&quot;:&quot;N&quot;,&quot;MDAT_TRGET_AREA_SECD&quot;:&quot;N&quot;,&quot;MDHS_TELNO&quot;:&quot;18660333&quot;,&quot;MVN_PREARNGE_YM&quot;:&quot;202905&quot;,&quot;NPLN_PRVOPR_PUBLIC_HOUSE_AT&quot;:&quot;N&quot;,&quot;NSPRC_NM&quot;:&quot;아시아경제&quot;,&quot;PARCPRC_ULS_AT&quot;:&quot;N&quot;,&quot;PBLANC_NO&quot;:&quot;2026000468&quot;,&quot;PBLANC_URL&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000468&amp;pblancNo=2026000468&quot;,&quot;PRZWNER_PRESNATN_DE&quot;:&quot;2026-10-20&quot;,&quot;PUBLIC_HOUSE_EARTH_AT&quot;:&quot;N&quot;,&quot;PUBLIC_HOUSE_SPCLW_APPLC_AT&quot;:&quot;N&quot;,&quot;RCEPT_BGNDE&quot;:&quot;2026-10-12&quot;,&quot;RCEPT_ENDDE&quot;:&quot;2026-10-14&quot;,&quot;RCRIT_PBLANC_DE&quot;:&quot;2026-10-02&quot;,&quot;RENT_SECD&quot;:&quot;0&quot;,&quot;RENT_SECD_NM&quot;:&quot;분양주택&quot;,&quot;SPECLT_RDN_EARTH_AT&quot;:&quot;N&quot;,&quot;SPSPLY_RCEPT_BGNDE&quot;:&quot;2026-10-12&quot;,&quot;SPSPLY_RCEPT_ENDDE&quot;:&quot;2026-10-12&quot;,&quot;SUBSCRPT_AREA_CODE&quot;:&quot;410&quot;,&quot;SUBSCRPT_AREA_CODE_NM&quot;:&quot;경기&quot;,&quot;TOT_SUPLY_HSHLDCO&quot;:333,&quot;_chronicle_window_date&quot;:&quot;2026-10-02&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;ad2055a65bbdf0231766cce3c709bef0f3eaceeeb9504bb5142d2020417d0648&quot;,&quot;content_hash&quot;:&quot;dc20a899e0187cd347a73d22b8e7f54436ef87c1bd9ee1e75b8dd029e3617f14&quot;,&quot;entity_id&quot;:&quot;apt:2026000468:2026000468&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T00:09:29.271Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000468&amp;pblancNo=2026000468&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:bunyang-capsule:2b60459e9ff5d974cbece2df60c3fdd9eb4055df0eb62f8ef06906d596cb18ab</id>
-    <title>[청약홈 APT 분양공고·주택형별 분양가 일간 박제] [신규] apt:2026000494:2026000494</title>
-    <updated>2026-10-04T00:09:29.271Z</updated>
-    <category term="bunyang-capsule"/>
-    <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000494&amp;pblancNo=2026000494"/>
-    <content type="text">{&quot;after&quot;:{&quot;BSNS_MBY_NM&quot;:&quot;주식회사 하나자산신탁&quot;,&quot;CNSTRCT_ENTRPS_NM&quot;:&quot;(주)포스코이앤씨&quot;,&quot;CNTRCT_CNCLS_BGNDE&quot;:&quot;2026-11-02&quot;,&quot;CNTRCT_CNCLS_ENDDE&quot;:&quot;2026-11-04&quot;,&quot;GNRL_RNK1_CRSPAREA_ENDDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_CRSPAREA_RCPTDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_ETC_AREA_ENDDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_ETC_AREA_RCPTDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK1_ETC_GG_RCPTDE&quot;:null,&quot;GNRL_RNK2_CRSPAREA_ENDDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_CRSPAREA_RCPTDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_ETC_AREA_ENDDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_ETC_AREA_RCPTDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK2_ETC_GG_RCPTDE&quot;:null,&quot;HMPG_ADRES&quot;:&quot;http://더샵동인센트리체.kr&quot;,&quot;HOUSE_DTL_SECD&quot;:&quot;01&quot;,&quot;HOUSE_DTL_SECD_NM&quot;:&quot;민영&quot;,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026000494&quot;,&quot;HOUSE_NM&quot;:&quot;더샵 동인센트리체&quot;,&quot;HOUSE_SECD&quot;:&quot;01&quot;,&quot;HOUSE_SECD_NM&quot;:&quot;APT&quot;,&quot;HSSPLY_ADRES&quot;:&quot;대구광역시 중구 동인동1가 9 일원&quot;,&quot;HSSPLY_ZIP&quot;:&quot;41911&quot;,&quot;IMPRMN_BSNS_AT&quot;:&quot;N&quot;,&quot;LRSCL_BLDLND_AT&quot;:&quot;N&quot;,&quot;MDAT_TRGET_AREA_SECD&quot;:&quot;N&quot;,&quot;MDHS_TELNO&quot;:&quot;0537510152&quot;,&quot;MVN_PREARNGE_YM&quot;:&quot;202806&quot;,&quot;NPLN_PRVOPR_PUBLIC_HOUSE_AT&quot;:&quot;N&quot;,&quot;NSPRC_NM&quot;:&quot;대구신문&quot;,&quot;PARCPRC_ULS_AT&quot;:&quot;N&quot;,&quot;PBLANC_NO&quot;:&quot;2026000494&quot;,&quot;PBLANC_URL&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000494&amp;pblancNo=2026000494&quot;,&quot;PRZWNER_PRESNATN_DE&quot;:&quot;2026-10-20&quot;,&quot;PUBLIC_HOUSE_EARTH_AT&quot;:&quot;N&quot;,&quot;PUBLIC_HOUSE_SPCLW_APPLC_AT&quot;:&quot;N&quot;,&quot;RCEPT_BGNDE&quot;:&quot;2026-10-12&quot;,&quot;RCEPT_ENDDE&quot;:&quot;2026-10-14&quot;,&quot;RCRIT_PBLANC_DE&quot;:&quot;2026-10-02&quot;,&quot;RENT_SECD&quot;:&quot;0&quot;,&quot;RENT_SECD_NM&quot;:&quot;분양주택&quot;,&quot;SPECLT_RDN_EARTH_AT&quot;:&quot;N&quot;,&quot;SPSPLY_RCEPT_BGNDE&quot;:&quot;2026-10-12&quot;,&quot;SPSPLY_RCEPT_ENDDE&quot;:&quot;2026-10-12&quot;,&quot;SUBSCRPT_AREA_CODE&quot;:&quot;700&quot;,&quot;SUBSCRPT_AREA_CODE_NM&quot;:&quot;대구&quot;,&quot;TOT_SUPLY_HSHLDCO&quot;:314,&quot;_chronicle_window_date&quot;:&quot;2026-10-02&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;2b60459e9ff5d974cbece2df60c3fdd9eb4055df0eb62f8ef06906d596cb18ab&quot;,&quot;content_hash&quot;:&quot;235889800fff6afe5cbddebea2af58a98a8399c70a2511df7807e3d9f378fb8a&quot;,&quot;entity_id&quot;:&quot;apt:2026000494:2026000494&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T00:09:29.271Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000494&amp;pblancNo=2026000494&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:bunyang-capsule:794c590d850bdfc541e12b259dbe1f34100da0c9fe0e7a50273766fbb5bfe43a</id>
-    <title>[청약홈 APT 분양공고·주택형별 분양가 일간 박제] [신규] apt:2026000498:2026000498</title>
-    <updated>2026-10-04T00:09:29.271Z</updated>
-    <category term="bunyang-capsule"/>
-    <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000498&amp;pblancNo=2026000498"/>
-    <content type="text">{&quot;after&quot;:{&quot;BSNS_MBY_NM&quot;:&quot;주식회사 하나자산신탁&quot;,&quot;CNSTRCT_ENTRPS_NM&quot;:&quot;아이파크현대산업개발 주식회사&quot;,&quot;CNTRCT_CNCLS_BGNDE&quot;:&quot;2026-11-02&quot;,&quot;CNTRCT_CNCLS_ENDDE&quot;:&quot;2026-11-04&quot;,&quot;GNRL_RNK1_CRSPAREA_ENDDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_CRSPAREA_RCPTDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_ETC_AREA_ENDDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_ETC_AREA_RCPTDE&quot;:&quot;2026-10-13&quot;,&quot;GNRL_RNK1_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK1_ETC_GG_RCPTDE&quot;:null,&quot;GNRL_RNK2_CRSPAREA_ENDDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_CRSPAREA_RCPTDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_ETC_AREA_ENDDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_ETC_AREA_RCPTDE&quot;:&quot;2026-10-14&quot;,&quot;GNRL_RNK2_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK2_ETC_GG_RCPTDE&quot;:null,&quot;HMPG_ADRES&quot;:&quot;https://cheonan-iparkcity2.com/&quot;,&quot;HOUSE_DTL_SECD&quot;:&quot;01&quot;,&quot;HOUSE_DTL_SECD_NM&quot;:&quot;민영&quot;,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026000498&quot;,&quot;HOUSE_NM&quot;:&quot;천안 아이파크 시티 2단지(2회차)&quot;,&quot;HOUSE_SECD&quot;:&quot;01&quot;,&quot;HOUSE_SECD_NM&quot;:&quot;APT&quot;,&quot;HSSPLY_ADRES&quot;:&quot;충청남도 천안시 서북구 부대동 409-1 외 46필지&quot;,&quot;HSSPLY_ZIP&quot;:&quot;31079&quot;,&quot;IMPRMN_BSNS_AT&quot;:&quot;N&quot;,&quot;LRSCL_BLDLND_AT&quot;:&quot;N&quot;,&quot;MDAT_TRGET_AREA_SECD&quot;:&quot;N&quot;,&quot;MDHS_TELNO&quot;:&quot;15516013&quot;,&quot;MVN_PREARNGE_YM&quot;:&quot;202808&quot;,&quot;NPLN_PRVOPR_PUBLIC_HOUSE_AT&quot;:&quot;N&quot;,&quot;NSPRC_NM&quot;:null,&quot;PARCPRC_ULS_AT&quot;:&quot;N&quot;,&quot;PBLANC_NO&quot;:&quot;2026000498&quot;,&quot;PBLANC_URL&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000498&amp;pblancNo=2026000498&quot;,&quot;PRZWNER_PRESNATN_DE&quot;:&quot;2026-10-20&quot;,&quot;PUBLIC_HOUSE_EARTH_AT&quot;:&quot;N&quot;,&quot;PUBLIC_HOUSE_SPCLW_APPLC_AT&quot;:&quot;N&quot;,&quot;RCEPT_BGNDE&quot;:&quot;2026-10-12&quot;,&quot;RCEPT_ENDDE&quot;:&quot;2026-10-14&quot;,&quot;RCRIT_PBLANC_DE&quot;:&quot;2026-10-02&quot;,&quot;RENT_SECD&quot;:&quot;0&quot;,&quot;RENT_SECD_NM&quot;:&quot;분양주택&quot;,&quot;SPECLT_RDN_EARTH_AT&quot;:&quot;N&quot;,&quot;SPSPLY_RCEPT_BGNDE&quot;:&quot;2026-10-12&quot;,&quot;SPSPLY_RCEPT_ENDDE&quot;:&quot;2026-10-12&quot;,&quot;SUBSCRPT_AREA_CODE&quot;:&quot;312&quot;,&quot;SUBSCRPT_AREA_CODE_NM&quot;:&quot;충남&quot;,&quot;TOT_SUPLY_HSHLDCO&quot;:61,&quot;_chronicle_window_date&quot;:&quot;2026-10-02&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;794c590d850bdfc541e12b259dbe1f34100da0c9fe0e7a50273766fbb5bfe43a&quot;,&quot;content_hash&quot;:&quot;66f5326f1b1595a6cd67b8cd2fdccb3920d3f5f920023579848dab57d5ea88f1&quot;,&quot;entity_id&quot;:&quot;apt:2026000498:2026000498&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T00:09:29.271Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000498&amp;pblancNo=2026000498&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:bunyang-capsule:052ab94b03f72dcc4eec0ec2442a3c700b64c7df86f2b55c01eb043ddfe5db29</id>
-    <title>[청약홈 APT 분양공고·주택형별 분양가 일간 박제] [신규] apt:2026820010:2026820010</title>
-    <updated>2026-10-04T00:09:29.271Z</updated>
-    <category term="bunyang-capsule"/>
-    <link href="https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026820010&amp;pblancNo=2026820010"/>
-    <content type="text">{&quot;after&quot;:{&quot;BSNS_MBY_NM&quot;:&quot;한국토지주택공사 인천지역본부&quot;,&quot;CNSTRCT_ENTRPS_NM&quot;:&quot;(주)케이씨씨건설&quot;,&quot;CNTRCT_CNCLS_BGNDE&quot;:&quot;2027-02-23&quot;,&quot;CNTRCT_CNCLS_ENDDE&quot;:&quot;2027-02-26&quot;,&quot;GNRL_RNK1_CRSPAREA_ENDDE&quot;:&quot;2026-10-22&quot;,&quot;GNRL_RNK1_CRSPAREA_RCPTDE&quot;:&quot;2026-10-19&quot;,&quot;GNRL_RNK1_ETC_AREA_ENDDE&quot;:&quot;2026-10-22&quot;,&quot;GNRL_RNK1_ETC_AREA_RCPTDE&quot;:&quot;2026-10-19&quot;,&quot;GNRL_RNK1_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK1_ETC_GG_RCPTDE&quot;:null,&quot;GNRL_RNK2_CRSPAREA_ENDDE&quot;:&quot;2026-10-27&quot;,&quot;GNRL_RNK2_CRSPAREA_RCPTDE&quot;:&quot;2026-10-23&quot;,&quot;GNRL_RNK2_ETC_AREA_ENDDE&quot;:&quot;2026-10-27&quot;,&quot;GNRL_RNK2_ETC_AREA_RCPTDE&quot;:&quot;2026-10-23&quot;,&quot;GNRL_RNK2_ETC_GG_ENDDE&quot;:null,&quot;GNRL_RNK2_ETC_GG_RCPTDE&quot;:null,&quot;HMPG_ADRES&quot;:&quot;https://apply.lh.or.kr&quot;,&quot;HOUSE_DTL_SECD&quot;:&quot;03&quot;,&quot;HOUSE_DTL_SECD_NM&quot;:&quot;국민&quot;,&quot;HOUSE_MANAGE_NO&quot;:&quot;2026820010&quot;,&quot;HOUSE_NM&quot;:&quot;인천계양 A17블록 신혼희망타운(공공분양)(본청약)&quot;,&quot;HOUSE_SECD&quot;:&quot;10&quot;,&quot;HOUSE_SECD_NM&quot;:&quot;신혼희망타운&quot;,&quot;HSSPLY_ADRES&quot;:&quot;인천광역시 계양구 귤현동, 동양동, 박촌동, 병방동, 상야동, 경기도 부천시 대장동, 서울특별시 강서구 오곡동 일원 인천계양 테크노밸리 공공주택지구 내 A17블록&quot;,&quot;HSSPLY_ZIP&quot;:&quot;21021&quot;,&quot;IMPRMN_BSNS_AT&quot;:&quot;N&quot;,&quot;LRSCL_BLDLND_AT&quot;:&quot;Y&quot;,&quot;MDAT_TRGET_AREA_SECD&quot;:&quot;N&quot;,&quot;MDHS_TELNO&quot;:&quot;0325654777&quot;,&quot;MVN_PREARNGE_YM&quot;:&quot;202911&quot;,&quot;NPLN_PRVOPR_PUBLIC_HOUSE_AT&quot;:&quot;N&quot;,&quot;NSPRC_NM&quot;:null,&quot;PARCPRC_ULS_AT&quot;:&quot;Y&quot;,&quot;PBLANC_NO&quot;:&quot;2026820010&quot;,&quot;PBLANC_URL&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026820010&amp;pblancNo=2026820010&quot;,&quot;PRZWNER_PRESNATN_DE&quot;:&quot;2026-11-05&quot;,&quot;PUBLIC_HOUSE_EARTH_AT&quot;:&quot;Y&quot;,&quot;PUBLIC_HOUSE_SPCLW_APPLC_AT&quot;:&quot;Y&quot;,&quot;RCEPT_BGNDE&quot;:&quot;2026-10-19&quot;,&quot;RCEPT_ENDDE&quot;:&quot;2026-10-27&quot;,&quot;RCRIT_PBLANC_DE&quot;:&quot;2026-09-30&quot;,&quot;RENT_SECD&quot;:&quot;0&quot;,&quot;RENT_SECD_NM&quot;:&quot;분양주택&quot;,&quot;SPECLT_RDN_EARTH_AT&quot;:&quot;N&quot;,&quot;SPSPLY_RCEPT_BGNDE&quot;:null,&quot;SPSPLY_RCEPT_ENDDE&quot;:null,&quot;SUBSCRPT_AREA_CODE&quot;:&quot;400&quot;,&quot;SUBSCRPT_AREA_CODE_NM&quot;:&quot;인천&quot;,&quot;TOT_SUPLY_HSHLDCO&quot;:309,&quot;_chronicle_window_date&quot;:&quot;2026-09-30&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;052ab94b03f72dcc4eec0ec2442a3c700b64c7df86f2b55c01eb043ddfe5db29&quot;,&quot;content_hash&quot;:&quot;e446a58ea5911019dd8352f5876f7dc6bfbef33201b991803a606829a5936834&quot;,&quot;entity_id&quot;:&quot;apt:2026820010:2026820010&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T00:09:29.271Z&quot;,&quot;source_url&quot;:&quot;https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026820010&amp;pblancNo=2026820010&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:d8c0cf26059226657fbc515f74e06fbb93a03522e1620e4c64a8441b8f247af5</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:z-ai/glm-5.3-flash · context_length</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:1048576,&quot;before&quot;:1310720,&quot;chain_hash&quot;:&quot;d8c0cf26059226657fbc515f74e06fbb93a03522e1620e4c64a8441b8f247af5&quot;,&quot;content_hash&quot;:&quot;ecbb5712832afcb15f40e4cffb25e2726a763636816713b90f8b4a7f656554b8&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.3-flash&quot;,&quot;field&quot;:&quot;context_length&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:bc96f39c6a7d4b698733b5438f16b9e2f004f280946372be70d39353dccedf54</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:z-ai/glm-5.3-flash · price_prompt</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.00000015&quot;,&quot;before&quot;:&quot;0.00000004&quot;,&quot;chain_hash&quot;:&quot;bc96f39c6a7d4b698733b5438f16b9e2f004f280946372be70d39353dccedf54&quot;,&quot;content_hash&quot;:&quot;d3bde172fbdd7adb281e7f1b3f6ccd0a3de8e5b21e77a22ca6d960a1bc684bbb&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.3-flash&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:d6a10b5e50fd5d17f0d3f323c32ef0b82136afdc516b736e061be0b723beadae</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~deepseek/deepseek-flash-latest · price_completion</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000024&quot;,&quot;before&quot;:&quot;0.00000029&quot;,&quot;chain_hash&quot;:&quot;d6a10b5e50fd5d17f0d3f323c32ef0b82136afdc516b736e061be0b723beadae&quot;,&quot;content_hash&quot;:&quot;bb05037c1167e6753a013ae1cdabbf8ea7f58739b588cb88de9f217a1dddcf40&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-flash-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:c01baaf769b19d31e6aafcd0bc8c4ed5e1fbdc538a2440c2e88764577920ca7e</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~deepseek/deepseek-flash-latest · price_prompt</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.000000003&quot;,&quot;before&quot;:&quot;0.000000035&quot;,&quot;chain_hash&quot;:&quot;c01baaf769b19d31e6aafcd0bc8c4ed5e1fbdc538a2440c2e88764577920ca7e&quot;,&quot;content_hash&quot;:&quot;348e164f7bc2dc3074a528597c5fd1fd36d168b64d4c319c609b0c403e8b5637&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-flash-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:b4447f73f0d13191305c44ac0ff1f03054b6c1123611775eadf534b5b0012f51</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~deepseek/deepseek-pro-latest · price_completion</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000042&quot;,&quot;before&quot;:&quot;0.00000074844&quot;,&quot;chain_hash&quot;:&quot;b4447f73f0d13191305c44ac0ff1f03054b6c1123611775eadf534b5b0012f51&quot;,&quot;content_hash&quot;:&quot;2c35f200882d04e344bc6bcd8e5b9b7fd28474ff016dbf9413823b6e5470dab0&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-pro-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:a425e9bf876f7b709393533701430ad08983b306cfcd8dc1123c1d62fcdefe37</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~deepseek/deepseek-pro-latest · price_prompt</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.000000176&quot;,&quot;before&quot;:&quot;0.00000024948&quot;,&quot;chain_hash&quot;:&quot;a425e9bf876f7b709393533701430ad08983b306cfcd8dc1123c1d62fcdefe37&quot;,&quot;content_hash&quot;:&quot;7c1e8cc97764302b04966878906c2fef8a785713ede6fc394bfa748fdafa41ff&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-pro-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:023ca9c6f15e5dcd368aa9766f08e690a6d2c59babf771b285e02e30c4c5e8fb</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~deepseek/deepseek-v4-flash-latest · context_length</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:1048576,&quot;before&quot;:1310720,&quot;chain_hash&quot;:&quot;023ca9c6f15e5dcd368aa9766f08e690a6d2c59babf771b285e02e30c4c5e8fb&quot;,&quot;content_hash&quot;:&quot;382c124c74f09e5e46bb08c7134584c98eceb1851bfd5afcc1270145f26a2701&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-v4-flash-latest&quot;,&quot;field&quot;:&quot;context_length&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:cbca41c90daf9509d7ad792a1b2b7f97110fda160c8b1aca8f0a057f7c0bdfc1</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~deepseek/deepseek-v4-flash-latest · price_completion</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.00000128&quot;,&quot;before&quot;:&quot;0.00000032&quot;,&quot;chain_hash&quot;:&quot;cbca41c90daf9509d7ad792a1b2b7f97110fda160c8b1aca8f0a057f7c0bdfc1&quot;,&quot;content_hash&quot;:&quot;ec119cdee4567975b5fe1c23c24885c56372fa5f63007ad23d036a7dec46540d&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-v4-flash-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:301e89eb2b4b5004b5b6686c624e3aacb5721471014a6bd0fd7b5420f5800dbc</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~deepseek/deepseek-v4-flash-latest · price_prompt</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000000152&quot;,&quot;before&quot;:&quot;0.000000021&quot;,&quot;chain_hash&quot;:&quot;301e89eb2b4b5004b5b6686c624e3aacb5721471014a6bd0fd7b5420f5800dbc&quot;,&quot;content_hash&quot;:&quot;ff16d4bf43b7fedd60bb6a36f001ff120e0afbe95805b6a099966874ed507475&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-v4-flash-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:7a30c99ee66ca93c38bf63a1b57dfb879abce1da01eb14c1e1c54f4d92e4418e</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~moonshotai/kimi-latest · price_completion</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.000013&quot;,&quot;before&quot;:&quot;0.000009&quot;,&quot;chain_hash&quot;:&quot;7a30c99ee66ca93c38bf63a1b57dfb879abce1da01eb14c1e1c54f4d92e4418e&quot;,&quot;content_hash&quot;:&quot;b94f94246a5dd71411cfcbf55354418e0fff2ec2955552102d40d7c4b6eebd93&quot;,&quot;entity_id&quot;:&quot;model:~moonshotai/kimi-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:db42ce6247d984d846ce3437f0f3be12cf9041a6b8dc29056e909915b1a2001a</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~moonshotai/kimi-latest · price_prompt</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000005112&quot;,&quot;before&quot;:&quot;0.000001&quot;,&quot;chain_hash&quot;:&quot;db42ce6247d984d846ce3437f0f3be12cf9041a6b8dc29056e909915b1a2001a&quot;,&quot;content_hash&quot;:&quot;505f9e4342b5a74614d1c99ea5a99261164ac7bb9551d9892b9574e7a03f9b60&quot;,&quot;entity_id&quot;:&quot;model:~moonshotai/kimi-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:6a141b9a6ac927b2f15aea72f22078866d73ae94b8a12e31f23c5ceea106b746</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~x-ai/grok-latest · price_completion</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.000006&quot;,&quot;before&quot;:&quot;0.0000048&quot;,&quot;chain_hash&quot;:&quot;6a141b9a6ac927b2f15aea72f22078866d73ae94b8a12e31f23c5ceea106b746&quot;,&quot;content_hash&quot;:&quot;69ff83d57557fd36279c1a3d3c7234a31fab3eb678e33deb7ceaa50808fa59bf&quot;,&quot;entity_id&quot;:&quot;model:~x-ai/grok-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:d6a92db565d1f6c2419ade28f86b2e060095b45dbfe9b9c8d49804e773490538</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~x-ai/grok-latest · price_prompt</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.000002&quot;,&quot;before&quot;:&quot;0.0000016&quot;,&quot;chain_hash&quot;:&quot;d6a92db565d1f6c2419ade28f86b2e060095b45dbfe9b9c8d49804e773490538&quot;,&quot;content_hash&quot;:&quot;faaa8bd13ac5100c715bcbf6099077bd4f167e30e4b0fa9fd6dde01b94a573ed&quot;,&quot;entity_id&quot;:&quot;model:~x-ai/grok-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:07d54811fbd668cf508509ab08cd92ea34b49d4b4a73740242105325ca788c13</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~z-ai/glm-flash-latest · context_length</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:1048576,&quot;before&quot;:1310720,&quot;chain_hash&quot;:&quot;07d54811fbd668cf508509ab08cd92ea34b49d4b4a73740242105325ca788c13&quot;,&quot;content_hash&quot;:&quot;721fa210f3c77858ebda5461d6d560f94ea9be0afab83f83976542765618dcdf&quot;,&quot;entity_id&quot;:&quot;model:~z-ai/glm-flash-latest&quot;,&quot;field&quot;:&quot;context_length&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:ai-vendor-ledger:1cc5e4465e11199ad6cf0fcb45b9bdfad64ee8d15c6d0f314c753d35c85dc595</id>
-    <title>[AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)] [변경] model:~z-ai/glm-flash-latest · price_prompt</title>
-    <updated>2026-10-03T22:49:12.863Z</updated>
-    <category term="ai-vendor-ledger"/>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000000272&quot;,&quot;before&quot;:&quot;0.00000004&quot;,&quot;chain_hash&quot;:&quot;1cc5e4465e11199ad6cf0fcb45b9bdfad64ee8d15c6d0f314c753d35c85dc595&quot;,&quot;content_hash&quot;:&quot;0ed3b2cc0e24bc7000b1a6bdd3db659be14989afaed59c57392fcf0074143e0b&quot;,&quot;entity_id&quot;:&quot;model:~z-ai/glm-flash-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-03T22:49:12.863Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
 </feed>
