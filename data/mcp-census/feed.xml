@@ -2,356 +2,356 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:mcp-census</id>
   <title>MCP 생태계 센서스 — 등록 서버·버전</title>
-  <updated>2026-10-04T23:35:57.205Z</updated>
+  <updated>2026-10-11T23:58:02.943Z</updated>
   <author><name>chronicle</name></author>
   <entry>
-    <id>urn:chronicle:mcp-census:6ee539c0051850ba065b034b01aea3022adaf705ee1a97520b9b121546e4d09c</id>
-    <title>[삭제] server:io.usefulapi/olark</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:061687aa8636204b590b98e4ae99e5774602df57a3cee595c9354121351eb008</id>
+    <title>[삭제] server:studio.trackforge/isrc-lookup</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;dc1ae59825ea0ac50c053f7080c1b344b6fa816c7c74bda09d856ff5749964f2&quot;,&quot;repository_url&quot;:&quot;https://github.com/m190/usefulapi-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;6ee539c0051850ba065b034b01aea3022adaf705ee1a97520b9b121546e4d09c&quot;,&quot;content_hash&quot;:&quot;8fd1524ed926c0c617288c09d5219913b2fdea421a74f3f52b2637d09d0a47d1&quot;,&quot;entity_id&quot;:&quot;server:io.usefulapi/olark&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;633dc23d1c5a4e2a8f50f06ea0885074f5c0d0b915e69ea7978e9d83f2fc688d&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;061687aa8636204b590b98e4ae99e5774602df57a3cee595c9354121351eb008&quot;,&quot;content_hash&quot;:&quot;8e2bccc14b0551d06a02a201081e4f4a9e3d36cd25c7722eeb9d92b61fbd416c&quot;,&quot;entity_id&quot;:&quot;server:studio.trackforge/isrc-lookup&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:77533134336ba80d77d96babd3dd00e449428c9fb51685bce206f906cea0a301</id>
-    <title>[삭제] server:io.github.usamaejaz/socialbu-mcp</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:46e5afe31761385fb11993944fb6edf6b5ce405a14b084e2988ae4209ebe9cad</id>
+    <title>[삭제] server:net.clickwise/product-catalog</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;96086dd9474d44629d778b6ace8b92332c4977b207b56f470d05e5de8cbfcd96&quot;,&quot;repository_url&quot;:&quot;https://github.com/usamaejaz/socialbu-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;77533134336ba80d77d96babd3dd00e449428c9fb51685bce206f906cea0a301&quot;,&quot;content_hash&quot;:&quot;302815f6366324e8056a29e043cfeeccbae01084ad424b9b852a65305c21cb3b&quot;,&quot;entity_id&quot;:&quot;server:io.github.usamaejaz/socialbu-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;2ef9e641bf8f8f1dda60577307d8defd999589af0c1a8ee3f9770a479ab1d2d3&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;deprecated&quot;,&quot;version&quot;:&quot;1.3.0&quot;},&quot;chain_hash&quot;:&quot;46e5afe31761385fb11993944fb6edf6b5ce405a14b084e2988ae4209ebe9cad&quot;,&quot;content_hash&quot;:&quot;199f5bf36542f0c9eb94abea7b8b4d3228fdf919f72ac234faf33cff0f06ce28&quot;,&quot;entity_id&quot;:&quot;server:net.clickwise/product-catalog&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:6c500777731e04fda718b7bd08aee74a167eb1716bd46092e9610ff4cb6c567b</id>
-    <title>[삭제] server:io.github.simonplmak-cloud/vision-driven-design</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:30c9df4fcf56c7dfd0a6dadd397f69fabc341156eb22349d859d981521d835e1</id>
+    <title>[삭제] server:ltd.rednet/rednet</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;dac002f8bbbbca977483b0aefb5574cb95cd2d95b88303b8b0ea2c984f42b778&quot;,&quot;repository_url&quot;:&quot;https://github.com/simonplmak-cloud/vision-driven-design&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.8.2&quot;},&quot;chain_hash&quot;:&quot;6c500777731e04fda718b7bd08aee74a167eb1716bd46092e9610ff4cb6c567b&quot;,&quot;content_hash&quot;:&quot;97ffde8b517dbeb359db47988fa916da8cd5b0041fd16f6f4d4db47226dc0ea0&quot;,&quot;entity_id&quot;:&quot;server:io.github.simonplmak-cloud/vision-driven-design&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;5e23d04e63f6dbdba5fb703879b5db3fd3a7add5ebb50aee0162d3e94d5b77e2&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.1.0&quot;},&quot;chain_hash&quot;:&quot;30c9df4fcf56c7dfd0a6dadd397f69fabc341156eb22349d859d981521d835e1&quot;,&quot;content_hash&quot;:&quot;658aff2f3a51a6b028061d5ffee7e27ce3e6369a07ba3d6d4ec5589ecd4e42e4&quot;,&quot;entity_id&quot;:&quot;server:ltd.rednet/rednet&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:776bc8581378e9155590c5aca79868bb0515fa1d35946d708497a0afa9f506f9</id>
-    <title>[삭제] server:io.github.simonplmak-cloud/hkex-filings</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:8817c373854e868ffb080d555f904040eb83b9367ebe3d5cd92dbeceeba3ae87</id>
+    <title>[삭제] server:io.tapeline/tapeline</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;326e2a5185253a7560199938c66d31bf20d93bda0a5f20707e36574fa4663dc7&quot;,&quot;repository_url&quot;:&quot;https://github.com/simonplmak-cloud/hkex-filing-scraper&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;2.4.0&quot;},&quot;chain_hash&quot;:&quot;776bc8581378e9155590c5aca79868bb0515fa1d35946d708497a0afa9f506f9&quot;,&quot;content_hash&quot;:&quot;4ac536d3057f849acc92db364d57512b085dbd5faedce7e16bb09e266c1c5c87&quot;,&quot;entity_id&quot;:&quot;server:io.github.simonplmak-cloud/hkex-filings&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;d7f97543d99b96911e7d48816f5c136009005cc92343d161ce3949e01e976aaf&quot;,&quot;repository_url&quot;:&quot;https://github.com/cham-p24/tapeline&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;8817c373854e868ffb080d555f904040eb83b9367ebe3d5cd92dbeceeba3ae87&quot;,&quot;content_hash&quot;:&quot;6f63035ff64d4699eb9b5dcc4e20497faf23225d0f3d7b62d6b5f6877b215775&quot;,&quot;entity_id&quot;:&quot;server:io.tapeline/tapeline&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:e1afa614fc2ba0097cb8bf8c96e61dc74b347cdde7316b2f6d1d579a1ddd58b8</id>
-    <title>[삭제] server:io.github.sebastienrousseau/scout-mcp</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:aec338b58585b22436a7bc5fac4b268cfd48014d6ff02802fade91a029dbb060</id>
+    <title>[삭제] server:io.github.xnjiang/speakpen-mcp</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;411053e6257aced90edeab06e54935656a9cbc8c37fae31b0fc6f6f03afd0a7c&quot;,&quot;repository_url&quot;:&quot;https://github.com/sebastienrousseau/scout-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.0.8&quot;},&quot;chain_hash&quot;:&quot;e1afa614fc2ba0097cb8bf8c96e61dc74b347cdde7316b2f6d1d579a1ddd58b8&quot;,&quot;content_hash&quot;:&quot;831c1883988f743c920cd2b71f7387191342148c70495d7425f79028e0fc798f&quot;,&quot;entity_id&quot;:&quot;server:io.github.sebastienrousseau/scout-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;d208d2e78288368fa9a8b200dcf7b16896800732f3fc835f9d5d9b6d9fa83c9b&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;aec338b58585b22436a7bc5fac4b268cfd48014d6ff02802fade91a029dbb060&quot;,&quot;content_hash&quot;:&quot;7d6fc51b02bfbbc1084fd1a9990c7d5f8f9ebc4946b56595cbccac511629c224&quot;,&quot;entity_id&quot;:&quot;server:io.github.xnjiang/speakpen-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:9a630a08d4317d0829441cdf0f8787e31c99fde9b81103a744faeace5d841eef</id>
-    <title>[삭제] server:io.github.ronaldanton/agentpay</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:bbd8170b3e88504f826afaa908c92633e339d4368fa2c855f1b5167d6884d4de</id>
+    <title>[삭제] server:io.github.xnjiang/37soul-mcp</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;a027aa693ff71c9f964f07ae162b0332501363f09a7e9749326229d930b744d1&quot;,&quot;repository_url&quot;:&quot;https://github.com/ronaldanton/x402-shop&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;9a630a08d4317d0829441cdf0f8787e31c99fde9b81103a744faeace5d841eef&quot;,&quot;content_hash&quot;:&quot;b6cee8b250cf94d9b127df24aa37f7fb164ff19fe4577649484852793208d819&quot;,&quot;entity_id&quot;:&quot;server:io.github.ronaldanton/agentpay&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;96f4f5a95966a558bc0ef01159aca399854321202fd468a06b08226fb3968198&quot;,&quot;repository_url&quot;:&quot;https://github.com/xnjiang/37soul-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.9.0&quot;},&quot;chain_hash&quot;:&quot;bbd8170b3e88504f826afaa908c92633e339d4368fa2c855f1b5167d6884d4de&quot;,&quot;content_hash&quot;:&quot;e3c046b9299027bcbf0fe60c6bad1917823ed76c39fc0b9575f318664b8c0736&quot;,&quot;entity_id&quot;:&quot;server:io.github.xnjiang/37soul-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:c4d20a5071fabc889a6b6460a5c5a628e82a976f38da797900b38ab5a3d2c6ca</id>
-    <title>[삭제] server:io.github.ralphieusa/idevice-wearables</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:cba766a40060c2dad7551bd34052d16d3ce7dcd5ed8bc31912134fc3fc023e4e</id>
+    <title>[삭제] server:io.github.vdmeu/registrum-mcp</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;f1f994397f2781e60dbaca87be3163201e6404c509b89b6c86bcb35075f37bf5&quot;,&quot;repository_url&quot;:&quot;https://github.com/ralphieusa/ralphie&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.1&quot;},&quot;chain_hash&quot;:&quot;c4d20a5071fabc889a6b6460a5c5a628e82a976f38da797900b38ab5a3d2c6ca&quot;,&quot;content_hash&quot;:&quot;8dc4a9bead3b2c990df832981cf5797a3e7e7335c96935b91803edf9ac0528c9&quot;,&quot;entity_id&quot;:&quot;server:io.github.ralphieusa/idevice-wearables&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;474ee3c622ede95787b02102fe34300f39fafc24917711c85de7c375f0414b82&quot;,&quot;repository_url&quot;:&quot;https://github.com/vdmeu/registrum-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;2.0.10&quot;},&quot;chain_hash&quot;:&quot;cba766a40060c2dad7551bd34052d16d3ce7dcd5ed8bc31912134fc3fc023e4e&quot;,&quot;content_hash&quot;:&quot;63292343c3d961956b6878d4fcc8ebcacf9973130c492e40b811607d853032d5&quot;,&quot;entity_id&quot;:&quot;server:io.github.vdmeu/registrum-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:154703c76ff735d215b36cb594fcc5e396283fe5c45b2a977f9e673eff1f11e3</id>
-    <title>[삭제] server:io.github.odaiin/assetfare-bridge</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:7b69c83459939398c5af7c54c7b7e562ad69979279e68940f61a998a6e509916</id>
+    <title>[삭제] server:io.github.tcador/787daily</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;eca2ef23c401d215e5c15949772b2f324d0b09f22cb4bdad84f797ac4079358a&quot;,&quot;repository_url&quot;:&quot;https://github.com/odaiin/assetfare-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.4.11&quot;},&quot;chain_hash&quot;:&quot;154703c76ff735d215b36cb594fcc5e396283fe5c45b2a977f9e673eff1f11e3&quot;,&quot;content_hash&quot;:&quot;bdc7e0f506f43d91144688b2ad79b6a85dca69dc188f2119f3b276719fcecda0&quot;,&quot;entity_id&quot;:&quot;server:io.github.odaiin/assetfare-bridge&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;d387c6a8b5f0a24260f0b6d93d5fe0200527a15afa0cb4705d9d9de22fd1a7a4&quot;,&quot;repository_url&quot;:&quot;https://github.com/tcador/787daily-site&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;7b69c83459939398c5af7c54c7b7e562ad69979279e68940f61a998a6e509916&quot;,&quot;content_hash&quot;:&quot;355db8913d2032d8e5a0ac9fe244b59472d4c3d8180f8309ac4ede68725554ec&quot;,&quot;entity_id&quot;:&quot;server:io.github.tcador/787daily&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:7e8548f21ff5899bdc8831ae082da9353e14189b622a071e50badbbbaa1e9f91</id>
-    <title>[삭제] server:io.github.odaiin/assetfare</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:491c52dd86285958007c3dd61d9a4f2b133e5ed2d42a6549abd2a7c98500dae0</id>
+    <title>[삭제] server:io.github.sentien-labs/verdictswarm-mcp</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;90b8627b3abe7cb74b16c5756c5feef903b4fc3f9eee6e041ca3e9bf93df6059&quot;,&quot;repository_url&quot;:&quot;https://github.com/odaiin/assetfare-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.4.11&quot;},&quot;chain_hash&quot;:&quot;7e8548f21ff5899bdc8831ae082da9353e14189b622a071e50badbbbaa1e9f91&quot;,&quot;content_hash&quot;:&quot;826d3fb3ae4916266f5ecd603fe696a3390031e503327bba5e9117079361ccdb&quot;,&quot;entity_id&quot;:&quot;server:io.github.odaiin/assetfare&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;fe01cdf2c84863b52b380e53e1ee87ee8339249c162cd72a13c37b46d0828366&quot;,&quot;repository_url&quot;:&quot;https://github.com/sentien-labs/verdictswarm-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.2.1&quot;},&quot;chain_hash&quot;:&quot;491c52dd86285958007c3dd61d9a4f2b133e5ed2d42a6549abd2a7c98500dae0&quot;,&quot;content_hash&quot;:&quot;5b98dba791a522ba054542f5864221b8bc7266924fa301a403340308583b45c4&quot;,&quot;entity_id&quot;:&quot;server:io.github.sentien-labs/verdictswarm-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:f5ee8d30bc35368b2fa818369fc328d605dc395430caaf71d83cbb523010dc7a</id>
-    <title>[삭제] server:io.github.nyuchi/mzizi-mcp</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:7e30b8f6ea5ca6e6d815631be7c8e7fd0bbd436154adccf59475c52d2b54e761</id>
+    <title>[삭제] server:io.github.ponder-surveys/dreamwork</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;fb1d3a9bc7c243c2554c63d45a7f4ac2d00b301e27657d51c91814f2a607ba6b&quot;,&quot;repository_url&quot;:&quot;https://github.com/nyuchi/mzizi-tools&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.9.1&quot;},&quot;chain_hash&quot;:&quot;f5ee8d30bc35368b2fa818369fc328d605dc395430caaf71d83cbb523010dc7a&quot;,&quot;content_hash&quot;:&quot;acdf6c744dc8fb69b9ec64f6428cc612074793620ffda1ffa8af5fea8abfb78b&quot;,&quot;entity_id&quot;:&quot;server:io.github.nyuchi/mzizi-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;7bc6d70a0abf55d41569ea0baf51b1b11246bbe0364ba4281b1f1d11ee9215e0&quot;,&quot;repository_url&quot;:&quot;https://github.com/ponder-surveys/dreamwork&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.4.3&quot;},&quot;chain_hash&quot;:&quot;7e30b8f6ea5ca6e6d815631be7c8e7fd0bbd436154adccf59475c52d2b54e761&quot;,&quot;content_hash&quot;:&quot;67bdda116d79749a4dc29b62fef5f96d3a18632309795c96fae2540385e0c9ee&quot;,&quot;entity_id&quot;:&quot;server:io.github.ponder-surveys/dreamwork&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:0bf83bab4b26f9ba8497e69684917a1e68e7d4875c70bac81dbeb5d31e00501e</id>
-    <title>[삭제] server:io.github.lbesecker195/mcp-registry-search-find-mcp-servers-discover-install-mcp-tools-directory-catalog-marketplace</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:a30fc3d4412652379b7d231065b1fb340b8924af1a260e54d1367283ec41c2bf</id>
+    <title>[삭제] server:io.github.patwalls/pulse-mcp</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;3663d2a96e1602027689c6be09f6311940e729bb5674e5b269dbd08e0acc82b7&quot;,&quot;repository_url&quot;:&quot;https://github.com/lbesecker195/MCP_Registry&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.1&quot;},&quot;chain_hash&quot;:&quot;0bf83bab4b26f9ba8497e69684917a1e68e7d4875c70bac81dbeb5d31e00501e&quot;,&quot;content_hash&quot;:&quot;511b5f817cabf57bcb35ce919b6bc9cda619eee2886a4b96a60ace96cce47e4f&quot;,&quot;entity_id&quot;:&quot;server:io.github.lbesecker195/mcp-registry-search-find-mcp-servers-discover-install-mcp-tools-directory-catalog-marketplace&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;9fb79ce11e00e26a3067d9c6987082eb0005576ad022c77d5362e24da557b325&quot;,&quot;repository_url&quot;:&quot;https://github.com/patwalls/pulse-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.12.0&quot;},&quot;chain_hash&quot;:&quot;a30fc3d4412652379b7d231065b1fb340b8924af1a260e54d1367283ec41c2bf&quot;,&quot;content_hash&quot;:&quot;25c502a741535fca6e245d8e0b3d61d6f3e37ba233270b87e2d8424f2b5c92be&quot;,&quot;entity_id&quot;:&quot;server:io.github.patwalls/pulse-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:0683cf2a031f4d27a66849d5fcbc9fccd53d88771506f50394714acf119b863c</id>
-    <title>[삭제] server:io.github.kngf222/needle-mover</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:942cb940b7c9208d03c715a98c2a7d2a2262405ea2004f917c00b53b3da6fe07</id>
+    <title>[삭제] server:io.github.patwalls/feedhook-mcp</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;df11d2471d68d93c9af11f1ae874061970a2e90da665f7e03651633af3309d08&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;2026.9.26&quot;},&quot;chain_hash&quot;:&quot;0683cf2a031f4d27a66849d5fcbc9fccd53d88771506f50394714acf119b863c&quot;,&quot;content_hash&quot;:&quot;213ec0b24247c4c30034253eb0e4c6c51a35e990fb3bb026224288c0c9f1cfd2&quot;,&quot;entity_id&quot;:&quot;server:io.github.kngf222/needle-mover&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;e05226f9bce504a4364b472dbeca89f22a1931b48cab4658c2d57b43ec43a01d&quot;,&quot;repository_url&quot;:&quot;https://github.com/patwalls/feedhook-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.4.0&quot;},&quot;chain_hash&quot;:&quot;942cb940b7c9208d03c715a98c2a7d2a2262405ea2004f917c00b53b3da6fe07&quot;,&quot;content_hash&quot;:&quot;b0fa4845cb9d55a924bcefe73dbebd4a680e19becefff349da216b795c14bee3&quot;,&quot;entity_id&quot;:&quot;server:io.github.patwalls/feedhook-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:b204e6849bd0e531e03e6d90bbeeb2520a5235142638f15c0c2e36a8c560d839</id>
-    <title>[삭제] server:io.github.khsarvar/sifthound</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:d52d33e6c47096899423d38ac04b17d6e78b42a5a514d37703e448a499bc4f4e</id>
+    <title>[삭제] server:io.github.n24q02m/wet-mcp</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;1de9c1b72cebc7cb5bf7c0e006d36d41db8a49c095d5be3135a752acb58498d7&quot;,&quot;repository_url&quot;:&quot;https://github.com/khsarvar/sifthound&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.2.1&quot;},&quot;chain_hash&quot;:&quot;b204e6849bd0e531e03e6d90bbeeb2520a5235142638f15c0c2e36a8c560d839&quot;,&quot;content_hash&quot;:&quot;bf92a3099bb1649834c74cb8e8b25a0e7be44656177107aab1d2835d089aadb1&quot;,&quot;entity_id&quot;:&quot;server:io.github.khsarvar/sifthound&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;6799e75f65f82355721394e986a73cb104afa8117b1eebdf7cf6fa8f877974cb&quot;,&quot;repository_url&quot;:&quot;https://github.com/n24q02m/wet.git&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;3.18.0&quot;},&quot;chain_hash&quot;:&quot;d52d33e6c47096899423d38ac04b17d6e78b42a5a514d37703e448a499bc4f4e&quot;,&quot;content_hash&quot;:&quot;312db97871ea318d1b39191c74bcfca91b36c3ad5c6df00aa78995cff43a7378&quot;,&quot;entity_id&quot;:&quot;server:io.github.n24q02m/wet-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:e6e2f4c9250f83a2e5e536f617c5671d0106355481c6d2eb2af10589b22b901b</id>
-    <title>[삭제] server:io.github.jshorwitz/synter-ads</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:655fdea402fca1d7fc57241ebf635cc2ff862ce2b9231b1f87ca72072025597f</id>
+    <title>[삭제] server:io.github.n24q02m/mnemo-mcp</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;bc0b3a19d601863d5c1b3be0df15e735c982cff6507f266a6d345e3975042eee&quot;,&quot;repository_url&quot;:&quot;https://github.com/jshorwitz/synter-mcp-server&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.7&quot;},&quot;chain_hash&quot;:&quot;e6e2f4c9250f83a2e5e536f617c5671d0106355481c6d2eb2af10589b22b901b&quot;,&quot;content_hash&quot;:&quot;1397b3963d6a5b1f44cecdf125f4269bbe1663515a344cf701c9ad4ea55e1989&quot;,&quot;entity_id&quot;:&quot;server:io.github.jshorwitz/synter-ads&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;180ab01636dc193c25c59ee330844782508b96adfcfa59a2c2abef61b5c97161&quot;,&quot;repository_url&quot;:&quot;https://github.com/n24q02m/mnemo.git&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;2.18.12&quot;},&quot;chain_hash&quot;:&quot;655fdea402fca1d7fc57241ebf635cc2ff862ce2b9231b1f87ca72072025597f&quot;,&quot;content_hash&quot;:&quot;b4f7130dcb2145954f26004d6680e9a0f4e531ceebc2b76f3b51826a1db8c790&quot;,&quot;entity_id&quot;:&quot;server:io.github.n24q02m/mnemo-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:de8ba78fbad5f976f2aab1708575db4b07b6489fe221fb26405cd66200a2b42e</id>
-    <title>[삭제] server:io.github.encodi/validar-semver</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:23032fc7a6c0bda06a868be44821bd5fec4b0e0c60ed26b621b41f333bd6c54b</id>
+    <title>[삭제] server:io.github.n24q02m/better-code-review-graph</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;e39bdac1d3b6ce8ca289af075ba28a298b68d1ed9037adb8134915416f4d58fe&quot;,&quot;repository_url&quot;:&quot;https://github.com/encodi/validar-semver&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.1&quot;},&quot;chain_hash&quot;:&quot;de8ba78fbad5f976f2aab1708575db4b07b6489fe221fb26405cd66200a2b42e&quot;,&quot;content_hash&quot;:&quot;a33e0007e00bb4d4ccee2d2ab650ec3fd49b05d928dc991d3639030754c19238&quot;,&quot;entity_id&quot;:&quot;server:io.github.encodi/validar-semver&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;aaa87011f2f1bd560a3d233579025bbca9bf20e7d76130d500101a1addbf292e&quot;,&quot;repository_url&quot;:&quot;https://github.com/n24q02m/crg.git&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;3.29.6&quot;},&quot;chain_hash&quot;:&quot;23032fc7a6c0bda06a868be44821bd5fec4b0e0c60ed26b621b41f333bd6c54b&quot;,&quot;content_hash&quot;:&quot;33e39f7719cafd69983982bdbf771aee68d053e7b91ba17c9e35166eb13f9059&quot;,&quot;entity_id&quot;:&quot;server:io.github.n24q02m/better-code-review-graph&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:92b31a0147f145aa56e6784af207d4ba00ccc9e9b5257f4b821545806a4b023e</id>
-    <title>[삭제] server:io.github.encodi/validar-codigo-medico</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:63b60e0074caa485fff445e31df1da9e2cdd220f38d7b2e40edb6087fda4d5cb</id>
+    <title>[삭제] server:io.github.mrgulshanyadav/misarblog-mcp</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;50cd94b4c98731e9d6763bb38ddc4dc0677d555dbdf0a1de02253b193c7eb088&quot;,&quot;repository_url&quot;:&quot;https://github.com/encodi/validar-codigo-medico&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.1&quot;},&quot;chain_hash&quot;:&quot;92b31a0147f145aa56e6784af207d4ba00ccc9e9b5257f4b821545806a4b023e&quot;,&quot;content_hash&quot;:&quot;54ee74de0e3017acc9db1f6c2e4faed05b1100241d7aef8a2af8a399c65df5e0&quot;,&quot;entity_id&quot;:&quot;server:io.github.encodi/validar-codigo-medico&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;83cfaa56f09eea7c4b9ad7ca387f926877be0417c56b8d6241372305257f9b5a&quot;,&quot;repository_url&quot;:&quot;https://github.com/mrgulshanyadav/misarblog-mcp&quot;,&quot;status&quot;:&quot;deprecated&quot;,&quot;version&quot;:&quot;1.0.6&quot;},&quot;chain_hash&quot;:&quot;63b60e0074caa485fff445e31df1da9e2cdd220f38d7b2e40edb6087fda4d5cb&quot;,&quot;content_hash&quot;:&quot;2d01a3d1ea8d8e57f6fbaee06d293e0e340421dc29b2715b9d6814368f55afa5&quot;,&quot;entity_id&quot;:&quot;server:io.github.mrgulshanyadav/misarblog-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:2909b2d566f32ef8376fee1da3496d42c5e2ae5d6e85495fe3c956eba4ee3209</id>
-    <title>[삭제] server:io.github.encodi/simulate-monte-carlo</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:6358d24bd219ed3e994cb8eec41e4c86db3b5e44699a3cde6e2e7ced45cf370f</id>
+    <title>[삭제] server:io.github.kor-jongwon/witan</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;0abe4ad74d8516db58497181e2de006634de9c2e5b042e7243b50d1155ab35c5&quot;,&quot;repository_url&quot;:&quot;https://github.com/encodi/simulate-monte-carlo&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;2909b2d566f32ef8376fee1da3496d42c5e2ae5d6e85495fe3c956eba4ee3209&quot;,&quot;content_hash&quot;:&quot;8a4e9acc1a0dc5686a34d7a8a2c50c44608822198308504dff5f0a3cbed8a95c&quot;,&quot;entity_id&quot;:&quot;server:io.github.encodi/simulate-monte-carlo&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;48b04edc0dae62f21e361eae1ba1600b545fb80b33b9560a001e02e6589a6f9c&quot;,&quot;repository_url&quot;:&quot;https://github.com/kor-jongwon/witan-sdk&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.5.0&quot;},&quot;chain_hash&quot;:&quot;6358d24bd219ed3e994cb8eec41e4c86db3b5e44699a3cde6e2e7ced45cf370f&quot;,&quot;content_hash&quot;:&quot;516e782a810b36b41e0705f7ab40070eae2a094f14975fb20797143330e05c07&quot;,&quot;entity_id&quot;:&quot;server:io.github.kor-jongwon/witan&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:4f8f2f3886b44f8945a375576cf796461da142ba3a6168f8555de334f343bee4</id>
-    <title>[삭제] server:io.github.encodi/lookup-holiday</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:0bcb732e6036cd2a3f168568be1515abe6cbea03ad473a30cd6ab75d635a06f1</id>
+    <title>[삭제] server:io.github.kevegonz-dev/momus-marketplace</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;c473ff599804edb6d4b2767a32a2beea1a18df1ed657cf399e8c5730e1795c72&quot;,&quot;repository_url&quot;:&quot;https://github.com/encodi/lookup-holiday&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;4f8f2f3886b44f8945a375576cf796461da142ba3a6168f8555de334f343bee4&quot;,&quot;content_hash&quot;:&quot;5882cb807dd26bf6a5a1cb67360c9ff098a368a27f1c1e1fac3410f1f92f2c84&quot;,&quot;entity_id&quot;:&quot;server:io.github.encodi/lookup-holiday&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;f3ad145c15b8e8d714b442102d86abe9dfd09f16f685f49618252112046735ca&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.1.0&quot;},&quot;chain_hash&quot;:&quot;0bcb732e6036cd2a3f168568be1515abe6cbea03ad473a30cd6ab75d635a06f1&quot;,&quot;content_hash&quot;:&quot;e5d162aa6f2937fe863e7da714f3f94922ee09f2d8df4fd2b204156d6eceefe1&quot;,&quot;entity_id&quot;:&quot;server:io.github.kevegonz-dev/momus-marketplace&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:0c55a8af664c4b57c82f2face80f828241c04617550f957e22bc9a6bea233f0d</id>
-    <title>[삭제] server:io.github.cicicalex/engine</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:cd541e5cce356fb2ca077af6eb4233f4c053b0ec078c1f6e690824b9c90e719f</id>
+    <title>[삭제] server:io.github.ilyautov/hh-mcp-ru</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;7a51ed48e2c90ddf4aab25210189bd845e6683a2e142af33df42b39945403ea9&quot;,&quot;repository_url&quot;:&quot;https://github.com/cicicalex/zpl-engine-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;4.2.1&quot;},&quot;chain_hash&quot;:&quot;0c55a8af664c4b57c82f2face80f828241c04617550f957e22bc9a6bea233f0d&quot;,&quot;content_hash&quot;:&quot;f5c111dd1b4f9aae99ea1c08aa35addfce8c317d7cc74ac98ac88b49db7b2edd&quot;,&quot;entity_id&quot;:&quot;server:io.github.cicicalex/engine&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;1d5100769b65907a567e8fe5843974b7f2a869caf32c5d9e795f9f07f36b0ea0&quot;,&quot;repository_url&quot;:&quot;https://github.com/ilyautov/hh-mcp-ru&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.3.0&quot;},&quot;chain_hash&quot;:&quot;cd541e5cce356fb2ca077af6eb4233f4c053b0ec078c1f6e690824b9c90e719f&quot;,&quot;content_hash&quot;:&quot;40d125d88dddd21187ab4634feb8ada7f2f6ed1b40f5334f5b0ce38fd565f9a9&quot;,&quot;entity_id&quot;:&quot;server:io.github.ilyautov/hh-mcp-ru&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:07959f2aa487da0b898ef5d3fdb91f57951ab5cf41b64f8397c4eccd74c48cee</id>
-    <title>[삭제] server:io.github.autoview-com/mcp</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:faa6336cc402bf4724a9e3c42d954f9e83d01382992d54795ee925e177093fbf</id>
+    <title>[삭제] server:io.github.fi4all/algoum</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;8a2901925c61979c93a9b408aba8c6cbbaea0be99f4b313be9044bae056335ec&quot;,&quot;repository_url&quot;:&quot;https://github.com/autoview-com/mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;07959f2aa487da0b898ef5d3fdb91f57951ab5cf41b64f8397c4eccd74c48cee&quot;,&quot;content_hash&quot;:&quot;7944fb2fff3d1dce55b678e1552440b9f3a6f3494842cade274153d75c0487a7&quot;,&quot;entity_id&quot;:&quot;server:io.github.autoview-com/mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;4d2d3e9329cf911a47d61fe41e94a03603d1f830ddc3813fe84ba665d7392d87&quot;,&quot;repository_url&quot;:&quot;https://github.com/fi4all/algoum_mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;faa6336cc402bf4724a9e3c42d954f9e83d01382992d54795ee925e177093fbf&quot;,&quot;content_hash&quot;:&quot;9cdfa065c8e9061d4ae139eb59f6329a8ec2d0c693d2f4efacf570c81d94aed6&quot;,&quot;entity_id&quot;:&quot;server:io.github.fi4all/algoum&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:93be8af2597a9abec0eef64b55fd5aa770d5aa693ad5c5d7f8847826668137b0</id>
-    <title>[삭제] server:io.github.aeoess/agent-passport-mcp</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:6a4635f663e9271b899f05d82a61e22645219034099271fe8d2e7ff912bd6686</id>
+    <title>[삭제] server:io.github.delaney470/withnettle</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;f83086bf8f0a979f50ade4fa89dd636f89a99753e1941eabaf5b1c2415572221&quot;,&quot;repository_url&quot;:&quot;https://github.com/aeoess/agent-passport-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;6.1.0&quot;},&quot;chain_hash&quot;:&quot;93be8af2597a9abec0eef64b55fd5aa770d5aa693ad5c5d7f8847826668137b0&quot;,&quot;content_hash&quot;:&quot;2fa5cdf68f3e3aa9bb7de5f274c78071962dcc197295321a8ee3e11672f350eb&quot;,&quot;entity_id&quot;:&quot;server:io.github.aeoess/agent-passport-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;f04360dbbef8c111216c934e949f36930608f56a8512dd835eaf1d7376cb53f1&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;6a4635f663e9271b899f05d82a61e22645219034099271fe8d2e7ff912bd6686&quot;,&quot;content_hash&quot;:&quot;d36db8aff40e829066f1278f2491ec8eb95bb57e12a4968b19def29400562448&quot;,&quot;entity_id&quot;:&quot;server:io.github.delaney470/withnettle&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:9cd632f72038a67467b04c71685a485c34a6652881d1446371a1ed5c39c8232f</id>
-    <title>[삭제] server:io.github.SELISEdigitalplatforms/l0-py-blocks-mcp</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:7b50bd9bb1fd3cd5cca1b897d1404816b3908fbeb2a024381524ff0e5ef0b756</id>
+    <title>[삭제] server:io.github.brenton-keller/telegram-channel-scraper</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;45ed3efb8f73de55fddf09a353a6b91cab016dd8d87d3e5337323eee9dfeeba7&quot;,&quot;repository_url&quot;:&quot;https://github.com/SELISEdigitalplatforms/l0-py-blocks-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0-beta.4&quot;},&quot;chain_hash&quot;:&quot;9cd632f72038a67467b04c71685a485c34a6652881d1446371a1ed5c39c8232f&quot;,&quot;content_hash&quot;:&quot;b9dad4be9f2a8a124ee6fee18d1c54192fed95bdded66347bb7df0c91f4119d2&quot;,&quot;entity_id&quot;:&quot;server:io.github.SELISEdigitalplatforms/l0-py-blocks-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;11e0347f1aa013bab66beccebdb17d3f46581cc0bd5446abac86f3a9a681dfe6&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.1.0&quot;},&quot;chain_hash&quot;:&quot;7b50bd9bb1fd3cd5cca1b897d1404816b3908fbeb2a024381524ff0e5ef0b756&quot;,&quot;content_hash&quot;:&quot;01f144c931c5ff5f941ccc9eb1275417b56885b2587ce3fe02ce91c29e259479&quot;,&quot;entity_id&quot;:&quot;server:io.github.brenton-keller/telegram-channel-scraper&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:0555caab055cbe4cba4bbfc8bae24992dff9f522163d614350140312747a541c</id>
-    <title>[삭제] server:io.github.RolloutsAI/mails-agent-email</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:441368e719f0fc9bb6c0f68a1ed33458afb234f9e7e0b4a75041b404e24b6c54</id>
+    <title>[삭제] server:io.github.brenton-keller/product-hunt-data</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;088c26c06d3955f03c5197e0f90d4926e9dfeebd5731f2642e83361d0e6d8b28&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.2.9&quot;},&quot;chain_hash&quot;:&quot;0555caab055cbe4cba4bbfc8bae24992dff9f522163d614350140312747a541c&quot;,&quot;content_hash&quot;:&quot;2223a4e521f88845f29dda203950467e99a866f3934c34fa5ab37936ad6c8acb&quot;,&quot;entity_id&quot;:&quot;server:io.github.RolloutsAI/mails-agent-email&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;e8edaaf6388f7a724f7fdd8a1a3886a2f5d09e064a36d4bb09ec7f8b5c3b6abf&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.1.0&quot;},&quot;chain_hash&quot;:&quot;441368e719f0fc9bb6c0f68a1ed33458afb234f9e7e0b4a75041b404e24b6c54&quot;,&quot;content_hash&quot;:&quot;188f244bc3cb7d5a84cea7beeca5997ffd3132999d0034baf32c819957e0d0fb&quot;,&quot;entity_id&quot;:&quot;server:io.github.brenton-keller/product-hunt-data&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:600c2a66eb697c975e3994906a1cf8de540a818ca397761954f62079e8a50fac</id>
-    <title>[삭제] server:io.github.OxygenBubbles/freeagent-mcp-server</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:b587fc9610def187bc5ac77e33868aaec049f8f73eb4471cc28e05758979c33f</id>
+    <title>[삭제] server:io.github.brenton-keller/prediction-markets-data</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;9d6311d57fb4d27a29deb9a7118e3574728b18a2fd0fc2d9403c5e10234818c3&quot;,&quot;repository_url&quot;:&quot;https://github.com/OxygenBubbles/freeagent-mcp-server&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;3.2.0&quot;},&quot;chain_hash&quot;:&quot;600c2a66eb697c975e3994906a1cf8de540a818ca397761954f62079e8a50fac&quot;,&quot;content_hash&quot;:&quot;11c86377fa6c8e631739a1aa28d36a43626f3138f8a366d4905a7e0d02e457f2&quot;,&quot;entity_id&quot;:&quot;server:io.github.OxygenBubbles/freeagent-mcp-server&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;5d6b58544dd697f74d92c009f15bcab10e19a8bd55444481f76be22fc0a4bee5&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.1.0&quot;},&quot;chain_hash&quot;:&quot;b587fc9610def187bc5ac77e33868aaec049f8f73eb4471cc28e05758979c33f&quot;,&quot;content_hash&quot;:&quot;301b0f27c9319a7e75f318dcb1e914ac9b00e79b85ed98c345125d7747f76b75&quot;,&quot;entity_id&quot;:&quot;server:io.github.brenton-keller/prediction-markets-data&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:7dca411eb683c758ce76c8803e0a618b823694d18fcc1101dbdbd92fa11adfc2</id>
-    <title>[삭제] server:io.github.Gi0tto/sluicer</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:8f092696e90c2c21c7729fd5cab6ad07fb3aebfce1f5b29e43a0bd130d1c936b</id>
+    <title>[삭제] server:io.github.brenton-keller/pdf-text-table-ocr-extractor</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;b8b89bb7d8ee85cb1d40a0c810cf3c243ab4272a72ce1873e127d662d4edc7cb&quot;,&quot;repository_url&quot;:&quot;https://github.com/Gi0tto/sluicer&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.10.0&quot;},&quot;chain_hash&quot;:&quot;7dca411eb683c758ce76c8803e0a618b823694d18fcc1101dbdbd92fa11adfc2&quot;,&quot;content_hash&quot;:&quot;40dc48e6441b01015f1fa8858b59b0628847cfe19e44859aafb0b3cf7e0b7174&quot;,&quot;entity_id&quot;:&quot;server:io.github.Gi0tto/sluicer&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;ff85bfd969f380bf1f9e818b4ae3e5bdff974357aed4f7f5782883490d8f066f&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.1.0&quot;},&quot;chain_hash&quot;:&quot;8f092696e90c2c21c7729fd5cab6ad07fb3aebfce1f5b29e43a0bd130d1c936b&quot;,&quot;content_hash&quot;:&quot;b2a918692bd3c36b07183a261b81257a1f140b6ef054015597652bd4e3e8de6d&quot;,&quot;entity_id&quot;:&quot;server:io.github.brenton-keller/pdf-text-table-ocr-extractor&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:ca52374a37b860d65df6a108c2d66155d89e44243983b6b2625af5628ca13364</id>
-    <title>[삭제] server:dev.tinyapis/mx-fiscal</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:cc138df02663c769c7ef6b1ae45f8e308e02d1625c1d1d9a5951f087c23f1e34</id>
+    <title>[삭제] server:io.github.brenton-keller/google-ads-transparency-center</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;c602ae2bd8b4f6bab2e7f1c77ea5a4d49750cfb351461c9cf7263481ef7fbd57&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;ca52374a37b860d65df6a108c2d66155d89e44243983b6b2625af5628ca13364&quot;,&quot;content_hash&quot;:&quot;f9882cdb717e6da0f756e83e1a721ed0f9fd2c051397a01c1c27def8db3f094a&quot;,&quot;entity_id&quot;:&quot;server:dev.tinyapis/mx-fiscal&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;34ff8aed3da420a0bc14effa9cf0254a4c9666e04731c1e38d76f0713cf3fe16&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.1.2&quot;},&quot;chain_hash&quot;:&quot;cc138df02663c769c7ef6b1ae45f8e308e02d1625c1d1d9a5951f087c23f1e34&quot;,&quot;content_hash&quot;:&quot;a386ed1ad7909a1f97cb82c6a97e80b5d3c29f9ea0f7a9f0d07257204bebc363&quot;,&quot;entity_id&quot;:&quot;server:io.github.brenton-keller/google-ads-transparency-center&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:9a4147ec55dcc700b0d73a59276707e2bad2f2948651782a732a4cac459671e0</id>
-    <title>[삭제] server:com.quietstance/workflow-assessment</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:c35898ea7b7ba9ecdd352b15bf209e9dbc905e344a37cd3a2296ef113f194b34</id>
+    <title>[삭제] server:io.github.atushi1841/kensho-sweep-mcp</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;c6aedd8415c67e2623be989096f8f639687694922b255e4828b69374d6067dd4&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;9a4147ec55dcc700b0d73a59276707e2bad2f2948651782a732a4cac459671e0&quot;,&quot;content_hash&quot;:&quot;62aee34300c83acd7241b6306058d0bad3b1d5efec704c206717296c52257f41&quot;,&quot;entity_id&quot;:&quot;server:com.quietstance/workflow-assessment&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;12eed2780bdd3f368ca8aec0dc31f6569859b68379a57505af7c9787b6277229&quot;,&quot;repository_url&quot;:&quot;https://github.com/atushi1841/kensho-sweep-mcp&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;c35898ea7b7ba9ecdd352b15bf209e9dbc905e344a37cd3a2296ef113f194b34&quot;,&quot;content_hash&quot;:&quot;499c86afb4c45d1b2df278012f374091128850abab25f3fbf93b2eab9f4e835a&quot;,&quot;entity_id&quot;:&quot;server:io.github.atushi1841/kensho-sweep-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:020391db5bc5b4b56977f00e5cb1106ce1d8103782ce5d0f4a7cd99a526d8e11</id>
-    <title>[삭제] server:com.oliverkiss/agentic-endpoints</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:927175ca60e68f52bd842936385414e152b7e29411b122b9bae950317a78512a</id>
+    <title>[삭제] server:io.github.atushi1841/kensho-kema</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;b35a4a06b7daad6c663574064ba897e5d83e8ebe09a3baed535c2cee1a999ad9&quot;,&quot;repository_url&quot;:&quot;https://github.com/olie-kiss/agentic-endpoints&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;020391db5bc5b4b56977f00e5cb1106ce1d8103782ce5d0f4a7cd99a526d8e11&quot;,&quot;content_hash&quot;:&quot;9ac8ad926d8409e52fbef4d6c79237b8c4d3ee43bd536f41414b275fc80929f4&quot;,&quot;entity_id&quot;:&quot;server:com.oliverkiss/agentic-endpoints&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;3fe88c5dca89f79fd4d83ffe32729d378904e966d0e6504a2be374e895e0af54&quot;,&quot;repository_url&quot;:&quot;https://github.com/atushi1841/kensho-kema&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;927175ca60e68f52bd842936385414e152b7e29411b122b9bae950317a78512a&quot;,&quot;content_hash&quot;:&quot;57e29e43f6ab4de035fdf512c6f78def218a02ecb29d19d740119d5538bd081a&quot;,&quot;entity_id&quot;:&quot;server:io.github.atushi1841/kensho-kema&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:0a533a9d6fca9665eee8fc8cc4d7572df82dc7be36265f0794b5a406e38eeff0</id>
-    <title>[삭제] server:com.daedalmap/population</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:1873764b7d36db091a3b8833c1d51d56f6b83d874e5b9e6bc05e4a42d43827ca</id>
+    <title>[삭제] server:io.github.atushi1841/kensho-kclub</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;0e66e97ab11c2c338e495263cb8813d47743aadbb7214446852e01d9045f0444&quot;,&quot;repository_url&quot;:&quot;https://github.com/xyver/daedal-map&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.1&quot;},&quot;chain_hash&quot;:&quot;0a533a9d6fca9665eee8fc8cc4d7572df82dc7be36265f0794b5a406e38eeff0&quot;,&quot;content_hash&quot;:&quot;2f6c8d45abd7d07cd6f45e2749c9335062cef1818016862ff11e25236f63a822&quot;,&quot;entity_id&quot;:&quot;server:com.daedalmap/population&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;a699090f779aa77af0f442a00a9292b8a679e0edb8f1a4c68968eb194deebd08&quot;,&quot;repository_url&quot;:&quot;https://github.com/atushi1841/kensho-kclub&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;1873764b7d36db091a3b8833c1d51d56f6b83d874e5b9e6bc05e4a42d43827ca&quot;,&quot;content_hash&quot;:&quot;4d0129de3f2f7cc61df48f0bf480dcec9ce69cbb7b98399bd92c56b849c0e9fd&quot;,&quot;entity_id&quot;:&quot;server:io.github.atushi1841/kensho-kclub&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:3f944e29054f744596e238223f6b83fa5d6c5593658eb986ca6e27eea8e23c95</id>
-    <title>[삭제] server:com.daedalmap/distributed-manufacturing</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:c58d45b8d4573538786a9a75caaedeee3d72d843f282d39fa0196d1d786e7b52</id>
+    <title>[삭제] server:io.github.atushi1841/kensho-kaku</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;743439e7549178c507001472dff956808f38d429c140d910ebaa2fb7f8833a11&quot;,&quot;repository_url&quot;:&quot;https://github.com/xyver/daedal-map&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.1&quot;},&quot;chain_hash&quot;:&quot;3f944e29054f744596e238223f6b83fa5d6c5593658eb986ca6e27eea8e23c95&quot;,&quot;content_hash&quot;:&quot;22cbcd7284fb6c1997fcca8286665b987de29d3a1ba9e4164c7c5a19e50f50e5&quot;,&quot;entity_id&quot;:&quot;server:com.daedalmap/distributed-manufacturing&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;ee7aaa547ecd086669f81985b6dde8b407b350be5e680fda629c718d4f3996d9&quot;,&quot;repository_url&quot;:&quot;https://github.com/atushi1841/kensho-kaku&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;c58d45b8d4573538786a9a75caaedeee3d72d843f282d39fa0196d1d786e7b52&quot;,&quot;content_hash&quot;:&quot;2f9420cd37cc0698efc6f97719111845c2ee726cc5869877c66d3af11b7d090d&quot;,&quot;entity_id&quot;:&quot;server:io.github.atushi1841/kensho-kaku&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:add46901ea3720321ecf0aa4eb2e6c21d46736ec4d9ca57844ef67aa56f51b23</id>
-    <title>[삭제] server:com.daedalmap/currency</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:b147651988c048dd360b8c8342a57ca125c03619eb24512725b028f9aecb372b</id>
+    <title>[삭제] server:io.github.andypgray/loadbearing</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;5d1f64587d8d27ed36109fa59a2f9a99916d309e3060d47db1524ce39850c062&quot;,&quot;repository_url&quot;:&quot;https://github.com/xyver/daedal-map&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.2&quot;},&quot;chain_hash&quot;:&quot;add46901ea3720321ecf0aa4eb2e6c21d46736ec4d9ca57844ef67aa56f51b23&quot;,&quot;content_hash&quot;:&quot;ba80e0b7d0594fdea68b3620f1a2b0b76bdca8811d5d49d98765cb19410bb834&quot;,&quot;entity_id&quot;:&quot;server:com.daedalmap/currency&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;373bbec0a19c2975f5b7f84a89de2bb79db44e3fed961b8dea73692909520fa3&quot;,&quot;repository_url&quot;:&quot;https://github.com/andypgray/loadbearing&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.8.0&quot;},&quot;chain_hash&quot;:&quot;b147651988c048dd360b8c8342a57ca125c03619eb24512725b028f9aecb372b&quot;,&quot;content_hash&quot;:&quot;59d59ff5d433cf9f5651ddb58f7294d78f3c7fef0d8fa75396d70118342876b5&quot;,&quot;entity_id&quot;:&quot;server:io.github.andypgray/loadbearing&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:6307985421adc2a7028b0d3494d5e9686ca18dfbbd3d974545f781e1cf16ff20</id>
-    <title>[삭제] server:com.blackdogranch/what-matters</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:c154fc164bb4f8ace1f8a1f01df24033aadf195ba9e3704c144e91b09ba80a3a</id>
+    <title>[삭제] server:io.github.aethon-credit/aci-risk-indicators</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;2fed3af663905c290020be6ac3972ab24fd9c6013b13150956f9e01e12205233&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;6307985421adc2a7028b0d3494d5e9686ca18dfbbd3d974545f781e1cf16ff20&quot;,&quot;content_hash&quot;:&quot;76f4d5500cfaeea6c8a8d12c6849c69d47d27f20310aeeabfe6370826c05e770&quot;,&quot;entity_id&quot;:&quot;server:com.blackdogranch/what-matters&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;b8359b18415cf3829e4b2ccac6dab5f9fdfc462ce78b0ce8a49e1a5dfbc7d74f&quot;,&quot;repository_url&quot;:&quot;https://github.com/aethon-credit/aci-claude-plugin&quot;,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.1.1&quot;},&quot;chain_hash&quot;:&quot;c154fc164bb4f8ace1f8a1f01df24033aadf195ba9e3704c144e91b09ba80a3a&quot;,&quot;content_hash&quot;:&quot;e488b4ea582f8ac549918fac5ab83735c46cbd64702b0bbac166f8586fd8ce77&quot;,&quot;entity_id&quot;:&quot;server:io.github.aethon-credit/aci-risk-indicators&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:2e714900aa5050535473ae5625c2f2aa7207fb58295165185beb8e1dc8d16418</id>
-    <title>[삭제] server:ai.mkna/mkna</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:ec25059be1fc08e5f725294c1f7013129c9441fb675d88560b22aa63e088092e</id>
+    <title>[삭제] server:io.github.Wxt-ai/workspace-note-path-workbench</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;b78c1b47e7951c81a5e8b33a34c3d9135c141cfbca69f731badbbe94c39ced86&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;2e714900aa5050535473ae5625c2f2aa7207fb58295165185beb8e1dc8d16418&quot;,&quot;content_hash&quot;:&quot;f574e0ec72776b133b589d810b84fedb521b1910a40a81251e87eafc501ad6ab&quot;,&quot;entity_id&quot;:&quot;server:ai.mkna/mkna&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;ebe766f82682a3fba4b447f03dad177d4f8a30da58601cc8fc78b324108f78ae&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.4&quot;},&quot;chain_hash&quot;:&quot;ec25059be1fc08e5f725294c1f7013129c9441fb675d88560b22aa63e088092e&quot;,&quot;content_hash&quot;:&quot;f311951d98ccb27fde6e50a4ff2147b8bd7b5f266df3a4db92144a37413b31f4&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/workspace-note-path-workbench&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:3610ac9d115afdca58ae7f10804547e77b035791e2b3699f28129e6c64914fce</id>
-    <title>[신규] server:za.co.cryptodecentral/sovereign</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:6c040677d5d68cf6dfdf331faa4e86663c62d7a6db9848e4defc128eb15ce160</id>
+    <title>[삭제] server:io.github.Wxt-ai/workspace-note-path-identifier</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:{&quot;description_sha256&quot;:&quot;b345ec3690fe9a5bf6c88f124f7e13392e846e57b00f2f24ace18ddc0480a9f6&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;3610ac9d115afdca58ae7f10804547e77b035791e2b3699f28129e6c64914fce&quot;,&quot;content_hash&quot;:&quot;22a27c6f46c956ce61e9ef0cfa5e33070ecff3e5c204729f23a43921fc5f62b6&quot;,&quot;entity_id&quot;:&quot;server:za.co.cryptodecentral/sovereign&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;d0c9a03292c3846a29cb84d174fb9d7ff664a833abc30bc1fd41ecda319f9502&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.4&quot;},&quot;chain_hash&quot;:&quot;6c040677d5d68cf6dfdf331faa4e86663c62d7a6db9848e4defc128eb15ce160&quot;,&quot;content_hash&quot;:&quot;82123ffcaabce7884fd6184e0b89b8268b4622d7d63e1a9eb14d81d8800870d6&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/workspace-note-path-identifier&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:50dd461fa249f168d5cbe29662c75c3244adb7e105f293e998e66ca014668f75</id>
-    <title>[신규] server:xyz.wagyu/wagyu</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:c561194e7e557377c17d4b3df54f5c8f4c0dd7619a37948e4b080bea9f6fdbde</id>
+    <title>[삭제] server:io.github.Wxt-ai/workspace-export-writer</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:{&quot;description_sha256&quot;:&quot;e22a2bb900a50e7accdbcd09ba17ad6af50993c3e3294853b74b496f1ba22858&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;50dd461fa249f168d5cbe29662c75c3244adb7e105f293e998e66ca014668f75&quot;,&quot;content_hash&quot;:&quot;c8b4fb3943181f99a48b6311bda6193659d90fea1c16321c9dbe8c7e3e51d7b4&quot;,&quot;entity_id&quot;:&quot;server:xyz.wagyu/wagyu&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;ebe766f82682a3fba4b447f03dad177d4f8a30da58601cc8fc78b324108f78ae&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.7&quot;},&quot;chain_hash&quot;:&quot;c561194e7e557377c17d4b3df54f5c8f4c0dd7619a37948e4b080bea9f6fdbde&quot;,&quot;content_hash&quot;:&quot;256adca03320bcfadb6873697326cb4f7175e20879e3c4a4556a72214caabeef&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/workspace-export-writer&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:25a7f21d6fb5662ea3ab49b05ff86bdf71dd51a56db927ae44842f2050d5bf3b</id>
-    <title>[변경] server:xyz.twzrd.intel/twzrd-agent-intel · version</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:6e678630422caf397b6f0019b06ef4e175194cca1bd1ee0cb4fe8282d2eb6678</id>
+    <title>[삭제] server:io.github.Wxt-ai/workspace-activity-reference-workbench</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:&quot;1.0.14&quot;,&quot;before&quot;:&quot;1.0.11&quot;,&quot;chain_hash&quot;:&quot;25a7f21d6fb5662ea3ab49b05ff86bdf71dd51a56db927ae44842f2050d5bf3b&quot;,&quot;content_hash&quot;:&quot;eb00cc07b0913196594046aa5901f11cae1af3a94f586a6a5c41bcbff063f901&quot;,&quot;entity_id&quot;:&quot;server:xyz.twzrd.intel/twzrd-agent-intel&quot;,&quot;field&quot;:&quot;version&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;0af4bf3ebb17708507333135ebea84af15b7186b28ec556b139a9c2724c58482&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.4&quot;},&quot;chain_hash&quot;:&quot;6e678630422caf397b6f0019b06ef4e175194cca1bd1ee0cb4fe8282d2eb6678&quot;,&quot;content_hash&quot;:&quot;a136d168bbc4666e981ef2ef34e7e22be50eff5b31b11a765e35d2f0b9c8d103&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/workspace-activity-reference-workbench&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:340f301ced7a1604e8077e0a0d144d5afac0a6042936980c23e2074d84668dbd</id>
-    <title>[변경] server:xyz.twzrd.intel/twzrd-agent-intel · description_sha256</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:ad0d222e7f05c28477743dea4d2016557876cdd3d99e8a2e47040639eeb86e8b</id>
+    <title>[삭제] server:io.github.Wxt-ai/workspace-activity-reference-identifier</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:&quot;cb05de290d8c07fa4baf16e1190c28c8353308c71e92b857f2013908f9fc82b2&quot;,&quot;before&quot;:&quot;671b56e2cab33360812f23d16bffe140f7f695500f76773830cf7090e8b10225&quot;,&quot;chain_hash&quot;:&quot;340f301ced7a1604e8077e0a0d144d5afac0a6042936980c23e2074d84668dbd&quot;,&quot;content_hash&quot;:&quot;bf81ea112dd0b58ae90f0efc36a96a46546610e35a9ccbac1ef962c4173bccb6&quot;,&quot;entity_id&quot;:&quot;server:xyz.twzrd.intel/twzrd-agent-intel&quot;,&quot;field&quot;:&quot;description_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;1a9192a20589bd7b3f360ec167a5306a0fec2daf6019ea16313c763ce4b3475c&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.4&quot;},&quot;chain_hash&quot;:&quot;ad0d222e7f05c28477743dea4d2016557876cdd3d99e8a2e47040639eeb86e8b&quot;,&quot;content_hash&quot;:&quot;b84983f17de1e33a2a78ef2a80b5622867737d6ed6d25bfd944f863c7f1676e1&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/workspace-activity-reference-identifier&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:bea6ac2c1176d62987e69486b84c502d07f18989a0c683697c95863a19d59db9</id>
-    <title>[신규] server:xyz.socseal/socseal-mcp</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:b2c8766ef8ca90b45a3c985cb43e3bc325f3e6a384b76b51fa0cd24662fec20f</id>
+    <title>[삭제] server:io.github.Wxt-ai/workspace-access-comparator</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:{&quot;description_sha256&quot;:&quot;a6551da30bacf00f49448701ca1bfb0a8f75aacc37baa9b702d0ef1addc37d48&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;bea6ac2c1176d62987e69486b84c502d07f18989a0c683697c95863a19d59db9&quot;,&quot;content_hash&quot;:&quot;196cb392a00404fae36c60c28c311cdb0071deeb5d5aad2410a84954a2625b88&quot;,&quot;entity_id&quot;:&quot;server:xyz.socseal/socseal-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;40e2e789e6f80e3f0cfc94007cc6b04dee2c16a2d69ef3467997efbb040662a1&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.7&quot;},&quot;chain_hash&quot;:&quot;b2c8766ef8ca90b45a3c985cb43e3bc325f3e6a384b76b51fa0cd24662fec20f&quot;,&quot;content_hash&quot;:&quot;27d561b2f229325fc43c7a71b93e6ebedd0e035ca8bc250ab6a68cf82b832c79&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/workspace-access-comparator&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:895c310e966c562f930ae5db09574749c131a9466ea160e6f404271c1d5cf259</id>
-    <title>[신규] server:xyz.secondedoracle/seconded-mcp</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:e1b19225a4f7436283ff12ee1ab336eb4aba65a9810b3f072be77436455619d5</id>
+    <title>[삭제] server:io.github.Wxt-ai/translation-job-setting-workbench</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:{&quot;description_sha256&quot;:&quot;19f6c7864fb4866967ea2aaaacf67a5926a891b0faea35279c2271d41f921983&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.3.3&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;895c310e966c562f930ae5db09574749c131a9466ea160e6f404271c1d5cf259&quot;,&quot;content_hash&quot;:&quot;9c7b1049374215b8b5895d9949571d354e4d0148a389dd8be54844f8a09c5aef&quot;,&quot;entity_id&quot;:&quot;server:xyz.secondedoracle/seconded-mcp&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;93de6c6fd76509a112e8ef4a835aada36d2769b9f8d6e4603e0e73bed86b7884&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.4&quot;},&quot;chain_hash&quot;:&quot;e1b19225a4f7436283ff12ee1ab336eb4aba65a9810b3f072be77436455619d5&quot;,&quot;content_hash&quot;:&quot;6d3f850602312443bb4614d04dfe8b4a4323f6980a2a9d3c082ac872268a71a4&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/translation-job-setting-workbench&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:8261f2b76ca57939a07bf3e8f5e569b4dbffe7a870208199bec891018bd18a42</id>
-    <title>[변경] server:xyz.sbor/sbor · version</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:f73c402f41d63d45d9a93ae392ee4c8847a043d798a9e364b8af8c5747271111</id>
+    <title>[삭제] server:io.github.Wxt-ai/translation-job-setting-identifier</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:&quot;1.2.1&quot;,&quot;before&quot;:&quot;1.2.0&quot;,&quot;chain_hash&quot;:&quot;8261f2b76ca57939a07bf3e8f5e569b4dbffe7a870208199bec891018bd18a42&quot;,&quot;content_hash&quot;:&quot;7f825ebe1f383fab40b619e1af29672dad1e0599992025e554a88ec859f0bcc5&quot;,&quot;entity_id&quot;:&quot;server:xyz.sbor/sbor&quot;,&quot;field&quot;:&quot;version&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;2ecea3c162cd2c8a5b5fa6d4a517b94374d887d143fb386a195bf0118fda4755&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.4&quot;},&quot;chain_hash&quot;:&quot;f73c402f41d63d45d9a93ae392ee4c8847a043d798a9e364b8af8c5747271111&quot;,&quot;content_hash&quot;:&quot;427b28fb8028af8bc19be87f9f000450ac1996257f6cef989f552f1d0c9feeae&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/translation-job-setting-identifier&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:5e0e396c866462a829ed74f05b6afb7e48d86a2a5c210e8237279017f2aec5ba</id>
-    <title>[변경] server:xyz.sbor/sbor · description_sha256</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:8de784a71cf4ced800f895c420d10e1ac070463f5faf10a6c62b681d440ee6c2</id>
+    <title>[삭제] server:io.github.Wxt-ai/translation-job-desk</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:&quot;226c10cba15dce33072c4fa1e70390886659b6b6765f74503fc39ebda7ee61f5&quot;,&quot;before&quot;:&quot;b6b105d8460fb00acffd12068b07e0bc51fb609f4dc3c66a7ff4ee19b082432a&quot;,&quot;chain_hash&quot;:&quot;5e0e396c866462a829ed74f05b6afb7e48d86a2a5c210e8237279017f2aec5ba&quot;,&quot;content_hash&quot;:&quot;7ff05f1ba58777f4add7e260ed8b49af63ba10144a0a1afd471b7196dcd5b5c6&quot;,&quot;entity_id&quot;:&quot;server:xyz.sbor/sbor&quot;,&quot;field&quot;:&quot;description_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;93de6c6fd76509a112e8ef4a835aada36d2769b9f8d6e4603e0e73bed86b7884&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.7&quot;},&quot;chain_hash&quot;:&quot;8de784a71cf4ced800f895c420d10e1ac070463f5faf10a6c62b681d440ee6c2&quot;,&quot;content_hash&quot;:&quot;07bc50a454cd808fcdec579a2137f3d897b1dbf1a0b2f1e875b54a23b0603425&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/translation-job-desk&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:360daad32e13132ffd1d553064e88d1c6fdee9194caaf5a3c806fb6a1fa0e8a7</id>
-    <title>[신규] server:xyz.regimetoken/regime</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:2715344f2bab80a5094d9e0ff5f9166acd8ab05e829ba9c132f0e4727c45f2d8</id>
+    <title>[삭제] server:io.github.Wxt-ai/task-priority-guidance-workbench</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:{&quot;description_sha256&quot;:&quot;717d398d2c8e1eb5874ebc88be1ea3ab420c63b94f773d7b071c0c9a0ee11a65&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;360daad32e13132ffd1d553064e88d1c6fdee9194caaf5a3c806fb6a1fa0e8a7&quot;,&quot;content_hash&quot;:&quot;ce46c52f802649c9d516fa2aacd0935753fab895988d14e2e59d83197efdba1f&quot;,&quot;entity_id&quot;:&quot;server:xyz.regimetoken/regime&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;6741250a6429ed98fc2874f746002b54cb059dafe66f9165028fee0c8b957391&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.4&quot;},&quot;chain_hash&quot;:&quot;2715344f2bab80a5094d9e0ff5f9166acd8ab05e829ba9c132f0e4727c45f2d8&quot;,&quot;content_hash&quot;:&quot;27cd686adc34720211415a94e6144974897b8784817aa641a8eb88e6f230c3c5&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/task-priority-guidance-workbench&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:363fe2ee46dba26d794c2bab7ca1afebafc93476c4f13693cdc732a9b15111a6</id>
-    <title>[신규] server:xyz.pedibot/pedibot</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:a53b243fbae79092d1d88d7c029835df73e4d02de16028eb3f5c8414b82f3f25</id>
+    <title>[삭제] server:io.github.Wxt-ai/task-priority-guidance-identifier</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:{&quot;description_sha256&quot;:&quot;b6b51ed9b59ebb6a7e7fd734e44aa9188bec5308345f50c724d342339acc4225&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;363fe2ee46dba26d794c2bab7ca1afebafc93476c4f13693cdc732a9b15111a6&quot;,&quot;content_hash&quot;:&quot;58938a010adf06263f071fd1dec5027fed28f3ba75b5767810ffa5556e949349&quot;,&quot;entity_id&quot;:&quot;server:xyz.pedibot/pedibot&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;df61809ca0a292945994b41d296bb33f0c7746ce7929438f3e223daebf4f20ae&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.4&quot;},&quot;chain_hash&quot;:&quot;a53b243fbae79092d1d88d7c029835df73e4d02de16028eb3f5c8414b82f3f25&quot;,&quot;content_hash&quot;:&quot;2f99ed2ccedf69e36317b2c14593e109a3380340a7c89d3acef95a3541df2875&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/task-priority-guidance-identifier&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:764a783da94462b767f3fff0d234ed0e587170b465816f4457e87d3175cc7fc1</id>
-    <title>[변경] server:xyz.groundtruths/groundtruth · version</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:0bce1ce2c3162c2d968c49e9887b9c3babf37d3226a946553e726ddf691d2096</id>
+    <title>[삭제] server:io.github.Wxt-ai/support-intake-digest</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:&quot;1.3.0&quot;,&quot;before&quot;:&quot;1.0.0&quot;,&quot;chain_hash&quot;:&quot;764a783da94462b767f3fff0d234ed0e587170b465816f4457e87d3175cc7fc1&quot;,&quot;content_hash&quot;:&quot;7ee7c94bfa9dfd52fc6415124b2a586bf6e4999f14ce10c6bc7034a3fbcabb34&quot;,&quot;entity_id&quot;:&quot;server:xyz.groundtruths/groundtruth&quot;,&quot;field&quot;:&quot;version&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;4f936628fe93053722345ed7516f5f146635f48cd60ac3c7158e89a139a843b5&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.7&quot;},&quot;chain_hash&quot;:&quot;0bce1ce2c3162c2d968c49e9887b9c3babf37d3226a946553e726ddf691d2096&quot;,&quot;content_hash&quot;:&quot;b847aeccef36ba245b021e07570ba3ba36feffc0d0cca318758a673a414c21b6&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/support-intake-digest&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:cbfa43779890a2149ead3219f9010aa7e5c0075509bb2eb46fbb5b0bb5c03202</id>
-    <title>[변경] server:xyz.groundtruths/groundtruth · description_sha256</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:65aea14ac0f697c864e3f232a85a494a4766f8e3e394688348e51c68d8d8ef35</id>
+    <title>[삭제] server:io.github.Wxt-ai/support-followup-marker-workbench</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:&quot;1c0d37cee9a2b6bc1d7826a3ceb86e7cba4e7097d89b3db37e06295db6e64b7b&quot;,&quot;before&quot;:&quot;26db4b27dee9902fbf069c789be2b5df285178e7378ba08f4e18d0238fa98066&quot;,&quot;chain_hash&quot;:&quot;cbfa43779890a2149ead3219f9010aa7e5c0075509bb2eb46fbb5b0bb5c03202&quot;,&quot;content_hash&quot;:&quot;01ddbe0bdb328067f989bdd0f92661b3416d88a19e3e19d1d1277a5e18c303ba&quot;,&quot;entity_id&quot;:&quot;server:xyz.groundtruths/groundtruth&quot;,&quot;field&quot;:&quot;description_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;f43d7e6076c4c0f1354df75b4e0b552c4af5f265a2c7d0205349171acb3caba1&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.4&quot;},&quot;chain_hash&quot;:&quot;65aea14ac0f697c864e3f232a85a494a4766f8e3e394688348e51c68d8d8ef35&quot;,&quot;content_hash&quot;:&quot;e5c070ec488e91ee837094a8979dc7a0fee74c0bb841bc7752abf2de0cdb1c38&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/support-followup-marker-workbench&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:65aa26c38a13190c68db9bb23e96ea2eb44a6e5976ac969f6b9a98f5060fbc3c</id>
-    <title>[신규] server:xyz.dnaai/prediction-ledger</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:613ab2361adbb9cad1e6e3c9419d7e6abd13403a84d060228ea82d26323046e7</id>
+    <title>[삭제] server:io.github.Wxt-ai/support-followup-marker-identifier</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:{&quot;description_sha256&quot;:&quot;f86323847011458760de75e4e57d6d9fcc5936c39f56976d60d60a1556191eaa&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;65aa26c38a13190c68db9bb23e96ea2eb44a6e5976ac969f6b9a98f5060fbc3c&quot;,&quot;content_hash&quot;:&quot;2edb4c0526c981cca35d8078d742b222f9ee150407fa6b641db9003013247787&quot;,&quot;entity_id&quot;:&quot;server:xyz.dnaai/prediction-ledger&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;3d48d405abd62d37b781b01552c64db3f8cebb6fa2d0c42aa5c65911fa157a66&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.4&quot;},&quot;chain_hash&quot;:&quot;613ab2361adbb9cad1e6e3c9419d7e6abd13403a84d060228ea82d26323046e7&quot;,&quot;content_hash&quot;:&quot;3bb3f10b69015492e6e246423d10f4c989b811b5816b90bd3649622fb7ffeda8&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/support-followup-marker-identifier&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:c2fedde7d532347bad03447deb143c5def42ccc586d18bcf74c6efdef7c93626</id>
-    <title>[변경] server:xyz.costrinity/vitna-compliance-preflight · version</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:f95ba0a39df3970dd176f7c48656d7aa6e80ec1ff12f0e79c6fb96e8dc42c793</id>
+    <title>[삭제] server:io.github.Wxt-ai/support-case-workbench</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:&quot;0.5.1&quot;,&quot;before&quot;:&quot;0.5.0&quot;,&quot;chain_hash&quot;:&quot;c2fedde7d532347bad03447deb143c5def42ccc586d18bcf74c6efdef7c93626&quot;,&quot;content_hash&quot;:&quot;1c5af932ce11c49f8b67b92bcaa57cc12cd9e52d1ad47f6815bc12427f04f8d6&quot;,&quot;entity_id&quot;:&quot;server:xyz.costrinity/vitna-compliance-preflight&quot;,&quot;field&quot;:&quot;version&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;41aa94154d46aa37b06ac8c552dcbee8160db1738cbaa4f3891801404e3c3276&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.7&quot;},&quot;chain_hash&quot;:&quot;f95ba0a39df3970dd176f7c48656d7aa6e80ec1ff12f0e79c6fb96e8dc42c793&quot;,&quot;content_hash&quot;:&quot;314b645862839ffde38d256c1dd7e511a0b62a59e989aa73675e649304d251ff&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/support-case-workbench&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:e41fc06c3aa9a01327fe51ecb6741351571c8f9a6b2b30f494007fd237a29870</id>
-    <title>[변경] server:xyz.cabalspy/wallet-tracker · version</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:4310e4d6ccba45bcc33b2d187746b0d4b5500719fdc5e234bd81e69e34af7776</id>
+    <title>[삭제] server:io.github.Wxt-ai/supplier-terms-reader</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:&quot;2.1.0&quot;,&quot;before&quot;:&quot;1.0.0&quot;,&quot;chain_hash&quot;:&quot;e41fc06c3aa9a01327fe51ecb6741351571c8f9a6b2b30f494007fd237a29870&quot;,&quot;content_hash&quot;:&quot;c16ed3979e56533120b2ca7414b72b42e5da5c1fca1498e40c7646c70836939d&quot;,&quot;entity_id&quot;:&quot;server:xyz.cabalspy/wallet-tracker&quot;,&quot;field&quot;:&quot;version&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;315e2b5230001b0485dcdf1df610987e33c565660b516b217f22d975a055e8f4&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.7&quot;},&quot;chain_hash&quot;:&quot;4310e4d6ccba45bcc33b2d187746b0d4b5500719fdc5e234bd81e69e34af7776&quot;,&quot;content_hash&quot;:&quot;7d690d3adc567f267a0416466db58bbab28d2dec7fbc37b2da2e3c6fa90ab491&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/supplier-terms-reader&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:82532f308a76942f08413b3ac1af4ebad4f4775ca3cb7c283e86c7afc4e3e7aa</id>
-    <title>[변경] server:xyz.cabalspy/wallet-tracker · description_sha256</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:974be89242f72ae2595b3b1a478f238b7620ac578784a39b0204f64be137da7b</id>
+    <title>[삭제] server:io.github.Wxt-ai/supplier-reconciliation-desk</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:&quot;a4cf50b3c68ae8918002676e17f014563c67fc58881d0a5195b2dceb6998187f&quot;,&quot;before&quot;:&quot;93628006af635a9bf869200fd19a38238fb02428124bc4d595ff90deed75c637&quot;,&quot;chain_hash&quot;:&quot;82532f308a76942f08413b3ac1af4ebad4f4775ca3cb7c283e86c7afc4e3e7aa&quot;,&quot;content_hash&quot;:&quot;515bcbb632e5e8801ee654b343d28ff880a6b16230f43f58e743dbafce4d4b12&quot;,&quot;entity_id&quot;:&quot;server:xyz.cabalspy/wallet-tracker&quot;,&quot;field&quot;:&quot;description_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;b6e0c47c31d1b5867242b01ff4e7d936306e20b321b61ee8bdda8a4bed4484b4&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.7&quot;},&quot;chain_hash&quot;:&quot;974be89242f72ae2595b3b1a478f238b7620ac578784a39b0204f64be137da7b&quot;,&quot;content_hash&quot;:&quot;d46f68bbd445dcd3541572714a2ecbb491a2a118d1f4ca1a696a904ac65ad3c9&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/supplier-reconciliation-desk&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:mcp-census:aba6f94b74347562eb571cb5d2943dfb06603edf74629976d8099c35e09e8ca3</id>
-    <title>[신규] server:xyz.block402/block402</title>
-    <updated>2026-10-04T23:35:57.205Z</updated>
+    <id>urn:chronicle:mcp-census:e918404a4a71f5005fff8b49c13829d3c29290cea6a3eb1c308bd391d424aa2e</id>
+    <title>[삭제] server:io.github.Wxt-ai/supplier-name-resolution-guide</title>
+    <updated>2026-10-11T23:58:02.943Z</updated>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
-    <content type="text">{&quot;after&quot;:{&quot;description_sha256&quot;:&quot;741ba8fab6d0c5586f9e314d63ed55ab50c463c1d86ff7b5bfcca7c58bb4f338&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;0.1.0&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;aba6f94b74347562eb571cb5d2943dfb06603edf74629976d8099c35e09e8ca3&quot;,&quot;content_hash&quot;:&quot;a086168fe24614a6e62a77d44b0d5e8e6568cde4959e4b33b496acf9147a704f&quot;,&quot;entity_id&quot;:&quot;server:xyz.block402/block402&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-04T23:35:57.205Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;25af5411e0b22289e46d120ffde616042c859f709c18d80d880e608d1b8fe8fe&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.7&quot;},&quot;chain_hash&quot;:&quot;e918404a4a71f5005fff8b49c13829d3c29290cea6a3eb1c308bd391d424aa2e&quot;,&quot;content_hash&quot;:&quot;a7c3bd2dd65edd52aabea636cea4c54f391b6a3278e83ab6fe4a9940ed5d41e2&quot;,&quot;entity_id&quot;:&quot;server:io.github.Wxt-ai/supplier-name-resolution-guide&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
   </entry>
 </feed>
