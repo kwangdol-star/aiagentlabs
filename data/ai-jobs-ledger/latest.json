@@ -1,5 +1,5 @@
 {
-  "record_count": 2857,
+  "record_count": 2853,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -11023,6 +11023,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:8414474002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Seattle, Washington",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Finance Manager"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:8415025002": {
       "fields": {
         "employment_type": null,
@@ -12211,17 +12222,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
-    "job:databricks:8511491002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Denver, Colorado; West Coast - United States",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Delivery Solutions Architect - Retail"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
     "job:databricks:8512856002": {
       "fields": {
         "employment_type": null,
@@ -13220,17 +13220,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Sr. Counsel, Product"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
-    "job:databricks:8570007002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Bellevue, Washington; Chicago, Illinois; Denver, Colorado; Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington; Washington, D.C.",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Sr. Counsel, Commercial"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -16248,17 +16237,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
-    "job:databricks:8742382002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "London, United Kingdom",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Sr. Solutions Engineer"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
     "job:databricks:8743120002": {
       "fields": {
         "employment_type": null,
@@ -18184,6 +18162,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:8878095002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Singapore",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Digital Native Account Executive, Thailand"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:8878720002": {
       "fields": {
         "employment_type": null,
@@ -18558,6 +18547,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
+    "job:elevenlabs:3d650946-5ac2-4729-9ae4-129c43fcd0b5": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "elevenlabs",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Research Engineer"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
+    },
     "job:elevenlabs:3eede250-d2a7-4f13-b0b2-d8a530cb6130": {
       "fields": {
         "employment_type": "FullTime",
@@ -18698,17 +18698,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Executive Assistant - Revenue"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
-    },
-    "job:elevenlabs:6255f8a9-1ff8-49b3-8409-c104f8b46e56": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "elevenlabs",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Strategic Account Executive - Poland - Consumer & Retail"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -19941,17 +19930,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Business Development Manager, Product Partnerships"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:0d8019ec-e034-49ad-8f6b-29abb459b98f": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Technical Program Manager, Manufacturing Operations"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -26071,17 +26049,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
-    "job:openai:ba803f51-53d8-44b8-8bb7-b79f21d6a4c8": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Economic Development Lead"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
     "job:openai:badafdf8-116b-4849-b848-2f20a3ff2732": {
       "fields": {
         "employment_type": "FullTime",
@@ -27883,17 +27850,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Engineering Manager, Core Services "
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:ec0a4e03-bbcc-4c64-813f-b53dabb8f53a": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Workload Porting & Performance Engineer"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -31430,5 +31386,5 @@
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-10-11T00:32:22.796Z"
+  "updated_at": "2026-10-12T00:46:15.640Z"
 }
