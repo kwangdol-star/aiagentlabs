@@ -1,5 +1,5 @@
 {
-  "record_count": 2853,
+  "record_count": 2864,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -3653,17 +3653,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
-    "job:anthropic:5390155008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "San Francisco, CA | New York City, NY",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Customer Marketing Manager, Industries"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
     "job:anthropic:5390728008": {
       "fields": {
         "employment_type": null,
@@ -5021,7 +5010,7 @@
       "fields": {
         "employment_type": null,
         "lab": "anthropic",
-        "location": "San Francisco, CA",
+        "location": "San Francisco, CA | New York City, NY",
         "provider": "greenhouse",
         "team": null,
         "title": "Staff+ Software Engineer, Claude Science"
@@ -5644,17 +5633,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
-    "job:anthropic:5425432008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "San Francisco, CA",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Senior Manager, Regulatory Accounting & Disclosures"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
     "job:anthropic:5426135008": {
       "fields": {
         "employment_type": null,
@@ -5663,6 +5641,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Engineering Manager, Data Infrastructure"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
+    "job:anthropic:5426602008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "London, UK",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Enterprise Account Executive, Banking"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -6601,17 +6590,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
-    "job:anthropic:5440817008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "Munich, Germany",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Partner Account Manager - DACH"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
     "job:anthropic:5440891008": {
       "fields": {
         "employment_type": null,
@@ -6953,6 +6931,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
+    "job:anthropic:5446414008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "Munich, Germany",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Enterprise Account Executive, Energy & Utilities"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
     "job:anthropic:5446607008": {
       "fields": {
         "employment_type": null,
@@ -7026,7 +7015,7 @@
         "location": "Dublin, IE",
         "provider": "greenhouse",
         "team": null,
-        "title": "Recruiter, International Business"
+        "title": "Recruiter, GTM"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -7093,6 +7082,28 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Cybersecurity Sales Specialist"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
+    "job:anthropic:5449831008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "Munich, Germany",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Enterprise Account Executive - CEE"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
+    "job:anthropic:5450099008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA | New York City, NY",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Data Engineer, Billing & Payments"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -7206,6 +7217,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere"
     },
+    "job:cohere:1c011283-34f3-4461-bb65-455d65a3ec84": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "cohere",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Product & Technology Communications Manager"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere"
+    },
     "job:cohere:1d1b300d-254b-48c4-958f-99c6b907f295": {
       "fields": {
         "employment_type": "FullTime",
@@ -7236,17 +7258,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Senior Member of Technical Staff, Safety and Security for Agents"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere"
-    },
-    "job:cohere:24cdb030-3913-4c38-a7db-8f31c3c91ee6": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "cohere",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Forward Deployed Engineer, Infrastructure Specialist (France)"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere"
     },
@@ -7390,17 +7401,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Senior Account Executive, Federal Defense and Intelligence"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere"
-    },
-    "job:cohere:39ae8da6-9c3d-4f36-80a3-310159ee1f8d": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "cohere",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Head of Strategic Finance"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/cohere"
     },
@@ -8765,6 +8765,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Staff Software Engineer - Backend"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:6865687002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Software Engineering Intern (2027)"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -10715,17 +10726,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
-    "job:databricks:8337401002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "United States",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Senior Production Engineer - Realtime Products"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
     "job:databricks:8341313002": {
       "fields": {
         "employment_type": null,
@@ -10829,7 +10829,7 @@
       "fields": {
         "employment_type": null,
         "lab": "databricks",
-        "location": "Mountain View, California; San Francisco, California",
+        "location": "United States",
         "provider": "greenhouse",
         "team": null,
         "title": "Sr. Compensation Manager, R&D"
@@ -11793,17 +11793,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
-    "job:databricks:8479029002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Singapore",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Strategic Customer Advisor, APJ"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
     "job:databricks:8479031002": {
       "fields": {
         "employment_type": null,
@@ -12241,6 +12230,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Sr. Forward Deployed Engineer"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:8516112002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Remote - India",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Sr. AI Engineer, AI FDE"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -12827,17 +12827,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
-    "job:databricks:8568013002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Georgia; Massachusetts; New York; North Carolina",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Sr. Solutions Architect - Financial Services (Strategic Banking)"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
     "job:databricks:8568015002": {
       "fields": {
         "employment_type": null,
@@ -13385,17 +13374,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Enterprise Core Account Executive, Public Sector"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
-    "job:databricks:8582991002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "United States",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Strategy & Execution Manager — Retail"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -14015,6 +13993,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:8612865002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Remote - California",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Sr. Staff Security Software Engineer - Agentic Security Engineering"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:8612868002": {
       "fields": {
         "employment_type": null,
@@ -14089,6 +14078,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Senior Solutions Engineer"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:8614656002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Northeast - United States",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Manager, Field Engineering (Specialist) - HCLS"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -14294,7 +14294,7 @@
       "fields": {
         "employment_type": null,
         "lab": "databricks",
-        "location": "Berkeley, California; California; Connecticut; Los Angeles, California; Massachusetts; New Hampshire; New Jersey; New York; Pennsylvania; Rhode Island; San Diego, California; Washington",
+        "location": "Alabama; Berkeley, California; California; Connecticut; Los Angeles, California; Massachusetts; New Hampshire; New Jersey; New York; Pennsylvania; Rhode Island; San Diego, California; Washington",
         "provider": "greenhouse",
         "team": null,
         "title": "Sr. Forward Deployed Engineer - Public Sector "
@@ -15049,17 +15049,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
-    "job:databricks:8660983002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Milan, Italy",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Named Enterprise Account Executive, Financial Services"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
     "job:databricks:8661245002": {
       "fields": {
         "employment_type": null,
@@ -15280,17 +15269,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
-    "job:databricks:8682362002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "London, United Kingdom",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Sr. Solutions Architect"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
     "job:databricks:8686919002": {
       "fields": {
         "employment_type": null,
@@ -15423,6 +15401,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:8688861002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Mountain View, California; San Francisco, California",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Accounting Data & Technology Manager"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:8688875002": {
       "fields": {
         "employment_type": null,
@@ -15508,17 +15497,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Solutions Architect"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
-    "job:databricks:8697989002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "United States",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Sr. Manager, Field Engineering - Healthcare and Life Sciences (Healthcare Providers)"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -16006,6 +15984,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:8736471002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Northeast - United States; Southeast - United States; West Coast - United States",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Delivery Solutions Architect - Digital Native Business"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:8736473002": {
       "fields": {
         "employment_type": null,
@@ -16450,7 +16439,7 @@
       "fields": {
         "employment_type": null,
         "lab": "databricks",
-        "location": "Austin, Texas; Denver, Colorado; Portland, Oregon; Scottsdale, Arizona, United States",
+        "location": "Austin, Texas; Denver, Colorado; Portland, Oregon",
         "provider": "greenhouse",
         "team": null,
         "title": "Accounting Manager, Accounts Receivable"
@@ -16663,17 +16652,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Solutions Architect - Financial Services & Insurance"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
-    "job:databricks:8771566002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Remote - India",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Forward Deployed Engineer"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -17004,17 +16982,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Chief of Staff to the CMO"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
-    "job:databricks:8789416002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Singapore",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Solutions Architect"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -17425,17 +17392,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
-    "job:databricks:8819012002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Australian Capital Territory, Australia",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Enterprise Account Executive - Federal"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
     "job:databricks:8819053002": {
       "fields": {
         "employment_type": null,
@@ -17455,6 +17411,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Manager, Field Engineering"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:8820652002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Paris, France",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Sr. Forward Deployed Engineer"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -17532,6 +17499,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Software Engineer, Infrastructure"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:8829033002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Costa Rica",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "AI Automation Engineer"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -17616,10 +17594,21 @@
       "fields": {
         "employment_type": null,
         "lab": "databricks",
-        "location": "Remote - California",
+        "location": "United States",
         "provider": "greenhouse",
         "team": null,
         "title": "Staff Security Engineer, Incident Response"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:8841962002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Remote - California",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Sr. Security Engineer, Enterprise Security"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -17986,6 +17975,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:8863018002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Stockholm, Sweden",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Digital Natives Hunter Account Executive, Nordics"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:8863326002": {
       "fields": {
         "employment_type": null,
@@ -18074,6 +18074,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:8870716002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Remote - Colorado; Southeast - United States",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Strategic Enterprise Account Executive, Healthcare"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:8870718002": {
       "fields": {
         "employment_type": null,
@@ -18107,6 +18118,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:8871484002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Remote - Missouri; Remote - New York; Remote - Ohio; Remote - Pennsylvania",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Enterprise Account Executive, Healthcare"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:8871486002": {
       "fields": {
         "employment_type": null,
@@ -18118,14 +18140,14 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
-    "job:databricks:8873053002": {
+    "job:databricks:8874892002": {
       "fields": {
         "employment_type": null,
         "lab": "databricks",
-        "location": "London, United Kingdom",
+        "location": "Australia",
         "provider": "greenhouse",
         "team": null,
-        "title": "Strategy & Execution Manager"
+        "title": "Solutions Architect"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -18195,6 +18217,28 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:8879335002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "London, United Kingdom",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Enterprise Account Executive - Manufacturing "
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:8880400002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Australian Capital Territory, Australia",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Strategic Hunter Account Executive"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:8882032002": {
       "fields": {
         "employment_type": null,
@@ -18203,6 +18247,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Solutions Architect Greenfield Enterprise France"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:8882379002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Ottawa, Canada",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Director, Enterprise Sales, Public Sector"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -18236,6 +18291,17 @@
         "provider": "ashby",
         "team": null,
         "title": "B2B Marketing - Nordics"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
+    },
+    "job:elevenlabs:09936411-899b-466d-aae7-54f6873caea0": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "elevenlabs",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Partner Manager - Public Sector Partnerships"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -18280,6 +18346,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Customer Success Lead - Western Europe"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
+    },
+    "job:elevenlabs:0e690a2f-0a1a-4c4e-adf6-4dc3c6cbc3bd": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "elevenlabs",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Paid Media Manager"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -18335,6 +18412,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Legal Operations Lead "
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
+    },
+    "job:elevenlabs:1941b5f6-a89f-4f35-bc07-a123e17d011f": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "elevenlabs",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Analyst Relations"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -18470,6 +18558,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
+    "job:elevenlabs:34dbe44c-9815-40b2-81f4-91c607fd84b2": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "elevenlabs",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Product Engineer - ElevenCreative Enterprise"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
+    },
     "job:elevenlabs:34e9eed1-3fd4-4a25-8f02-dff7f12bebf6": {
       "fields": {
         "employment_type": "FullTime",
@@ -18511,6 +18610,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Partnerships Strategy & Operations"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
+    },
+    "job:elevenlabs:3abf96ca-2937-4290-9d23-5208aece08b2": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "elevenlabs",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Product Engineer - Ads Engine"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -18642,7 +18752,18 @@
         "location": null,
         "provider": "ashby",
         "team": null,
-        "title": "Data Scientist - AI Safety"
+        "title": "AI Safety Engineer (Data)"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
+    },
+    "job:elevenlabs:51858d8d-38ac-450b-a069-797509f465ef": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "elevenlabs",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "IT Engineer"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -18932,6 +19053,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
+    "job:elevenlabs:8f79181f-192d-45d9-a8c3-ce3f533b7d7a": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "elevenlabs",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Growth Marketer- Reception.ai"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
+    },
     "job:elevenlabs:90cc8a34-1707-4aef-b509-94f94389d149": {
       "fields": {
         "employment_type": "FullTime",
@@ -18951,17 +19083,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Enterprise Account Executive - Chile"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
-    },
-    "job:elevenlabs:9271907b-1aad-4868-8995-b9ed32fb92ac": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "elevenlabs",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Account Manager Lead - Corporate"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -19108,17 +19229,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
-    "job:elevenlabs:ada7cd2c-8b9f-4f19-a88b-7c2ca1be1fde": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "elevenlabs",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Full-Stack Engineer (Front-End Leaning)"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
-    },
     "job:elevenlabs:b43e388f-f204-41c5-a2bc-ee3bc1281e39": {
       "fields": {
         "employment_type": "FullTime",
@@ -19127,17 +19237,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Account Executive Lead - Government"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
-    },
-    "job:elevenlabs:b647ad26-3e3a-4e0b-8ef4-6bab2cacd5c7": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "elevenlabs",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Account Executive - North Asia "
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -19361,6 +19460,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
+    "job:elevenlabs:db7abc8d-67b1-4d64-a623-59be88d65fba": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "elevenlabs",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Product & Technical Communications"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
+    },
     "job:elevenlabs:db8e1ff9-5a5a-49ed-89ea-93f993e5a65f": {
       "fields": {
         "employment_type": "FullTime",
@@ -19369,6 +19479,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Proposal Manager"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
+    },
+    "job:elevenlabs:e062d169-7294-4125-bc7b-e3a821dcd620": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "elevenlabs",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Product Marketing - ElevenAPI"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -19424,6 +19545,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Fullstack Engineer (Frontend Leaning) - Studio"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
+    },
+    "job:elevenlabs:e815e2a8-e3bd-4e41-bbc3-ebe57277927b": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "elevenlabs",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Global Events Lead"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -19523,6 +19655,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Privacy Counsel "
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
+    },
+    "job:elevenlabs:f805267e-2f77-4cdf-8d8a-a3ed5b07e726": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "elevenlabs",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Strategic Account Executive - UAE "
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -19996,17 +20139,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Mechanical Commissioning Lead"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:0f78e08a-669d-4d87-960f-518c649e6700": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Technical Operations Analyst, User Safety & Risk"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -22628,17 +22760,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
-    "job:openai:5b85c0cc-3f19-4b96-9bd3-3b7521e54f44": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Strategic Finance, International & Marketing"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
     "job:openai:5b9cb831-673b-479d-a88a-dddf476b736f": {
       "fields": {
         "employment_type": "FullTime",
@@ -23846,17 +23967,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Deployment Lead, FDE- NYC"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:7be58f3a-6005-42ed-86fa-77773ebfb294": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Applied AI Engineer, Digital Natives"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -25983,17 +26093,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
-    "job:openai:b9262d61-ecf3-4d9a-8674-2e30bce09bdc": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Senior Commercial Counsel, APAC"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
     "job:openai:b94099f6-8418-48b0-82b5-5953a27d636f": {
       "fields": {
         "employment_type": "FullTime",
@@ -26233,6 +26332,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Hardware / Software CoDesign Engineer  - 3P"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
+    "job:openai:be7abbba-bca2-4baa-b7d8-98d5ab514520": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Client Partner, Ads Solutions - Financial Services"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -27509,17 +27619,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Applied AI Engineer, Codex"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:e25e56a3-88f0-4994-9ae7-3d6d85c1501b": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Technical Program Manager, Partnerships"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -30196,17 +30295,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"
     },
-    "job:scale-ai:4730528005": {
-      "fields": {
-        "employment_type": null,
-        "lab": "scale-ai",
-        "location": "Mexico City, MX",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Global Payroll Analyst"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"
-    },
     "job:scale-ai:4730834005": {
       "fields": {
         "employment_type": null,
@@ -30292,6 +30380,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Engineering Manager, Frontier AI Infrastructure - Public Sector "
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"
+    },
+    "job:scale-ai:4732394005": {
+      "fields": {
+        "employment_type": null,
+        "lab": "scale-ai",
+        "location": "Riyadh, Saudi Arabia",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Senior Full-Stack Software Engineer, (Forward deployed), GPS"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"
     },
@@ -30493,6 +30592,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"
     },
+    "job:scale-ai:4741462005": {
+      "fields": {
+        "employment_type": null,
+        "lab": "scale-ai",
+        "location": "San Francisco, CA",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Field Marketing & Events Manager, Frontier Data"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"
+    },
     "job:scale-ai:4742042005": {
       "fields": {
         "employment_type": null,
@@ -30501,6 +30611,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Systems Engineering Integration & Test Lead, Public Sector"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"
+    },
+    "job:scale-ai:4742967005": {
+      "fields": {
+        "employment_type": null,
+        "lab": "scale-ai",
+        "location": "Miami, FL; Tampa, FL",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Engagement Manager, Public Sector (Miami, FL)"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"
     },
@@ -31386,5 +31507,5 @@
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-10-12T00:46:15.640Z"
+  "updated_at": "2026-10-13T02:45:21.898Z"
 }
