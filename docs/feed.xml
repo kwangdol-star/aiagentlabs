@@ -3,9 +3,169 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-10-13T02:45:21.898Z</updated>
+  <updated>2026-10-13T03:08:05.179Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:78852d174ad8e4c68ca8a28395dfa4ee28506a346d8a7c13aa2cc06290795b42</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11740:20260704:성내동:590:성내동삼성아파트:84.99:24:168500 · aptDong</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:&quot;204&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;78852d174ad8e4c68ca8a28395dfa4ee28506a346d8a7c13aa2cc06290795b42&quot;,&quot;content_hash&quot;:&quot;4464cf0c13f7966b390b3904662960e4ace31d6ab4ac7bb1fbb8a678630654a2&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260704:성내동:590:성내동삼성아파트:84.99:24:168500&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:f52c8cddcb3d4731fa35fdc40c9abfabbf2216956eb321425207eabfb67ad5f4</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11740:20260704:성내동:590:성내동삼성아파트:84.99:24:168500 · rgstDate</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:&quot;26.10.07&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;f52c8cddcb3d4731fa35fdc40c9abfabbf2216956eb321425207eabfb67ad5f4&quot;,&quot;content_hash&quot;:&quot;8e90e3828be0893199e1a50c1171e5172677193bdf3dabebbffedf9e44786cc9&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260704:성내동:590:성내동삼성아파트:84.99:24:168500&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:e2272f98550ec53339966c22f245b129f36753fee512eb6b1a0fcb7c2ef80750</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20260810:천호동:565:현대코아아파트:117.36:16:98000</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-08-10&quot;,&quot;aptDong&quot;:&quot;아파트&quot;,&quot;aptNm&quot;:&quot;현대코아아파트&quot;,&quot;aptSeq&quot;:&quot;11740-185&quot;,&quot;bonbun&quot;:&quot;0565&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;1999&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;98,000&quot;,&quot;dealDay&quot;:&quot;10&quot;,&quot;dealMonth&quot;:&quot;8&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;117.36&quot;,&quot;floor&quot;:&quot;16&quot;,&quot;jibun&quot;:&quot;565&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;26.10.02&quot;,&quot;roadNm&quot;:&quot;천호대로&quot;,&quot;roadNmBonbun&quot;:&quot;01095&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;2000008&quot;,&quot;roadNmSeq&quot;:&quot;05&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10900&quot;,&quot;umdNm&quot;:&quot;천호동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;e2272f98550ec53339966c22f245b129f36753fee512eb6b1a0fcb7c2ef80750&quot;,&quot;content_hash&quot;:&quot;6f2ec030115627f64bcae916fbd1bd8b8ac2556cdc12b69c47e5c6c91039eef3&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260810:천호동:565:현대코아아파트:117.36:16:98000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:7430e8bce809bb40d1dc33182f43884500828cdd792427406d4e3fdbe7646e1c</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11740:20260831:길동:385-4:이스트드림힐:71.49:11:69500 · rgstDate</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:&quot;26.10.08&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;7430e8bce809bb40d1dc33182f43884500828cdd792427406d4e3fdbe7646e1c&quot;,&quot;content_hash&quot;:&quot;ae16ad29f698a5b374f43eeebad2b8611d00f1a7857d035b744db28221504fcd&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260831:길동:385-4:이스트드림힐:71.49:11:69500&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:2048c8667d9beec00316933b0058abf0704918974088015d5f00008f3fbf9565</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20260915:둔촌동:546:신성둔촌미소지움1:59.78:9:136500</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-09-15&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;신성둔촌미소지움1&quot;,&quot;aptSeq&quot;:&quot;11740-74&quot;,&quot;bonbun&quot;:&quot;0546&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;1998&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;136,500&quot;,&quot;dealDay&quot;:&quot;15&quot;,&quot;dealMonth&quot;:&quot;9&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;59.78&quot;,&quot;floor&quot;:&quot;9&quot;,&quot;jibun&quot;:&quot;546&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;명일로&quot;,&quot;roadNmBonbun&quot;:&quot;00102&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;3124002&quot;,&quot;roadNmSeq&quot;:&quot;03&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10600&quot;,&quot;umdNm&quot;:&quot;둔촌동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;2048c8667d9beec00316933b0058abf0704918974088015d5f00008f3fbf9565&quot;,&quot;content_hash&quot;:&quot;176f919a0251a6d1a6ff2133b23629bb28a6261b1b4572c182a36e3f417138ce&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260915:둔촌동:546:신성둔촌미소지움1:59.78:9:136500&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:9c45d664e36bd6fbc4d1d34b9487b69c5f1868003d1df87ffaff5c8c71c91cf0</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20260922:강일동:66:강동리버스트8단지:59.97:22:130000</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-09-22&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;강동리버스트8단지&quot;,&quot;aptSeq&quot;:&quot;11740-4804&quot;,&quot;bonbun&quot;:&quot;0066&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;2021&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;130,000&quot;,&quot;dealDay&quot;:&quot;22&quot;,&quot;dealMonth&quot;:&quot;9&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강남구, 서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;59.97&quot;,&quot;floor&quot;:&quot;22&quot;,&quot;jibun&quot;:&quot;66&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;아리수로93나길&quot;,&quot;roadNmBonbun&quot;:&quot;00088&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;4858048&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;11000&quot;,&quot;umdNm&quot;:&quot;강일동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;9c45d664e36bd6fbc4d1d34b9487b69c5f1868003d1df87ffaff5c8c71c91cf0&quot;,&quot;content_hash&quot;:&quot;12edac4a7697eb90eebb68ca84349a29fdfaf4b90f29ec698379fcec9f12f9e7&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260922:강일동:66:강동리버스트8단지:59.97:22:130000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:4809aa9f5fa4cec9770118ec977caf3505a8347eb15109a8893745c708a52176</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20260923:둔촌동:633:올림픽파크포레온:84.99:11:300000</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-09-23&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;올림픽파크포레온&quot;,&quot;aptSeq&quot;:&quot;11740-5273&quot;,&quot;bonbun&quot;:&quot;0633&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;2024&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;300,000&quot;,&quot;dealDay&quot;:&quot;23&quot;,&quot;dealMonth&quot;:&quot;9&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;84.99&quot;,&quot;floor&quot;:&quot;11&quot;,&quot;jibun&quot;:&quot;633&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;양재대로&quot;,&quot;roadNmBonbun&quot;:&quot;01300&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;2000006&quot;,&quot;roadNmSeq&quot;:&quot;00&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10600&quot;,&quot;umdNm&quot;:&quot;둔촌동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;4809aa9f5fa4cec9770118ec977caf3505a8347eb15109a8893745c708a52176&quot;,&quot;content_hash&quot;:&quot;2d70062ea49d7d35f5ab9ad7f960254321bc4420a9647fe11353e55cdff7276c&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260923:둔촌동:633:올림픽파크포레온:84.99:11:300000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:20b39ae74f84dbefa5dc8f85b29f655ef7f71eb58c51a87db921df8e072d3c5d</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20260928:성내동:606:올림픽파크한양수자인:59.55:10:169000</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-09-28&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;올림픽파크한양수자인&quot;,&quot;aptSeq&quot;:&quot;11740-4102&quot;,&quot;bonbun&quot;:&quot;0606&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;2016&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;169,000&quot;,&quot;dealDay&quot;:&quot;28&quot;,&quot;dealMonth&quot;:&quot;9&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강동구, 서울 광진구&quot;,&quot;excluUseAr&quot;:&quot;59.55&quot;,&quot;floor&quot;:&quot;10&quot;,&quot;jibun&quot;:&quot;606&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;성내로&quot;,&quot;roadNmBonbun&quot;:&quot;00080&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;3124006&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10800&quot;,&quot;umdNm&quot;:&quot;성내동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;20b39ae74f84dbefa5dc8f85b29f655ef7f71eb58c51a87db921df8e072d3c5d&quot;,&quot;content_hash&quot;:&quot;8f6d585cab3a628f05077c5d4682cc4396ee88cce69e0c66cead36f002d6b75d&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260928:성내동:606:올림픽파크한양수자인:59.55:10:169000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:6f3ba569f820b20d2a5237381a256179413da6701a7041f3c2f41460524634cd</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11740:20260929:상일동:519:고덕아르테온:59.96:10:194000 · cdealDay</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:&quot;26.10.12&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;6f3ba569f820b20d2a5237381a256179413da6701a7041f3c2f41460524634cd&quot;,&quot;content_hash&quot;:&quot;ae9bfb36d389d10dbb64d878c8881b0cc900c4b85f21917b74c0a6a885d9d2f8&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260929:상일동:519:고덕아르테온:59.96:10:194000&quot;,&quot;field&quot;:&quot;cdealDay&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:5e7f1791a0d4f6facc20e9f3384b221793fb9fbefdb8f4520918cd066bccdfae</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11740:20260929:상일동:519:고덕아르테온:59.96:10:194000 · cdealType</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:&quot;O&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;5e7f1791a0d4f6facc20e9f3384b221793fb9fbefdb8f4520918cd066bccdfae&quot;,&quot;content_hash&quot;:&quot;9f8c2f7da5fe5cabd60b5a3db8b2845bc8d6cebf597a66dd94b5671dbc069570&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260929:상일동:519:고덕아르테온:59.96:10:194000&quot;,&quot;field&quot;:&quot;cdealType&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:09e1a5d06e4a90c833df947db93f6637db8ee52570ca7deeeafbbf2ad0b72ee2</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20260930:성내동:194:에스케이허브진:30.26:5:39000</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-09-30&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;에스케이허브진&quot;,&quot;aptSeq&quot;:&quot;11740-347&quot;,&quot;bonbun&quot;:&quot;0194&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;2004&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;39,000&quot;,&quot;dealDay&quot;:&quot;30&quot;,&quot;dealMonth&quot;:&quot;9&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;30.26&quot;,&quot;floor&quot;:&quot;5&quot;,&quot;jibun&quot;:&quot;194&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;천호대로&quot;,&quot;roadNmBonbun&quot;:&quot;01092&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;2000008&quot;,&quot;roadNmSeq&quot;:&quot;04&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10800&quot;,&quot;umdNm&quot;:&quot;성내동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;09e1a5d06e4a90c833df947db93f6637db8ee52570ca7deeeafbbf2ad0b72ee2&quot;,&quot;content_hash&quot;:&quot;cb37df1810d3a47f0b450616a41f8a6a1650bb57d2758a019f231ae0969b0f1b&quot;,&quot;entity_id&quot;:&quot;deal:11740:20260930:성내동:194:에스케이허브진:30.26:5:39000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:5e303821d2c4c545d5ecf309f094f79eb88fce505d9484cd126e2f3eb2be2a84</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20261001:상일동:514:고덕롯데캐슬베네루체:84.923:13:189000</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-10-01&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;고덕롯데캐슬베네루체&quot;,&quot;aptSeq&quot;:&quot;11740-4672&quot;,&quot;bonbun&quot;:&quot;0514&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;2019&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;189,000&quot;,&quot;dealDay&quot;:&quot;1&quot;,&quot;dealMonth&quot;:&quot;10&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;84.923&quot;,&quot;floor&quot;:&quot;13&quot;,&quot;jibun&quot;:&quot;514&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;상암로79길&quot;,&quot;roadNmBonbun&quot;:&quot;00088&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;4172145&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10300&quot;,&quot;umdNm&quot;:&quot;상일동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;5e303821d2c4c545d5ecf309f094f79eb88fce505d9484cd126e2f3eb2be2a84&quot;,&quot;content_hash&quot;:&quot;6a09521569325474a97776c49c53869913ac9f2f9e68bd9b3edc9377c989c559&quot;,&quot;entity_id&quot;:&quot;deal:11740:20261001:상일동:514:고덕롯데캐슬베네루체:84.923:13:189000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:87e5be2789f6fb0b22910177e58f81b6907f3d1debc2f52cd20d656ec77376eb</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20261001:상일동:521:고덕자이:84.9712:7:212000</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-10-01&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;고덕자이&quot;,&quot;aptSeq&quot;:&quot;11740-4799&quot;,&quot;bonbun&quot;:&quot;0521&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;2021&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;212,000&quot;,&quot;dealDay&quot;:&quot;1&quot;,&quot;dealMonth&quot;:&quot;10&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;84.9712&quot;,&quot;floor&quot;:&quot;7&quot;,&quot;jibun&quot;:&quot;521&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;상일로&quot;,&quot;roadNmBonbun&quot;:&quot;00055&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;3124004&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10300&quot;,&quot;umdNm&quot;:&quot;상일동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;87e5be2789f6fb0b22910177e58f81b6907f3d1debc2f52cd20d656ec77376eb&quot;,&quot;content_hash&quot;:&quot;7570105021336c3898fa6311e8ad7e644b820499343d7c86d3e6d7a83e500846&quot;,&quot;entity_id&quot;:&quot;deal:11740:20261001:상일동:521:고덕자이:84.9712:7:212000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:2b78df017cb715a5b3e11b0c94f8d4b8ec03bccc49ced197314ccc51eceafa5c</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20261001:천호동:50:천호2차우림루미아트:59.51:7:68000</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-10-01&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;천호2차우림루미아트&quot;,&quot;aptSeq&quot;:&quot;11740-332&quot;,&quot;bonbun&quot;:&quot;0050&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;2004&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;68,000&quot;,&quot;dealDay&quot;:&quot;1&quot;,&quot;dealMonth&quot;:&quot;10&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;59.51&quot;,&quot;floor&quot;:&quot;7&quot;,&quot;jibun&quot;:&quot;50&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;양재대로121길&quot;,&quot;roadNmBonbun&quot;:&quot;00022&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;4172237&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10900&quot;,&quot;umdNm&quot;:&quot;천호동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;2b78df017cb715a5b3e11b0c94f8d4b8ec03bccc49ced197314ccc51eceafa5c&quot;,&quot;content_hash&quot;:&quot;e5e4ed8f2e10c73097994dc3ae934d2c7645c0a05f327af7c716637786de375e&quot;,&quot;entity_id&quot;:&quot;deal:11740:20261001:천호동:50:천호2차우림루미아트:59.51:7:68000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:40e1b585f51d27b63f3de8a051ee7037592bb34c73e686faf85e346a7e6b17eb</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20261003:고덕동:693:고덕그라시움:84.244:13:255000</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-10-03&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;고덕그라시움&quot;,&quot;aptSeq&quot;:&quot;11740-4628&quot;,&quot;bonbun&quot;:&quot;0693&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;2019&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;255,000&quot;,&quot;dealDay&quot;:&quot;3&quot;,&quot;dealMonth&quot;:&quot;10&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;84.244&quot;,&quot;floor&quot;:&quot;13&quot;,&quot;jibun&quot;:&quot;693&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;고덕로&quot;,&quot;roadNmBonbun&quot;:&quot;00333&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;3124001&quot;,&quot;roadNmSeq&quot;:&quot;02&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10200&quot;,&quot;umdNm&quot;:&quot;고덕동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;40e1b585f51d27b63f3de8a051ee7037592bb34c73e686faf85e346a7e6b17eb&quot;,&quot;content_hash&quot;:&quot;3df01180f8bc5f0932cdd773327fdf0e55f68d2a124cb8bb44283f2ce0cc61c5&quot;,&quot;entity_id&quot;:&quot;deal:11740:20261003:고덕동:693:고덕그라시움:84.244:13:255000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:8de6693a089f1a94351a10caf0f6f3352b87c1bc58345e2fcb6d27168d008de4</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20261006:천호동:155-5:강동역두산위브센티움:59.96:3:74000</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-10-06&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;강동역두산위브센티움&quot;,&quot;aptSeq&quot;:&quot;11740-338&quot;,&quot;bonbun&quot;:&quot;0155&quot;,&quot;bubun&quot;:&quot;0005&quot;,&quot;buildYear&quot;:&quot;2004&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;74,000&quot;,&quot;dealDay&quot;:&quot;6&quot;,&quot;dealMonth&quot;:&quot;10&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;59.96&quot;,&quot;floor&quot;:&quot;3&quot;,&quot;jibun&quot;:&quot;155-5&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;성안로&quot;,&quot;roadNmBonbun&quot;:&quot;00155&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;3124007&quot;,&quot;roadNmSeq&quot;:&quot;03&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10900&quot;,&quot;umdNm&quot;:&quot;천호동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;8de6693a089f1a94351a10caf0f6f3352b87c1bc58345e2fcb6d27168d008de4&quot;,&quot;content_hash&quot;:&quot;2b89d5181da5fefdb540b91f54820e317e8c055ddffa6fdf6e11ae8e0f4b2998&quot;,&quot;entity_id&quot;:&quot;deal:11740:20261006:천호동:155-5:강동역두산위브센티움:59.96:3:74000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:30e3ac242f4776f96137a5f323685a0498b65935d4373f6a4343e89aca1f4bec</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20261006:천호동:237:한신아파트:46.9:11:61500</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-10-06&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;한신아파트&quot;,&quot;aptSeq&quot;:&quot;11740-183&quot;,&quot;bonbun&quot;:&quot;0237&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;1991&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;61,500&quot;,&quot;dealDay&quot;:&quot;6&quot;,&quot;dealMonth&quot;:&quot;10&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;46.9&quot;,&quot;floor&quot;:&quot;11&quot;,&quot;jibun&quot;:&quot;237&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;구천면로42길&quot;,&quot;roadNmBonbun&quot;:&quot;00016&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;4172065&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10900&quot;,&quot;umdNm&quot;:&quot;천호동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;30e3ac242f4776f96137a5f323685a0498b65935d4373f6a4343e89aca1f4bec&quot;,&quot;content_hash&quot;:&quot;5bd234ae46c855467b4df6d4a06e369ec58d9c9c22f485356a56d7edbce5d51f&quot;,&quot;entity_id&quot;:&quot;deal:11740:20261006:천호동:237:한신아파트:46.9:11:61500&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:4a71de656a589235067202bc92b2103a93d3747610833e74d68c6216c975d80c</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11740:20261007:고덕동:688:래미안힐스테이트고덕:84.9:6:215000</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11740&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-10-07&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;래미안힐스테이트고덕&quot;,&quot;aptSeq&quot;:&quot;11740-4214&quot;,&quot;bonbun&quot;:&quot;0688&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;2016&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;215,000&quot;,&quot;dealDay&quot;:&quot;7&quot;,&quot;dealMonth&quot;:&quot;10&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 강남구, 서울 강동구&quot;,&quot;excluUseAr&quot;:&quot;84.9&quot;,&quot;floor&quot;:&quot;6&quot;,&quot;jibun&quot;:&quot;688&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;아리수로50길&quot;,&quot;roadNmBonbun&quot;:&quot;00050&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;4172194&quot;,&quot;roadNmSeq&quot;:&quot;00&quot;,&quot;roadNmSggCd&quot;:&quot;11740&quot;,&quot;roadNmbCd&quot;:&quot;&quot;,&quot;sggCd&quot;:&quot;11740&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10200&quot;,&quot;umdNm&quot;:&quot;고덕동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;4a71de656a589235067202bc92b2103a93d3747610833e74d68c6216c975d80c&quot;,&quot;content_hash&quot;:&quot;eaa8fb8b03d30584e44c12c0c71baaf13ccc568bb8050a23006cdf1e2bedd1f0&quot;,&quot;entity_id&quot;:&quot;deal:11740:20261007:고덕동:688:래미안힐스테이트고덕:84.9:6:215000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:0dbda9c3915c7cafc2d840e503e0fe359a9bea0661603739da1cf1a0b1d93607</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [삭제] deal:11290:20260618:돈암동:630:동소문현대:84.72:13:74500</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;LAWD_CD&quot;:&quot;11290&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-06-18&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;동소문현대&quot;,&quot;aptSeq&quot;:&quot;11290-15&quot;,&quot;bonbun&quot;:&quot;0630&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;1994&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;74,500&quot;,&quot;dealDay&quot;:&quot;18&quot;,&quot;dealMonth&quot;:&quot;6&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 성북구&quot;,&quot;excluUseAr&quot;:&quot;84.72&quot;,&quot;floor&quot;:&quot;13&quot;,&quot;jibun&quot;:&quot;630&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;아리랑로5길&quot;,&quot;roadNmBonbun&quot;:&quot;00050&quot;,&quot;roadNmBubun&quot;:&quot;00008&quot;,&quot;roadNmCd&quot;:&quot;4121416&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11290&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11290&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10300&quot;,&quot;umdNm&quot;:&quot;돈암동&quot;},&quot;chain_hash&quot;:&quot;0dbda9c3915c7cafc2d840e503e0fe359a9bea0661603739da1cf1a0b1d93607&quot;,&quot;content_hash&quot;:&quot;e8d0068faa6a0b1e909d079e34e3dc37161eb035ae73fc02d2e4af7c486f1aa0&quot;,&quot;entity_id&quot;:&quot;deal:11290:20260618:돈암동:630:동소문현대:84.72:13:74500&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:deal-audit-ledger:333d0b83156683149095f93743dc26f2012217f7cb0c3a289b7395c237e4f9f6</id>
+    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [삭제] deal:11440:20261002:노고산동:129:빌리브디에이블:38.39:20:61500</title>
+    <updated>2026-10-13T03:08:05.179Z</updated>
+    <category term="deal-audit-ledger"/>
+    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;LAWD_CD&quot;:&quot;11440&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-10-02&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;빌리브디에이블&quot;,&quot;aptSeq&quot;:&quot;11440-7481&quot;,&quot;bonbun&quot;:&quot;0129&quot;,&quot;bubun&quot;:&quot;0000&quot;,&quot;buildYear&quot;:&quot;2025&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;61,500&quot;,&quot;dealDay&quot;:&quot;2&quot;,&quot;dealMonth&quot;:&quot;10&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;직거래&quot;,&quot;estateAgentSggNm&quot;:&quot;&quot;,&quot;excluUseAr&quot;:&quot;38.39&quot;,&quot;floor&quot;:&quot;20&quot;,&quot;jibun&quot;:&quot;129&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;백범로&quot;,&quot;roadNmBonbun&quot;:&quot;00024&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;3005016&quot;,&quot;roadNmSeq&quot;:&quot;00&quot;,&quot;roadNmSggCd&quot;:&quot;11440&quot;,&quot;roadNmbCd&quot;:&quot;&quot;,&quot;sggCd&quot;:&quot;11440&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;11000&quot;,&quot;umdNm&quot;:&quot;노고산동&quot;},&quot;chain_hash&quot;:&quot;333d0b83156683149095f93743dc26f2012217f7cb0c3a289b7395c237e4f9f6&quot;,&quot;content_hash&quot;:&quot;8f37c21cd905a7e5fd727fe4d174e03e0c2793cc8ff6be2ac7595749041fdb1c&quot;,&quot;entity_id&quot;:&quot;deal:11440:20261002:노고산동:129:빌리브디에이블:38.39:20:61500&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-13T03:08:05.179Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:ai-jobs-ledger:a88ebbb992bf378fc5dd63b8a188bdc8f663f1579a9ac3d2b9e161116bbed9b4</id>
     <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:databricks:8337401002</title>
@@ -301,166 +461,6 @@
     <category term="commitments-watch"/>
     <link href="https://www.nvidia.com/en-us/ai-data-science/trustworthy-ai/"/>
     <content type="text">{&quot;after&quot;:&quot;78d55188ff4135faeab79843d3caf8a155efa2f3dbba71ece780076dfe309d38&quot;,&quot;before&quot;:&quot;3a981bb9bcf7f1d09765fb96bf1c61b536e3be0f9e6c36fb3024d2d86648f61b&quot;,&quot;chain_hash&quot;:&quot;cdf94d6febf93aa3b75db9f8079a680c7efedddeb9d07c0da0e0a220f32d9cfa&quot;,&quot;content_hash&quot;:&quot;0bdf811cf1f7e6d879c9e570890301aa226e778b2f4bcbfb64a9889983247486&quot;,&quot;entity_id&quot;:&quot;commitment:nvidia:trustworthy-ai&quot;,&quot;field&quot;:&quot;text_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-13T01:39:16.329Z&quot;,&quot;source_url&quot;:&quot;https://www.nvidia.com/en-us/ai-data-science/trustworthy-ai/&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:eabfb9270428f78534c44682d4bdeb9edfdb6064314bda85468c2ce69d5b312d</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11650:20260614:서초동:1420-18:신원아침도시(1420):84.34:4:183000 · aptDong</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;101&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;eabfb9270428f78534c44682d4bdeb9edfdb6064314bda85468c2ce69d5b312d&quot;,&quot;content_hash&quot;:&quot;20bd38854c11bd9b5e3273e31b3ef9ab5f4206a279d1e9c4de034c1235d04d33&quot;,&quot;entity_id&quot;:&quot;deal:11650:20260614:서초동:1420-18:신원아침도시(1420):84.34:4:183000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:09cd3c5c60e514035bc55779d51e27827cc0083383a8b58cc7a54058b85b7528</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11650:20260614:서초동:1420-18:신원아침도시(1420):84.34:4:183000 · rgstDate</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.10.07&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;09cd3c5c60e514035bc55779d51e27827cc0083383a8b58cc7a54058b85b7528&quot;,&quot;content_hash&quot;:&quot;9809df1f3c3486e151b133005dd60c510a368f214495cfc2d0727a1d451d302a&quot;,&quot;entity_id&quot;:&quot;deal:11650:20260614:서초동:1420-18:신원아침도시(1420):84.34:4:183000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:a74efa6375c280471378d4add1f7c8078e3bc176e60ea7e9286e5a007605df38</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11650:20260618:반포동:20-43:반포자이:132.439:3:580000 · aptDong</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;105&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;a74efa6375c280471378d4add1f7c8078e3bc176e60ea7e9286e5a007605df38&quot;,&quot;content_hash&quot;:&quot;01ee478a88c17c72277200b1a966e35415d65d40f32493f3e70e9bdeff128c96&quot;,&quot;entity_id&quot;:&quot;deal:11650:20260618:반포동:20-43:반포자이:132.439:3:580000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:bcb8704c18775d627e153a57d8cf427b07fd91e5b1fb19d8680881c1984ab945</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11650:20260618:반포동:20-43:반포자이:132.439:3:580000 · rgstDate</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.10.06&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;bcb8704c18775d627e153a57d8cf427b07fd91e5b1fb19d8680881c1984ab945&quot;,&quot;content_hash&quot;:&quot;02fe36d1794d68b91abfa8a52ac0dc6d95a13f3f17846bb705140f9e4640e52b&quot;,&quot;entity_id&quot;:&quot;deal:11650:20260618:반포동:20-43:반포자이:132.439:3:580000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:e4ad17421b3d5d8551b5c584b75405c53a035150dc59bb2e5dcb3bc7af1673c8</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11650:20260724:우면동:720:서초네이처힐4단지:84.77:13:210000 · aptDong</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;404&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;e4ad17421b3d5d8551b5c584b75405c53a035150dc59bb2e5dcb3bc7af1673c8&quot;,&quot;content_hash&quot;:&quot;79b1693d806676961ca3b6acb9914e1ffc6370532a69aec1db89567c7e3499cf&quot;,&quot;entity_id&quot;:&quot;deal:11650:20260724:우면동:720:서초네이처힐4단지:84.77:13:210000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:be8429a428685707ab9327913d5c0d16708caea5d3c8cd0d0c9e1370ddba6cd2</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11650:20260724:우면동:720:서초네이처힐4단지:84.77:13:210000 · rgstDate</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.10.07&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;be8429a428685707ab9327913d5c0d16708caea5d3c8cd0d0c9e1370ddba6cd2&quot;,&quot;content_hash&quot;:&quot;e257c280770d6fc2b59ef10329ffcc0432ff73385c9eeaacd798ff80f5d597fd&quot;,&quot;entity_id&quot;:&quot;deal:11650:20260724:우면동:720:서초네이처힐4단지:84.77:13:210000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:6d23195b81d1d30f438e6d6acf4abd28eb1d44d7be312516f299d8c35009133e</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11650:20260919:서초동:1445-4:래미안서초유니빌:58.601:16:75500</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:{&quot;LAWD_CD&quot;:&quot;11650&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-09-19&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;래미안서초유니빌&quot;,&quot;aptSeq&quot;:&quot;11650-518&quot;,&quot;bonbun&quot;:&quot;1445&quot;,&quot;bubun&quot;:&quot;0004&quot;,&quot;buildYear&quot;:&quot;2003&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;75,500&quot;,&quot;dealDay&quot;:&quot;19&quot;,&quot;dealMonth&quot;:&quot;9&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 서초구&quot;,&quot;excluUseAr&quot;:&quot;58.601&quot;,&quot;floor&quot;:&quot;16&quot;,&quot;jibun&quot;:&quot;1445-4&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;서초중앙로&quot;,&quot;roadNmBonbun&quot;:&quot;00026&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;3121024&quot;,&quot;roadNmSeq&quot;:&quot;03&quot;,&quot;roadNmSggCd&quot;:&quot;11650&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11650&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10800&quot;,&quot;umdNm&quot;:&quot;서초동&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;6d23195b81d1d30f438e6d6acf4abd28eb1d44d7be312516f299d8c35009133e&quot;,&quot;content_hash&quot;:&quot;1a15ae4c78ee457dd3e4bb3a0c6bcb58258c7ee474bb84ae7af57fd765fa1dc2&quot;,&quot;entity_id&quot;:&quot;deal:11650:20260919:서초동:1445-4:래미안서초유니빌:58.601:16:75500&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:4e9ae2525bdc4825857c760e2fa6bcf6e629660490416c32fc39df7ddcd3ec2f</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11680:20260627:자곡동:618:강남브리즈힐(토지임대부아파트):74.44:6:130000 · aptDong</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;410&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;4e9ae2525bdc4825857c760e2fa6bcf6e629660490416c32fc39df7ddcd3ec2f&quot;,&quot;content_hash&quot;:&quot;65698e9fbdbc1a3c7f33376ffe99bb2e76909631f8fab065f0bd68b7205ceed1&quot;,&quot;entity_id&quot;:&quot;deal:11680:20260627:자곡동:618:강남브리즈힐(토지임대부아파트):74.44:6:130000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:44da56275e238108e66e2aad452a9c55ba33cb495bfb39f4ba0a8c491b92703c</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11680:20260627:자곡동:618:강남브리즈힐(토지임대부아파트):74.44:6:130000 · rgstDate</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.10.06&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;44da56275e238108e66e2aad452a9c55ba33cb495bfb39f4ba0a8c491b92703c&quot;,&quot;content_hash&quot;:&quot;9127ae71945a3a3a0faa3566117a0292dd78ff692f56fde9de6622c2c6ee8d36&quot;,&quot;entity_id&quot;:&quot;deal:11680:20260627:자곡동:618:강남브리즈힐(토지임대부아파트):74.44:6:130000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:1f083857db02d5ab3df08d9f6ba20957bd409d32b4cb3c17b694922e3d6d6468</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11680:20260711:자곡동:618:강남브리즈힐(토지임대부아파트):74.04:12:131000 · aptDong</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;406&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;1f083857db02d5ab3df08d9f6ba20957bd409d32b4cb3c17b694922e3d6d6468&quot;,&quot;content_hash&quot;:&quot;befc7e34b8bedc4f5037aa5436f54f5afa7031c8220ec75507e5a0de8b9da659&quot;,&quot;entity_id&quot;:&quot;deal:11680:20260711:자곡동:618:강남브리즈힐(토지임대부아파트):74.04:12:131000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:51fec2e8da89fa2288d9fce5fa6274464e0b65a8802ec3fac426eea1c45b1a93</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11680:20260711:자곡동:618:강남브리즈힐(토지임대부아파트):74.04:12:131000 · rgstDate</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.10.07&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;51fec2e8da89fa2288d9fce5fa6274464e0b65a8802ec3fac426eea1c45b1a93&quot;,&quot;content_hash&quot;:&quot;8ca44a13a3d6e1ad8f6c519fd6965b0915c8c537ce1c6a6cee5105df6585f7bb&quot;,&quot;entity_id&quot;:&quot;deal:11680:20260711:자곡동:618:강남브리즈힐(토지임대부아파트):74.04:12:131000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:642043fa2317adeb229b09a0208d9adace35102f33ebf5286fc71dc160705ad1</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11680:20260718:개포동:185:개포주공7단지:83.7:7:383000 · aptDong</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;707&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;642043fa2317adeb229b09a0208d9adace35102f33ebf5286fc71dc160705ad1&quot;,&quot;content_hash&quot;:&quot;f3620cfdaee23ced4330c5c8212b28fc9588f1ad3de63f5798632771b5c05499&quot;,&quot;entity_id&quot;:&quot;deal:11680:20260718:개포동:185:개포주공7단지:83.7:7:383000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:11ae715a245a0346999a19e5ba7385203d466c04ffa55d10354d683a35fc6923</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11680:20260718:개포동:185:개포주공7단지:83.7:7:383000 · rgstDate</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.10.06&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;11ae715a245a0346999a19e5ba7385203d466c04ffa55d10354d683a35fc6923&quot;,&quot;content_hash&quot;:&quot;5685a6d86ae2efc2f001d7dc41b9f1c619a8f0c48bcfee542287d92548866c26&quot;,&quot;entity_id&quot;:&quot;deal:11680:20260718:개포동:185:개포주공7단지:83.7:7:383000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:5069c553cea0690221714631bec64d97da7cce2a3e4e37fa2d0e4bae043ab132</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11680:20260724:도곡동:464:한신(개포):52.73:5:310000 · aptDong</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;4&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;5069c553cea0690221714631bec64d97da7cce2a3e4e37fa2d0e4bae043ab132&quot;,&quot;content_hash&quot;:&quot;91b8467086ea69f0f50987a716f365f1286d60c3392f54095dde60529c185807&quot;,&quot;entity_id&quot;:&quot;deal:11680:20260724:도곡동:464:한신(개포):52.73:5:310000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:a6299bf98c5fd8720fb1aff404fee92a13ea5888eacd81f99ddce6e9def64501</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11680:20260724:도곡동:464:한신(개포):52.73:5:310000 · rgstDate</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.10.07&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;a6299bf98c5fd8720fb1aff404fee92a13ea5888eacd81f99ddce6e9def64501&quot;,&quot;content_hash&quot;:&quot;2bf40a053d6b1eb05bd3d7742ecc5d2191a6cdae5d8d8fd1210dbd26e631d943&quot;,&quot;entity_id&quot;:&quot;deal:11680:20260724:도곡동:464:한신(개포):52.73:5:310000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:72c202665b25e528e1c92877295a1c881efcd7a22f22151638564bcc2553493f</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11680:20260922:개포동:185:개포주공6단지:73.02:8:325000 · aptDong</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;609&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;72c202665b25e528e1c92877295a1c881efcd7a22f22151638564bcc2553493f&quot;,&quot;content_hash&quot;:&quot;5410d807275fc5488e34cc4ce00cc264da51212c5b7f7abc01467fcd813d4469&quot;,&quot;entity_id&quot;:&quot;deal:11680:20260922:개포동:185:개포주공6단지:73.02:8:325000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:7e2b7750687842a4813f508b2a131e478e5899300be1dde2b6403f210cf00bc0</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11680:20260922:개포동:185:개포주공6단지:73.02:8:325000 · rgstDate</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.10.06&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;7e2b7750687842a4813f508b2a131e478e5899300be1dde2b6403f210cf00bc0&quot;,&quot;content_hash&quot;:&quot;7ab2cf6f9baa7e4c9d60e06c1557062e307cdde30d9ba33440f5bc89ded8b364&quot;,&quot;entity_id&quot;:&quot;deal:11680:20260922:개포동:185:개포주공6단지:73.02:8:325000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:7234d056e4d7c8dff4eecd3eef76fc0a80301c5161ad46d78762ef23f61406fd</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11680:20261001:개포동:185:개포주공6단지:60.13:3:302000 · aptDong</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;607&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;7234d056e4d7c8dff4eecd3eef76fc0a80301c5161ad46d78762ef23f61406fd&quot;,&quot;content_hash&quot;:&quot;3264bae9dd8a9ff7dafecebe3b73723a4118eecefda0b7c84253a249ab8a453a&quot;,&quot;entity_id&quot;:&quot;deal:11680:20261001:개포동:185:개포주공6단지:60.13:3:302000&quot;,&quot;field&quot;:&quot;aptDong&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:ff14642997c9c485723b2b2d670f4f62af2c96b274c706616c4a657a8f0b3e4d</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11680:20261001:개포동:185:개포주공6단지:60.13:3:302000 · rgstDate</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:&quot;26.10.06&quot;,&quot;before&quot;:&quot;&quot;,&quot;chain_hash&quot;:&quot;ff14642997c9c485723b2b2d670f4f62af2c96b274c706616c4a657a8f0b3e4d&quot;,&quot;content_hash&quot;:&quot;1cd781c63116cc4c896310a5363dd32262b28a3e6dac3b38665aedf4e0eb351a&quot;,&quot;entity_id&quot;:&quot;deal:11680:20261001:개포동:185:개포주공6단지:60.13:3:302000&quot;,&quot;field&quot;:&quot;rgstDate&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:deal-audit-ledger:c20dc54a3ab2f393440d00e101e8c81f44170a49ff7069bc8a7fb791c8ac1ed2</id>
-    <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [삭제] deal:11590:20260725:상도동:256-28:다온아파트:47.94:2:73000</title>
-    <updated>2026-10-12T01:26:27.183Z</updated>
-    <category term="deal-audit-ledger"/>
-    <link href="http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;LAWD_CD&quot;:&quot;11590&quot;,&quot;_chronicle_window_date&quot;:&quot;2026-07-25&quot;,&quot;aptDong&quot;:&quot;&quot;,&quot;aptNm&quot;:&quot;다온아파트&quot;,&quot;aptSeq&quot;:&quot;11590-4728&quot;,&quot;bonbun&quot;:&quot;0256&quot;,&quot;bubun&quot;:&quot;0028&quot;,&quot;buildYear&quot;:&quot;2017&quot;,&quot;buyerGbn&quot;:&quot;개인&quot;,&quot;cdealDay&quot;:&quot;&quot;,&quot;cdealType&quot;:&quot;&quot;,&quot;dealAmount&quot;:&quot;73,000&quot;,&quot;dealDay&quot;:&quot;25&quot;,&quot;dealMonth&quot;:&quot;7&quot;,&quot;dealYear&quot;:&quot;2026&quot;,&quot;dealingGbn&quot;:&quot;중개거래&quot;,&quot;estateAgentSggNm&quot;:&quot;서울 동작구&quot;,&quot;excluUseAr&quot;:&quot;47.94&quot;,&quot;floor&quot;:&quot;2&quot;,&quot;jibun&quot;:&quot;256-28&quot;,&quot;landCd&quot;:&quot;1&quot;,&quot;landLeaseholdGbn&quot;:&quot;N&quot;,&quot;rgstDate&quot;:&quot;&quot;,&quot;roadNm&quot;:&quot;성대로&quot;,&quot;roadNmBonbun&quot;:&quot;00052&quot;,&quot;roadNmBubun&quot;:&quot;00000&quot;,&quot;roadNmCd&quot;:&quot;3119007&quot;,&quot;roadNmSeq&quot;:&quot;01&quot;,&quot;roadNmSggCd&quot;:&quot;11590&quot;,&quot;roadNmbCd&quot;:&quot;0&quot;,&quot;sggCd&quot;:&quot;11590&quot;,&quot;slerGbn&quot;:&quot;개인&quot;,&quot;umdCd&quot;:&quot;10200&quot;,&quot;umdNm&quot;:&quot;상도동&quot;},&quot;chain_hash&quot;:&quot;c20dc54a3ab2f393440d00e101e8c81f44170a49ff7069bc8a7fb791c8ac1ed2&quot;,&quot;content_hash&quot;:&quot;4d5ee2aff771955601e0c5f7d752afd37f5a5bb5865d7a968dd1354ab00b2194&quot;,&quot;entity_id&quot;:&quot;deal:11590:20260725:상도동:256-28:다온아파트:47.94:2:73000&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-12T01:26:27.183Z&quot;,&quot;source_url&quot;:&quot;http://apis.data.go.kr/1613000/RTMSDataSvcAptTradeDev/getRTMSDataSvcAptTradeDev&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:mcp-census:faa6336cc402bf4724a9e3c42d954f9e83d01382992d54795ee925e177093fbf</id>
