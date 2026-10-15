@@ -3,9 +3,25 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-10-15T00:09:43.997Z</updated>
+  <updated>2026-10-15T23:13:10.198Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:a31ecee5837f4f1dc4c337bfc1b0ccad171d504c1781a7c0214e92b6a63a0489</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-10-15T23:13:10.198Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:638923,&quot;before&quot;:638626,&quot;chain_hash&quot;:&quot;a31ecee5837f4f1dc4c337bfc1b0ccad171d504c1781a7c0214e92b6a63a0489&quot;,&quot;content_hash&quot;:&quot;51fdd46be5fe4beccb42da8e476d030e6b4775dc23e65124d8907a8583dc0a84&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-15T23:13:10.198Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:8b55f321b53e7ea2cdf0bd35141bb66db8ab823ac412bdcc796168c985b07125</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-10-15T23:13:10.198Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;b3c930d0936f763fce16747ab241f1ecb23cb35e5adf644be14b2caf63fc4315&quot;,&quot;before&quot;:&quot;a0cb43265d80c45dad9485047414d3de9941433882e9eebc8eb269730bc7980f&quot;,&quot;chain_hash&quot;:&quot;8b55f321b53e7ea2cdf0bd35141bb66db8ab823ac412bdcc796168c985b07125&quot;,&quot;content_hash&quot;:&quot;a83f3a419867255535d1e50683f8a6d461aca98a8888adaf1e521720b049d5f9&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-15T23:13:10.198Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:ai-jobs-ledger:22ec939749afb370a691b98a8f20d8b59ce850a4574ef813186193e91972b440</id>
     <title>[AI 랩 채용 원장 — 직무·팀·지역 (글로벌)] [삭제] job:openai:2f97db3d-3d92-4480-87cb-534e0caadadf</title>
@@ -733,22 +749,6 @@
     <category term="mcp-census"/>
     <link href="https://registry.modelcontextprotocol.io/v0/servers"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;description_sha256&quot;:&quot;633dc23d1c5a4e2a8f50f06ea0885074f5c0d0b915e69ea7978e9d83f2fc688d&quot;,&quot;repository_url&quot;:null,&quot;status&quot;:&quot;active&quot;,&quot;version&quot;:&quot;1.0.0&quot;},&quot;chain_hash&quot;:&quot;061687aa8636204b590b98e4ae99e5774602df57a3cee595c9354121351eb008&quot;,&quot;content_hash&quot;:&quot;8e2bccc14b0551d06a02a201081e4f4a9e3d36cd25c7722eeb9d92b61fbd416c&quot;,&quot;entity_id&quot;:&quot;server:studio.trackforge/isrc-lookup&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:58:02.943Z&quot;,&quot;source_url&quot;:&quot;https://registry.modelcontextprotocol.io/v0/servers&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:cb13fd9a6b63b86a72a8d4cfeb3106174fcdf7fe18b31c9f4cbb3c41131b9492</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:nature.com:llms-txt · content_type</title>
-    <updated>2026-10-11T23:51:01.700Z</updated>
-    <category term="consent-census"/>
-    <link href="https://nature.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;text/html; charset=utf-8&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;cb13fd9a6b63b86a72a8d4cfeb3106174fcdf7fe18b31c9f4cbb3c41131b9492&quot;,&quot;content_hash&quot;:&quot;54c43b8d2b15a99f8a32d0917184043e2d97c8df576d1219fe0f296598990cea&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:51:01.700Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:66f8d7a0c0783cc9404510e001b69be70e9bcdb8fc0eb41e4db3390bbfd0f0fd</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:nature.com:llms-txt · status</title>
-    <updated>2026-10-11T23:51:01.700Z</updated>
-    <category term="consent-census"/>
-    <link href="https://nature.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:200,&quot;before&quot;:404,&quot;chain_hash&quot;:&quot;66f8d7a0c0783cc9404510e001b69be70e9bcdb8fc0eb41e4db3390bbfd0f0fd&quot;,&quot;content_hash&quot;:&quot;867699d47794905a7dad4c074f4c86110703035c5e29e41f4e4e832e6e98cf21&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:51:01.700Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:ai-vendor-ledger:136f77ba92c2e9928512caeda30aa205bc3c789aaea41da0144c773b785ceaa7</id>
