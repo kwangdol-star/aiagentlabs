@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:ai-jobs-ledger</id>
   <title>AI 랩 채용 원장 — 직무·팀·지역 (글로벌)</title>
-  <updated>2026-10-16T23:56:21.002Z</updated>
+  <updated>2026-10-17T23:29:02.981Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:ai-jobs-ledger:4c81b2928e39381c96754865672479de93ad72d57ac88a2db13db8fbb252a2a0</id>
+    <title>[삭제] job:openai:fa42ad51-0ffa-4ec4-a004-3f24d790a3d4</title>
+    <updated>2026-10-17T23:29:02.981Z</updated>
+    <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Strategy &amp; Operations, Program Manager&quot;},&quot;chain_hash&quot;:&quot;4c81b2928e39381c96754865672479de93ad72d57ac88a2db13db8fbb252a2a0&quot;,&quot;content_hash&quot;:&quot;574b656ad729c2b57d335c8a6d275851161a23686cbfd6d87345419966ceaa10&quot;,&quot;entity_id&quot;:&quot;job:openai:fa42ad51-0ffa-4ec4-a004-3f24d790a3d4&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-17T23:29:02.981Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-jobs-ledger:4a8a5960532757c422378d9374d0382a7bf158c559a54459d3b0ba4a448fc4b3</id>
+    <title>[삭제] job:anthropic:5435282008</title>
+    <updated>2026-10-17T23:29:02.981Z</updated>
+    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;London, UK&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Applied AI Engineer, DNB&quot;},&quot;chain_hash&quot;:&quot;4a8a5960532757c422378d9374d0382a7bf158c559a54459d3b0ba4a448fc4b3&quot;,&quot;content_hash&quot;:&quot;2731419ec780db881571c1893b16ad615ffbc0f1369a11f915177f9ae6ae38cb&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5435282008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-17T23:29:02.981Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-jobs-ledger:2339ba02d9786c9b33c6e4262394c6d29f45f483112478a5f6ab82a89f3a6efe</id>
+    <title>[삭제] job:anthropic:5424388008</title>
+    <updated>2026-10-17T23:29:02.981Z</updated>
+    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;New York City, NY&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Customer Success Manager, Enterprise Tech&quot;},&quot;chain_hash&quot;:&quot;2339ba02d9786c9b33c6e4262394c6d29f45f483112478a5f6ab82a89f3a6efe&quot;,&quot;content_hash&quot;:&quot;49e771a32715f525ac4edd6d351e15c36694d2261081481b14302ffff3be3533&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5424388008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-17T23:29:02.981Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-jobs-ledger:437157919dea8190f20d2f423e23aad520774f7e9166577bc80bf64417479917</id>
+    <title>[신규] job:databricks:8860657002</title>
+    <updated>2026-10-17T23:29:02.981Z</updated>
+    <link href="https://boards-api.greenhouse.io/v1/boards/databricks/jobs"/>
+    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;databricks&quot;,&quot;location&quot;:&quot;San Francisco, California&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Sr. Public Relations Manager&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;437157919dea8190f20d2f423e23aad520774f7e9166577bc80bf64417479917&quot;,&quot;content_hash&quot;:&quot;a06747d7ba14e273046952add89816a36196e7be85f332135dc31377aa8a6d2d&quot;,&quot;entity_id&quot;:&quot;job:databricks:8860657002&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-17T23:29:02.981Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/databricks/jobs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-jobs-ledger:9431deb03219efe8df74709b838209f21939ac9a652a000bd12334d5208d94d3</id>
+    <title>[신규] job:anthropic:5456016008</title>
+    <updated>2026-10-17T23:29:02.981Z</updated>
+    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
+    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;San Francisco, CA&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Tabletop Exercise Lead, The Anthropic Institute&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;9431deb03219efe8df74709b838209f21939ac9a652a000bd12334d5208d94d3&quot;,&quot;content_hash&quot;:&quot;dd0641d3d9577402e46f117f106cf7defba205eca19fe6dd89f2cc11a7824fcb&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5456016008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-17T23:29:02.981Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-jobs-ledger:b6ad3b1592c474cc9b6b3bb83234f5242fc9b428c1ce759c190bf4319e8ecedf</id>
+    <title>[신규] job:anthropic:5454800008</title>
+    <updated>2026-10-17T23:29:02.981Z</updated>
+    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
+    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;San Francisco, CA | New York City, NY&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Customer Success Manager, Enterprise Tech&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;b6ad3b1592c474cc9b6b3bb83234f5242fc9b428c1ce759c190bf4319e8ecedf&quot;,&quot;content_hash&quot;:&quot;2941ffd46d6780aab499f51ee5b12ed666fb0f30153e8301ceea8dfde2f54cf6&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5454800008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-17T23:29:02.981Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-jobs-ledger:991b61a28a0921cca626becc9d362e9f996b18d650734e94be9d2b61489086a7</id>
+    <title>[신규] job:anthropic:5453573008</title>
+    <updated>2026-10-17T23:29:02.981Z</updated>
+    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
+    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;anthropic&quot;,&quot;location&quot;:&quot;San Francisco, CA | New York City, NY | Washington, DC&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Policy Design Manager, Integrity and Authenticity&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;991b61a28a0921cca626becc9d362e9f996b18d650734e94be9d2b61489086a7&quot;,&quot;content_hash&quot;:&quot;5bc548ec5fb715844da49269c247ab6382cbd28af783794fae09c121c35c87ba&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5453573008&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-17T23:29:02.981Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-jobs-ledger:d33a5fdf991cac9804be98bf36799591d8b6e375c8be2a785f6a36f54099eebb</id>
+    <title>[변경] job:anthropic:5057647008 · location</title>
+    <updated>2026-10-17T23:29:02.981Z</updated>
+    <link href="https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"/>
+    <content type="text">{&quot;after&quot;:&quot;San Francisco, CA | New York City, NY&quot;,&quot;before&quot;:&quot;San Francisco, CA | New York City, NY | Seattle, WA&quot;,&quot;chain_hash&quot;:&quot;d33a5fdf991cac9804be98bf36799591d8b6e375c8be2a785f6a36f54099eebb&quot;,&quot;content_hash&quot;:&quot;0067931ec64b9d24ba6d95e1c20f6f79fe9ada36361e8c992ccfa83fc10e7a95&quot;,&quot;entity_id&quot;:&quot;job:anthropic:5057647008&quot;,&quot;field&quot;:&quot;location&quot;,&quot;observed_at&quot;:&quot;2026-10-17T23:29:02.981Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/anthropic/jobs&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:ai-jobs-ledger:314f2aa3afdbaa310f3b4e2273eef84078a188261e47fceca9002cc2d09e2896</id>
     <title>[삭제] job:together-ai:5214645007</title>
@@ -297,61 +353,5 @@
     <updated>2026-10-16T23:56:21.002Z</updated>
     <link href="https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"/>
     <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;together-ai&quot;,&quot;location&quot;:&quot;Amsterdam&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Staff Software Engineer - AI Compute, Together Cloud&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;7e071da6f38af6fd74ac3f56cd59085fc9381051907e249ab953eb74e02a9005&quot;,&quot;content_hash&quot;:&quot;4984d6bd1d74dedc84775af1d79afcf84db96148b060a84744ab5dcd44668475&quot;,&quot;entity_id&quot;:&quot;job:together-ai:5261592007&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-16T23:56:21.002Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/togetherai/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-jobs-ledger:12ffc4ab36b98e73f4420959e6d4daef95feee470dc27e07282fe8eebdb8640f</id>
-    <title>[신규] job:together-ai:5238471007</title>
-    <updated>2026-10-16T23:56:21.002Z</updated>
-    <link href="https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"/>
-    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;together-ai&quot;,&quot;location&quot;:&quot;San Francisco&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Hardware Security Engineer, New Grad (2027)&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;12ffc4ab36b98e73f4420959e6d4daef95feee470dc27e07282fe8eebdb8640f&quot;,&quot;content_hash&quot;:&quot;8242710d3206eb71251d42f38b50931d41218baa105e491a12c046b9b65c1221&quot;,&quot;entity_id&quot;:&quot;job:together-ai:5238471007&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-16T23:56:21.002Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/togetherai/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-jobs-ledger:5507c93b7060227aae8509fbb208fc9411e425ddc85c5e2e69d087cb0d90fb75</id>
-    <title>[신규] job:together-ai:5238469007</title>
-    <updated>2026-10-16T23:56:21.002Z</updated>
-    <link href="https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"/>
-    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;together-ai&quot;,&quot;location&quot;:&quot;San Francisco&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Hardware Security Engineer Intern (Summer 2027)&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;5507c93b7060227aae8509fbb208fc9411e425ddc85c5e2e69d087cb0d90fb75&quot;,&quot;content_hash&quot;:&quot;d56b9a4265ca1a39db431c7f0bb0a740dfd85333386aa3eb2b6f7c9d8daf8c96&quot;,&quot;entity_id&quot;:&quot;job:together-ai:5238469007&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-16T23:56:21.002Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/togetherai/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-jobs-ledger:05b5f3eab644844f2e4cdc8f58661e0d3dee11939a54526a8935146a5f050506</id>
-    <title>[변경] job:together-ai:5182998007 · title</title>
-    <updated>2026-10-16T23:56:21.002Z</updated>
-    <link href="https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"/>
-    <content type="text">{&quot;after&quot;:&quot;Commercial Counsel&quot;,&quot;before&quot;:&quot;Commercial Counsel-Infrastructure and GTM&quot;,&quot;chain_hash&quot;:&quot;05b5f3eab644844f2e4cdc8f58661e0d3dee11939a54526a8935146a5f050506&quot;,&quot;content_hash&quot;:&quot;4baa0146a1753cfe1384367fad2e6fd8c7a264db85af6451ce33f26aa32dbfee&quot;,&quot;entity_id&quot;:&quot;job:together-ai:5182998007&quot;,&quot;field&quot;:&quot;title&quot;,&quot;observed_at&quot;:&quot;2026-10-16T23:56:21.002Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/togetherai/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-jobs-ledger:f31e30534b96554cd0bdc341c063827cf930cddde4aa0311e1b6e4f3d6bfa774</id>
-    <title>[신규] job:scale-ai:4744402005</title>
-    <updated>2026-10-16T23:56:21.002Z</updated>
-    <link href="https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"/>
-    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;scale-ai&quot;,&quot;location&quot;:&quot;Canada; United Kingdom; United States&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Safety Research Scholar - Human Frontier Labs&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;f31e30534b96554cd0bdc341c063827cf930cddde4aa0311e1b6e4f3d6bfa774&quot;,&quot;content_hash&quot;:&quot;1797df9b9dd5bebf797beb623ecbfec2e7f9f4298e54c53d33e811133b011e01&quot;,&quot;entity_id&quot;:&quot;job:scale-ai:4744402005&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-16T23:56:21.002Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/scaleai/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-jobs-ledger:1dfae6146dca5e67da458e2ee6f9e850c5498a64f01fec81fa73287b155f08a0</id>
-    <title>[신규] job:scale-ai:4743989005</title>
-    <updated>2026-10-16T23:56:21.002Z</updated>
-    <link href="https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"/>
-    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;scale-ai&quot;,&quot;location&quot;:&quot;San Francisco, CA&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Web Designer, Brand Web Experience&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;1dfae6146dca5e67da458e2ee6f9e850c5498a64f01fec81fa73287b155f08a0&quot;,&quot;content_hash&quot;:&quot;7bdc012733b8e2dfa51d6d15583132a16fafab45f171801e3e4ee9d6cbdda58e&quot;,&quot;entity_id&quot;:&quot;job:scale-ai:4743989005&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-16T23:56:21.002Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/scaleai/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-jobs-ledger:269eb8da2667b577cd4860b6fe0e29a4fb63eceeec6cdeb3dd544a99566518a1</id>
-    <title>[신규] job:scale-ai:4743438005</title>
-    <updated>2026-10-16T23:56:21.002Z</updated>
-    <link href="https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"/>
-    <content type="text">{&quot;after&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;scale-ai&quot;,&quot;location&quot;:&quot;London, UK&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Frontier Agent Engineering Manager, Enterprise&quot;},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;269eb8da2667b577cd4860b6fe0e29a4fb63eceeec6cdeb3dd544a99566518a1&quot;,&quot;content_hash&quot;:&quot;7fbd18c0780bd0c1cebb240bcc652900389ff1e00d95c4137fb6e736ff2a0c89&quot;,&quot;entity_id&quot;:&quot;job:scale-ai:4743438005&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-16T23:56:21.002Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/scaleai/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-jobs-ledger:43461d8e45c1762d50ff4179f64b27c7641f447430da8a27d73176f84be50de0</id>
-    <title>[변경] job:scale-ai:4740975005 · title</title>
-    <updated>2026-10-16T23:56:21.002Z</updated>
-    <link href="https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"/>
-    <content type="text">{&quot;after&quot;:&quot;Enterprise Account Executive, Public Sector&quot;,&quot;before&quot;:&quot;Public Sector Lead, Central Government&quot;,&quot;chain_hash&quot;:&quot;43461d8e45c1762d50ff4179f64b27c7641f447430da8a27d73176f84be50de0&quot;,&quot;content_hash&quot;:&quot;f175fb26e35424f2fea3190fa2d33e80a1a21f6514c71c5102a1cc1fb17a2a09&quot;,&quot;entity_id&quot;:&quot;job:scale-ai:4740975005&quot;,&quot;field&quot;:&quot;title&quot;,&quot;observed_at&quot;:&quot;2026-10-16T23:56:21.002Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/scaleai/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-jobs-ledger:75168b93238f08ffc1d02e25607dabfe1e2c28225bd7446429ddb3e04966725d</id>
-    <title>[변경] job:scale-ai:4736243005 · title</title>
-    <updated>2026-10-16T23:56:21.002Z</updated>
-    <link href="https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"/>
-    <content type="text">{&quot;after&quot;:&quot;Enterprise Account Executive, Defence &amp; Security&quot;,&quot;before&quot;:&quot;Public Sector Lead, Defence &amp; Security&quot;,&quot;chain_hash&quot;:&quot;75168b93238f08ffc1d02e25607dabfe1e2c28225bd7446429ddb3e04966725d&quot;,&quot;content_hash&quot;:&quot;8df1b7af9a9ebb7287b818acea671dfd514a3f15e461098adad6604fe2bae966&quot;,&quot;entity_id&quot;:&quot;job:scale-ai:4736243005&quot;,&quot;field&quot;:&quot;title&quot;,&quot;observed_at&quot;:&quot;2026-10-16T23:56:21.002Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/scaleai/jobs&quot;}</content>
   </entry>
 </feed>

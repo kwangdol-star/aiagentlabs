@@ -1,5 +1,5 @@
 {
-  "record_count": 2900,
+  "record_count": 2901,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -599,7 +599,7 @@
       "fields": {
         "employment_type": null,
         "lab": "anthropic",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+        "location": "San Francisco, CA | New York City, NY",
         "provider": "greenhouse",
         "team": null,
         "title": "Applied AI Engineer, Enterprise Tech"
@@ -5413,17 +5413,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
-    "job:anthropic:5424388008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "New York City, NY",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Customer Success Manager, Enterprise Tech"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
     "job:anthropic:5424404008": {
       "fields": {
         "employment_type": null,
@@ -6048,17 +6037,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Commercial Counsel, Hardware"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
-    "job:anthropic:5435282008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "London, UK",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Applied AI Engineer, DNB"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -7129,6 +7107,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
+    "job:anthropic:5453573008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA | New York City, NY | Washington, DC",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Policy Design Manager, Integrity and Authenticity"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
     "job:anthropic:5453809008": {
       "fields": {
         "employment_type": null,
@@ -7173,6 +7162,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
+    "job:anthropic:5454800008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA | New York City, NY",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Customer Success Manager, Enterprise Tech"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
     "job:anthropic:5454882008": {
       "fields": {
         "employment_type": null,
@@ -7192,6 +7192,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Technical Program Manager, Science Strategy & Communications"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
+    "job:anthropic:5456016008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Tabletop Exercise Lead, The Anthropic Institute"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -17730,6 +17741,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Principal Brand Content & AI Search Visibility"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:8860657002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "San Francisco, California",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Sr. Public Relations Manager"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -28898,17 +28920,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
-    "job:openai:fa42ad51-0ffa-4ec4-a004-3f24d790a3d4": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Strategy & Operations, Program Manager"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
     "job:openai:fa5114ae-c6ff-4bbd-9e21-5dcfafd032f7": {
       "fields": {
         "employment_type": "FullTime",
@@ -31903,5 +31914,5 @@
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-10-16T23:56:21.002Z"
+  "updated_at": "2026-10-17T23:29:02.981Z"
 }
