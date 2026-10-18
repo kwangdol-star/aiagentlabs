@@ -2,8 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-10-17T22:33:07.491Z</updated>
+  <updated>2026-10-18T22:37:01.944Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:affe273dfc5a1f1ea71a58b0a3c59f1ac696da60c81cc6809dba4327c4354857</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · status</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:403,&quot;before&quot;:200,&quot;chain_hash&quot;:&quot;affe273dfc5a1f1ea71a58b0a3c59f1ac696da60c81cc6809dba4327c4354857&quot;,&quot;content_hash&quot;:&quot;3a7e5c610f0db209beb7f30023d1ebeede6de0e40c89a5aafacd67128ff0b895&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:c58cb7292171318570931d358b484dc3ea3708f24c68378b987841688507c0ac</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · content_type</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;text/plain; charset=UTF-8&quot;,&quot;chain_hash&quot;:&quot;c58cb7292171318570931d358b484dc3ea3708f24c68378b987841688507c0ac&quot;,&quot;content_hash&quot;:&quot;f9363a4f8f6be52a73d8c1183779481999d4eca72ad5ef898202ce687db22a2b&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:a8ebbd36430bd1d46b486242204e7f57c9d4ea5006f652f98cf7e533418390f9</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · bot:meta-externalagent</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;a8ebbd36430bd1d46b486242204e7f57c9d4ea5006f652f98cf7e533418390f9&quot;,&quot;content_hash&quot;:&quot;10ecb2c11ebcabdf69a0b25fe25a4161570e6194b9be64f2f0a09ad04dc93ad9&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:3a7b8d70b73dbfdaf62eff9796ef56896de890190b26b34338dfcc91839abd64</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · bot:anthropic-ai</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;3a7b8d70b73dbfdaf62eff9796ef56896de890190b26b34338dfcc91839abd64&quot;,&quot;content_hash&quot;:&quot;79029f3132730ecf4d7b3ee670efe0d380a55a4ec9f4070dcc551bfd268e8668&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:f26b3a5454413752b5dc90d7f03260385f9455aa422a0cab29299e0c49ece4f9</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · bot:PerplexityBot</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;f26b3a5454413752b5dc90d7f03260385f9455aa422a0cab29299e0c49ece4f9&quot;,&quot;content_hash&quot;:&quot;180eeb1aa8137f1ed79fe4ba18b830bc510ab5fdd05c530d8b52c1c683ffb770&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:d166dc9d93ba192e168ed6a3059a0a821ffa0fdac45c56b8903a17a13d704a90</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · bot:OAI-SearchBot</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;d166dc9d93ba192e168ed6a3059a0a821ffa0fdac45c56b8903a17a13d704a90&quot;,&quot;content_hash&quot;:&quot;d6605732c9659b39c489e8b922c80941f2bf493931dfa646c9072ca133be541b&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:045f707ff60ca6741c5af156c2744a218a985f46ace79f1849a96de3a9b96acb</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · bot:Google-Extended</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;045f707ff60ca6741c5af156c2744a218a985f46ace79f1849a96de3a9b96acb&quot;,&quot;content_hash&quot;:&quot;0b2f2cf3dab23d61eec72d872993ae26829c2b66fca8ca11c913884dfbdfa05a&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:07ac42dd72212837e84402d9a00c85e18c6f2f8745b09a5c81f351697c9962ce</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · bot:GPTBot</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;07ac42dd72212837e84402d9a00c85e18c6f2f8745b09a5c81f351697c9962ce&quot;,&quot;content_hash&quot;:&quot;f815222fdd2ce4fe1dab0139c1b866364250ccb33348a392f4d89dc38ad800bb&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:03bdef9fcd1fc5c356bfb4c7ceea714ab1d0d782b6c1e9320aedd4b384471436</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · bot:ClaudeBot</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;03bdef9fcd1fc5c356bfb4c7ceea714ab1d0d782b6c1e9320aedd4b384471436&quot;,&quot;content_hash&quot;:&quot;fe2b04046ebbd3e053cda973e2a8551306c4bf23ea21c4d4fcc5bdbeba28b474&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:0f3cd589812ff7fd3b781bae2d2b9b1bbae7cafc69539cb64bddc903f438220f</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · bot:ChatGPT-User</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;0f3cd589812ff7fd3b781bae2d2b9b1bbae7cafc69539cb64bddc903f438220f&quot;,&quot;content_hash&quot;:&quot;cb98cd901b29e7e76dd7fbc86aedc4dc3eee061d586b7f04deb91f3cfb22f571&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:01272e4af65591f44f4bfb96366d68d8fe8f508f53acfa138d7c9b691d2e8a1e</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · bot:CCBot</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;01272e4af65591f44f4bfb96366d68d8fe8f508f53acfa138d7c9b691d2e8a1e&quot;,&quot;content_hash&quot;:&quot;1e9371d830f94abfc9e9fd09b0447761a50f8de6fa500bf1d657c223037cfd7f&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:CCBot&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:ac41605055e8722e46f516c5282543e732d2ae0c7be9c63573d0f3877d6994ce</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · bot:Bytespider</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;ac41605055e8722e46f516c5282543e732d2ae0c7be9c63573d0f3877d6994ce&quot;,&quot;content_hash&quot;:&quot;7859b351f6d94ec8f387c7d1ef253b39888a837937bd8c448e9cc9e5004d10a9&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:6d11cb42b6dea587e9e1577b75bb40759a8947019d75abeea5b635833cb11acb</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · bot:Applebot-Extended</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;6d11cb42b6dea587e9e1577b75bb40759a8947019d75abeea5b635833cb11acb&quot;,&quot;content_hash&quot;:&quot;51232b708165b73c874863b213e8bbc7c2045ae272d04ea22e45ba92bef179e3&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:Applebot-Extended&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:98c0b2d9139fa97ec803963b7b63918618202813331c20f3f39f578652ee7e63</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · bot:Amazonbot</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;98c0b2d9139fa97ec803963b7b63918618202813331c20f3f39f578652ee7e63&quot;,&quot;content_hash&quot;:&quot;ad96d59db1dc2e5bbc1222b7ac869e984cb1536cde479d61ea9b74a7e184bf95&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:Amazonbot&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:d0f7b8fe0638b5f6a86cbdfba0c2f983ab5b7dca1c59fade59417d4e0ce1bb1c</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · body_sha256</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;31c7462d86cb561a095f0db761d8a8e35cbcef6b4fd1fab7689600917337ab5c&quot;,&quot;chain_hash&quot;:&quot;d0f7b8fe0638b5f6a86cbdfba0c2f983ab5b7dca1c59fade59417d4e0ce1bb1c&quot;,&quot;content_hash&quot;:&quot;8a69badab11594579e677a90af0de3213d7ce202442e8b32c49a8c70371d1fde&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:eba397ffe63cc269a69ef0f6f84a056f71a9c173fa8e59881db4853e88942d27</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · body_bytes</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:3825,&quot;chain_hash&quot;:&quot;eba397ffe63cc269a69ef0f6f84a056f71a9c173fa8e59881db4853e88942d27&quot;,&quot;content_hash&quot;:&quot;0ae322bf9f5dfeb6374ec86e78a93adc6ec2c22ff93c81e984a0c8a139c83719&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:2e37fbdfc4cbb86d5ab64929a4f2bad960c6f830b27911a71a21dcb913c02f06</id>
+    <title>[변경] probe:hani.co.kr:robots-txt · body</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://hani.co.kr/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;User-agent: *\nDisallow: /arti/PRINT/\nDisallow: /arti/PREVIEW/\nDisallow: /api/\nDisallow: /fortunes/result\nDisallow: /test/\n\nUser-agent: 01-AI-Bot\nUser-agent: AddSearchBot\nUser-agent: AgentTimes\nUser-agent: Ai2Bot\nUser-agent: Ai2Bot-Dolma\nUser-agent: AI2Bot-DeepResearchEval\nUser-agent: aiHitBot\nUser-agent: AIWebIndex\nUser-agent: AhrefsBot\nUser-agent: amazon-kendra\nUser-agent: amazon-QBusiness\nUser-agent: Amazonbot\nUser-agent: AmazonBuyForMe\nUser-agent: Amzn-SearchBot\nUser-agent: Amzn-User\nUser-agent: Andibot\nUser-agent: Anomura\nUser-agent: anthropic-ai\nUser-agent: ApifyBot\nUser-agent: ApifyWebsiteContentCrawler\nUser-agent: Applebot-Extended\nUser-agent: Aranet-SearchBot\nUser-agent: Awario\nUser-agent: AzureAI-SearchBot\nUser-agent: bedrockbot\nUser-agent: bigsur.ai\nUser-agent: BLP_bbot\nUser-agent: Brightbot\nUser-agent: Brightbot 1.0\nUser-agent: BuddyBot\nUser-agent: Bytespider\nUser-agent: CCBot\nUser-agent: Channel3Bot\nUser-agent: ChatGLM-Spider\nUser-agent: ChatGPT Agent\nUser-agent: ClaudeBot\nUser-agent: Claude-Code\nUser-agent: Claude-User\nUser-agent: Claude-Web\nUser-agent: Cloudflare-AutoRAG\nUser-agent: CloudVertexBot\nUser-agent: cohere-ai\nUser-agent: cohere-training-data-crawler\nUser-agent: Cotoyogi\nUser-agent: CragCrawler\nUser-agent: Crawl4AI\nUser-agent: Crawlspace\nUser-agent: Datenbank Crawler\nUser-agent: DeepSeekBot\nUser-agent: Diffbot\nUser-agent: DuckAssistBot\nUser-agent: Echobot Bot\nUser-agent: EchoboxBot\nUser-agent: ExaBot\nUser-agent: Factset_spyderbot\nUser-agent: FirecrawlAgent\nUser-agent: FriendlyCrawler\nUser-agent: GeistHaus-PageFetcher\nUser-agent: GPTBot\nUser-agent: HenkBot\nUser-agent: iAskBot\nUser-agent: iaskspider\nUser-agent: iaskspider/2.0\nUser-agent: IbouBot\nUser-agent: ICC-Crawler\nUser-agent: ImagesiftBot\nUser-agent: imageSpider\nUser-agent: img2dataset\nUser-agent: ISSCyberRiskCrawler\nUser-agent: kagi-fetcher\nUser-agent: Kangaroo Bot\nUser-agent: KlaviyoAIBot\nUser-agent: KunatoCrawler\nUser-agent: laion-huggingface-processor\nUser-agent: LAIONDownloader\nUser-agent: LCC\nUser-agent: LinerBot\nUser-agent: LinkupBot\nUser-agent: meta-externalagent\nUser-agent: meta-externalfetcher\nUser-agent: meta-webindexer\nUser-agent: Mozilla-Tabstack\nUser-agent: MyCentralAIScraperBot\nUser-agent: NagetBot\nUser-agent: netEstate Imprint Crawler\nUser-agent: newsai\nUser-agent: NotebookLM\nUser-agent: NovaAct\nUser-agent: omgili\nUser-agent: omgilibot\nUser-agent: OpenAI\nUser-agent: PanguBot\nUser-agent: Panscient\nUser-agent: panscient.com\nUser-agent: PetalBot\nUser-agent: PhindBot\nUser-agent: Poggio-Citations\nUser-agent: Poseidon Research Crawler\nUser-agent: QualifiedBot\nUser-agent: Querit-SearchBot\nUser-agent: QueritBot\nUser-agent: QuillBot\nUser-agent: QuillBot.com\nUser-agent: SBIntuitionsBot\nUser-agent: Scrapy\nUser-agent: SemrushBot-OCOB\nUser-agent: SemrushBot-SWA\nUser-agent: Shap-User\nUser-agent: ShapBot\nUser-agent: Sidetrade indexer bot\nUser-agent: Spider\nUser-agent: TavilyBot\nUser-agent: Terra Cotta\nUser-agent: TerraCotta\nUser-agent: Thinkbot\nUser-agent: TikTokSpider\nUser-agent: Timpibot\nUser-agent: TongyiBot\nUser-agent: TwinAgent\nUser-agent: UseAI\nUser-agent: VelenPublicWebCrawler\nUser-agent: WARDBot\nUser-agent: Webzio-Extended\nUser-agent: wpbot\nUser-agent: WRTNBot\nUser-agent: YaK\nUser-agent: YandexAdditional\nUser-agent: YandexAdditionalBot\nUser-agent: YiyanBot\nUser-agent: YouBot\nUser-agent: ZanistaBot\nDisallow: /\n\nUser-agent: ChatGPT-User\nUser-agent: OAI-SearchBot\nUser-agent: Claude-SearchBot\nUser-agent: Gemini-Deep-Research\nUser-agent: GoogleAgent-URLContext\nUser-agent: MistralAI-User\nUser-agent: MistralAI-User/1.0\nUser-agent: Kimi-User\nUser-agent: Manus-User\nUser-agent: Operator\nAllow: /arti/\nAllow: /sitemap/\nDisallow: /arti/PRINT/\nDisallow: /arti/PREVIEW/\nDisallow: /\n\nSitemap: https://www.hani.co.kr/sitemap/sections\nSitemap: https://www.hani.co.kr/sitemap/latest-articles\n&quot;,&quot;chain_hash&quot;:&quot;2e37fbdfc4cbb86d5ab64929a4f2bad960c6f830b27911a71a21dcb913c02f06&quot;,&quot;content_hash&quot;:&quot;3ffc8d48b0a2fb06ed2cfdbb43d75af071953da20f8b56a971c67bbd4e7ee503&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:5257dfe0a1e20cbc38a144ae9cf592a4ab53d088092fcb36b54992fe9d0b4277</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;e2d2db19f089b2ce9ceb99ee8763ef4e4a5ae790a3b900030c799dc78420d22c&quot;,&quot;before&quot;:&quot;277d2d490b64f299ac81d476afabf1f22949065f6cf632beaa0ad12555fb7003&quot;,&quot;chain_hash&quot;:&quot;5257dfe0a1e20cbc38a144ae9cf592a4ab53d088092fcb36b54992fe9d0b4277&quot;,&quot;content_hash&quot;:&quot;c6b7417f24b3b8fc1e5dd588530689c80c6ae6bf8d6c8c51c0b779a7372e0815&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:3bcc8bd79b47f8443add438b180e8ceee138eafc5d2bc8261f76453bc9220592</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-10-18T22:37:01.944Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:633423,&quot;before&quot;:640646,&quot;chain_hash&quot;:&quot;3bcc8bd79b47f8443add438b180e8ceee138eafc5d2bc8261f76453bc9220592&quot;,&quot;content_hash&quot;:&quot;43030a262aa87790d09e459fe042f26db2d96a65807e19ea05a473a9a0ef2d67&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-18T22:37:01.944Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:fe71627b6fa53ff413e625b86e18fafb08fee6d68fed645af9c50201395213d1</id>
     <title>[변경] probe:github.com:robots-txt · body_sha256</title>
@@ -220,138 +353,5 @@
     <updated>2026-10-13T02:12:59.205Z</updated>
     <link href="https://daum.net/llms.txt"/>
     <content type="text">{&quot;after&quot;:&quot;90012df500fb466350eba16585c414eeb32a9c0c784cc3e1eebb63c5f50215e4&quot;,&quot;before&quot;:&quot;5308a10d16716f2f91cbc963ca994584236930d30cc5c4d038763902b226cd0e&quot;,&quot;chain_hash&quot;:&quot;3815c96073ae0e7ccf07134a6afd0d3daab3e66d0b1f1923deb679d4bc138042&quot;,&quot;content_hash&quot;:&quot;5509910133f9b859113b06042ac8a73b5802ec66bec679ee5413cad1666890a0&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-13T02:12:59.205Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:7630ad0339e0843a34091b988524ca397fd713a6fc961d4eabf00b349b27388d</id>
-    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-10-13T02:12:59.205Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:638463,&quot;before&quot;:638748,&quot;chain_hash&quot;:&quot;7630ad0339e0843a34091b988524ca397fd713a6fc961d4eabf00b349b27388d&quot;,&quot;content_hash&quot;:&quot;ffffface9df5ab4f2b1cdc6b3e199be07497b214a220639a2f4f653ed87459b8&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-13T02:12:59.205Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:66f8d7a0c0783cc9404510e001b69be70e9bcdb8fc0eb41e4db3390bbfd0f0fd</id>
-    <title>[변경] probe:nature.com:llms-txt · status</title>
-    <updated>2026-10-11T23:51:01.700Z</updated>
-    <link href="https://nature.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:200,&quot;before&quot;:404,&quot;chain_hash&quot;:&quot;66f8d7a0c0783cc9404510e001b69be70e9bcdb8fc0eb41e4db3390bbfd0f0fd&quot;,&quot;content_hash&quot;:&quot;867699d47794905a7dad4c074f4c86110703035c5e29e41f4e4e832e6e98cf21&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:51:01.700Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:cb13fd9a6b63b86a72a8d4cfeb3106174fcdf7fe18b31c9f4cbb3c41131b9492</id>
-    <title>[변경] probe:nature.com:llms-txt · content_type</title>
-    <updated>2026-10-11T23:51:01.700Z</updated>
-    <link href="https://nature.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;text/html; charset=utf-8&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;cb13fd9a6b63b86a72a8d4cfeb3106174fcdf7fe18b31c9f4cbb3c41131b9492&quot;,&quot;content_hash&quot;:&quot;54c43b8d2b15a99f8a32d0917184043e2d97c8df576d1219fe0f296598990cea&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:51:01.700Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:f6a532a0ebc001e00642630e7ed6f5d74c588ab579598a327bc93e0c7c1a4300</id>
-    <title>[변경] probe:nature.com:llms-txt · body_sha256</title>
-    <updated>2026-10-11T23:51:01.700Z</updated>
-    <link href="https://nature.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;f6a532a0ebc001e00642630e7ed6f5d74c588ab579598a327bc93e0c7c1a4300&quot;,&quot;content_hash&quot;:&quot;4503d06236c3ce3cf71376853557146035ea980aa18b6bd9b659bac0f0979308&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:51:01.700Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:3d0264c292fb240f6823dbcb5d86e011b941333e41ef0efafa9294f0949b83ca</id>
-    <title>[변경] probe:nature.com:llms-txt · body_bytes</title>
-    <updated>2026-10-11T23:51:01.700Z</updated>
-    <link href="https://nature.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:3038,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;3d0264c292fb240f6823dbcb5d86e011b941333e41ef0efafa9294f0949b83ca&quot;,&quot;content_hash&quot;:&quot;a5497cb12b10c497ab13608701da987e70eac15f2140c7dc11eadde2efc7ff3b&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:51:01.700Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:c8b28e2c728e3695d74d21a2162fbbbe81b7c2a3765e96317a3f853761b1e63b</id>
-    <title>[변경] probe:nature.com:llms-txt · body</title>
-    <updated>2026-10-11T23:51:01.700Z</updated>
-    <link href="https://nature.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;&lt;!DOCTYPE html&gt;\n&lt;html lang=\&quot;en\&quot;&gt;\n  &lt;head&gt;\n    &lt;meta\n      http-equiv=\&quot;Content-Security-Policy\&quot;\n      content=\&quot;default-src &apos;self&apos;; img-src &apos;self&apos; data:; media-src &apos;self&apos; data:; object-src &apos;none&apos;; style-src &apos;self&apos; &apos;sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ=&apos;; script-src &apos;self&apos; &apos;sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=&apos;;\&quot;\n    /&gt;\n    &lt;link\n      href=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\&quot;\n      rel=\&quot;preload\&quot;\n      as=\&quot;font\&quot;\n      type=\&quot;font/woff2\&quot;\n      crossorigin\n    /&gt;\n    &lt;link href=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css\&quot; rel=\&quot;stylesheet\&quot; /&gt;\n    &lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=1\&quot; /&gt;\n    &lt;title&gt;Client Challenge&lt;/title&gt;\n    &lt;style&gt;\n      #loading-error {\n        font-size: 16px;\n        font-family: &apos;Inter&apos;, sans-serif;\n        margin-top: 10px;\n        margin-left: 10px;\n        display: none;\n      }\n    &lt;/style&gt;\n  &lt;/head&gt;\n  &lt;body&gt;\n    &lt;noscript&gt;\n      &lt;div class=\&quot;noscript-container\&quot;&gt;\n        &lt;div class=\&quot;noscript-content\&quot;&gt;\n          &lt;img\n            src=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg\&quot;\n            alt=\&quot;\&quot;\n            role=\&quot;presentation\&quot;\n            class=\&quot;error-icon\&quot;\n          /&gt;\n          &lt;span class=\&quot;noscript-span\&quot;\n            &gt;JavaScript is disabled in your browser.&lt;/span\n          &gt;\n          &lt;p&gt;Please enable JavaScript to proceed.&lt;/p&gt;\n        &lt;/div&gt;\n      &lt;/div&gt;\n    &lt;/noscript&gt;\n    &lt;div id=\&quot;loading-error\&quot; role=\&quot;alert\&quot; aria-live=\&quot;polite\&quot;&gt;\n      A required part of this site couldn’t load. This may be due to a browser\n      extension, network issues, or browser settings. Please check your\n      connection, disable any ad blockers, or try using a different browser.\n    &lt;/div&gt;\n    &lt;script&gt;\n      function loadScript(src) {\n        return new Promise((resolve, reject) =&gt; {\n          const script = document.createElement(&apos;script&apos;);\n          script.onload = resolve;\n          script.onerror = (event) =&gt; {\n            console.error(&apos;Script load error event:&apos;, event);\n            document.getElementById(&apos;loading-error&apos;).style.display = &apos;block&apos;;\n            reject(\n              new Error(\n                `Failed to load script: ${src}, Please contact the service administrator.`\n              )\n            );\n          };\n          script.src = src;\n          document.body.appendChild(script);\n        });\n      }\n\n      loadScript(&apos;/_fs-ch-1T1wmsGaOgGaSxcX/errors.js&apos;)\n        .then(() =&gt; {\n          const script = document.createElement(&apos;script&apos;);\n          script.src = &apos;/_fs-ch-1T1wmsGaOgGaSxcX/script.js?reload=true&apos;;\n          script.onerror = (event) =&gt; {\n            console.error(&apos;Script load error event:&apos;, event);\n            const errorMsg = new Error(\n              `Failed to load script: ${script.src}. Please contact the service administrator.`\n            );\n            console.error(errorMsg);\n            handleScriptError();\n          };\n          document.body.appendChild(script);\n        })\n        .catch((error) =&gt; {\n          console.error(error);\n        });\n    &lt;/script&gt;\n  &lt;/body&gt;\n&lt;/html&gt;\n&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;c8b28e2c728e3695d74d21a2162fbbbe81b7c2a3765e96317a3f853761b1e63b&quot;,&quot;content_hash&quot;:&quot;1fb9c3d72793b9f32302257ed7e528aafc0c14ccecae78c2d2b6eb469ece1114&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:51:01.700Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:0659af09a3c7bee342a606292fd43c86306d473af5806f5bc777304397799206</id>
-    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-10-11T23:51:01.700Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;5308a10d16716f2f91cbc963ca994584236930d30cc5c4d038763902b226cd0e&quot;,&quot;before&quot;:&quot;f09bf062ea3fc8c3813621d2808cf289c99d856ea7fb36e879efaf695cb50874&quot;,&quot;chain_hash&quot;:&quot;0659af09a3c7bee342a606292fd43c86306d473af5806f5bc777304397799206&quot;,&quot;content_hash&quot;:&quot;c41cc0a67c50bfd92420893d47468cd10f49b3a65909b64214eee113655b236e&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:51:01.700Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:f284d697c9186fbce180da54994a22590acf612be357fa2afac7afbab8206a82</id>
-    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-10-11T23:51:01.700Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:638748,&quot;before&quot;:642086,&quot;chain_hash&quot;:&quot;f284d697c9186fbce180da54994a22590acf612be357fa2afac7afbab8206a82&quot;,&quot;content_hash&quot;:&quot;cda9da8d08ebd2878aaae1ff360feefc610d1c448d9d38a6496020b020bea5a5&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-11T23:51:01.700Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:9c3f868fe7614bb0534ed5626fe5a78bbe49eeeb3087c5e532f7fdba8d1a87e8</id>
-    <title>[변경] probe:nature.com:llms-txt · status</title>
-    <updated>2026-10-10T23:45:57.878Z</updated>
-    <link href="https://nature.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:404,&quot;before&quot;:200,&quot;chain_hash&quot;:&quot;9c3f868fe7614bb0534ed5626fe5a78bbe49eeeb3087c5e532f7fdba8d1a87e8&quot;,&quot;content_hash&quot;:&quot;f9888adff41edd5d02e1ba8e43f2bd380d5069cd312c822b7a0a7085e35acc4c&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:45:57.878Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:ffcebef975b2976399eb7f5f6898e6e20705da7d7344d1b73856394fb71220cb</id>
-    <title>[변경] probe:nature.com:llms-txt · content_type</title>
-    <updated>2026-10-10T23:45:57.878Z</updated>
-    <link href="https://nature.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;text/html; charset=utf-8&quot;,&quot;chain_hash&quot;:&quot;ffcebef975b2976399eb7f5f6898e6e20705da7d7344d1b73856394fb71220cb&quot;,&quot;content_hash&quot;:&quot;38bfbaf978cc9545f0075e89cb10ec51c37628f9308a6395c128a12390928cb2&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:45:57.878Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:fe6b0fba0a10da92d14b19d7c074b526db3efca2d235bab0d01f592ad3333cfe</id>
-    <title>[변경] probe:nature.com:llms-txt · body_sha256</title>
-    <updated>2026-10-10T23:45:57.878Z</updated>
-    <link href="https://nature.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;32ed63159c77e21ee19ca1b9aa3213ccf0218eb59539560b132a8e68ef0e18ea&quot;,&quot;chain_hash&quot;:&quot;fe6b0fba0a10da92d14b19d7c074b526db3efca2d235bab0d01f592ad3333cfe&quot;,&quot;content_hash&quot;:&quot;c6d09da3472d8b89958712e48883a918973cb4e7b3ecb1ce45190fddf2771423&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:45:57.878Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:c34c64ba54a3072b24c98938ada2224f7104c3c22c746aa3a6947934dd64f5df</id>
-    <title>[변경] probe:nature.com:llms-txt · body_bytes</title>
-    <updated>2026-10-10T23:45:57.878Z</updated>
-    <link href="https://nature.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:3038,&quot;chain_hash&quot;:&quot;c34c64ba54a3072b24c98938ada2224f7104c3c22c746aa3a6947934dd64f5df&quot;,&quot;content_hash&quot;:&quot;d06adda98e3b2e2ec98305270c1a98157415eb8b9fd59f2d9e1aa5f98ed8dc0d&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:45:57.878Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:58c68c5a598e52db723865cc418247bbf39e61f32f75bff67d535b85ecebbd02</id>
-    <title>[변경] probe:nature.com:llms-txt · body</title>
-    <updated>2026-10-10T23:45:57.878Z</updated>
-    <link href="https://nature.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;&lt;!DOCTYPE html&gt;\n&lt;html lang=\&quot;en\&quot;&gt;\n  &lt;head&gt;\n    &lt;meta\n      http-equiv=\&quot;Content-Security-Policy\&quot;\n      content=\&quot;default-src &apos;self&apos;; img-src &apos;self&apos; data:; media-src &apos;self&apos; data:; object-src &apos;none&apos;; style-src &apos;self&apos; &apos;sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ=&apos;; script-src &apos;self&apos; &apos;sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=&apos;;\&quot;\n    /&gt;\n    &lt;link\n      href=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\&quot;\n      rel=\&quot;preload\&quot;\n      as=\&quot;font\&quot;\n      type=\&quot;font/woff2\&quot;\n      crossorigin\n    /&gt;\n    &lt;link href=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css\&quot; rel=\&quot;stylesheet\&quot; /&gt;\n    &lt;meta name=\&quot;viewport\&quot; content=\&quot;width=device-width, initial-scale=1\&quot; /&gt;\n    &lt;title&gt;Client Challenge&lt;/title&gt;\n    &lt;style&gt;\n      #loading-error {\n        font-size: 16px;\n        font-family: &apos;Inter&apos;, sans-serif;\n        margin-top: 10px;\n        margin-left: 10px;\n        display: none;\n      }\n    &lt;/style&gt;\n  &lt;/head&gt;\n  &lt;body&gt;\n    &lt;noscript&gt;\n      &lt;div class=\&quot;noscript-container\&quot;&gt;\n        &lt;div class=\&quot;noscript-content\&quot;&gt;\n          &lt;img\n            src=\&quot;/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg\&quot;\n            alt=\&quot;\&quot;\n            role=\&quot;presentation\&quot;\n            class=\&quot;error-icon\&quot;\n          /&gt;\n          &lt;span class=\&quot;noscript-span\&quot;\n            &gt;JavaScript is disabled in your browser.&lt;/span\n          &gt;\n          &lt;p&gt;Please enable JavaScript to proceed.&lt;/p&gt;\n        &lt;/div&gt;\n      &lt;/div&gt;\n    &lt;/noscript&gt;\n    &lt;div id=\&quot;loading-error\&quot; role=\&quot;alert\&quot; aria-live=\&quot;polite\&quot;&gt;\n      A required part of this site couldn’t load. This may be due to a browser\n      extension, network issues, or browser settings. Please check your\n      connection, disable any ad blockers, or try using a different browser.\n    &lt;/div&gt;\n    &lt;script&gt;\n      function loadScript(src) {\n        return new Promise((resolve, reject) =&gt; {\n          const script = document.createElement(&apos;script&apos;);\n          script.onload = resolve;\n          script.onerror = (event) =&gt; {\n            console.error(&apos;Script load error event:&apos;, event);\n            document.getElementById(&apos;loading-error&apos;).style.display = &apos;block&apos;;\n            reject(\n              new Error(\n                `Failed to load script: ${src}, Please contact the service administrator.`\n              )\n            );\n          };\n          script.src = src;\n          document.body.appendChild(script);\n        });\n      }\n\n      loadScript(&apos;/_fs-ch-1T1wmsGaOgGaSxcX/errors.js&apos;)\n        .then(() =&gt; {\n          const script = document.createElement(&apos;script&apos;);\n          script.src = &apos;/_fs-ch-1T1wmsGaOgGaSxcX/script.js?reload=true&apos;;\n          script.onerror = (event) =&gt; {\n            console.error(&apos;Script load error event:&apos;, event);\n            const errorMsg = new Error(\n              `Failed to load script: ${script.src}. Please contact the service administrator.`\n            );\n            console.error(errorMsg);\n            handleScriptError();\n          };\n          document.body.appendChild(script);\n        })\n        .catch((error) =&gt; {\n          console.error(error);\n        });\n    &lt;/script&gt;\n  &lt;/body&gt;\n&lt;/html&gt;\n&quot;,&quot;chain_hash&quot;:&quot;58c68c5a598e52db723865cc418247bbf39e61f32f75bff67d535b85ecebbd02&quot;,&quot;content_hash&quot;:&quot;6760d44d0798052cc7359ef83dbae5e50575a08932c28f282fc455f05136a7d8&quot;,&quot;entity_id&quot;:&quot;probe:nature.com:llms-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:45:57.878Z&quot;,&quot;source_url&quot;:&quot;https://nature.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:125ab09486a66f17698146541ca51e409f1a269c5f9fcbf0092fb76037434dda</id>
-    <title>[변경] probe:khan.co.kr:robots-txt · body_sha256</title>
-    <updated>2026-10-10T23:45:57.878Z</updated>
-    <link href="https://khan.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;485ad20cf036f314545cc7e61ab254481fd99c0ccb50465db8370b692830914c&quot;,&quot;before&quot;:&quot;cdce9007988c5815311363813142e98d5456da5452f7e2f095cba52448b46345&quot;,&quot;chain_hash&quot;:&quot;125ab09486a66f17698146541ca51e409f1a269c5f9fcbf0092fb76037434dda&quot;,&quot;content_hash&quot;:&quot;78071dd91dbbbe7f46ffd5bdfbe8d810fe6d7a36b65e15f2b5709b92794c7f25&quot;,&quot;entity_id&quot;:&quot;probe:khan.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:45:57.878Z&quot;,&quot;source_url&quot;:&quot;https://khan.co.kr/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:21f0fa964a6fc45514a2a7cf2869189f9bd674e60524d86472a50e593ba7b9e0</id>
-    <title>[변경] probe:khan.co.kr:robots-txt · body_bytes</title>
-    <updated>2026-10-10T23:45:57.878Z</updated>
-    <link href="https://khan.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:2958,&quot;before&quot;:2933,&quot;chain_hash&quot;:&quot;21f0fa964a6fc45514a2a7cf2869189f9bd674e60524d86472a50e593ba7b9e0&quot;,&quot;content_hash&quot;:&quot;40f0959711c72e362899f777be93bb1fd942ff261dccd6b3cfc37cfe33531c3c&quot;,&quot;entity_id&quot;:&quot;probe:khan.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:45:57.878Z&quot;,&quot;source_url&quot;:&quot;https://khan.co.kr/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:1fe01e420dbb5188b61dafebf5938288a8a86d55663aa2a636111b45e0800192</id>
-    <title>[변경] probe:khan.co.kr:robots-txt · body</title>
-    <updated>2026-10-10T23:45:57.878Z</updated>
-    <link href="https://khan.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;# ====================================================\n# AI Data Collection Policy\n#\n# Crawling or use of content from this site for\n# AI training, LLM development, or machine learning\n# purposes is prohibited without prior written consent.\n#\n# Contact: https://www.khan.co.kr/help/help_digital.html\n# ====================================================\n\n# Block AI Learning Bots &amp; Scrapers\nUser-agent: GPTBot\nUser-agent: ClaudeBot\nUser-agent: Claude-Web\nUser-agent: anthropic-ai\nUser-agent: Google-Extended\nUser-agent: GoogleOther\nUser-agent: GoogleOther-Image\nUser-agent: Bytespider\nUser-agent: TikTokSpider\nUser-agent: Applebot-Extended\nUser-agent: CCBot\nUser-agent: DeepSeekBot\nUser-agent: cohere-ai\nUser-agent: meta-externalagent\nUser-agent: Diffbot\nUser-agent: Omgilibot\nUser-agent: Omgili\nUser-agent: PetalBot\nUser-agent: PanguBot\nUser-agent: WRTNBot\nUser-agent: YouBot\nUser-agent: FriendlyCrawler\nUser-agent: ICC-Crawler\nUser-agent: ImagesiftBot\nUser-agent: img2dataset\nUser-agent: Scrapy\nUser-agent: 01-AI-Bot\nUser-agent: ChatGLM-Spider\nUser-agent: TongyiBot\nUser-agent: YiyanBot\nUser-agent: ExaSearchBot\nDisallow: /\n\n# Block SEO &amp; Marketing Bots\nUser-agent: AhrefsBot\nUser-agent: SemrushBot\nUser-agent: dotbot\nUser-agent: DataForSeoBot\nDisallow: /\n\n# Allow AI Search Bots - block non-public pages only\nUser-agent: ChatGPT-User\nUser-agent: OAI-SearchBot\nUser-agent: Operator\nUser-agent: PerplexityBot\nUser-agent: Perplexity-User\nUser-agent: Claude-SearchBot\nUser-agent: Gemini-Deep-Research\nUser-agent: GoogleAgent-URLContext\nUser-agent: MistralAI-User\nUser-agent: Kimi-User\nUser-agent: Manus-User\nDisallow: /login\nDisallow: /SecListData.html\nDisallow: /print.html\nDisallow: /article/201709021732001\nDisallow: /national/national-general/article/201709021732001\nDisallow: /article/201609241422011\nDisallow: /national/national-general/article/201609241422011\n\n# Default Rules for General Search Engines\nUser-agent: *\nDisallow: /login\nDisallow: /SecListData.html\nDisallow: /article/201709021732001\nDisallow: /national/national-general/article/201709021732001\nDisallow: /print.html?art_id=201709021732001&amp;media=khan&amp;type=basic\nDisallow: /article/201609241422011\nDisallow: /national/national-general/article/201609241422011\nDisallow: /print.html?art_id=201609241422011&amp;media=khan&amp;type=basic\n\n# Sitemap and RSS Feed Locations\nSitemap: https://www.khan.co.kr/sitemap.xml\nSitemap: https://www.khan.co.kr/sitemap/latest-articles.xml\nSitemap: https://www.khan.co.kr/sitemap/daily-images.xml\nSitemap: https://www.khan.co.kr/sitemap/daily-videos.xml\nSitemap: https://www.khan.co.kr/sitemap/authors.xml\nSitemap: https://www.khan.co.kr/rss/rssdata/english_news.xml\nSitemap: https://www.khan.co.kr/rss/rssdata/newsletter_news.xml\nSitemap: https://www.khan.co.kr/rss/rssdata/interactive_news.xml\nSitemap: https://www.khan.co.kr/rss/rssdata/video_news.xml\n\n#DaumWebMasterTool:35bc55071cd98ae09fdf97e6c96768225c02c9f6ab5b8fe3c1118aefe5139d74:gbyst4GwRZz3X/sV/51MJQ==&quot;,&quot;before&quot;:&quot;# ====================================================\n# AI Data Collection Policy\n#\n# Crawling or use of content from this site for\n# AI training, LLM development, or machine learning\n# purposes is prohibited without prior written consent.\n#\n# Contact: https://www.khan.co.kr/help/help_digital.html\n# ====================================================\n\n# Block AI Learning Bots &amp; Scrapers\nUser-agent: GPTBot\nUser-agent: ClaudeBot\nUser-agent: Claude-Web\nUser-agent: anthropic-ai\nUser-agent: Google-Extended\nUser-agent: GoogleOther\nUser-agent: GoogleOther-Image\nUser-agent: Bytespider\nUser-agent: TikTokSpider\nUser-agent: Applebot-Extended\nUser-agent: CCBot\nUser-agent: DeepSeekBot\nUser-agent: cohere-ai\nUser-agent: meta-externalagent\nUser-agent: Diffbot\nUser-agent: Omgilibot\nUser-agent: Omgili\nUser-agent: PetalBot\nUser-agent: PanguBot\nUser-agent: WRTNBot\nUser-agent: YouBot\nUser-agent: FriendlyCrawler\nUser-agent: ICC-Crawler\nUser-agent: ImagesiftBot\nUser-agent: img2dataset\nUser-agent: Scrapy\nUser-agent: 01-AI-Bot\nUser-agent: ChatGLM-Spider\nUser-agent: TongyiBot\nUser-agent: YiyanBot\nDisallow: /\n\n# Block SEO &amp; Marketing Bots\nUser-agent: AhrefsBot\nUser-agent: SemrushBot\nUser-agent: dotbot\nUser-agent: DataForSeoBot\nDisallow: /\n\n# Allow AI Search Bots - block non-public pages only\nUser-agent: ChatGPT-User\nUser-agent: OAI-SearchBot\nUser-agent: Operator\nUser-agent: PerplexityBot\nUser-agent: Perplexity-User\nUser-agent: Claude-SearchBot\nUser-agent: Gemini-Deep-Research\nUser-agent: GoogleAgent-URLContext\nUser-agent: MistralAI-User\nUser-agent: Kimi-User\nUser-agent: Manus-User\nDisallow: /login\nDisallow: /SecListData.html\nDisallow: /print.html\nDisallow: /article/201709021732001\nDisallow: /national/national-general/article/201709021732001\nDisallow: /article/201609241422011\nDisallow: /national/national-general/article/201609241422011\n\n# Default Rules for General Search Engines\nUser-agent: *\nDisallow: /login\nDisallow: /SecListData.html\nDisallow: /article/201709021732001\nDisallow: /national/national-general/article/201709021732001\nDisallow: /print.html?art_id=201709021732001&amp;media=khan&amp;type=basic\nDisallow: /article/201609241422011\nDisallow: /national/national-general/article/201609241422011\nDisallow: /print.html?art_id=201609241422011&amp;media=khan&amp;type=basic\n\n# Sitemap and RSS Feed Locations\nSitemap: https://www.khan.co.kr/sitemap.xml\nSitemap: https://www.khan.co.kr/sitemap/latest-articles.xml\nSitemap: https://www.khan.co.kr/sitemap/daily-images.xml\nSitemap: https://www.khan.co.kr/sitemap/daily-videos.xml\nSitemap: https://www.khan.co.kr/sitemap/authors.xml\nSitemap: https://www.khan.co.kr/rss/rssdata/english_news.xml\nSitemap: https://www.khan.co.kr/rss/rssdata/newsletter_news.xml\nSitemap: https://www.khan.co.kr/rss/rssdata/interactive_news.xml\nSitemap: https://www.khan.co.kr/rss/rssdata/video_news.xml\n\n#DaumWebMasterTool:35bc55071cd98ae09fdf97e6c96768225c02c9f6ab5b8fe3c1118aefe5139d74:gbyst4GwRZz3X/sV/51MJQ==&quot;,&quot;chain_hash&quot;:&quot;1fe01e420dbb5188b61dafebf5938288a8a86d55663aa2a636111b45e0800192&quot;,&quot;content_hash&quot;:&quot;eb6baa362a5b33211594b25fec14637b9826f7cb7fd8b689eae97d5a7f844306&quot;,&quot;entity_id&quot;:&quot;probe:khan.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:45:57.878Z&quot;,&quot;source_url&quot;:&quot;https://khan.co.kr/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:d6f81332b81e367406652a8ded67126a74d65772e5713f4ed059f79ecd57f670</id>
-    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-10-10T23:45:57.878Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;f09bf062ea3fc8c3813621d2808cf289c99d856ea7fb36e879efaf695cb50874&quot;,&quot;before&quot;:&quot;8fd070d6ef9572608103269b595c9faa80c4d4cd6ca1c1d75c3f55a01aaccb60&quot;,&quot;chain_hash&quot;:&quot;d6f81332b81e367406652a8ded67126a74d65772e5713f4ed059f79ecd57f670&quot;,&quot;content_hash&quot;:&quot;a77903eb9d016061c0fe74495f7b5643319f57a0a70459d680044eb024fe1505&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:45:57.878Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:f8866684b960954cbe29a4f72d3c384a4bc189e432d47b6f2c8a18af8bfcff45</id>
-    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-10-10T23:45:57.878Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:642086,&quot;before&quot;:640047,&quot;chain_hash&quot;:&quot;f8866684b960954cbe29a4f72d3c384a4bc189e432d47b6f2c8a18af8bfcff45&quot;,&quot;content_hash&quot;:&quot;f772385aed78b900d08ced33552cd643895e5bd41c47ccb8f4d650650208c319&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-10T23:45:57.878Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:1f1980d412f8627b07195aea4806725c250b17e5e6cfb809de39c6004e3c2364</id>
-    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-10-10T00:14:04.955Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;8fd070d6ef9572608103269b595c9faa80c4d4cd6ca1c1d75c3f55a01aaccb60&quot;,&quot;before&quot;:&quot;91100c02bd97c1299274d3bab40e5a2f3fe8bfd25cd9023653fa415532e6d8f1&quot;,&quot;chain_hash&quot;:&quot;1f1980d412f8627b07195aea4806725c250b17e5e6cfb809de39c6004e3c2364&quot;,&quot;content_hash&quot;:&quot;014c175139035fb6ea676b637e8a3fcfbf35a6ced5fb73e109f5d55b6d6633e4&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-10T00:14:04.955Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
   </entry>
 </feed>
