@@ -1,5 +1,5 @@
 {
-  "record_count": 2898,
+  "record_count": 2902,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -6601,6 +6601,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
+    "job:anthropic:5448366008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "Singapore",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Enterprise Account Executive - Manufacturing Industries, Taiwan"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
     "job:anthropic:5448481008": {
       "fields": {
         "employment_type": null,
@@ -7456,6 +7467,28 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Data Center Facility Operations Lead - Commissioning & Delivery"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
+    "job:anthropic:5462761008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Product Counsel"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
+    "job:anthropic:5462881008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "San Francisco, CA | New York City, NY | Washington, DC",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Incident Manager, Safeguards"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -17150,6 +17183,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:8829029002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Bengaluru, India",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Software Engineer, Infrastructure"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:8829033002": {
       "fields": {
         "employment_type": null,
@@ -18624,17 +18668,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
-    "job:elevenlabs:09936411-899b-466d-aae7-54f6873caea0": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "elevenlabs",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Partner Manager - Public Sector Partnerships"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
-    },
     "job:elevenlabs:0b3a97d4-193c-4b47-9888-7ef5803ed945": {
       "fields": {
         "employment_type": "FullTime",
@@ -19072,17 +19105,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Safety Engineer - Free Tier Abuse"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
-    },
-    "job:elevenlabs:3b7a423c-01fd-4405-ab9a-ee51ed354ba9": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "elevenlabs",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Account Manager - Mid-Market"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/elevenlabs"
     },
@@ -21099,17 +21121,6 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
-    "job:openai:194a69ed-d7a2-4af8-9bec-67a4b7b58451": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Senior Manager, Extended Workforce Program"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
     "job:openai:1953efa7-5c1f-4878-b4cb-926cd35aafdb": {
       "fields": {
         "employment_type": "FullTime",
@@ -22350,6 +22361,17 @@
         "provider": "ashby",
         "team": null,
         "title": "Systems Test Engineer, End-to-End Validation | Consumer Devices"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
+    "job:openai:395e9fe2-4d78-42dd-b3f7-603884915a59": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Senior Manager, Supplier MDM Operations"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -25092,6 +25114,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
+    "job:openai:88667f7f-8fd2-48fd-8067-b58f6dff4652": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Senior Counsel, EU Policy/Regulatory"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
     "job:openai:88a57561-561b-4a14-bc43-78bc7f144164": {
       "fields": {
         "employment_type": "FullTime",
@@ -25628,17 +25661,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Researcher, Training"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:987c4eb8-819e-4258-a91c-f34ecfbcd5f1": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Development Lead"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -27006,6 +27028,17 @@
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
+    "job:openai:c2921990-3fff-469a-a117-f6a8f2a3d50c": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Community Communications Lead"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
     "job:openai:c2aeb70d-3eca-4c4f-a414-6394b30fea80": {
       "fields": {
         "employment_type": "FullTime",
@@ -27234,6 +27267,17 @@
         "provider": "ashby",
         "team": null,
         "title": "HR Business Partner"
+      },
+      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
+    },
+    "job:openai:c9832989-edc1-4f2f-8a79-8fa29f5623e2": {
+      "fields": {
+        "employment_type": "FullTime",
+        "lab": "openai",
+        "location": null,
+        "provider": "ashby",
+        "team": null,
+        "title": "Procurement Operations Specialist"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -29060,17 +29104,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Account Director, Large Enterprise"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:ff316e82-c88a-4c94-91e1-2ccea6de129e": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Infrastructure Operations & Sustainability Lead"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -31878,8 +31911,19 @@
         "title": "Senior Counsel - Product & Privacy"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"
+    },
+    "job:together-ai:5274195007": {
+      "fields": {
+        "employment_type": null,
+        "lab": "together-ai",
+        "location": "San Francisco",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Forward Deployed Engineer, Post-Training"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-10-24T00:05:29.189Z"
+  "updated_at": "2026-10-24T23:47:30.359Z"
 }
