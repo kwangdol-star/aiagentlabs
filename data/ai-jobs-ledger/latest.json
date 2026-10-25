@@ -1,5 +1,5 @@
 {
-  "record_count": 2902,
+  "record_count": 2900,
   "records": {
     "job:anthropic:4017331008": {
       "fields": {
@@ -3188,17 +3188,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Compute Country Lead, Japan"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
-    },
-    "job:anthropic:5385586008": {
-      "fields": {
-        "employment_type": null,
-        "lab": "anthropic",
-        "location": "San Francisco, CA | New York City, NY; San Francisco, CA | New York City, NY | Washington, DC",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "Solutions Marketing Lead, Public Sector"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -7485,10 +7474,21 @@
       "fields": {
         "employment_type": null,
         "lab": "anthropic",
-        "location": "San Francisco, CA | New York City, NY | Washington, DC",
+        "location": "Boston, MA; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
         "provider": "greenhouse",
         "team": null,
         "title": "Incident Manager, Safeguards"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
+    },
+    "job:anthropic:5462893008": {
+      "fields": {
+        "employment_type": null,
+        "lab": "anthropic",
+        "location": "Boston, MA; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Enforcement Analyst, Agentic Alignment"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs"
     },
@@ -12662,6 +12662,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
+    "job:databricks:8546786002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Singapore",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "GTM Talent Sourcer (Contract)"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
     "job:databricks:8548502002": {
       "fields": {
         "employment_type": null,
@@ -13759,17 +13770,6 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Specialist Solutions Architect - AI/ML"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
-    "job:databricks:8593713002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "London, United Kingdom",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "AI Forward Deployed Engineer - London"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -16897,28 +16897,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
-    "job:databricks:8813464002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Amsterdam, Netherlands",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "AI Forward Deployed Engineer - Netherlands"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
-    "job:databricks:8813515002": {
-      "fields": {
-        "employment_type": null,
-        "lab": "databricks",
-        "location": "Stockholm, Sweden",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "AI Forward Deployed Engineer - Sweden"
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
-    },
     "job:databricks:8813844002": {
       "fields": {
         "employment_type": null,
@@ -17983,6 +17961,17 @@
         "provider": "greenhouse",
         "team": null,
         "title": "Solutions Architect - Digital Native Business, Named Accounts"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
+    },
+    "job:databricks:8878066002": {
+      "fields": {
+        "employment_type": null,
+        "lab": "databricks",
+        "location": "Singapore",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Hunter Account Executive - Indonesia"
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs"
     },
@@ -24165,17 +24154,6 @@
         "provider": "ashby",
         "team": null,
         "title": "Training Performance Engineer"
-      },
-      "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
-    },
-    "job:openai:6ef9babb-e210-496f-a004-fed919a9ed2d": {
-      "fields": {
-        "employment_type": "FullTime",
-        "lab": "openai",
-        "location": null,
-        "provider": "ashby",
-        "team": null,
-        "title": "Applied Scientist, Product Policy"
       },
       "source_url": "https://api.ashbyhq.com/posting-api/job-board/openai"
     },
@@ -31373,17 +31351,6 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"
     },
-    "job:together-ai:5180155007": {
-      "fields": {
-        "employment_type": null,
-        "lab": "together-ai",
-        "location": "Bangalore, India",
-        "provider": "greenhouse",
-        "team": null,
-        "title": "AI Infrastructure System Engineer Bangalore "
-      },
-      "source_url": "https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"
-    },
     "job:together-ai:5180690007": {
       "fields": {
         "employment_type": null,
@@ -31549,6 +31516,17 @@
       },
       "source_url": "https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"
     },
+    "job:together-ai:5214645007": {
+      "fields": {
+        "employment_type": null,
+        "lab": "together-ai",
+        "location": "London & Amsterdam",
+        "provider": "greenhouse",
+        "team": null,
+        "title": "Staff Software Engineer, Inference / Compute Infrastructure Engineering London or Amsterdam"
+      },
+      "source_url": "https://boards-api.greenhouse.io/v1/boards/togetherai/jobs"
+    },
     "job:together-ai:5222270007": {
       "fields": {
         "employment_type": null,
@@ -31586,7 +31564,7 @@
       "fields": {
         "employment_type": null,
         "lab": "together-ai",
-        "location": "Bangalore India",
+        "location": "Amsterdam",
         "provider": "greenhouse",
         "team": null,
         "title": "Staff Engineer, Distributed Storage and HPC & AI Infrastructure"
@@ -31925,5 +31903,5 @@
     }
   },
   "source_id": "ai-jobs-ledger",
-  "updated_at": "2026-10-24T23:47:30.359Z"
+  "updated_at": "2026-10-25T23:36:38.912Z"
 }
