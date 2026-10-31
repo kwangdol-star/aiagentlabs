@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-10-30T00:05:51.350Z</updated>
+  <updated>2026-10-31T00:00:56.328Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:9a041876ff0ed999103c9f013165effc0b1147a2dc808e5ffe3086eba0df2c0f</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-10-31T00:00:56.328Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;647098fbeb186d3617ae950ecdcaf5e65babdb4ac0d5725ac647bbf8b9dc0521&quot;,&quot;before&quot;:&quot;ff8ea17300b171e9181ee456eae6597fe866ba288aabbcc2e30d1407ed1d98c9&quot;,&quot;chain_hash&quot;:&quot;9a041876ff0ed999103c9f013165effc0b1147a2dc808e5ffe3086eba0df2c0f&quot;,&quot;content_hash&quot;:&quot;50f3e222af855f3f6d4810731e0f5832bdf8cef80d3d2dee941f9efd12eee750&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-31T00:00:56.328Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:9c2388b8c93c938ca8161a378849ff5666d76acfca14ec4250fe94951ecfccf7</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-10-31T00:00:56.328Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:637117,&quot;before&quot;:640746,&quot;chain_hash&quot;:&quot;9c2388b8c93c938ca8161a378849ff5666d76acfca14ec4250fe94951ecfccf7&quot;,&quot;content_hash&quot;:&quot;b6c13d17e1d91fa3d9450b88c354fa7ba9b6fbafce79e2f7170ab1aa03b7a9da&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-31T00:00:56.328Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:ff61655467cccbbc184280148f0381cf8f616bed88aed28332bf345f82849b49</id>
     <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
@@ -339,19 +353,5 @@
     <updated>2026-10-25T22:48:00.222Z</updated>
     <link href="https://hani.co.kr/robots.txt"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;cba7b090a982bf9d6f9a2de8421014f508b3718339a0dbf0ae92b3c84ead4a1b&quot;,&quot;content_hash&quot;:&quot;89c3d51367f226adfab2c0cb42b2ca4cccbce22b9ab1a30cf1eb696dcb42fcb4&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-10-25T22:48:00.222Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:bf50674786d830f0cb4e3b0c2d8e3187ea47c862fb3074b89a09904ef332bc6d</id>
-    <title>[변경] probe:hani.co.kr:robots-txt · bot:GPTBot</title>
-    <updated>2026-10-25T22:48:00.222Z</updated>
-    <link href="https://hani.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;bf50674786d830f0cb4e3b0c2d8e3187ea47c862fb3074b89a09904ef332bc6d&quot;,&quot;content_hash&quot;:&quot;bc9b4e7e003cf8a0b4d048f526c069356a6bd0dee7abbb550db8539006639756&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-10-25T22:48:00.222Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:03abd7c9d7bee8fc8a73d104b6c743fdde06cd4e34fafa3cc32d3a4c61517d32</id>
-    <title>[변경] probe:hani.co.kr:robots-txt · bot:ClaudeBot</title>
-    <updated>2026-10-25T22:48:00.222Z</updated>
-    <link href="https://hani.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;blocked&quot;,&quot;chain_hash&quot;:&quot;03abd7c9d7bee8fc8a73d104b6c743fdde06cd4e34fafa3cc32d3a4c61517d32&quot;,&quot;content_hash&quot;:&quot;4621e4933fa2904f017528f1f13cedf591dd00017ee2921d7927d1b6296a63a0&quot;,&quot;entity_id&quot;:&quot;probe:hani.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-10-25T22:48:00.222Z&quot;,&quot;source_url&quot;:&quot;https://hani.co.kr/robots.txt&quot;}</content>
   </entry>
 </feed>
