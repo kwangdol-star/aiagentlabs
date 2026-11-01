@@ -3,9 +3,169 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-11-01T01:19:23.416Z</updated>
+  <updated>2026-11-01T23:48:20.476Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:90bc13f196dd1cb90d87b6e22cc184baa0dbe28fd369325ac7bfb02b7c5027c1</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:llms-txt · body_sha256</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;dca2e401d81b1c6a102b36fc6d37e5c7137e3506f2453735e0263d59a843da8d&quot;,&quot;chain_hash&quot;:&quot;90bc13f196dd1cb90d87b6e22cc184baa0dbe28fd369325ac7bfb02b7c5027c1&quot;,&quot;content_hash&quot;:&quot;d19cc3d83cde7c527c6bd13b298aa67b3980ae5424f7d5bfccffb77993be0332&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:cf6a13470326a4b4897dfb46615052c65118d1aacdfb2bbac7da8d4852c0c033</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:llms-txt · content_type</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;text/plain; charset=utf-8&quot;,&quot;chain_hash&quot;:&quot;cf6a13470326a4b4897dfb46615052c65118d1aacdfb2bbac7da8d4852c0c033&quot;,&quot;content_hash&quot;:&quot;22e8099a17cfb2da327d22009f2ad047b6b0b5deb3077b525614a0cb67090438&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:41e389e950bfb10a1afa2cc81c6a75e218e04340b611238fcd820b4ef802051c</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:llms-txt · status</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:403,&quot;before&quot;:200,&quot;chain_hash&quot;:&quot;41e389e950bfb10a1afa2cc81c6a75e218e04340b611238fcd820b4ef802051c&quot;,&quot;content_hash&quot;:&quot;842e4d57eeaf642be4fa353a1947bf68fb6e8e0d9c79aad6030d7f2ad7b2312c&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:eb6f0e5037da069ba820f985501100af74700c1e324c03d4c6fc42ee5a7dd22d</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · body</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;User-agent: BLEXBot\nDisallow: /\n\nUser-agent: Twitterbot\nDisallow:\n\n\n\nUser-agent: *\nDisallow: /action/\nDisallow: /publish\nDisallow: /sign-in\nDisallow: /channel-frame\nDisallow: /session-attribution-frame\nDisallow: /visited-surface-frame\nDisallow: /feed/private\nDisallow: /feed/podcast/*/private/*.rss\nDisallow: /subscribe\nDisallow: /lovestack/*\nDisallow: /p/*/comment/*\nDisallow: /inbox/post/*\nDisallow: /notes/post/*\nDisallow: /embed\n\nUser-agent: facebookexternalhit\nAllow: /\nAllow: /subscribe\n\n\nSITEMAP: https://substack.com/sitemap.xml\nSITEMAP: https://substack.com/news_sitemap.xml\n\n&quot;,&quot;chain_hash&quot;:&quot;eb6f0e5037da069ba820f985501100af74700c1e324c03d4c6fc42ee5a7dd22d&quot;,&quot;content_hash&quot;:&quot;2a99df7c3a1f18b5e41e8b32323eb2b9b75c3c181d8c6f01c24ce5999bc856de&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:8bddac361535dc8bb6ebd8f83530e906524081aa1e94501f1a04d9fa3542f7a8</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · body_bytes</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:585,&quot;chain_hash&quot;:&quot;8bddac361535dc8bb6ebd8f83530e906524081aa1e94501f1a04d9fa3542f7a8&quot;,&quot;content_hash&quot;:&quot;0f8d567eda383fe2c6c3b2301158e0c15e8f0b97a6aeae120fa2d38a2ef864da&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:5b8850e8a6d34de9d594032ba0a67531c7deafd4033239a53d027e6a854b3391</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · body_sha256</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;e468186aecca926921a597e3b593f101d82741e04874f7f723007d47adb3b1e8&quot;,&quot;chain_hash&quot;:&quot;5b8850e8a6d34de9d594032ba0a67531c7deafd4033239a53d027e6a854b3391&quot;,&quot;content_hash&quot;:&quot;86991f0e373379e5bcac93f56b06eb104c20e041af274524b19b577a1422a9ec&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:d64f3da1bedfd26856b6699beee7a98f39f7740fca16cabe647c9ad332f1e5fa</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:Amazonbot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;d64f3da1bedfd26856b6699beee7a98f39f7740fca16cabe647c9ad332f1e5fa&quot;,&quot;content_hash&quot;:&quot;9d3d43639c086c50978a0749a2a82d73281b9d85bbb9226f7b0957eab096410c&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Amazonbot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:61156cb4aeda348035055ec6a0c70f8801975ea4687100d8a7ab931ebfc5606f</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:Applebot-Extended</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;61156cb4aeda348035055ec6a0c70f8801975ea4687100d8a7ab931ebfc5606f&quot;,&quot;content_hash&quot;:&quot;1eb632bd79834dc4f85edf3b91b861ca3e3320ec14c17948a6542e5bc619c6f6&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Applebot-Extended&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:d3b42f359249f89da9c24338793ca1788f4ba3f36405924e31c10e6ac962c80b</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:Bytespider</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;d3b42f359249f89da9c24338793ca1788f4ba3f36405924e31c10e6ac962c80b&quot;,&quot;content_hash&quot;:&quot;f810e1d8815f491d174f62e9ba7bfaeffedb4ba30e5093fc2744d1e401b81c06&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:4b48cb2194a1403a3e892bcc2c80728e5c06b40bd765d80449e1451114b797be</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:CCBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;4b48cb2194a1403a3e892bcc2c80728e5c06b40bd765d80449e1451114b797be&quot;,&quot;content_hash&quot;:&quot;343d68e7b2cf7365e812db1f0ca62593daab15db149a26954e7f30027c3e385c&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:CCBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:9257bc6d948579177166c3b2fc20061aa222b7231f7313d78197375341861689</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:ChatGPT-User</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;9257bc6d948579177166c3b2fc20061aa222b7231f7313d78197375341861689&quot;,&quot;content_hash&quot;:&quot;5bdb91c518524ba4b30e45c14471488810f1289e01a38f76ddd1e9b5f97d18d8&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:702f2a8098f1a501867d50f556cf2d92c5fbfe87d1ab7a240c5ee8c43ed411a3</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:ClaudeBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;702f2a8098f1a501867d50f556cf2d92c5fbfe87d1ab7a240c5ee8c43ed411a3&quot;,&quot;content_hash&quot;:&quot;28909e6d8fe3a00947bd274b7b196d88667b5168212480eff79682bb273c7684&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:1502ce136b93e16d10c184ef5e2642b869e21613c62c4c96fa90304cb34f7405</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:GPTBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;1502ce136b93e16d10c184ef5e2642b869e21613c62c4c96fa90304cb34f7405&quot;,&quot;content_hash&quot;:&quot;bcab418372004d7ff524065ff979f3b2fc31bcbff3a5bc02aced5d8412addefe&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:56143a9afaeb5884244d18772324e5c638ff92728df664da0750e8fc76f537eb</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:Google-Extended</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;56143a9afaeb5884244d18772324e5c638ff92728df664da0750e8fc76f537eb&quot;,&quot;content_hash&quot;:&quot;d23fb0032688d3eb344c89bd384ea5f63620bacff90e68ad9a81acde06c1d62e&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:873f6b49c6161e24b692e33d2b8122245813d61e35e8a5a017c455998b53da2a</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:OAI-SearchBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;873f6b49c6161e24b692e33d2b8122245813d61e35e8a5a017c455998b53da2a&quot;,&quot;content_hash&quot;:&quot;7c8f0809fc6ba97d539ae1f87c508fa2924ad79282c9393017ecc52f5c636ba6&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:32a0761f94dbff89e6861786e68ab33e01202fa14414fe6e78ab3aed6e5846cc</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:PerplexityBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;32a0761f94dbff89e6861786e68ab33e01202fa14414fe6e78ab3aed6e5846cc&quot;,&quot;content_hash&quot;:&quot;cf2c3be8cea457ef2ec6e344b8c998594735ca77e1041dc63039623288182bda&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:d3d0355129e4d76edb082f15ae31936033f04e231f0d701cc9e260ddc6eb5545</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:anthropic-ai</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;d3d0355129e4d76edb082f15ae31936033f04e231f0d701cc9e260ddc6eb5545&quot;,&quot;content_hash&quot;:&quot;58eedbed170d53014ceacea8b8c98b8d168f03ed5c1d3be9c2fba5ac87d8151e&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:e9487afe357a4f08dd8a9d5f003b4f80db1a3e85a533579c5acef662e707b5d1</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:meta-externalagent</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;e9487afe357a4f08dd8a9d5f003b4f80db1a3e85a533579c5acef662e707b5d1&quot;,&quot;content_hash&quot;:&quot;6c0f2992a5ab75f773ae0431947a647defd57845a54afb1f4124b0e707603a52&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:80cf76960d237f029de471a066d1588a8d0f42cc563abe9767ae8ea931b795a4</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · content_type</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;text/plain; charset=utf-8&quot;,&quot;chain_hash&quot;:&quot;80cf76960d237f029de471a066d1588a8d0f42cc563abe9767ae8ea931b795a4&quot;,&quot;content_hash&quot;:&quot;e2cf083197b5839e4d37166b79eb08fbd6422f059dd0ff678459d3a8859c5f0b&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:dc74f4c889a6eb5933d7b27e572e5d6becba9144a5abaf66868125850e2f342b</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · status</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <category term="consent-census"/>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:403,&quot;before&quot;:200,&quot;chain_hash&quot;:&quot;dc74f4c889a6eb5933d7b27e572e5d6becba9144a5abaf66868125850e2f342b&quot;,&quot;content_hash&quot;:&quot;f3b7667bc01a024bd4d469a3d0444c9206a45045c21a86f8a9e39745fc70c46c&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:deal-audit-ledger:0e08f4eaff9785182a489d056d15d25e95caf3b0d6502dd43800eaabbdfa98d9</id>
     <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [삭제] deal:11230:20261008:휘경동:381:에드가휘경:33.7079:13:43971</title>
@@ -301,166 +461,6 @@
     <category term="ai-jobs-ledger"/>
     <link href="https://api.ashbyhq.com/posting-api/job-board/openai"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:&quot;FullTime&quot;,&quot;lab&quot;:&quot;openai&quot;,&quot;location&quot;:null,&quot;provider&quot;:&quot;ashby&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Events Designer, Business Marketing&quot;},&quot;chain_hash&quot;:&quot;5fb483f702aff4dab1feedc631a33d76de85827e63ab96a1917aad7526607e36&quot;,&quot;content_hash&quot;:&quot;3a7c04fafc637ad75a2c39a3bc1492ba54c74a3a4344511de8a7bb45673139e9&quot;,&quot;entity_id&quot;:&quot;job:openai:9711a982-851c-4f55-a5ae-080ea4bad520&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-01T00:28:52.003Z&quot;,&quot;source_url&quot;:&quot;https://api.ashbyhq.com/posting-api/job-board/openai&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:4567ad257c93822a10e115279bf20e717a8456086dfe3e4ed3ef43be351485e8</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:llms-txt · body_sha256</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;dca2e401d81b1c6a102b36fc6d37e5c7137e3506f2453735e0263d59a843da8d&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;4567ad257c93822a10e115279bf20e717a8456086dfe3e4ed3ef43be351485e8&quot;,&quot;content_hash&quot;:&quot;6c4657cf806250bb072c1ab63f2434e01983a5c30d914f0c6da4cf251e4e8e0f&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:43ad59a92ab1cc25346701f7ac0acf3cdc56fb13334a8f18f40b11d90b2b479f</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:llms-txt · content_type</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;text/plain; charset=utf-8&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;43ad59a92ab1cc25346701f7ac0acf3cdc56fb13334a8f18f40b11d90b2b479f&quot;,&quot;content_hash&quot;:&quot;57f60e74f035f047a87417230ebc8c324c67dac6d2b4f63d2412e957dc13363b&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:cd9e316923cb03aeee5140ad18399cdb34f13454671a63ee29811cef6d2a6653</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:llms-txt · status</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:200,&quot;before&quot;:403,&quot;chain_hash&quot;:&quot;cd9e316923cb03aeee5140ad18399cdb34f13454671a63ee29811cef6d2a6653&quot;,&quot;content_hash&quot;:&quot;07ff0ccb8ef1596f6bce769536b72f0a596258cd4b1eae104e6c70a1bcfe99aa&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:f5404b4563bce6430a52d90b0746a47ce3710c8f632864bd0ef1917eea0254fc</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · body</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;User-agent: BLEXBot\nDisallow: /\n\nUser-agent: Twitterbot\nDisallow:\n\n\n\nUser-agent: *\nDisallow: /action/\nDisallow: /publish\nDisallow: /sign-in\nDisallow: /channel-frame\nDisallow: /session-attribution-frame\nDisallow: /visited-surface-frame\nDisallow: /feed/private\nDisallow: /feed/podcast/*/private/*.rss\nDisallow: /subscribe\nDisallow: /lovestack/*\nDisallow: /p/*/comment/*\nDisallow: /inbox/post/*\nDisallow: /notes/post/*\nDisallow: /embed\n\nUser-agent: facebookexternalhit\nAllow: /\nAllow: /subscribe\n\n\nSITEMAP: https://substack.com/sitemap.xml\nSITEMAP: https://substack.com/news_sitemap.xml\n\n&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;f5404b4563bce6430a52d90b0746a47ce3710c8f632864bd0ef1917eea0254fc&quot;,&quot;content_hash&quot;:&quot;3a4d82b686876047c6351f2c5e4dcb4b0877f270b7bb9b7ad5efc68efa6be2d6&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:f182b6703d14c25777d740a5bf1512e16a9144c490ced96f8f773df6a902e77d</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · body_bytes</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:585,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;f182b6703d14c25777d740a5bf1512e16a9144c490ced96f8f773df6a902e77d&quot;,&quot;content_hash&quot;:&quot;865e47c9af9e595f797b818493740efbd888c8650839fbf2f7eeaf435ebece34&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:30b0f43423c7792a29a8e51049e27bfae4e481fff41d3167d94da3fcd460377c</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · body_sha256</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;e468186aecca926921a597e3b593f101d82741e04874f7f723007d47adb3b1e8&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;30b0f43423c7792a29a8e51049e27bfae4e481fff41d3167d94da3fcd460377c&quot;,&quot;content_hash&quot;:&quot;0f5ca81b38ae01fce307cbf17eb812ac90ec3a8b2e4f10aa2e59da608aa961dd&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:a7cd95acc1669c77e6f6e68c1072cc3d76e908aeb71531b634f586ffcff05e5b</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:Amazonbot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;a7cd95acc1669c77e6f6e68c1072cc3d76e908aeb71531b634f586ffcff05e5b&quot;,&quot;content_hash&quot;:&quot;5901a66fb316744daa1f49128ccdcec5ed997bca5d3b32a6436418c2d96c9c70&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Amazonbot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:6cc3e36338940d55fe8cc888b4d423ed1b7769aad52f298bb6c16494c918f580</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:Applebot-Extended</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;6cc3e36338940d55fe8cc888b4d423ed1b7769aad52f298bb6c16494c918f580&quot;,&quot;content_hash&quot;:&quot;b382f587a05b4270205dfd37f292c48cc94ecdc1d5d3fb9eab797752023602cd&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Applebot-Extended&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:0642d4c7b9d64da8055f51ebb47b7a4c6d754e344aa182560c6b4aba1e41d462</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:Bytespider</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;0642d4c7b9d64da8055f51ebb47b7a4c6d754e344aa182560c6b4aba1e41d462&quot;,&quot;content_hash&quot;:&quot;edc84f1daf0b3e0d9b3ca8a4f2e2daa5f3e05720305339bfe26619a5a4c57272&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:aa3cee2d8c03fb838150e7f69aa33a6d99be958781c7f6c59de6ce7f8aada6be</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:CCBot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;aa3cee2d8c03fb838150e7f69aa33a6d99be958781c7f6c59de6ce7f8aada6be&quot;,&quot;content_hash&quot;:&quot;dab3176ffee47806433190be55e006d36fac40f0228e0751d6124503e4470994&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:CCBot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:0ccaca43974e0affbb0ce4acea52f7d5031a618683aeec45c3fecb5848126f6b</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:ChatGPT-User</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;0ccaca43974e0affbb0ce4acea52f7d5031a618683aeec45c3fecb5848126f6b&quot;,&quot;content_hash&quot;:&quot;acac3f1c7f4b6cead9d818d232977250911e40d1f3285a2f4c9862c1633b670f&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:6b5c9434df2b88fd5c60435a63ad133d7a63622896965abfc6c5e4124b210714</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:ClaudeBot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;6b5c9434df2b88fd5c60435a63ad133d7a63622896965abfc6c5e4124b210714&quot;,&quot;content_hash&quot;:&quot;8c713aa9f84f3877dd2011e318e34a3a9c14d52efed7123022f4988712a85c7b&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:131e3263ac2f24173e9125ffb280f15ae336ee39f7b6a5be3f6bdb68d50c97ca</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:GPTBot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;131e3263ac2f24173e9125ffb280f15ae336ee39f7b6a5be3f6bdb68d50c97ca&quot;,&quot;content_hash&quot;:&quot;680eb2a18f57a78d6498e6e0260f2959dbf3b3c7aa2b2e11ad797a468cf59b4f&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:ebba48348a50b34d6bde6cf6120afcbe11393a4eed24f0f688eb688a6d9ee1bc</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:Google-Extended</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;ebba48348a50b34d6bde6cf6120afcbe11393a4eed24f0f688eb688a6d9ee1bc&quot;,&quot;content_hash&quot;:&quot;5626fc463f75174ce70379642c66cefd4f72a72f2b679697848f46eac9e0b6fa&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:60692e7fc500976191180ebb017cd583f3628c93f635c9c55767f0fcb6d7cd40</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:OAI-SearchBot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;60692e7fc500976191180ebb017cd583f3628c93f635c9c55767f0fcb6d7cd40&quot;,&quot;content_hash&quot;:&quot;d5c2a9add2415a407b534a89c933279ece4c0b23ce687d134a47484c385dea1f&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:eb2e5f9846ff7c2b220fc23c5b42572f89cde7855eb84236a0e5ab367981f775</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:PerplexityBot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;eb2e5f9846ff7c2b220fc23c5b42572f89cde7855eb84236a0e5ab367981f775&quot;,&quot;content_hash&quot;:&quot;5bf4324b5445c048096f782a95a837c8e6c6b61080ed8f81dfc9d037391033f0&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:5d6d9bccb21a71c5e0408f98588cbdbccc7f23732094af59020240fbe0dd09a4</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:anthropic-ai</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;5d6d9bccb21a71c5e0408f98588cbdbccc7f23732094af59020240fbe0dd09a4&quot;,&quot;content_hash&quot;:&quot;835a018fa958327a039ae897a111a062a08f8690fff3744545f5c6448af59bfa&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:2459f5d29807cbe734312d07fe2d557a2bf86bf2764e7e8c437946622b5e3953</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · bot:meta-externalagent</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;2459f5d29807cbe734312d07fe2d557a2bf86bf2764e7e8c437946622b5e3953&quot;,&quot;content_hash&quot;:&quot;fbc782e7e63ed0eef4a35f3518dc269a43ac67d3070079f1344ac9cc694a275f&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:8a6e26813153ead9b653670e1d1024522f4c5d1d6b31395c0616b97ef5fd410f</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · content_type</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;text/plain; charset=utf-8&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;8a6e26813153ead9b653670e1d1024522f4c5d1d6b31395c0616b97ef5fd410f&quot;,&quot;content_hash&quot;:&quot;9ec8bc937514adef62fb9427e5d95b828c60fceb22b5881050f9a951379e2023&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:621ee7b0a5bf4908df154398f9221a131638d227bcf4f172afffc6b418433f59</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:robots-txt · status</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:200,&quot;before&quot;:403,&quot;chain_hash&quot;:&quot;621ee7b0a5bf4908df154398f9221a131638d227bcf4f172afffc6b418433f59&quot;,&quot;content_hash&quot;:&quot;17b609e52e8bc36fc19d05494cfe6705934b9ec84415b9182e29aef971e8059c&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:ai-vendor-ledger:8f360ffa3971f4e62d51321a614f98cd1a4f0e96740562bb9114eb076c5baa86</id>

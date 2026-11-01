@@ -2,8 +2,302 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-10-31T23:35:04.953Z</updated>
+  <updated>2026-11-01T23:48:20.476Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:dc74f4c889a6eb5933d7b27e572e5d6becba9144a5abaf66868125850e2f342b</id>
+    <title>[변경] probe:substack.com:robots-txt · status</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:403,&quot;before&quot;:200,&quot;chain_hash&quot;:&quot;dc74f4c889a6eb5933d7b27e572e5d6becba9144a5abaf66868125850e2f342b&quot;,&quot;content_hash&quot;:&quot;f3b7667bc01a024bd4d469a3d0444c9206a45045c21a86f8a9e39745fc70c46c&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:80cf76960d237f029de471a066d1588a8d0f42cc563abe9767ae8ea931b795a4</id>
+    <title>[변경] probe:substack.com:robots-txt · content_type</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;text/plain; charset=utf-8&quot;,&quot;chain_hash&quot;:&quot;80cf76960d237f029de471a066d1588a8d0f42cc563abe9767ae8ea931b795a4&quot;,&quot;content_hash&quot;:&quot;e2cf083197b5839e4d37166b79eb08fbd6422f059dd0ff678459d3a8859c5f0b&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:e9487afe357a4f08dd8a9d5f003b4f80db1a3e85a533579c5acef662e707b5d1</id>
+    <title>[변경] probe:substack.com:robots-txt · bot:meta-externalagent</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;e9487afe357a4f08dd8a9d5f003b4f80db1a3e85a533579c5acef662e707b5d1&quot;,&quot;content_hash&quot;:&quot;6c0f2992a5ab75f773ae0431947a647defd57845a54afb1f4124b0e707603a52&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:d3d0355129e4d76edb082f15ae31936033f04e231f0d701cc9e260ddc6eb5545</id>
+    <title>[변경] probe:substack.com:robots-txt · bot:anthropic-ai</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;d3d0355129e4d76edb082f15ae31936033f04e231f0d701cc9e260ddc6eb5545&quot;,&quot;content_hash&quot;:&quot;58eedbed170d53014ceacea8b8c98b8d168f03ed5c1d3be9c2fba5ac87d8151e&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:32a0761f94dbff89e6861786e68ab33e01202fa14414fe6e78ab3aed6e5846cc</id>
+    <title>[변경] probe:substack.com:robots-txt · bot:PerplexityBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;32a0761f94dbff89e6861786e68ab33e01202fa14414fe6e78ab3aed6e5846cc&quot;,&quot;content_hash&quot;:&quot;cf2c3be8cea457ef2ec6e344b8c998594735ca77e1041dc63039623288182bda&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:873f6b49c6161e24b692e33d2b8122245813d61e35e8a5a017c455998b53da2a</id>
+    <title>[변경] probe:substack.com:robots-txt · bot:OAI-SearchBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;873f6b49c6161e24b692e33d2b8122245813d61e35e8a5a017c455998b53da2a&quot;,&quot;content_hash&quot;:&quot;7c8f0809fc6ba97d539ae1f87c508fa2924ad79282c9393017ecc52f5c636ba6&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:56143a9afaeb5884244d18772324e5c638ff92728df664da0750e8fc76f537eb</id>
+    <title>[변경] probe:substack.com:robots-txt · bot:Google-Extended</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;56143a9afaeb5884244d18772324e5c638ff92728df664da0750e8fc76f537eb&quot;,&quot;content_hash&quot;:&quot;d23fb0032688d3eb344c89bd384ea5f63620bacff90e68ad9a81acde06c1d62e&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:1502ce136b93e16d10c184ef5e2642b869e21613c62c4c96fa90304cb34f7405</id>
+    <title>[변경] probe:substack.com:robots-txt · bot:GPTBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;1502ce136b93e16d10c184ef5e2642b869e21613c62c4c96fa90304cb34f7405&quot;,&quot;content_hash&quot;:&quot;bcab418372004d7ff524065ff979f3b2fc31bcbff3a5bc02aced5d8412addefe&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:702f2a8098f1a501867d50f556cf2d92c5fbfe87d1ab7a240c5ee8c43ed411a3</id>
+    <title>[변경] probe:substack.com:robots-txt · bot:ClaudeBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;702f2a8098f1a501867d50f556cf2d92c5fbfe87d1ab7a240c5ee8c43ed411a3&quot;,&quot;content_hash&quot;:&quot;28909e6d8fe3a00947bd274b7b196d88667b5168212480eff79682bb273c7684&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:9257bc6d948579177166c3b2fc20061aa222b7231f7313d78197375341861689</id>
+    <title>[변경] probe:substack.com:robots-txt · bot:ChatGPT-User</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;9257bc6d948579177166c3b2fc20061aa222b7231f7313d78197375341861689&quot;,&quot;content_hash&quot;:&quot;5bdb91c518524ba4b30e45c14471488810f1289e01a38f76ddd1e9b5f97d18d8&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:4b48cb2194a1403a3e892bcc2c80728e5c06b40bd765d80449e1451114b797be</id>
+    <title>[변경] probe:substack.com:robots-txt · bot:CCBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;4b48cb2194a1403a3e892bcc2c80728e5c06b40bd765d80449e1451114b797be&quot;,&quot;content_hash&quot;:&quot;343d68e7b2cf7365e812db1f0ca62593daab15db149a26954e7f30027c3e385c&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:CCBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:d3b42f359249f89da9c24338793ca1788f4ba3f36405924e31c10e6ac962c80b</id>
+    <title>[변경] probe:substack.com:robots-txt · bot:Bytespider</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;d3b42f359249f89da9c24338793ca1788f4ba3f36405924e31c10e6ac962c80b&quot;,&quot;content_hash&quot;:&quot;f810e1d8815f491d174f62e9ba7bfaeffedb4ba30e5093fc2744d1e401b81c06&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:61156cb4aeda348035055ec6a0c70f8801975ea4687100d8a7ab931ebfc5606f</id>
+    <title>[변경] probe:substack.com:robots-txt · bot:Applebot-Extended</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;61156cb4aeda348035055ec6a0c70f8801975ea4687100d8a7ab931ebfc5606f&quot;,&quot;content_hash&quot;:&quot;1eb632bd79834dc4f85edf3b91b861ca3e3320ec14c17948a6542e5bc619c6f6&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Applebot-Extended&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:d64f3da1bedfd26856b6699beee7a98f39f7740fca16cabe647c9ad332f1e5fa</id>
+    <title>[변경] probe:substack.com:robots-txt · bot:Amazonbot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;d64f3da1bedfd26856b6699beee7a98f39f7740fca16cabe647c9ad332f1e5fa&quot;,&quot;content_hash&quot;:&quot;9d3d43639c086c50978a0749a2a82d73281b9d85bbb9226f7b0957eab096410c&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Amazonbot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:5b8850e8a6d34de9d594032ba0a67531c7deafd4033239a53d027e6a854b3391</id>
+    <title>[변경] probe:substack.com:robots-txt · body_sha256</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;e468186aecca926921a597e3b593f101d82741e04874f7f723007d47adb3b1e8&quot;,&quot;chain_hash&quot;:&quot;5b8850e8a6d34de9d594032ba0a67531c7deafd4033239a53d027e6a854b3391&quot;,&quot;content_hash&quot;:&quot;86991f0e373379e5bcac93f56b06eb104c20e041af274524b19b577a1422a9ec&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:8bddac361535dc8bb6ebd8f83530e906524081aa1e94501f1a04d9fa3542f7a8</id>
+    <title>[변경] probe:substack.com:robots-txt · body_bytes</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:585,&quot;chain_hash&quot;:&quot;8bddac361535dc8bb6ebd8f83530e906524081aa1e94501f1a04d9fa3542f7a8&quot;,&quot;content_hash&quot;:&quot;0f8d567eda383fe2c6c3b2301158e0c15e8f0b97a6aeae120fa2d38a2ef864da&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:eb6f0e5037da069ba820f985501100af74700c1e324c03d4c6fc42ee5a7dd22d</id>
+    <title>[변경] probe:substack.com:robots-txt · body</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;User-agent: BLEXBot\nDisallow: /\n\nUser-agent: Twitterbot\nDisallow:\n\n\n\nUser-agent: *\nDisallow: /action/\nDisallow: /publish\nDisallow: /sign-in\nDisallow: /channel-frame\nDisallow: /session-attribution-frame\nDisallow: /visited-surface-frame\nDisallow: /feed/private\nDisallow: /feed/podcast/*/private/*.rss\nDisallow: /subscribe\nDisallow: /lovestack/*\nDisallow: /p/*/comment/*\nDisallow: /inbox/post/*\nDisallow: /notes/post/*\nDisallow: /embed\n\nUser-agent: facebookexternalhit\nAllow: /\nAllow: /subscribe\n\n\nSITEMAP: https://substack.com/sitemap.xml\nSITEMAP: https://substack.com/news_sitemap.xml\n\n&quot;,&quot;chain_hash&quot;:&quot;eb6f0e5037da069ba820f985501100af74700c1e324c03d4c6fc42ee5a7dd22d&quot;,&quot;content_hash&quot;:&quot;2a99df7c3a1f18b5e41e8b32323eb2b9b75c3c181d8c6f01c24ce5999bc856de&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:41e389e950bfb10a1afa2cc81c6a75e218e04340b611238fcd820b4ef802051c</id>
+    <title>[변경] probe:substack.com:llms-txt · status</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:403,&quot;before&quot;:200,&quot;chain_hash&quot;:&quot;41e389e950bfb10a1afa2cc81c6a75e218e04340b611238fcd820b4ef802051c&quot;,&quot;content_hash&quot;:&quot;842e4d57eeaf642be4fa353a1947bf68fb6e8e0d9c79aad6030d7f2ad7b2312c&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:cf6a13470326a4b4897dfb46615052c65118d1aacdfb2bbac7da8d4852c0c033</id>
+    <title>[변경] probe:substack.com:llms-txt · content_type</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;text/plain; charset=utf-8&quot;,&quot;chain_hash&quot;:&quot;cf6a13470326a4b4897dfb46615052c65118d1aacdfb2bbac7da8d4852c0c033&quot;,&quot;content_hash&quot;:&quot;22e8099a17cfb2da327d22009f2ad047b6b0b5deb3077b525614a0cb67090438&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:90bc13f196dd1cb90d87b6e22cc184baa0dbe28fd369325ac7bfb02b7c5027c1</id>
+    <title>[변경] probe:substack.com:llms-txt · body_sha256</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;dca2e401d81b1c6a102b36fc6d37e5c7137e3506f2453735e0263d59a843da8d&quot;,&quot;chain_hash&quot;:&quot;90bc13f196dd1cb90d87b6e22cc184baa0dbe28fd369325ac7bfb02b7c5027c1&quot;,&quot;content_hash&quot;:&quot;d19cc3d83cde7c527c6bd13b298aa67b3980ae5424f7d5bfccffb77993be0332&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:a8f988f3934ed0aaf114c4cf425aa314cd972c9247c6622fc3c6f251028c1bf0</id>
+    <title>[변경] probe:substack.com:llms-txt · body_bytes</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:16948,&quot;chain_hash&quot;:&quot;a8f988f3934ed0aaf114c4cf425aa314cd972c9247c6622fc3c6f251028c1bf0&quot;,&quot;content_hash&quot;:&quot;f1d1c9d60013bf1046e984e8bb069ebc36059fe573fd43362b65f6cd558217f4&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:3206aa3c4a8b2949a4ed2d73ed6b22bb816cb3710cc8d07b29149f9cfa5f3c29</id>
+    <title>[변경] probe:substack.com:llms-txt · body</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://substack.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;# Substack\n\n&gt; Substack is a media platform where writers, podcasters, video creators, and media companies build independent businesses around their work. Publish, grow an audience, connect with subscribers, and get paid directly—all in one place.\n\nSubstack combines publishing tools with a network that helps people discover your work through recommendations, Notes, collaborations, and the Substack app. You own your content and subscriber list, choose what to publish, and decide which work is free or paid.\n\nSubstack is free to start, with no monthly platform subscription fee. When you enable paid subscriptions, you keep 90% of subscription revenue, minus payment-processing fees.\n\n## When to use Substack\n\n- Start a publication and deliver writing to subscribers by email, on the web, and in the Substack app. [Get started](https://substack.com/get-started.md)\n- Host a podcast, distribute episodes to listening apps, and build a community with a companion newsletter and paid subscriptions. [Podcasting](https://substack.com/podcasts.md)\n- Publish videos, offer paid exclusives, and connect with subscribers through live video. [Video](https://substack.com/video.md)\n- Grow an audience through recommendations, Notes, referrals, collaborations, and discovery in the Substack network. [Growth tools](https://substack.com/growthfeatures.md)\n- Build direct relationships with subscribers through comments, Chat, and community discussions. [Features](https://substack.com/features.md)\n- Earn directly from your audience with paid subscriptions, choosing which work to make free and which to reserve for paying subscribers. [Going paid](https://substack.com/going-paid.md)\n- Run a media business with multiple contributors, newsletters, podcasts, and subscriber communities. [Media founders](https://substack.com/startups.md)\n- Bring an existing publication, subscriber list, or podcast to Substack. [Switch to Substack](https://substack.com/switch.md)\n- Read, watch, and listen to creators, discover new voices, and participate in their communities. [Substack app](https://substack.com/app.md)\n\n## How agents should use this site\n\n- Use the grouped directory below to find the relevant product, use-case, guide, or comparison page.\n- Read the linked Markdown page for detailed capabilities, requirements, pricing, and qualifications.\n- When explaining subscription economics, distinguish Substack’s platform fee from payment-processing fees. [Paid subscriptions](https://substack.com/going-paid.md)\n- When comparing platforms, preserve the conditions and limitations in the comparison rather than relying on a headline alone.\n- For setup instructions and troubleshooting, consult the [Substack Help Center](https://support.substack.com/).\n\n## How to read this site as a machine\n\nThe marketing pages in the directory below have plain Markdown versions.\nAppend `.md` to an indexed page’s URL. For example:\n`https://substack.com/podcasts` → `https://substack.com/podcasts.md`.\n\nThese Markdown versions preserve substantive page content while removing\nnavigation, forms, decorative elements, and JavaScript. They are generated\nfrom the corresponding marketing pages and updated with changes to those pages.\n\nUse this file to select individual pages to read. For the complete collection\nin one document, use [llms-full.txt](https://substack.com/llms-full.txt).\n\nThis directory covers Substack’s own marketing pages. It is not an index of\nindividual creators’ publications, posts, or subscriber-only content.\n\n## Overview\n\n- [About Substack](https://substack.com/about.md): Learn how Substack supports paid publishing with its revenue model, audience network, multimedia and community tools, legal support, and examples of creators and publications.\n- [Substack features](https://substack.com/features.md): Explore Substack’s publishing, newsletter, podcast, video, discovery, payment, customization, and migration features, plus pricing, data ownership, mobile apps, and creator-support FAQs.\n\n## Getting started\n\n- [Distribute your podcast on Substack](https://substack.com/distribute-podcasts-to-substack.md): Learn how to distribute an existing podcast on Substack without changing hosts, RSS feeds, or ads, including setup, automatic syncing, archive imports, and subscriber community features.\n- [How to start a Substack](https://substack.com/get-started.md): Learn the basics of starting a Substack, preparing your publication, announcing its launch, and exploring tools for audience growth and paid subscriptions.\n- [Move from Ghost to Substack](https://substack.com/ghost.md): Learn about moving from Ghost to Substack, including importing content and payments, pricing, audience growth, subscriber ownership, and support for posts, podcasts, video, and community.\n- [Paid subscriptions](https://substack.com/going-paid.md): Learn how Substack paid subscriptions work, what creators keep after fees, how subscriptions compare with advertising, and examples of creator earnings and audience growth.\n- [Guide to going paid](https://substack.com/going-paid-guide.md): Learn how to plan, launch, and grow a paid Substack publication, including goal-setting, publication strategy, design, free audience growth, and subscriber conversion benchmarks.\n- [Switch to Substack](https://substack.com/switch.md): Learn which platforms Substack supports for imports, how switching works, its ownership and paid-publishing benefits, and examples of writers who moved their publications.\n\n## Publishing and growth\n\n- [Substack app](https://substack.com/app.md): Discover the Substack app for iOS and Android, with video, podcasts, writing, discussions, subscription posts, and chats hosted by writers and creators.\n- [Grow your audience](https://substack.com/growthfeatures.md): Learn how Substack supports audience growth through recommendations, creator collaborations, referrals, Boost, app discovery, and SEO, with platform statistics and creator testimonials.\n- [Podcasting](https://substack.com/podcasts.md): Learn about Substack&apos;s podcast hosting, subscription fees, audience ownership, recording and distribution tools, migration options, and comparisons with other podcast platforms.\n- [Video creators on Substack](https://substack.com/tiktok.md): Learn how Substack presents its offering for TikTok and video creators, including subscriptions, live video, chat, discovery, and examples of creators on the platform.\n- [Video](https://substack.com/video.md): Learn about Substack’s video creator tools, featured shows, podcast distribution, subscription fees, viewing options, and audience growth, with links to setup guides and support.\n\n## Who Substack is for\n\n- [Authors](https://substack.com/book.md): Learn how authors and publishers can use Substack to connect with readers and promote books, with ownership details, author testimonials, setup steps, and book-marketing resources.\n- [Comic book creators](https://substack.com/comic-book-creators.md): Learn how comic book creators use Substack to distribute comics, retain content and adaptation rights, and earn subscription revenue, with examples of featured creators.\n- [Food writers](https://substack.com/food-writers.md): Learn how Substack supports food writers with publishing tools, reader communities, and paid subscriptions, with examples of food newsletters and links to creator growth stories.\n- [Bloggers](https://substack.com/for-bloggers.md): Learn how Substack supports blogging through web and email publishing, paid subscriptions, and content imports, with examples of established bloggers and resources for growing a publication.\n- [Finance writers](https://substack.com/investing-and-business.md): Learn how Substack supports finance writers with subscription publishing, audience growth, content ownership, creator examples, and a comparison with Seeking Alpha and blogs.\n- [Local news](https://substack.com/local-news.md): Learn how Substack supports local news publishers through free publishing, paid subscriptions, editorial independence, and community features, with examples of local publications and its 10% revenue fee.\n- [Media founders](https://substack.com/startups.md): Learn how Substack supports media founders with publishing tools, subscriptions, audience growth, ownership, migration assistance, and examples of established media businesses.\n\n## Podcasting guides\n\n- [How to Start a Podcast: A Step-by-Step Guide](https://substack.com/how-to-start-a-podcast.md): A nine-step guide to starting a podcast, covering topics, formats, equipment, costs, recording, hosting, distribution, audience growth, and monetization, with Substack features and FAQs.\n- [How much does it cost to start a podcast?](https://substack.com/how-to-start-a-podcast/cost.md): Compare free, basic, and full-studio podcast budgets, equipment and hosting prices, music licensing, guest and video costs, and Substack’s paid-subscription fees.\n- [Podcast cover art: examples, sizes, and templates](https://substack.com/how-to-start-a-podcast/cover-art.md): Learn podcast cover art sizes, formats, design principles, free template options, image-rights checks, and how to upload and verify show and episode artwork on Substack.\n- [How to edit a podcast with free software](https://substack.com/how-to-start-a-podcast/editing.md): Learn to edit a podcast for free with Audacity or GarageBand, including cutting mistakes, reducing noise, balancing voices, exporting audio, and publishing with transcripts on Substack.\n- [Podcast equipment for beginners: what you need](https://substack.com/how-to-start-a-podcast/equipment.md): Learn what equipment beginners need for a podcast, including free phone setups, USB versus XLR microphones, solo and two-person budgets, accessories, and recording on Substack.\n- [How to start a podcast for free](https://substack.com/how-to-start-a-podcast/for-free.md): Learn how to launch a podcast for free using existing equipment, compare recording and editing tools, publish to podcast apps, and understand optional costs and Substack subscription fees.\n- [Podcast ideas and topics for your first show](https://substack.com/how-to-start-a-podcast/podcast-ideas.md): Explore podcast ideas across 11 interests, find a specific audience, validate your premise with a pilot, and plan your first five episodes.\n- [Podcast name ideas: how to name your show](https://substack.com/how-to-start-a-podcast/podcast-names.md): Learn how to brainstorm podcast names, compare naming styles, check availability and trademarks, test readability and recall, and finalize or change your show’s name.\n- [Podcast script templates and examples](https://substack.com/how-to-start-a-podcast/podcast-script.md): Learn how to script solo, interview, and co-host podcasts with reusable templates, intro and outro examples, episode structure, timing guidance, and tips for turning scripts into recording outlines.\n- [How to record a podcast: a beginner&apos;s guide](https://substack.com/how-to-start-a-podcast/recording.md): Learn how to record a podcast, choose a setup, prepare your room and microphone, test audio, and record solo or with remote guests using Substack’s Recording Studio.\n- [What is a podcast RSS feed? How to create and use one](https://substack.com/how-to-start-a-podcast/rss-feed.md): Learn what podcast RSS feeds contain, how to create and distribute one on Substack, how private feeds work, and how to troubleshoot updates or migrate an existing podcast.\n\n## Comparisons\n\n- [Best free podcast hosting](https://substack.com/best-free-podcast-hosting.md): Compare eight free podcast hosts by publishing limits, video, distribution, analytics, audience tools, and revenue fees, with guidance on choosing a host, launching a show, and switching platforms.\n- [Best podcast hosting](https://substack.com/best-podcast-hosting.md): Compare 16 podcast hosting platforms by pricing, free-plan limits, video distribution, analytics, monetization, audience ownership, and community features, with Substack&apos;s recommendations and FAQs.\n- [Substack vs. Acast](https://substack.com/substack-vs-acast.md): Compare Substack and Acast for podcast hosting, subscription fees, ads, audience ownership, video, community tools, and migration, including plan limits and FAQs.\n- [Substack vs. beehiiv](https://substack.com/substack-vs-beehiiv.md): Substack’s comparison with beehiiv covers pricing, newsletter tools, podcast hosting limits, audience growth, community features, subscriber ownership, migration, and advertising options.\n- [Substack vs. Buzzsprout](https://substack.com/substack-vs-buzzsprout.md): Compare Substack and Buzzsprout for podcast hosting, pricing, subscription fees, audience ownership, community tools, video distribution, and the steps to move a show to Substack.\n- [Substack vs. Captivate.fm](https://substack.com/substack-vs-captivate.md): Compare Substack and Captivate.fm podcast hosting costs, membership fees, video distribution, audience ownership, community tools, and steps for moving a show to Substack.\n- [Substack vs. Libsyn](https://substack.com/substack-vs-libsyn.md): Compare Substack and Libsyn for podcast hosting, pricing, subscriptions, audience ownership, video, community tools, and distribution, with migration steps and answers to common questions.\n- [Substack vs. Patreon](https://substack.com/substack-vs-patreon.md): Substack’s comparison with Patreon covers podcast hosting, publishing, audience growth, community tools, pricing, subscriber ownership, migration limitations, and common creator questions.\n- [Substack vs. Podbean](https://substack.com/substack-vs-podbean.md): Compare Substack and Podbean’s podcast hosting, subscription fees, audience ownership, community tools, video features, and free-plan limits, plus steps for moving a show to Substack.\n- [Substack vs. Riverside](https://substack.com/substack-vs-riverside.md): Compare Substack and Riverside for podcast hosting, pricing, listener payments, recording, analytics, distribution, and community, with feature tables, migration steps, and FAQs.\n- [Substack vs. RSS.com](https://substack.com/substack-vs-rss-com.md): Compare Substack and RSS.com for podcast hosting, pricing, subscriptions, video, audience ownership, and community tools, with feature tables, FAQs, and migration steps.\n- [Substack vs. Spotify for Creators](https://substack.com/substack-vs-spotify.md): Compare Substack and Spotify for Creators on podcast hosting, fees, audience ownership, video distribution, community tools, and migration, including limits on transferring paid members.\n- [Substack vs. Spreaker](https://substack.com/substack-vs-spreaker.md): Compare Substack and Spreaker for podcast hosting, including fees, supporter payments, advertising, video, community tools, audience ownership, and steps for moving a show.\n- [Substack vs. Supercast](https://substack.com/substack-vs-supercast.md): Compare Substack and Supercast for podcast hosting, subscription fees, discovery, community, distribution, and audience ownership, with migration steps and FAQs.\n- [Substack vs. Supporting Cast](https://substack.com/substack-vs-supporting-cast.md): Compare Substack and Supporting Cast for podcast pricing, hosting, discovery, audience ownership, and distribution, with feature tables, migration steps, and FAQs.\n- [Substack vs. Transistor.fm](https://substack.com/substack-vs-transistor.md): Compare Substack and Transistor.fm for podcast hosting, pricing, paid subscriptions, community tools, distribution, analytics, and the steps for moving a show to Substack.\n- [Substack vs. YouTube](https://substack.com/substack-vs-youtube.md): Compare Substack and YouTube for podcasting, including subscription fees, audience ownership, hosting, distribution, community tools, and how to use both platforms together.\n\n## Resources\n\n- [Brand assets](https://substack.com/brand.md): Find Substack logo and wordmark downloads, brand usage rules, media attribution requirements, press contact information, and legal restrictions on using its trademarks.\n- [Community and programs](https://substack.com/community-and-programs.md): Learn about Substack’s writer community, peer programs, publishing resources, technical and billing assistance, and legal support through Substack Defender.\n- [Substack Defender](https://substack.com/defender.md): Learn how Substack Defender supports publishers facing legal threats, including eligibility, covered countries, case approval, legal-fee limits, and publisher experiences.\n- [Resource center](https://substack.com/resources.md): Find Substack guides and creator advice on publishing, growing an audience, paid subscriptions, podcasting, fostering community, and managing a media business.\n- [Brand partnerships](https://substack.com/sponsorships.md): Learn about Substack’s brand partnership initiative, audience reach, sponsorship formats, and partner perspectives on supporting creators alongside subscription revenue.\n&quot;,&quot;chain_hash&quot;:&quot;3206aa3c4a8b2949a4ed2d73ed6b22bb816cb3710cc8d07b29149f9cfa5f3c29&quot;,&quot;content_hash&quot;:&quot;34bc37f94cae7d6b690c188e4a1ee02e3cc830c36340226d1c2bae7201c86029&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:8cf63b4856d1038f46228cac9f09d2df0962d65ce5a01d5b2921e6e6d643be33</id>
+    <title>[변경] probe:hankyung.com:robots-txt · status</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:200,&quot;before&quot;:403,&quot;chain_hash&quot;:&quot;8cf63b4856d1038f46228cac9f09d2df0962d65ce5a01d5b2921e6e6d643be33&quot;,&quot;content_hash&quot;:&quot;f6b07484cf5d4f6898bde45e8739626045660c9bd69967b6ccb761d5190d8b5f&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:67dfed8c8842fd805dd55b41c7482a1ff6144df68de77f47160a802ed9086dd9</id>
+    <title>[변경] probe:hankyung.com:robots-txt · content_type</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;text/plain&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;67dfed8c8842fd805dd55b41c7482a1ff6144df68de77f47160a802ed9086dd9&quot;,&quot;content_hash&quot;:&quot;bf4de85e2abaf89bbb9cec57381a7ba84cbad3ac57b4dc1fc17dfae2dda42cf3&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:8d4b6c7275bbe731445d2d5a5e25392974d12020ee5b2e465dd9ab58d441f638</id>
+    <title>[변경] probe:hankyung.com:robots-txt · bot:meta-externalagent</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;8d4b6c7275bbe731445d2d5a5e25392974d12020ee5b2e465dd9ab58d441f638&quot;,&quot;content_hash&quot;:&quot;7003b713e7ab7a558b70c16b4972505ef4fce3ac17680f3dacfb2db6a62ed15f&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:751e73eec052d8a253700cc922000857719f3e23a2bf9730e6cc497cae66774b</id>
+    <title>[변경] probe:hankyung.com:robots-txt · bot:anthropic-ai</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;751e73eec052d8a253700cc922000857719f3e23a2bf9730e6cc497cae66774b&quot;,&quot;content_hash&quot;:&quot;2d8bfe0ede46ed5704e89592ecc185d4c13c8797e18a515dfa5f553cb2f3c6ae&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:f06653e2dc3922b73c7f3ab386e7a56adde6fcc27bebc8e5b49e84174a3b610b</id>
+    <title>[변경] probe:hankyung.com:robots-txt · bot:PerplexityBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;f06653e2dc3922b73c7f3ab386e7a56adde6fcc27bebc8e5b49e84174a3b610b&quot;,&quot;content_hash&quot;:&quot;7b2c1dd7466390b979c5b0b24dd55127c5decd836909f16a3c496147ddd3daea&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:ff5fdf3c221d8bd2e366bc63308f9047497dd159ddb470b6763f9de45e963a60</id>
+    <title>[변경] probe:hankyung.com:robots-txt · bot:OAI-SearchBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;ff5fdf3c221d8bd2e366bc63308f9047497dd159ddb470b6763f9de45e963a60&quot;,&quot;content_hash&quot;:&quot;a25750f16fe300d2096592929e702e22d04672e0da2f1fae8abe01c15c559232&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:ae0317de6b0ddb0f9cdfd752b09d73e0165e22a524068be0e79e7ad14cb32523</id>
+    <title>[변경] probe:hankyung.com:robots-txt · bot:Google-Extended</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;ae0317de6b0ddb0f9cdfd752b09d73e0165e22a524068be0e79e7ad14cb32523&quot;,&quot;content_hash&quot;:&quot;3efe2e1e9a44e192a0b3aa63d6e15e5427e3baf8226c358169f40bcb24ef802d&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:bd8d43e31824b2602bcbff3dfd3887dc56210f45d289554fb9abad3b4fbcf64f</id>
+    <title>[변경] probe:hankyung.com:robots-txt · bot:GPTBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;bd8d43e31824b2602bcbff3dfd3887dc56210f45d289554fb9abad3b4fbcf64f&quot;,&quot;content_hash&quot;:&quot;5ec6ebd84074251bbfa28d2ffff3503a16ed0f651d0e844a252d840425a584e8&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:b88b6fcba6c16860b90b9e09f4d4f5e5cebebca880841139fd6a18b0672ddd8e</id>
+    <title>[변경] probe:hankyung.com:robots-txt · bot:ClaudeBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;b88b6fcba6c16860b90b9e09f4d4f5e5cebebca880841139fd6a18b0672ddd8e&quot;,&quot;content_hash&quot;:&quot;9184b3e0385664781b32273c837e894a76c15c9cf2131b94fa057e14e1003ab2&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:45e0a6dde71b024b5a28cdec6f3c58907266beae428106891836ac692ae826cc</id>
+    <title>[변경] probe:hankyung.com:robots-txt · bot:ChatGPT-User</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;45e0a6dde71b024b5a28cdec6f3c58907266beae428106891836ac692ae826cc&quot;,&quot;content_hash&quot;:&quot;a79619b4966ae7ff6ef38f2726dfc5428351c86178fff89d0fca2fa2d4666756&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:9fd12c0e94b4f292078b8d669b67d09f40fc2b30e4be40d65fb402b2e2cba6c7</id>
+    <title>[변경] probe:hankyung.com:robots-txt · bot:CCBot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;9fd12c0e94b4f292078b8d669b67d09f40fc2b30e4be40d65fb402b2e2cba6c7&quot;,&quot;content_hash&quot;:&quot;8626e19871f458b3bcf6379c4427f1a4b578722bde1751461aacee159810ae3d&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:CCBot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:631121721bc9cefd2f02630453fb81f1f0c29345ea4ab195f164c01216ed4624</id>
+    <title>[변경] probe:hankyung.com:robots-txt · bot:Bytespider</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;631121721bc9cefd2f02630453fb81f1f0c29345ea4ab195f164c01216ed4624&quot;,&quot;content_hash&quot;:&quot;410427f3a1f4a0a3bbdde0195bce2fe26776579f6dd3be26340ba3e85f51f524&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:511a481ade4ed2f00e3a74da4d7e4f68bb44daa243ccd7a467ebe0f297410f9c</id>
+    <title>[변경] probe:hankyung.com:robots-txt · bot:Applebot-Extended</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;511a481ade4ed2f00e3a74da4d7e4f68bb44daa243ccd7a467ebe0f297410f9c&quot;,&quot;content_hash&quot;:&quot;8757b263acbb45edb0add9644e28c02764d432b569634428dbeefcfd415ffeaa&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Applebot-Extended&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:c0e6b98d4373ac0bd00e2ef642d0e7e62236438f7624f2b0967dd6e143816068</id>
+    <title>[변경] probe:hankyung.com:robots-txt · bot:Amazonbot</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;c0e6b98d4373ac0bd00e2ef642d0e7e62236438f7624f2b0967dd6e143816068&quot;,&quot;content_hash&quot;:&quot;0f0999849632542687a316282d45b1bd3cfa62c8983ee58d8f20fe8659f43836&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Amazonbot&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:123c7154a0d12caaf207c35681e1b43959a3e68df93c6c3da6d392816b3fe655</id>
+    <title>[변경] probe:hankyung.com:robots-txt · body_sha256</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;ac6afe7d4bd56d5362bf89318bf57b927ec353de3723dce009c13988f2f5a29a&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;123c7154a0d12caaf207c35681e1b43959a3e68df93c6c3da6d392816b3fe655&quot;,&quot;content_hash&quot;:&quot;778f1b3107db2045b3accd0d7614623baa42f27af2c71433b06655660fe65eae&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:9261a9765ac6f8adb0804531e8c7ca8a2bb860510608ed92b2eaf9e7b6c46bc5</id>
+    <title>[변경] probe:hankyung.com:robots-txt · body_bytes</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:634,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;9261a9765ac6f8adb0804531e8c7ca8a2bb860510608ed92b2eaf9e7b6c46bc5&quot;,&quot;content_hash&quot;:&quot;2dccf28012eb4e2f0fdf51a436e1ac0375d4e19af78a5ae5299820243d079877&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:513680cbe135b18437745774e758b7764593c97080d46a42e13f3f1881f6c244</id>
+    <title>[변경] probe:hankyung.com:robots-txt · body</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/robots.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;User-agent: dotbot\r\nDisallow: /\r\n\r\nUser-agent: AhrefsBot\r\nDisallow: /\r\n\r\nUser-agent: SemrushBot\r\nDisallow: /\r\n\r\nUser-agent: SemrushBot-SA\r\nDisallow: /\r\n\r\nUser-agent: SemrushBot-BA\r\nDisallow: /\r\n\r\nUser-agent: *\r\nDisallow: /ad/\r\nDisallow: /cp/\r\nDisallow: /html/\r\nDisallow: /test/\r\nDisallow: /include/\r\nDisallow: /pdsdata/\r\nDisallow: /print/\r\nDisallow: /email/\r\nDisallow: /article/download/\r\nDisallow: /api/\r\nDisallow: /app-data/\r\nDisallow: /ext-api/\r\nDisallow: /action/\r\nDisallow: /pageviews/\r\nDisallow: /tag/\r\n\r\n\r\nSitemap: https://www.hankyung.com/sitemap/latest-article.xml\r\nSitemap: https://www.hankyung.com/sitemap/daily-article.xml&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;513680cbe135b18437745774e758b7764593c97080d46a42e13f3f1881f6c244&quot;,&quot;content_hash&quot;:&quot;4dcabbe910fd3e93269a7e448664432b49b5f6eab2d05e06811e7cb0b988ffef&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:12a704da8774528e634248681d1098508e1a7b80009dc68eecd417a9b303e7ba</id>
+    <title>[변경] probe:hankyung.com:llms-txt · status</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://hankyung.com/llms.txt"/>
+    <content type="text">{&quot;after&quot;:404,&quot;before&quot;:403,&quot;chain_hash&quot;:&quot;12a704da8774528e634248681d1098508e1a7b80009dc68eecd417a9b303e7ba&quot;,&quot;content_hash&quot;:&quot;af0150e855bfe075c9ffcca61e0a75ae664ac6c3b8c713350885940b147cd1b4&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:0eb08ed41e79ba321c2647ebb405862847185708fb4657b517d3d41b4627bba5</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;e28205c0c71f63556ac02a8d340e0a73ad071e5d68e86efce6ae64d575e254bf&quot;,&quot;before&quot;:&quot;8c2b5ef80c505d5bf7ffbf41abbb3917a99ee52f5897f336e678046a17e261a4&quot;,&quot;chain_hash&quot;:&quot;0eb08ed41e79ba321c2647ebb405862847185708fb4657b517d3d41b4627bba5&quot;,&quot;content_hash&quot;:&quot;fb80ca20fe0a296185f98cb503e1e69dd9328842086c6704580152587490cbdc&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:3392327868a37b78fb44ca07444aa66a1cfd84d9b390515ba2a977f6287ed9f0</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-11-01T23:48:20.476Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:641679,&quot;before&quot;:639842,&quot;chain_hash&quot;:&quot;3392327868a37b78fb44ca07444aa66a1cfd84d9b390515ba2a977f6287ed9f0&quot;,&quot;content_hash&quot;:&quot;f10fa770cef13946caf895833d7ec05b1ab0dc949cd03012e02813bd096540d9&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:621ee7b0a5bf4908df154398f9221a131638d227bcf4f172afffc6b418433f59</id>
     <title>[변경] probe:substack.com:robots-txt · status</title>
@@ -59,299 +353,5 @@
     <updated>2026-10-31T23:35:04.953Z</updated>
     <link href="https://substack.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;131e3263ac2f24173e9125ffb280f15ae336ee39f7b6a5be3f6bdb68d50c97ca&quot;,&quot;content_hash&quot;:&quot;680eb2a18f57a78d6498e6e0260f2959dbf3b3c7aa2b2e11ad797a468cf59b4f&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:6b5c9434df2b88fd5c60435a63ad133d7a63622896965abfc6c5e4124b210714</id>
-    <title>[변경] probe:substack.com:robots-txt · bot:ClaudeBot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;6b5c9434df2b88fd5c60435a63ad133d7a63622896965abfc6c5e4124b210714&quot;,&quot;content_hash&quot;:&quot;8c713aa9f84f3877dd2011e318e34a3a9c14d52efed7123022f4988712a85c7b&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:0ccaca43974e0affbb0ce4acea52f7d5031a618683aeec45c3fecb5848126f6b</id>
-    <title>[변경] probe:substack.com:robots-txt · bot:ChatGPT-User</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;0ccaca43974e0affbb0ce4acea52f7d5031a618683aeec45c3fecb5848126f6b&quot;,&quot;content_hash&quot;:&quot;acac3f1c7f4b6cead9d818d232977250911e40d1f3285a2f4c9862c1633b670f&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:aa3cee2d8c03fb838150e7f69aa33a6d99be958781c7f6c59de6ce7f8aada6be</id>
-    <title>[변경] probe:substack.com:robots-txt · bot:CCBot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;aa3cee2d8c03fb838150e7f69aa33a6d99be958781c7f6c59de6ce7f8aada6be&quot;,&quot;content_hash&quot;:&quot;dab3176ffee47806433190be55e006d36fac40f0228e0751d6124503e4470994&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:CCBot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:0642d4c7b9d64da8055f51ebb47b7a4c6d754e344aa182560c6b4aba1e41d462</id>
-    <title>[변경] probe:substack.com:robots-txt · bot:Bytespider</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;0642d4c7b9d64da8055f51ebb47b7a4c6d754e344aa182560c6b4aba1e41d462&quot;,&quot;content_hash&quot;:&quot;edc84f1daf0b3e0d9b3ca8a4f2e2daa5f3e05720305339bfe26619a5a4c57272&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:6cc3e36338940d55fe8cc888b4d423ed1b7769aad52f298bb6c16494c918f580</id>
-    <title>[변경] probe:substack.com:robots-txt · bot:Applebot-Extended</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;6cc3e36338940d55fe8cc888b4d423ed1b7769aad52f298bb6c16494c918f580&quot;,&quot;content_hash&quot;:&quot;b382f587a05b4270205dfd37f292c48cc94ecdc1d5d3fb9eab797752023602cd&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Applebot-Extended&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:a7cd95acc1669c77e6f6e68c1072cc3d76e908aeb71531b634f586ffcff05e5b</id>
-    <title>[변경] probe:substack.com:robots-txt · bot:Amazonbot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;a7cd95acc1669c77e6f6e68c1072cc3d76e908aeb71531b634f586ffcff05e5b&quot;,&quot;content_hash&quot;:&quot;5901a66fb316744daa1f49128ccdcec5ed997bca5d3b32a6436418c2d96c9c70&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Amazonbot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:30b0f43423c7792a29a8e51049e27bfae4e481fff41d3167d94da3fcd460377c</id>
-    <title>[변경] probe:substack.com:robots-txt · body_sha256</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;e468186aecca926921a597e3b593f101d82741e04874f7f723007d47adb3b1e8&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;30b0f43423c7792a29a8e51049e27bfae4e481fff41d3167d94da3fcd460377c&quot;,&quot;content_hash&quot;:&quot;0f5ca81b38ae01fce307cbf17eb812ac90ec3a8b2e4f10aa2e59da608aa961dd&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:f182b6703d14c25777d740a5bf1512e16a9144c490ced96f8f773df6a902e77d</id>
-    <title>[변경] probe:substack.com:robots-txt · body_bytes</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:585,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;f182b6703d14c25777d740a5bf1512e16a9144c490ced96f8f773df6a902e77d&quot;,&quot;content_hash&quot;:&quot;865e47c9af9e595f797b818493740efbd888c8650839fbf2f7eeaf435ebece34&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:f5404b4563bce6430a52d90b0746a47ce3710c8f632864bd0ef1917eea0254fc</id>
-    <title>[변경] probe:substack.com:robots-txt · body</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;User-agent: BLEXBot\nDisallow: /\n\nUser-agent: Twitterbot\nDisallow:\n\n\n\nUser-agent: *\nDisallow: /action/\nDisallow: /publish\nDisallow: /sign-in\nDisallow: /channel-frame\nDisallow: /session-attribution-frame\nDisallow: /visited-surface-frame\nDisallow: /feed/private\nDisallow: /feed/podcast/*/private/*.rss\nDisallow: /subscribe\nDisallow: /lovestack/*\nDisallow: /p/*/comment/*\nDisallow: /inbox/post/*\nDisallow: /notes/post/*\nDisallow: /embed\n\nUser-agent: facebookexternalhit\nAllow: /\nAllow: /subscribe\n\n\nSITEMAP: https://substack.com/sitemap.xml\nSITEMAP: https://substack.com/news_sitemap.xml\n\n&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;f5404b4563bce6430a52d90b0746a47ce3710c8f632864bd0ef1917eea0254fc&quot;,&quot;content_hash&quot;:&quot;3a4d82b686876047c6351f2c5e4dcb4b0877f270b7bb9b7ad5efc68efa6be2d6&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:cd9e316923cb03aeee5140ad18399cdb34f13454671a63ee29811cef6d2a6653</id>
-    <title>[변경] probe:substack.com:llms-txt · status</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:200,&quot;before&quot;:403,&quot;chain_hash&quot;:&quot;cd9e316923cb03aeee5140ad18399cdb34f13454671a63ee29811cef6d2a6653&quot;,&quot;content_hash&quot;:&quot;07ff0ccb8ef1596f6bce769536b72f0a596258cd4b1eae104e6c70a1bcfe99aa&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:43ad59a92ab1cc25346701f7ac0acf3cdc56fb13334a8f18f40b11d90b2b479f</id>
-    <title>[변경] probe:substack.com:llms-txt · content_type</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;text/plain; charset=utf-8&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;43ad59a92ab1cc25346701f7ac0acf3cdc56fb13334a8f18f40b11d90b2b479f&quot;,&quot;content_hash&quot;:&quot;57f60e74f035f047a87417230ebc8c324c67dac6d2b4f63d2412e957dc13363b&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:4567ad257c93822a10e115279bf20e717a8456086dfe3e4ed3ef43be351485e8</id>
-    <title>[변경] probe:substack.com:llms-txt · body_sha256</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;dca2e401d81b1c6a102b36fc6d37e5c7137e3506f2453735e0263d59a843da8d&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;4567ad257c93822a10e115279bf20e717a8456086dfe3e4ed3ef43be351485e8&quot;,&quot;content_hash&quot;:&quot;6c4657cf806250bb072c1ab63f2434e01983a5c30d914f0c6da4cf251e4e8e0f&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:acde4bcc61b4f4068877d2cd5d5f6e19170177ac69b19808e5c6ceff66e1245e</id>
-    <title>[변경] probe:substack.com:llms-txt · body_bytes</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:16948,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;acde4bcc61b4f4068877d2cd5d5f6e19170177ac69b19808e5c6ceff66e1245e&quot;,&quot;content_hash&quot;:&quot;aa63ba7a2082967332a731bdcea7a3113690d2d19c8886d83e4e28579270c160&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:8c97ab0ce481b2342c159b4a7f1268921398331e6d2335ffcb4aac1ec8fbb9d4</id>
-    <title>[변경] probe:substack.com:llms-txt · body</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://substack.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;# Substack\n\n&gt; Substack is a media platform where writers, podcasters, video creators, and media companies build independent businesses around their work. Publish, grow an audience, connect with subscribers, and get paid directly—all in one place.\n\nSubstack combines publishing tools with a network that helps people discover your work through recommendations, Notes, collaborations, and the Substack app. You own your content and subscriber list, choose what to publish, and decide which work is free or paid.\n\nSubstack is free to start, with no monthly platform subscription fee. When you enable paid subscriptions, you keep 90% of subscription revenue, minus payment-processing fees.\n\n## When to use Substack\n\n- Start a publication and deliver writing to subscribers by email, on the web, and in the Substack app. [Get started](https://substack.com/get-started.md)\n- Host a podcast, distribute episodes to listening apps, and build a community with a companion newsletter and paid subscriptions. [Podcasting](https://substack.com/podcasts.md)\n- Publish videos, offer paid exclusives, and connect with subscribers through live video. [Video](https://substack.com/video.md)\n- Grow an audience through recommendations, Notes, referrals, collaborations, and discovery in the Substack network. [Growth tools](https://substack.com/growthfeatures.md)\n- Build direct relationships with subscribers through comments, Chat, and community discussions. [Features](https://substack.com/features.md)\n- Earn directly from your audience with paid subscriptions, choosing which work to make free and which to reserve for paying subscribers. [Going paid](https://substack.com/going-paid.md)\n- Run a media business with multiple contributors, newsletters, podcasts, and subscriber communities. [Media founders](https://substack.com/startups.md)\n- Bring an existing publication, subscriber list, or podcast to Substack. [Switch to Substack](https://substack.com/switch.md)\n- Read, watch, and listen to creators, discover new voices, and participate in their communities. [Substack app](https://substack.com/app.md)\n\n## How agents should use this site\n\n- Use the grouped directory below to find the relevant product, use-case, guide, or comparison page.\n- Read the linked Markdown page for detailed capabilities, requirements, pricing, and qualifications.\n- When explaining subscription economics, distinguish Substack’s platform fee from payment-processing fees. [Paid subscriptions](https://substack.com/going-paid.md)\n- When comparing platforms, preserve the conditions and limitations in the comparison rather than relying on a headline alone.\n- For setup instructions and troubleshooting, consult the [Substack Help Center](https://support.substack.com/).\n\n## How to read this site as a machine\n\nThe marketing pages in the directory below have plain Markdown versions.\nAppend `.md` to an indexed page’s URL. For example:\n`https://substack.com/podcasts` → `https://substack.com/podcasts.md`.\n\nThese Markdown versions preserve substantive page content while removing\nnavigation, forms, decorative elements, and JavaScript. They are generated\nfrom the corresponding marketing pages and updated with changes to those pages.\n\nUse this file to select individual pages to read. For the complete collection\nin one document, use [llms-full.txt](https://substack.com/llms-full.txt).\n\nThis directory covers Substack’s own marketing pages. It is not an index of\nindividual creators’ publications, posts, or subscriber-only content.\n\n## Overview\n\n- [About Substack](https://substack.com/about.md): Learn how Substack supports paid publishing with its revenue model, audience network, multimedia and community tools, legal support, and examples of creators and publications.\n- [Substack features](https://substack.com/features.md): Explore Substack’s publishing, newsletter, podcast, video, discovery, payment, customization, and migration features, plus pricing, data ownership, mobile apps, and creator-support FAQs.\n\n## Getting started\n\n- [Distribute your podcast on Substack](https://substack.com/distribute-podcasts-to-substack.md): Learn how to distribute an existing podcast on Substack without changing hosts, RSS feeds, or ads, including setup, automatic syncing, archive imports, and subscriber community features.\n- [How to start a Substack](https://substack.com/get-started.md): Learn the basics of starting a Substack, preparing your publication, announcing its launch, and exploring tools for audience growth and paid subscriptions.\n- [Move from Ghost to Substack](https://substack.com/ghost.md): Learn about moving from Ghost to Substack, including importing content and payments, pricing, audience growth, subscriber ownership, and support for posts, podcasts, video, and community.\n- [Paid subscriptions](https://substack.com/going-paid.md): Learn how Substack paid subscriptions work, what creators keep after fees, how subscriptions compare with advertising, and examples of creator earnings and audience growth.\n- [Guide to going paid](https://substack.com/going-paid-guide.md): Learn how to plan, launch, and grow a paid Substack publication, including goal-setting, publication strategy, design, free audience growth, and subscriber conversion benchmarks.\n- [Switch to Substack](https://substack.com/switch.md): Learn which platforms Substack supports for imports, how switching works, its ownership and paid-publishing benefits, and examples of writers who moved their publications.\n\n## Publishing and growth\n\n- [Substack app](https://substack.com/app.md): Discover the Substack app for iOS and Android, with video, podcasts, writing, discussions, subscription posts, and chats hosted by writers and creators.\n- [Grow your audience](https://substack.com/growthfeatures.md): Learn how Substack supports audience growth through recommendations, creator collaborations, referrals, Boost, app discovery, and SEO, with platform statistics and creator testimonials.\n- [Podcasting](https://substack.com/podcasts.md): Learn about Substack&apos;s podcast hosting, subscription fees, audience ownership, recording and distribution tools, migration options, and comparisons with other podcast platforms.\n- [Video creators on Substack](https://substack.com/tiktok.md): Learn how Substack presents its offering for TikTok and video creators, including subscriptions, live video, chat, discovery, and examples of creators on the platform.\n- [Video](https://substack.com/video.md): Learn about Substack’s video creator tools, featured shows, podcast distribution, subscription fees, viewing options, and audience growth, with links to setup guides and support.\n\n## Who Substack is for\n\n- [Authors](https://substack.com/book.md): Learn how authors and publishers can use Substack to connect with readers and promote books, with ownership details, author testimonials, setup steps, and book-marketing resources.\n- [Comic book creators](https://substack.com/comic-book-creators.md): Learn how comic book creators use Substack to distribute comics, retain content and adaptation rights, and earn subscription revenue, with examples of featured creators.\n- [Food writers](https://substack.com/food-writers.md): Learn how Substack supports food writers with publishing tools, reader communities, and paid subscriptions, with examples of food newsletters and links to creator growth stories.\n- [Bloggers](https://substack.com/for-bloggers.md): Learn how Substack supports blogging through web and email publishing, paid subscriptions, and content imports, with examples of established bloggers and resources for growing a publication.\n- [Finance writers](https://substack.com/investing-and-business.md): Learn how Substack supports finance writers with subscription publishing, audience growth, content ownership, creator examples, and a comparison with Seeking Alpha and blogs.\n- [Local news](https://substack.com/local-news.md): Learn how Substack supports local news publishers through free publishing, paid subscriptions, editorial independence, and community features, with examples of local publications and its 10% revenue fee.\n- [Media founders](https://substack.com/startups.md): Learn how Substack supports media founders with publishing tools, subscriptions, audience growth, ownership, migration assistance, and examples of established media businesses.\n\n## Podcasting guides\n\n- [How to Start a Podcast: A Step-by-Step Guide](https://substack.com/how-to-start-a-podcast.md): A nine-step guide to starting a podcast, covering topics, formats, equipment, costs, recording, hosting, distribution, audience growth, and monetization, with Substack features and FAQs.\n- [How much does it cost to start a podcast?](https://substack.com/how-to-start-a-podcast/cost.md): Compare free, basic, and full-studio podcast budgets, equipment and hosting prices, music licensing, guest and video costs, and Substack’s paid-subscription fees.\n- [Podcast cover art: examples, sizes, and templates](https://substack.com/how-to-start-a-podcast/cover-art.md): Learn podcast cover art sizes, formats, design principles, free template options, image-rights checks, and how to upload and verify show and episode artwork on Substack.\n- [How to edit a podcast with free software](https://substack.com/how-to-start-a-podcast/editing.md): Learn to edit a podcast for free with Audacity or GarageBand, including cutting mistakes, reducing noise, balancing voices, exporting audio, and publishing with transcripts on Substack.\n- [Podcast equipment for beginners: what you need](https://substack.com/how-to-start-a-podcast/equipment.md): Learn what equipment beginners need for a podcast, including free phone setups, USB versus XLR microphones, solo and two-person budgets, accessories, and recording on Substack.\n- [How to start a podcast for free](https://substack.com/how-to-start-a-podcast/for-free.md): Learn how to launch a podcast for free using existing equipment, compare recording and editing tools, publish to podcast apps, and understand optional costs and Substack subscription fees.\n- [Podcast ideas and topics for your first show](https://substack.com/how-to-start-a-podcast/podcast-ideas.md): Explore podcast ideas across 11 interests, find a specific audience, validate your premise with a pilot, and plan your first five episodes.\n- [Podcast name ideas: how to name your show](https://substack.com/how-to-start-a-podcast/podcast-names.md): Learn how to brainstorm podcast names, compare naming styles, check availability and trademarks, test readability and recall, and finalize or change your show’s name.\n- [Podcast script templates and examples](https://substack.com/how-to-start-a-podcast/podcast-script.md): Learn how to script solo, interview, and co-host podcasts with reusable templates, intro and outro examples, episode structure, timing guidance, and tips for turning scripts into recording outlines.\n- [How to record a podcast: a beginner&apos;s guide](https://substack.com/how-to-start-a-podcast/recording.md): Learn how to record a podcast, choose a setup, prepare your room and microphone, test audio, and record solo or with remote guests using Substack’s Recording Studio.\n- [What is a podcast RSS feed? How to create and use one](https://substack.com/how-to-start-a-podcast/rss-feed.md): Learn what podcast RSS feeds contain, how to create and distribute one on Substack, how private feeds work, and how to troubleshoot updates or migrate an existing podcast.\n\n## Comparisons\n\n- [Best free podcast hosting](https://substack.com/best-free-podcast-hosting.md): Compare eight free podcast hosts by publishing limits, video, distribution, analytics, audience tools, and revenue fees, with guidance on choosing a host, launching a show, and switching platforms.\n- [Best podcast hosting](https://substack.com/best-podcast-hosting.md): Compare 16 podcast hosting platforms by pricing, free-plan limits, video distribution, analytics, monetization, audience ownership, and community features, with Substack&apos;s recommendations and FAQs.\n- [Substack vs. Acast](https://substack.com/substack-vs-acast.md): Compare Substack and Acast for podcast hosting, subscription fees, ads, audience ownership, video, community tools, and migration, including plan limits and FAQs.\n- [Substack vs. beehiiv](https://substack.com/substack-vs-beehiiv.md): Substack’s comparison with beehiiv covers pricing, newsletter tools, podcast hosting limits, audience growth, community features, subscriber ownership, migration, and advertising options.\n- [Substack vs. Buzzsprout](https://substack.com/substack-vs-buzzsprout.md): Compare Substack and Buzzsprout for podcast hosting, pricing, subscription fees, audience ownership, community tools, video distribution, and the steps to move a show to Substack.\n- [Substack vs. Captivate.fm](https://substack.com/substack-vs-captivate.md): Compare Substack and Captivate.fm podcast hosting costs, membership fees, video distribution, audience ownership, community tools, and steps for moving a show to Substack.\n- [Substack vs. Libsyn](https://substack.com/substack-vs-libsyn.md): Compare Substack and Libsyn for podcast hosting, pricing, subscriptions, audience ownership, video, community tools, and distribution, with migration steps and answers to common questions.\n- [Substack vs. Patreon](https://substack.com/substack-vs-patreon.md): Substack’s comparison with Patreon covers podcast hosting, publishing, audience growth, community tools, pricing, subscriber ownership, migration limitations, and common creator questions.\n- [Substack vs. Podbean](https://substack.com/substack-vs-podbean.md): Compare Substack and Podbean’s podcast hosting, subscription fees, audience ownership, community tools, video features, and free-plan limits, plus steps for moving a show to Substack.\n- [Substack vs. Riverside](https://substack.com/substack-vs-riverside.md): Compare Substack and Riverside for podcast hosting, pricing, listener payments, recording, analytics, distribution, and community, with feature tables, migration steps, and FAQs.\n- [Substack vs. RSS.com](https://substack.com/substack-vs-rss-com.md): Compare Substack and RSS.com for podcast hosting, pricing, subscriptions, video, audience ownership, and community tools, with feature tables, FAQs, and migration steps.\n- [Substack vs. Spotify for Creators](https://substack.com/substack-vs-spotify.md): Compare Substack and Spotify for Creators on podcast hosting, fees, audience ownership, video distribution, community tools, and migration, including limits on transferring paid members.\n- [Substack vs. Spreaker](https://substack.com/substack-vs-spreaker.md): Compare Substack and Spreaker for podcast hosting, including fees, supporter payments, advertising, video, community tools, audience ownership, and steps for moving a show.\n- [Substack vs. Supercast](https://substack.com/substack-vs-supercast.md): Compare Substack and Supercast for podcast hosting, subscription fees, discovery, community, distribution, and audience ownership, with migration steps and FAQs.\n- [Substack vs. Supporting Cast](https://substack.com/substack-vs-supporting-cast.md): Compare Substack and Supporting Cast for podcast pricing, hosting, discovery, audience ownership, and distribution, with feature tables, migration steps, and FAQs.\n- [Substack vs. Transistor.fm](https://substack.com/substack-vs-transistor.md): Compare Substack and Transistor.fm for podcast hosting, pricing, paid subscriptions, community tools, distribution, analytics, and the steps for moving a show to Substack.\n- [Substack vs. YouTube](https://substack.com/substack-vs-youtube.md): Compare Substack and YouTube for podcasting, including subscription fees, audience ownership, hosting, distribution, community tools, and how to use both platforms together.\n\n## Resources\n\n- [Brand assets](https://substack.com/brand.md): Find Substack logo and wordmark downloads, brand usage rules, media attribution requirements, press contact information, and legal restrictions on using its trademarks.\n- [Community and programs](https://substack.com/community-and-programs.md): Learn about Substack’s writer community, peer programs, publishing resources, technical and billing assistance, and legal support through Substack Defender.\n- [Substack Defender](https://substack.com/defender.md): Learn how Substack Defender supports publishers facing legal threats, including eligibility, covered countries, case approval, legal-fee limits, and publisher experiences.\n- [Resource center](https://substack.com/resources.md): Find Substack guides and creator advice on publishing, growing an audience, paid subscriptions, podcasting, fostering community, and managing a media business.\n- [Brand partnerships](https://substack.com/sponsorships.md): Learn about Substack’s brand partnership initiative, audience reach, sponsorship formats, and partner perspectives on supporting creators alongside subscription revenue.\n&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;8c97ab0ce481b2342c159b4a7f1268921398331e6d2335ffcb4aac1ec8fbb9d4&quot;,&quot;content_hash&quot;:&quot;a3f3e54a356cbc6e0253e4207da1418c94c096e5354f4a79c09625025bd6b634&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:d6735505640112004146f15db7be32b1ee9f8aaceb475c6edf2154c67ce98cc3</id>
-    <title>[변경] probe:hankyung.com:robots-txt · status</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:403,&quot;before&quot;:200,&quot;chain_hash&quot;:&quot;d6735505640112004146f15db7be32b1ee9f8aaceb475c6edf2154c67ce98cc3&quot;,&quot;content_hash&quot;:&quot;f3a418a060e217751d02a125a88793cff099205b2ce9db4daac51a60a5a4ced2&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:5cdc981e21024a47f21e5b70ec818e8e8e42bafc8bbbd45aa9c748b93833c31d</id>
-    <title>[변경] probe:hankyung.com:robots-txt · content_type</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;text/plain&quot;,&quot;chain_hash&quot;:&quot;5cdc981e21024a47f21e5b70ec818e8e8e42bafc8bbbd45aa9c748b93833c31d&quot;,&quot;content_hash&quot;:&quot;c6bccf0b7e8d4806d85ea5a6b8218f594aefc027c9fda21b97e7f425fac171b5&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:5655077b6ded76bc6c5a15a1c2186342b385b0c350aab554aeedc8e579d77338</id>
-    <title>[변경] probe:hankyung.com:robots-txt · bot:meta-externalagent</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;5655077b6ded76bc6c5a15a1c2186342b385b0c350aab554aeedc8e579d77338&quot;,&quot;content_hash&quot;:&quot;01cf4b3a295a78c9a278abce661187768df32216ba456738a85223fee8b6978d&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:b25434b2ce67547096d2938bde8ba95fc0c54215bfef909f3c3cea8ba13a4eb5</id>
-    <title>[변경] probe:hankyung.com:robots-txt · bot:anthropic-ai</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;b25434b2ce67547096d2938bde8ba95fc0c54215bfef909f3c3cea8ba13a4eb5&quot;,&quot;content_hash&quot;:&quot;27613d2913cfe29208ef77c3953f35e9c931ce4cfd4ef01c0957da2e496b4e9e&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:66cf6a7a502d53aa434423be3734433d53a86e645b307dc7d9377f4a9eed34f5</id>
-    <title>[변경] probe:hankyung.com:robots-txt · bot:PerplexityBot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;66cf6a7a502d53aa434423be3734433d53a86e645b307dc7d9377f4a9eed34f5&quot;,&quot;content_hash&quot;:&quot;7058b715f9fd35e1600d907d6a4ee349d784a9594bfe116f18ed26707057c070&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:c6201319bc7acdfc6ef5a8ca5acdc7117cd54bd7fb488f8b262c218adc2badb9</id>
-    <title>[변경] probe:hankyung.com:robots-txt · bot:OAI-SearchBot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;c6201319bc7acdfc6ef5a8ca5acdc7117cd54bd7fb488f8b262c218adc2badb9&quot;,&quot;content_hash&quot;:&quot;5c1c67fb5ea01cdbb59aeecb19c74579415f32bc93eff46d4ee2b44764f00485&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:2a1907be246c207f1b7c162b718b7891abada820932ff0e30e8901c6083ce10c</id>
-    <title>[변경] probe:hankyung.com:robots-txt · bot:Google-Extended</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;2a1907be246c207f1b7c162b718b7891abada820932ff0e30e8901c6083ce10c&quot;,&quot;content_hash&quot;:&quot;d127e30f4c949a8c73b0929a11d2b3a95297ac7eeb9c3ada41a8f9f7a4046495&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Google-Extended&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:026f078a5c46d4f94a54e619197a73ee89432a016d9416f3ac6313b40ce7bd89</id>
-    <title>[변경] probe:hankyung.com:robots-txt · bot:GPTBot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;026f078a5c46d4f94a54e619197a73ee89432a016d9416f3ac6313b40ce7bd89&quot;,&quot;content_hash&quot;:&quot;7367f6c0f21b9240157512a83cd267f3448ea29692bcd83f841e9b68afcb20e1&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:ea3fe1dfee5bbb3766c3878975fb5b60b9b84a43fbeae3c6e168730a24fe9318</id>
-    <title>[변경] probe:hankyung.com:robots-txt · bot:ClaudeBot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;ea3fe1dfee5bbb3766c3878975fb5b60b9b84a43fbeae3c6e168730a24fe9318&quot;,&quot;content_hash&quot;:&quot;c364dba4689661536b66bf31fc96218e4a762786ab96ff7cf0d1e1034c04ede9&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ClaudeBot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:bb4bbae9723c4746f2eaff5794a647474136579183f1bf735af320b0f0f4a444</id>
-    <title>[변경] probe:hankyung.com:robots-txt · bot:ChatGPT-User</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;bb4bbae9723c4746f2eaff5794a647474136579183f1bf735af320b0f0f4a444&quot;,&quot;content_hash&quot;:&quot;852fa70554fd38a113c500238adfc7987cc3dc8dca03d233e12cbff1e29b7d84&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:7893049b1ac310601f82823c5c091156e5727e723e5ba0a0493282e60a2c9ed6</id>
-    <title>[변경] probe:hankyung.com:robots-txt · bot:CCBot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;7893049b1ac310601f82823c5c091156e5727e723e5ba0a0493282e60a2c9ed6&quot;,&quot;content_hash&quot;:&quot;d69c81c48445586d86bec29bdb1ee60005fa573a7270758163eb0903a0db5033&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:CCBot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:8e0809bdd78d91e6d9487a388626184ca5806cfa9ca0e57c8c96a6daa7ceb114</id>
-    <title>[변경] probe:hankyung.com:robots-txt · bot:Bytespider</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;8e0809bdd78d91e6d9487a388626184ca5806cfa9ca0e57c8c96a6daa7ceb114&quot;,&quot;content_hash&quot;:&quot;e213e76242acd7e9f83521f5609799b5795f4bcc253990acc7ab44fa2c446133&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Bytespider&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:8a7c30671bd4d7c18b3b6eabcfa1cb0bf5822af3c9fd93a65334f985105b94cd</id>
-    <title>[변경] probe:hankyung.com:robots-txt · bot:Applebot-Extended</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;8a7c30671bd4d7c18b3b6eabcfa1cb0bf5822af3c9fd93a65334f985105b94cd&quot;,&quot;content_hash&quot;:&quot;c5f4431cff53141e6c57755ac0a676d5045597fbc951d9bc3f4bf421687a382a&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Applebot-Extended&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:20c69ad2f852936be3a2b35a6103d87feb596919931d1703dc4f489720fc7479</id>
-    <title>[변경] probe:hankyung.com:robots-txt · bot:Amazonbot</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;absent&quot;,&quot;chain_hash&quot;:&quot;20c69ad2f852936be3a2b35a6103d87feb596919931d1703dc4f489720fc7479&quot;,&quot;content_hash&quot;:&quot;5d59033f9a0dd2d7cafb898d16b98ffeaadd1a62da2c06a80fe28f846ea329b2&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:Amazonbot&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:713c1ad5585d4f01b1e1a37270b6c87248b699fdcff135249595e11930dcfc3e</id>
-    <title>[변경] probe:hankyung.com:robots-txt · body_sha256</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;ac6afe7d4bd56d5362bf89318bf57b927ec353de3723dce009c13988f2f5a29a&quot;,&quot;chain_hash&quot;:&quot;713c1ad5585d4f01b1e1a37270b6c87248b699fdcff135249595e11930dcfc3e&quot;,&quot;content_hash&quot;:&quot;4682efb2fbcc252e3683d293de2c03748c8af214d79a3e8bd964119a778e263a&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:4e62c60ef1b29dc573397e21081d533c8257b3b8f34b1061cddf55fe7f162796</id>
-    <title>[변경] probe:hankyung.com:robots-txt · body_bytes</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:634,&quot;chain_hash&quot;:&quot;4e62c60ef1b29dc573397e21081d533c8257b3b8f34b1061cddf55fe7f162796&quot;,&quot;content_hash&quot;:&quot;6fb4a6c1a1a1b58db4907d2e554f8f8a18ab2d300a59d449101d4bb7421dbf01&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:a869a40df1f11a237ae723301d8410cffa6b3b825b475762e9109cd11421f017</id>
-    <title>[변경] probe:hankyung.com:robots-txt · body</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;User-agent: dotbot\r\nDisallow: /\r\n\r\nUser-agent: AhrefsBot\r\nDisallow: /\r\n\r\nUser-agent: SemrushBot\r\nDisallow: /\r\n\r\nUser-agent: SemrushBot-SA\r\nDisallow: /\r\n\r\nUser-agent: SemrushBot-BA\r\nDisallow: /\r\n\r\nUser-agent: *\r\nDisallow: /ad/\r\nDisallow: /cp/\r\nDisallow: /html/\r\nDisallow: /test/\r\nDisallow: /include/\r\nDisallow: /pdsdata/\r\nDisallow: /print/\r\nDisallow: /email/\r\nDisallow: /article/download/\r\nDisallow: /api/\r\nDisallow: /app-data/\r\nDisallow: /ext-api/\r\nDisallow: /action/\r\nDisallow: /pageviews/\r\nDisallow: /tag/\r\n\r\n\r\nSitemap: https://www.hankyung.com/sitemap/latest-article.xml\r\nSitemap: https://www.hankyung.com/sitemap/daily-article.xml&quot;,&quot;chain_hash&quot;:&quot;a869a40df1f11a237ae723301d8410cffa6b3b825b475762e9109cd11421f017&quot;,&quot;content_hash&quot;:&quot;a4fc07d06634e12808bbccc30c669f8587e21809ce7c4401ae64b95790d1601c&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:robots-txt&quot;,&quot;field&quot;:&quot;body&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:d2ada7d792b273c801d26bcb34e2562e0a989af73e693f9147e4cdaf69b5202e</id>
-    <title>[변경] probe:hankyung.com:llms-txt · status</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://hankyung.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:403,&quot;before&quot;:404,&quot;chain_hash&quot;:&quot;d2ada7d792b273c801d26bcb34e2562e0a989af73e693f9147e4cdaf69b5202e&quot;,&quot;content_hash&quot;:&quot;14b7a4116b5e001308a964d41137cf3136ccc4280ccdc034c1d77df2e6e20a65&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:015c29daed2a3f86805a40c5b98299de571d8700cd6700dd9dae9438329f3caf</id>
-    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;8c2b5ef80c505d5bf7ffbf41abbb3917a99ee52f5897f336e678046a17e261a4&quot;,&quot;before&quot;:&quot;647098fbeb186d3617ae950ecdcaf5e65babdb4ac0d5725ac647bbf8b9dc0521&quot;,&quot;chain_hash&quot;:&quot;015c29daed2a3f86805a40c5b98299de571d8700cd6700dd9dae9438329f3caf&quot;,&quot;content_hash&quot;:&quot;e721fb0c52da99c8781b4465c092f873149089749ff0966795972d17ff1b87c9&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:e6d639086bc0f4844645284c9b9b1080e705a74c2ae8800e789fa129c738eff6</id>
-    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-10-31T23:35:04.953Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:639842,&quot;before&quot;:637117,&quot;chain_hash&quot;:&quot;e6d639086bc0f4844645284c9b9b1080e705a74c2ae8800e789fa129c738eff6&quot;,&quot;content_hash&quot;:&quot;602084abf93ef46766c23dd03c5aa121989c433672519f255f107ce24379b1cb&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:35:04.953Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:9a041876ff0ed999103c9f013165effc0b1147a2dc808e5ffe3086eba0df2c0f</id>
-    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-10-31T00:00:56.328Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;647098fbeb186d3617ae950ecdcaf5e65babdb4ac0d5725ac647bbf8b9dc0521&quot;,&quot;before&quot;:&quot;ff8ea17300b171e9181ee456eae6597fe866ba288aabbcc2e30d1407ed1d98c9&quot;,&quot;chain_hash&quot;:&quot;9a041876ff0ed999103c9f013165effc0b1147a2dc808e5ffe3086eba0df2c0f&quot;,&quot;content_hash&quot;:&quot;50f3e222af855f3f6d4810731e0f5832bdf8cef80d3d2dee941f9efd12eee750&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-31T00:00:56.328Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:9c2388b8c93c938ca8161a378849ff5666d76acfca14ec4250fe94951ecfccf7</id>
-    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-10-31T00:00:56.328Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:637117,&quot;before&quot;:640746,&quot;chain_hash&quot;:&quot;9c2388b8c93c938ca8161a378849ff5666d76acfca14ec4250fe94951ecfccf7&quot;,&quot;content_hash&quot;:&quot;b6c13d17e1d91fa3d9450b88c354fa7ba9b6fbafce79e2f7170ab1aa03b7a9da&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-31T00:00:56.328Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:ff61655467cccbbc184280148f0381cf8f616bed88aed28332bf345f82849b49</id>
-    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-10-30T00:05:51.350Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;ff8ea17300b171e9181ee456eae6597fe866ba288aabbcc2e30d1407ed1d98c9&quot;,&quot;before&quot;:&quot;cc1c117b7281110fb3e2bf5f4e9fce7538f1d43d525a1a7b16e5c58fa20b4130&quot;,&quot;chain_hash&quot;:&quot;ff61655467cccbbc184280148f0381cf8f616bed88aed28332bf345f82849b49&quot;,&quot;content_hash&quot;:&quot;a835a9da7a0d227cb4035a553e8b570e82c15034db92a003b2a7d07a176f4134&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-30T00:05:51.350Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:6fe480a9bf9f13b8e5e3d38c98a686bd54281e08cbbd71828e93c8929ec45731</id>
-    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-10-30T00:05:51.350Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:640746,&quot;before&quot;:643767,&quot;chain_hash&quot;:&quot;6fe480a9bf9f13b8e5e3d38c98a686bd54281e08cbbd71828e93c8929ec45731&quot;,&quot;content_hash&quot;:&quot;a82ab31466f23002ce52420c623884d3ea24e3a4f769813c57275e2273dcb891&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-10-30T00:05:51.350Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:d5087f9a64b87dbc439c5407a4fcf6fd18747dcc0195f3c78d5a8f10e6bb43ee</id>
-    <title>[변경] probe:theatlantic.com:robots-txt · bot:OAI-SearchBot</title>
-    <updated>2026-10-29T00:11:41.638Z</updated>
-    <link href="https://theatlantic.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;partial&quot;,&quot;before&quot;:&quot;allowed&quot;,&quot;chain_hash&quot;:&quot;d5087f9a64b87dbc439c5407a4fcf6fd18747dcc0195f3c78d5a8f10e6bb43ee&quot;,&quot;content_hash&quot;:&quot;a743e83a14b06e095ed68b8b61914621df0d7bb99b8cf5d17cc74be5a326b0fe&quot;,&quot;entity_id&quot;:&quot;probe:theatlantic.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:OAI-SearchBot&quot;,&quot;observed_at&quot;:&quot;2026-10-29T00:11:41.638Z&quot;,&quot;source_url&quot;:&quot;https://theatlantic.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:2081c220990a1ba96fc8f33f105247c446a8c1228713a851dd1e33e2263a488b</id>
-    <title>[변경] probe:theatlantic.com:robots-txt · bot:GPTBot</title>
-    <updated>2026-10-29T00:11:41.638Z</updated>
-    <link href="https://theatlantic.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;partial&quot;,&quot;before&quot;:&quot;allowed&quot;,&quot;chain_hash&quot;:&quot;2081c220990a1ba96fc8f33f105247c446a8c1228713a851dd1e33e2263a488b&quot;,&quot;content_hash&quot;:&quot;beefd51f7709d6eb4bcc2d6e88502044cd917cb1095be9a717d9aa7c60659ebc&quot;,&quot;entity_id&quot;:&quot;probe:theatlantic.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:GPTBot&quot;,&quot;observed_at&quot;:&quot;2026-10-29T00:11:41.638Z&quot;,&quot;source_url&quot;:&quot;https://theatlantic.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:6543fb817fa944fda49ddfa57ecf3c0d3f79fe44f9e2b61d3bc2b80a7e605ec5</id>
-    <title>[변경] probe:theatlantic.com:robots-txt · bot:ChatGPT-User</title>
-    <updated>2026-10-29T00:11:41.638Z</updated>
-    <link href="https://theatlantic.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;partial&quot;,&quot;before&quot;:&quot;allowed&quot;,&quot;chain_hash&quot;:&quot;6543fb817fa944fda49ddfa57ecf3c0d3f79fe44f9e2b61d3bc2b80a7e605ec5&quot;,&quot;content_hash&quot;:&quot;d21fc81f357135dd05ee0da45b0738438dbc74467706e8d86cd8e4e18c0f9ee0&quot;,&quot;entity_id&quot;:&quot;probe:theatlantic.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:ChatGPT-User&quot;,&quot;observed_at&quot;:&quot;2026-10-29T00:11:41.638Z&quot;,&quot;source_url&quot;:&quot;https://theatlantic.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:a37b2ad444b46375e9554014ae50899912c4ec6706641b5c81feb9abd23a37b9</id>
-    <title>[변경] probe:theatlantic.com:robots-txt · body_sha256</title>
-    <updated>2026-10-29T00:11:41.638Z</updated>
-    <link href="https://theatlantic.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;a87d80f198ff3a4d6fc41d18dfe0dd8e07c54c85f60531a6c99506e2da807bd3&quot;,&quot;before&quot;:&quot;500c1ee9d0c39ec3890bc0d1433e8506008290f278ce37daf6eed7358ef1bd5a&quot;,&quot;chain_hash&quot;:&quot;a37b2ad444b46375e9554014ae50899912c4ec6706641b5c81feb9abd23a37b9&quot;,&quot;content_hash&quot;:&quot;64591cc7c8fdfcad9c983f4c2a307585429ca4c9f683c6b6171389c4528355d8&quot;,&quot;entity_id&quot;:&quot;probe:theatlantic.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-10-29T00:11:41.638Z&quot;,&quot;source_url&quot;:&quot;https://theatlantic.com/robots.txt&quot;}</content>
   </entry>
 </feed>
