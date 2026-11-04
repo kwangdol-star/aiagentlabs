@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-11-03T02:36:20.492Z</updated>
+  <updated>2026-11-04T00:49:07.736Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:8d39f42eed2def46b75bb35adf73c83d60476a1966d326f22126442222d1bd64</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-11-04T00:49:07.736Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;e6ef9c37eb2afb38e9f3459aec22ced01d066e11160486704f5905fed679ab50&quot;,&quot;before&quot;:&quot;64b5dcdfa7983ed43cecfca94da163ee2189b795403de53f1597d2465afde026&quot;,&quot;chain_hash&quot;:&quot;8d39f42eed2def46b75bb35adf73c83d60476a1966d326f22126442222d1bd64&quot;,&quot;content_hash&quot;:&quot;04903b2ecebce8e90b70de80dcee2f7947b78110e8f79c853ad81e3fcc95b300&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-04T00:49:07.736Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:5440776581b7843cd047fc0d4af436d056caa57ff9e918b180c57396298cbee7</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-11-04T00:49:07.736Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:647317,&quot;before&quot;:637482,&quot;chain_hash&quot;:&quot;5440776581b7843cd047fc0d4af436d056caa57ff9e918b180c57396298cbee7&quot;,&quot;content_hash&quot;:&quot;4dd436ea9430b1c86aa640e068f893bb3d3eb4014a67c24e30940fc9849c9d1e&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-11-04T00:49:07.736Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:4d9639ba8d2adaac464d017599c65ac0ebc789ede7991f0ea46718d0d6a6706e</id>
     <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
@@ -339,19 +353,5 @@
     <updated>2026-11-01T23:48:20.476Z</updated>
     <link href="https://hankyung.com/llms.txt"/>
     <content type="text">{&quot;after&quot;:404,&quot;before&quot;:403,&quot;chain_hash&quot;:&quot;12a704da8774528e634248681d1098508e1a7b80009dc68eecd417a9b303e7ba&quot;,&quot;content_hash&quot;:&quot;af0150e855bfe075c9ffcca61e0a75ae664ac6c3b8c713350885940b147cd1b4&quot;,&quot;entity_id&quot;:&quot;probe:hankyung.com:llms-txt&quot;,&quot;field&quot;:&quot;status&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://hankyung.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:0eb08ed41e79ba321c2647ebb405862847185708fb4657b517d3d41b4627bba5</id>
-    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
-    <updated>2026-11-01T23:48:20.476Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;e28205c0c71f63556ac02a8d340e0a73ad071e5d68e86efce6ae64d575e254bf&quot;,&quot;before&quot;:&quot;8c2b5ef80c505d5bf7ffbf41abbb3917a99ee52f5897f336e678046a17e261a4&quot;,&quot;chain_hash&quot;:&quot;0eb08ed41e79ba321c2647ebb405862847185708fb4657b517d3d41b4627bba5&quot;,&quot;content_hash&quot;:&quot;fb80ca20fe0a296185f98cb503e1e69dd9328842086c6704580152587490cbdc&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:3392327868a37b78fb44ca07444aa66a1cfd84d9b390515ba2a977f6287ed9f0</id>
-    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
-    <updated>2026-11-01T23:48:20.476Z</updated>
-    <link href="https://daum.net/llms.txt"/>
-    <content type="text">{&quot;after&quot;:641679,&quot;before&quot;:639842,&quot;chain_hash&quot;:&quot;3392327868a37b78fb44ca07444aa66a1cfd84d9b390515ba2a977f6287ed9f0&quot;,&quot;content_hash&quot;:&quot;f10fa770cef13946caf895833d7ec05b1ab0dc949cd03012e02813bd096540d9&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-11-01T23:48:20.476Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
   </entry>
 </feed>
