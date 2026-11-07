@@ -2,356 +2,356 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:ai-vendor-ledger</id>
   <title>AI 벤더 원장 — 모델·가격·컨텍스트 (전 벤더)</title>
-  <updated>2026-10-31T23:18:17.543Z</updated>
+  <updated>2026-11-07T23:35:37.210Z</updated>
   <author><name>chronicle</name></author>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:639afc0baee536ddead5bf15325b350f00685f0b4e4ae85c0552b7a45abb00d7</id>
-    <title>[삭제] model:upstage/solar-pro-3</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:3d04df4b930c71f61dc716132fd131319bd3c472a2bfe8e2921d167fdcd81d8c</id>
+    <title>[삭제] model:thinkingmachines/inkling:free</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:131072,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Upstage: Solar Pro 3&quot;,&quot;price_completion&quot;:&quot;0.0000006&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000015&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;639afc0baee536ddead5bf15325b350f00685f0b4e4ae85c0552b7a45abb00d7&quot;,&quot;content_hash&quot;:&quot;e07e400831b62083fd3fc73ff0e8788fb77f2e4d80a9790b84b8e4e5f273d5dd&quot;,&quot;entity_id&quot;:&quot;model:upstage/solar-pro-3&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:1048576,&quot;modality&quot;:&quot;text+image+audio-&gt;text&quot;,&quot;name&quot;:&quot;Thinking Machines: Inkling (free)&quot;,&quot;price_completion&quot;:&quot;0&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;3d04df4b930c71f61dc716132fd131319bd3c472a2bfe8e2921d167fdcd81d8c&quot;,&quot;content_hash&quot;:&quot;b2d333e6b7e41c5bf9c4be9fdfd27dbcd3371e4dce688ada671fb2c71872d10c&quot;,&quot;entity_id&quot;:&quot;model:thinkingmachines/inkling:free&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:8e14adefee67b1cf6aa000f632f1adcb39b9801f65132cbbc9b5cd472954a581</id>
-    <title>[삭제] model:qwen/qwen3-next-80b-a3b-thinking</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:915ed6a031392b68b936a7a1c2e598310379bda503e95246574ce0b43f21856f</id>
+    <title>[삭제] model:thinkingmachines/inkling-small:free</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3 Next 80B A3B Thinking&quot;,&quot;price_completion&quot;:&quot;0.0000012&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000015&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;8e14adefee67b1cf6aa000f632f1adcb39b9801f65132cbbc9b5cd472954a581&quot;,&quot;content_hash&quot;:&quot;9e9de66bd0038799c30b219d6639d090f8c97e38c59f4e49fb9c1acf2bf68b72&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-next-80b-a3b-thinking&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:1048576,&quot;modality&quot;:&quot;text+image+audio-&gt;text&quot;,&quot;name&quot;:&quot;Thinking Machines: Inkling Small (free)&quot;,&quot;price_completion&quot;:&quot;0&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;915ed6a031392b68b936a7a1c2e598310379bda503e95246574ce0b43f21856f&quot;,&quot;content_hash&quot;:&quot;2436a36d885d4bfe8870d726f1b3ef83da02a9bdd9e7507eda136d0d0f96fd34&quot;,&quot;entity_id&quot;:&quot;model:thinkingmachines/inkling-small:free&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:93458b3b03cb0c32e61012e1121fdd03e69dd74143f53dd89dfffa8b332d2368</id>
-    <title>[삭제] model:poolside/laguna-xs-2.1:free</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:2091b382ab7802448bfd1847d3e07a393605c0723f58f399b00459d70279a94a</id>
+    <title>[삭제] model:nvidia/nemotron-3.5-content-safety:free</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Poolside: Laguna XS 2.1 (free)&quot;,&quot;price_completion&quot;:&quot;0&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;93458b3b03cb0c32e61012e1121fdd03e69dd74143f53dd89dfffa8b332d2368&quot;,&quot;content_hash&quot;:&quot;390810b8669bc087fbd1b4681e8d2399843b096d9006a5b2a835cf730e6af8d6&quot;,&quot;entity_id&quot;:&quot;model:poolside/laguna-xs-2.1:free&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:128000,&quot;modality&quot;:&quot;text+image-&gt;text&quot;,&quot;name&quot;:&quot;NVIDIA: Nemotron 3.5 Content Safety (free)&quot;,&quot;price_completion&quot;:&quot;0&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;2091b382ab7802448bfd1847d3e07a393605c0723f58f399b00459d70279a94a&quot;,&quot;content_hash&quot;:&quot;fdb97f40a91f55f286df75673f0e3625d4ba3a0a121a1452c27de8e43a869b6e&quot;,&quot;entity_id&quot;:&quot;model:nvidia/nemotron-3.5-content-safety:free&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:f20d5b0f24a9eff966a32c2b13791a1ca665afdd9624432d8e6a2fb5fcd067ea</id>
-    <title>[삭제] model:poolside/laguna-xs-2.1</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:aede432706590bda09c7caac5c0282bd4bf73faa99d841c4ae5a8dee99bcdcfd</id>
+    <title>[삭제] model:nousresearch/hermes-3-llama-3.1-70b</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Poolside: Laguna XS 2.1&quot;,&quot;price_completion&quot;:&quot;0.00000012&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000006&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;f20d5b0f24a9eff966a32c2b13791a1ca665afdd9624432d8e6a2fb5fcd067ea&quot;,&quot;content_hash&quot;:&quot;3a23343ea2ded74e7dd6fab376d40fa7d8a2cced2af5e894ccc0322f72421371&quot;,&quot;entity_id&quot;:&quot;model:poolside/laguna-xs-2.1&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:131072,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Nous: Hermes 3 70B Instruct&quot;,&quot;price_completion&quot;:&quot;0.0000007&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000007&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;aede432706590bda09c7caac5c0282bd4bf73faa99d841c4ae5a8dee99bcdcfd&quot;,&quot;content_hash&quot;:&quot;8b20b035d8df360ab1dd0f9dbbcefa2d5d50dc31f2a0da1213aa6abafc0219ba&quot;,&quot;entity_id&quot;:&quot;model:nousresearch/hermes-3-llama-3.1-70b&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:e7fa607a27eb98dbf50912437cd7325db1b9a6894bca2494a7ac428fe97e77b6</id>
-    <title>[삭제] model:poolside/laguna-s-2.1:free</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:fc6e1387e68c5a6994105fce5d10c5f31644d30fb4b3d7c1be54ca7d0b9ff1bf</id>
+    <title>[삭제] model:nousresearch/hermes-3-llama-3.1-405b</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Poolside: Laguna S 2.1 (free)&quot;,&quot;price_completion&quot;:&quot;0&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;e7fa607a27eb98dbf50912437cd7325db1b9a6894bca2494a7ac428fe97e77b6&quot;,&quot;content_hash&quot;:&quot;4be9fcb1c79de9198f233b3a7898c819ab76d5179b4e8871935d2739c5a33ad8&quot;,&quot;entity_id&quot;:&quot;model:poolside/laguna-s-2.1:free&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:131072,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Nous: Hermes 3 405B Instruct&quot;,&quot;price_completion&quot;:&quot;0.000001&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.000001&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;fc6e1387e68c5a6994105fce5d10c5f31644d30fb4b3d7c1be54ca7d0b9ff1bf&quot;,&quot;content_hash&quot;:&quot;8ebba46b48f8136278f12b2b2302bffa03c728a9af02d3b3bb3a96eeff09081f&quot;,&quot;entity_id&quot;:&quot;model:nousresearch/hermes-3-llama-3.1-405b&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:90992d213ed859142833095b70146271c4196b52a51c529cfbbcfc1403bdbf16</id>
-    <title>[삭제] model:poolside/laguna-s-2.1</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:96036f40d0f4c2bd51f96b7a53d294cc13c089b8787fd5707ce362bd9bfc4a3b</id>
+    <title>[삭제] model:minimax/minimax-m2.1</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:1048576,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Poolside: Laguna S 2.1&quot;,&quot;price_completion&quot;:&quot;0.00000018&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000009&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;90992d213ed859142833095b70146271c4196b52a51c529cfbbcfc1403bdbf16&quot;,&quot;content_hash&quot;:&quot;4ecb2ba7ed88d5d5d1f453831931bae4846ed2236f5b3873c00294908c3e190f&quot;,&quot;entity_id&quot;:&quot;model:poolside/laguna-s-2.1&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:204800,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;MiniMax: MiniMax M2.1&quot;,&quot;price_completion&quot;:&quot;0.0000012&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000003&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;96036f40d0f4c2bd51f96b7a53d294cc13c089b8787fd5707ce362bd9bfc4a3b&quot;,&quot;content_hash&quot;:&quot;eb0387f59c245afb603395462b48364717fb788bfbbef2a876ea889616728604&quot;,&quot;entity_id&quot;:&quot;model:minimax/minimax-m2.1&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:9e3287653225d7235897fc670627907f69fc149bf0b58e2898886b000d9b4d70</id>
-    <title>[삭제] model:openai/o4-mini-high</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:29afa94f9c91f4c8d18d9da34f7373e87ca2aea644388645040af5bbf1b17496</id>
+    <title>[삭제] model:minimax/minimax-m2-her</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:200000,&quot;modality&quot;:&quot;text+image+file-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: o4 Mini High&quot;,&quot;price_completion&quot;:&quot;0.0000044&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000011&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;9e3287653225d7235897fc670627907f69fc149bf0b58e2898886b000d9b4d70&quot;,&quot;content_hash&quot;:&quot;09d8376dc8c711df49d885bce712eead0fbc35d48c5b2c58006fb2d08345b5a8&quot;,&quot;entity_id&quot;:&quot;model:openai/o4-mini-high&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:65536,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;MiniMax: MiniMax M2-her&quot;,&quot;price_completion&quot;:&quot;0.0000012&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000003&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;29afa94f9c91f4c8d18d9da34f7373e87ca2aea644388645040af5bbf1b17496&quot;,&quot;content_hash&quot;:&quot;f2c9e58a57021c5cdb71f61aab3220fabec7c78aeef2976d7c4f21929fff9271&quot;,&quot;entity_id&quot;:&quot;model:minimax/minimax-m2-her&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:f1c274c8a75f676b4d010124a947ac858fdac4f9d3312473d980c2b416e38392</id>
-    <title>[삭제] model:openai/o4-mini</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:0e382e9335f817542a5e144cc67f94bea17ec3699c3c8bc899bb7e0f4cd15f01</id>
+    <title>[삭제] model:minimax/minimax-m2</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:200000,&quot;modality&quot;:&quot;text+image+file-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: o4 Mini&quot;,&quot;price_completion&quot;:&quot;0.0000044&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000011&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;f1c274c8a75f676b4d010124a947ac858fdac4f9d3312473d980c2b416e38392&quot;,&quot;content_hash&quot;:&quot;b8336059843772c5c5433b94e18ae8e9cb232a858b5c56983826516c712a21a0&quot;,&quot;entity_id&quot;:&quot;model:openai/o4-mini&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:204800,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;MiniMax: MiniMax M2&quot;,&quot;price_completion&quot;:&quot;0.00000102&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.000000255&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;0e382e9335f817542a5e144cc67f94bea17ec3699c3c8bc899bb7e0f4cd15f01&quot;,&quot;content_hash&quot;:&quot;c289166012a0064cb57f5561fbecf535d344024bd23eb4280390a9d6ca230478&quot;,&quot;entity_id&quot;:&quot;model:minimax/minimax-m2&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:b9deb95e1d16db8a4a75cda563f77753cdaa860a40e62155a132fd27ddf33263</id>
-    <title>[삭제] model:openai/o3-mini-high</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:2a06f9361b83e6947a84b9afaef3301f921f034c2736de87620f35908528aa67</id>
+    <title>[삭제] model:minimax/minimax-01</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:200000,&quot;modality&quot;:&quot;text+file-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: o3 Mini High&quot;,&quot;price_completion&quot;:&quot;0.0000044&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000011&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;b9deb95e1d16db8a4a75cda563f77753cdaa860a40e62155a132fd27ddf33263&quot;,&quot;content_hash&quot;:&quot;5ac85c420510f3e45f226cb27c5175c853a6ac893ce85a10e352164b4d90f980&quot;,&quot;entity_id&quot;:&quot;model:openai/o3-mini-high&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:1000192,&quot;modality&quot;:&quot;text+image-&gt;text&quot;,&quot;name&quot;:&quot;MiniMax: MiniMax-01&quot;,&quot;price_completion&quot;:&quot;0.0000011&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000002&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;2a06f9361b83e6947a84b9afaef3301f921f034c2736de87620f35908528aa67&quot;,&quot;content_hash&quot;:&quot;fd9c9e83bdfb22eb548ade9d38564036911c9d037e502503dc65349b4bf7b666&quot;,&quot;entity_id&quot;:&quot;model:minimax/minimax-01&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:82a96a2d09ff7e7a3466cc7d808d14b1b62fe20f471787dfcf3322712e7bea4a</id>
-    <title>[삭제] model:openai/o3-mini</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:200000,&quot;modality&quot;:&quot;text+file-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: o3 Mini&quot;,&quot;price_completion&quot;:&quot;0.0000044&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000011&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;82a96a2d09ff7e7a3466cc7d808d14b1b62fe20f471787dfcf3322712e7bea4a&quot;,&quot;content_hash&quot;:&quot;cb4de8aae027dec8f34871b24874db18d968b345bdead7815c8669c3a975356c&quot;,&quot;entity_id&quot;:&quot;model:openai/o3-mini&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:a7708af8fc76edd52c7c4149fe57d8efb8ba87926d94d90ba7922883139ef715</id>
-    <title>[삭제] model:openai/o1-pro</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:200000,&quot;modality&quot;:&quot;text+image+file-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: o1-pro&quot;,&quot;price_completion&quot;:&quot;0.0006&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00015&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;a7708af8fc76edd52c7c4149fe57d8efb8ba87926d94d90ba7922883139ef715&quot;,&quot;content_hash&quot;:&quot;4522b8acf0d7f0da29738a2add998412cdeabde5fde6acfaf0490b3ce0c64149&quot;,&quot;entity_id&quot;:&quot;model:openai/o1-pro&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:401330ecce6d7c413e1ddc944a9111244142c4a1b539f6eb08b0b89069fa74e5</id>
-    <title>[삭제] model:openai/o1</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:200000,&quot;modality&quot;:&quot;text+image+file-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: o1&quot;,&quot;price_completion&quot;:&quot;0.00006&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.000015&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;401330ecce6d7c413e1ddc944a9111244142c4a1b539f6eb08b0b89069fa74e5&quot;,&quot;content_hash&quot;:&quot;70cafc8a35fef741de6b96ee51f572b34de246b51407c0668ca73dfa1d8ad6c9&quot;,&quot;entity_id&quot;:&quot;model:openai/o1&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:e36b2c695b3f87497dd15877b320f5de09bc6e787d6c74a722d4939eaf3abbfe</id>
-    <title>[삭제] model:openai/gpt-4-turbo</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:128000,&quot;modality&quot;:&quot;text+image-&gt;text&quot;,&quot;name&quot;:&quot;OpenAI: GPT-4 Turbo&quot;,&quot;price_completion&quot;:&quot;0.00003&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00001&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;e36b2c695b3f87497dd15877b320f5de09bc6e787d6c74a722d4939eaf3abbfe&quot;,&quot;content_hash&quot;:&quot;4b184020d9419524cc8baa50a90959d5f34aeee3f5af0e38bf2f1789552c8cbf&quot;,&quot;entity_id&quot;:&quot;model:openai/gpt-4-turbo&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:7ca0046268d218c8d84a92b0cb79219045e3e3d0fb56d3f28454edac1043569d</id>
-    <title>[삭제] model:nvidia/nemotron-3-super-120b-a12b:free</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;NVIDIA: Nemotron 3 Super (free)&quot;,&quot;price_completion&quot;:&quot;0&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;7ca0046268d218c8d84a92b0cb79219045e3e3d0fb56d3f28454edac1043569d&quot;,&quot;content_hash&quot;:&quot;3d25b1cf569fad350b3b81e73d6fbf0e18089ef2906ab1785dd1ec0e8fd7128f&quot;,&quot;entity_id&quot;:&quot;model:nvidia/nemotron-3-super-120b-a12b:free&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:ccb0e9fe6cc00c57be69a4b0504df524e48071ccc8d2d6cf31ae09e9db05c979</id>
-    <title>[삭제] model:mistralai/mistral-small-2603:batch</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text+image-&gt;text&quot;,&quot;name&quot;:&quot;Mistral: Mistral Small 4 (batch)&quot;,&quot;price_completion&quot;:&quot;0.0000003&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.000000075&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;ccb0e9fe6cc00c57be69a4b0504df524e48071ccc8d2d6cf31ae09e9db05c979&quot;,&quot;content_hash&quot;:&quot;89ff2aca3b1a885ccf6fd4d25424b32dc14534d61e9e0f5b69abb331e3beec6d&quot;,&quot;entity_id&quot;:&quot;model:mistralai/mistral-small-2603:batch&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:6ff35a4342017938704da2a71574608298c1dd9c73670ccff7ac2c21d38c956f</id>
-    <title>[삭제] model:mistralai/mistral-medium-3.1:batch</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:131072,&quot;modality&quot;:&quot;text+image+file-&gt;text&quot;,&quot;name&quot;:&quot;Mistral: Mistral Medium 3.1 (batch)&quot;,&quot;price_completion&quot;:&quot;0.000001&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000002&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;6ff35a4342017938704da2a71574608298c1dd9c73670ccff7ac2c21d38c956f&quot;,&quot;content_hash&quot;:&quot;dccd1121b0afe1fc19627141b4c2f27df17406af28c6799c15cd5ea1ea76564f&quot;,&quot;entity_id&quot;:&quot;model:mistralai/mistral-medium-3.1:batch&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:cb12c96d62c59055d2d9b593418bbd8cd92d98f911e1db55ec8afa494eb7a246</id>
-    <title>[삭제] model:mistralai/mistral-large-2512:batch</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text+image+file-&gt;text&quot;,&quot;name&quot;:&quot;Mistral: Mistral Large 3 2512 (batch)&quot;,&quot;price_completion&quot;:&quot;0.00000075&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000025&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;cb12c96d62c59055d2d9b593418bbd8cd92d98f911e1db55ec8afa494eb7a246&quot;,&quot;content_hash&quot;:&quot;7eb366c63de0663beaedf870252cdd8fc736d07b44a58313a074d61822781bf9&quot;,&quot;entity_id&quot;:&quot;model:mistralai/mistral-large-2512:batch&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:92bbbe8afe051f76d1f40c00fb7d4faa0642c659ed6bbd4306903a070e8cb687</id>
-    <title>[삭제] model:mistralai/ministral-8b-2512:batch</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text+image-&gt;text&quot;,&quot;name&quot;:&quot;Mistral: Ministral 3 8B 2512 (batch)&quot;,&quot;price_completion&quot;:&quot;0.000000075&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.000000075&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;92bbbe8afe051f76d1f40c00fb7d4faa0642c659ed6bbd4306903a070e8cb687&quot;,&quot;content_hash&quot;:&quot;b735ca0904f8ee492ac298506cd1eeb20638337dd0294c2c60964d97315fe003&quot;,&quot;entity_id&quot;:&quot;model:mistralai/ministral-8b-2512:batch&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:8ca66f6c56de2452dbe77b7d4344375d0634073ec077cc1c7aa576cdf55f4b95</id>
-    <title>[삭제] model:mistralai/codestral-2508:batch</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:256000,&quot;modality&quot;:&quot;text+file-&gt;text&quot;,&quot;name&quot;:&quot;Mistral: Codestral 2508 (batch)&quot;,&quot;price_completion&quot;:&quot;0.00000045&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000015&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;8ca66f6c56de2452dbe77b7d4344375d0634073ec077cc1c7aa576cdf55f4b95&quot;,&quot;content_hash&quot;:&quot;c747c6408895a9b44c7e424e1a4f375190967e25a78e449003f601e93ccc0e6a&quot;,&quot;entity_id&quot;:&quot;model:mistralai/codestral-2508:batch&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:8f360ffa3971f4e62d51321a614f98cd1a4f0e96740562bb9114eb076c5baa86</id>
-    <title>[삭제] model:ibm-granite/granite-4.0-h-micro</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:131000,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;IBM: Granite 4.0 Micro&quot;,&quot;price_completion&quot;:&quot;0.000000112&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.000000017&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;8f360ffa3971f4e62d51321a614f98cd1a4f0e96740562bb9114eb076c5baa86&quot;,&quot;content_hash&quot;:&quot;57d19d08a3e790e097810bdcf7568c4925716a70667f2432dcade38fb00d7eb5&quot;,&quot;entity_id&quot;:&quot;model:ibm-granite/granite-4.0-h-micro&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:4a2e1472c24092b10845469f5aabcf670dc9c560d83b14fec82bf6e24ebebdce</id>
-    <title>[삭제] model:arcee-ai/trinity-large-thinking</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Arcee AI: Trinity Large Thinking&quot;,&quot;price_completion&quot;:&quot;0.0000008&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000025&quot;,&quot;price_request&quot;:null},&quot;chain_hash&quot;:&quot;4a2e1472c24092b10845469f5aabcf670dc9c560d83b14fec82bf6e24ebebdce&quot;,&quot;content_hash&quot;:&quot;dc1bf23fe4e49d45bb638e8a6c37c792e2aae5fdda6269b1da917ddb63146ad6&quot;,&quot;entity_id&quot;:&quot;model:arcee-ai/trinity-large-thinking&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:cf73381417d5249d76e63f778ef2ff8916528a762c858af8f8395b6af1a2e228</id>
-    <title>[변경] model:~z-ai/glm-latest · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000000699&quot;,&quot;before&quot;:&quot;0.000000075&quot;,&quot;chain_hash&quot;:&quot;cf73381417d5249d76e63f778ef2ff8916528a762c858af8f8395b6af1a2e228&quot;,&quot;content_hash&quot;:&quot;c61288fee355061eed3875b262e1695877cb00554114a277fb6c938d53a6f2eb&quot;,&quot;entity_id&quot;:&quot;model:~z-ai/glm-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:f4b4acce6421de1790b9192ad6806d5136b6b74d86bbaf297cda62a8057c4401</id>
-    <title>[변경] model:~z-ai/glm-latest · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000014&quot;,&quot;before&quot;:&quot;0.000004295&quot;,&quot;chain_hash&quot;:&quot;f4b4acce6421de1790b9192ad6806d5136b6b74d86bbaf297cda62a8057c4401&quot;,&quot;content_hash&quot;:&quot;1bc99ad2d57d7f760d863fa32cab89443ca93091ddccc6f7fb171209cd9f5537&quot;,&quot;entity_id&quot;:&quot;model:~z-ai/glm-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:29bbbd39749060ba877224702cde16549991bf4edeb713b04a72ce552a2dad60</id>
+    <id>urn:chronicle:ai-vendor-ledger:ae1e8f1e165e939eb0f0c90ffb946a2f2d5ac5de617bee37ad9d887382a8306e</id>
     <title>[변경] model:~z-ai/glm-flash-latest · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000000149&quot;,&quot;before&quot;:&quot;0.0000000254&quot;,&quot;chain_hash&quot;:&quot;29bbbd39749060ba877224702cde16549991bf4edeb713b04a72ce552a2dad60&quot;,&quot;content_hash&quot;:&quot;01af8b7972cd1d222f875c0b13148c9193e26a01a6d6100551c557bf272f6691&quot;,&quot;entity_id&quot;:&quot;model:~z-ai/glm-flash-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;0.0000000335&quot;,&quot;before&quot;:&quot;0.0000000149&quot;,&quot;chain_hash&quot;:&quot;ae1e8f1e165e939eb0f0c90ffb946a2f2d5ac5de617bee37ad9d887382a8306e&quot;,&quot;content_hash&quot;:&quot;791f51de2d904d076a6a71acf8538556d35b3977b7f43b8689ee9dbff4a469f8&quot;,&quot;entity_id&quot;:&quot;model:~z-ai/glm-flash-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:b3088152358098c8bb654476511154a7e68f1d93d2b1e35fe83ccb5e1be8689c</id>
+    <id>urn:chronicle:ai-vendor-ledger:4077849824081b827de26d3b4ca7556a39616de77131e0e1787d52e46b41c8dd</id>
     <title>[변경] model:~z-ai/glm-flash-latest · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000001543&quot;,&quot;before&quot;:&quot;0.0000001425&quot;,&quot;chain_hash&quot;:&quot;b3088152358098c8bb654476511154a7e68f1d93d2b1e35fe83ccb5e1be8689c&quot;,&quot;content_hash&quot;:&quot;bcbd5976f8c14bb711f5009e0bb0fd08d8437da3636e1535b617c481c9c1ef27&quot;,&quot;entity_id&quot;:&quot;model:~z-ai/glm-flash-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;0.000000083&quot;,&quot;before&quot;:&quot;0.0000001543&quot;,&quot;chain_hash&quot;:&quot;4077849824081b827de26d3b4ca7556a39616de77131e0e1787d52e46b41c8dd&quot;,&quot;content_hash&quot;:&quot;45a9605dbcd8f902281fc41b527502ffec74a82cf4700391f47d29bd79a58c87&quot;,&quot;entity_id&quot;:&quot;model:~z-ai/glm-flash-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:a4ce4bf86259bd338eb516a8a389b70ced3fe0e2370ef50d7485843ad19d742f</id>
-    <title>[변경] model:~openai/gpt-terra-latest · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.000001&quot;,&quot;before&quot;:&quot;0.000002&quot;,&quot;chain_hash&quot;:&quot;a4ce4bf86259bd338eb516a8a389b70ced3fe0e2370ef50d7485843ad19d742f&quot;,&quot;content_hash&quot;:&quot;80793f8e7150462ccddfdef290d6d0b10d4d48e851e49a6edcd87819d0ae1d6f&quot;,&quot;entity_id&quot;:&quot;model:~openai/gpt-terra-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:8e2842edc96afc6e6b4bb04539d6ee7219e8047f2414cae28fe9dd0eb034b98b</id>
-    <title>[변경] model:~openai/gpt-terra-latest · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.000005&quot;,&quot;before&quot;:&quot;0.000012&quot;,&quot;chain_hash&quot;:&quot;8e2842edc96afc6e6b4bb04539d6ee7219e8047f2414cae28fe9dd0eb034b98b&quot;,&quot;content_hash&quot;:&quot;498123a8f329b2bec97998304fd35c86bcad9c6f20963bb5359a00f3d8e00e0f&quot;,&quot;entity_id&quot;:&quot;model:~openai/gpt-terra-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:0a9d0ab26280629324d458ceb58d7e681c7c043df5e7471dc9ae009c9722832e</id>
+    <id>urn:chronicle:ai-vendor-ledger:120373962ed95e1f2df6974922a86808c649d83a0db9fa6cbfa812053eb491c7</id>
     <title>[변경] model:~moonshotai/kimi-latest · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000001495&quot;,&quot;before&quot;:&quot;0.0000002137&quot;,&quot;chain_hash&quot;:&quot;0a9d0ab26280629324d458ceb58d7e681c7c043df5e7471dc9ae009c9722832e&quot;,&quot;content_hash&quot;:&quot;aba6d30fb421ef6b958e7c40038b23d797bb69fcd332948cd9887120cfe9badc&quot;,&quot;entity_id&quot;:&quot;model:~moonshotai/kimi-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;0.0000001558&quot;,&quot;before&quot;:&quot;0.0000001495&quot;,&quot;chain_hash&quot;:&quot;120373962ed95e1f2df6974922a86808c649d83a0db9fa6cbfa812053eb491c7&quot;,&quot;content_hash&quot;:&quot;ed368ae55896792e81a5ffe6917b3c3e003136ccd95e09d901fa415ea4c5bf3a&quot;,&quot;entity_id&quot;:&quot;model:~moonshotai/kimi-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:1330463a42fc0ed4c21580528b510e484849435906f5baea4f551127c106f22a</id>
+    <id>urn:chronicle:ai-vendor-ledger:1a04d8759c9900a468045905a08e3833cbd4fe882c913fb31e700940b30bc1e5</id>
     <title>[변경] model:~moonshotai/kimi-latest · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.00000715&quot;,&quot;before&quot;:&quot;0.0000077001&quot;,&quot;chain_hash&quot;:&quot;1330463a42fc0ed4c21580528b510e484849435906f5baea4f551127c106f22a&quot;,&quot;content_hash&quot;:&quot;a14bf974bc7c9334b43c0e7a56d6a51969b0039066a62d59adbcb711ee9b4de7&quot;,&quot;entity_id&quot;:&quot;model:~moonshotai/kimi-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;0.0000105478&quot;,&quot;before&quot;:&quot;0.00000715&quot;,&quot;chain_hash&quot;:&quot;1a04d8759c9900a468045905a08e3833cbd4fe882c913fb31e700940b30bc1e5&quot;,&quot;content_hash&quot;:&quot;8a2f832930ff6c139f72bece57c36dd5e89ef70f5622f57b6b5eeff8a7586475&quot;,&quot;entity_id&quot;:&quot;model:~moonshotai/kimi-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:01579f077bbe4e8509ac98d1dafa388d2c38e697fd64ea274db0f4d7efa26426</id>
-    <title>[변경] model:~deepseek/deepseek-v4-flash-latest · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000000434&quot;,&quot;before&quot;:&quot;0.0000000422&quot;,&quot;chain_hash&quot;:&quot;01579f077bbe4e8509ac98d1dafa388d2c38e697fd64ea274db0f4d7efa26426&quot;,&quot;content_hash&quot;:&quot;47a7fe08311e038e96a2495e0c29968688572a79993464cf018279324973d4e9&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-v4-flash-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:04e8e42cd622329e55af24993dcd0060e232934e18cd1065fcdbc93a934794ec</id>
-    <title>[변경] model:~deepseek/deepseek-v4-flash-latest · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000003&quot;,&quot;before&quot;:&quot;0.0000001763&quot;,&quot;chain_hash&quot;:&quot;04e8e42cd622329e55af24993dcd0060e232934e18cd1065fcdbc93a934794ec&quot;,&quot;content_hash&quot;:&quot;85e6acfca44297a0b8dd5a67cc611bd4541f5ce271a497b377bf1d0e60856a1a&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-v4-flash-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:1acb06da579c5aa32f817a79eea0e7ed11b80a1592de7051710e116e4fc0b464</id>
+    <id>urn:chronicle:ai-vendor-ledger:a79a7463d07af12b2b5fc3cd96a7241a892971125a9402ed048512a9212173cc</id>
     <title>[변경] model:~deepseek/deepseek-pro-latest · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000001035&quot;,&quot;before&quot;:&quot;0.0000001188&quot;,&quot;chain_hash&quot;:&quot;1acb06da579c5aa32f817a79eea0e7ed11b80a1592de7051710e116e4fc0b464&quot;,&quot;content_hash&quot;:&quot;6d86aecdff5b70f9d53ff0dedef4fd23504949f40b52ffeff3b319e5a8cf6f97&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-pro-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;0.0000000999&quot;,&quot;before&quot;:&quot;0.0000001035&quot;,&quot;chain_hash&quot;:&quot;a79a7463d07af12b2b5fc3cd96a7241a892971125a9402ed048512a9212173cc&quot;,&quot;content_hash&quot;:&quot;8aa832a1653a45ef8a77fe836960e28b34b297037a383f8db886302af4fa5825&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-pro-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:fb81c01e7b89174f693217d22fb8ec3165e07c7520a235b33f7a5a2523d7a609</id>
+    <id>urn:chronicle:ai-vendor-ledger:7f9f25a86e1283bd39a7bf5cd332fbda6452b795b8129c05f2432511520447be</id>
     <title>[변경] model:~deepseek/deepseek-flash-latest · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000000129&quot;,&quot;before&quot;:&quot;0.00000002&quot;,&quot;chain_hash&quot;:&quot;fb81c01e7b89174f693217d22fb8ec3165e07c7520a235b33f7a5a2523d7a609&quot;,&quot;content_hash&quot;:&quot;a285541a79612e96d2cede811e3b172a90c7de2eec4e56cab08947ffed3b0950&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-flash-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;0.000000006&quot;,&quot;before&quot;:&quot;0.0000000129&quot;,&quot;chain_hash&quot;:&quot;7f9f25a86e1283bd39a7bf5cd332fbda6452b795b8129c05f2432511520447be&quot;,&quot;content_hash&quot;:&quot;bbb40b41221dddf96f41327f92e004743ba7f1893f77e5d2899474e8916e1471&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-flash-latest&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:d3679834c93248be69494a7ed6fafdcae9a96f5a3a41a0c6117bf094f1f8af96</id>
+    <id>urn:chronicle:ai-vendor-ledger:c839541f7f621e26f66e6b69fc333feb70a0837ef214eb3f0e7441300dce619f</id>
     <title>[변경] model:~deepseek/deepseek-flash-latest · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000001&quot;,&quot;before&quot;:&quot;0.000001&quot;,&quot;chain_hash&quot;:&quot;d3679834c93248be69494a7ed6fafdcae9a96f5a3a41a0c6117bf094f1f8af96&quot;,&quot;content_hash&quot;:&quot;d26e02545f63d3671a806231f18787ac83999580fcc191c2750f5f0d5fb9cdb8&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-flash-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;0.0000005&quot;,&quot;before&quot;:&quot;0.0000001&quot;,&quot;chain_hash&quot;:&quot;c839541f7f621e26f66e6b69fc333feb70a0837ef214eb3f0e7441300dce619f&quot;,&quot;content_hash&quot;:&quot;1c5332908c61f1c0fea55cb9a6c7c53a41602ab88756f8148dea828331921e34&quot;,&quot;entity_id&quot;:&quot;model:~deepseek/deepseek-flash-latest&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:1b97dce725f802ec1305f82d0d1a38b26f8cefa4877f7ddf89ae12f6ab40c3f4</id>
+    <id>urn:chronicle:ai-vendor-ledger:d312328a5d0a530a3a930f238626dd2160346637726417056de0e914cc63724d</id>
+    <title>[신규] model:z-ai/glm-5.3-flashx-legal</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:{&quot;context_length&quot;:1048576,&quot;modality&quot;:&quot;text+image+video-&gt;text&quot;,&quot;name&quot;:&quot;Z.ai: GLM 5.3 FlashX Legal&quot;,&quot;price_completion&quot;:&quot;0.00000125&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000037&quot;,&quot;price_request&quot;:null},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;d312328a5d0a530a3a930f238626dd2160346637726417056de0e914cc63724d&quot;,&quot;content_hash&quot;:&quot;105a59c45b2c4fd0362d890e25f70ae0e94366c375e85ede8671e4c0748a4a95&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.3-flashx-legal&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:57295551a4b544783933514b287e2bd8704f2990f3ae2467fbdd9d797686b377</id>
     <title>[변경] model:z-ai/glm-5.3-flash · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000000149&quot;,&quot;before&quot;:&quot;0.00000015&quot;,&quot;chain_hash&quot;:&quot;1b97dce725f802ec1305f82d0d1a38b26f8cefa4877f7ddf89ae12f6ab40c3f4&quot;,&quot;content_hash&quot;:&quot;793243bb7bcb8dc42a501197c28f390705e968abed5b26e8b7492bc46ee6619e&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.3-flash&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;0.00000015&quot;,&quot;before&quot;:&quot;0.0000000149&quot;,&quot;chain_hash&quot;:&quot;57295551a4b544783933514b287e2bd8704f2990f3ae2467fbdd9d797686b377&quot;,&quot;content_hash&quot;:&quot;299e927a982a2ca050ab20c52b5263f4bf7dfe06ab59e09f6aa2a2f25ddfe887&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.3-flash&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:dac73add88567eef4c21b34cedee5125005fe2198a066e202698c50047829762</id>
+    <id>urn:chronicle:ai-vendor-ledger:2f81771a9e322ce286fc674d94406a4337ac1a763dec534205e97845ee6c6c34</id>
     <title>[변경] model:z-ai/glm-5.3-flash · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000001543&quot;,&quot;before&quot;:&quot;0.0000005&quot;,&quot;chain_hash&quot;:&quot;dac73add88567eef4c21b34cedee5125005fe2198a066e202698c50047829762&quot;,&quot;content_hash&quot;:&quot;6d42b5bdddc99632e8ec02d9b22b3c199c44922b040c1f7f0aa6e56405f9cc12&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.3-flash&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;0.0000005&quot;,&quot;before&quot;:&quot;0.0000001543&quot;,&quot;chain_hash&quot;:&quot;2f81771a9e322ce286fc674d94406a4337ac1a763dec534205e97845ee6c6c34&quot;,&quot;content_hash&quot;:&quot;b82cdae683a2536eb89b9b2dc99f7c5f23dba767490ea21dcf7462b67b3187bc&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.3-flash&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:22da558e946fb1eca5334f296fc6512fb1af1aca40ebb3a333a4bd12dc567c51</id>
-    <title>[변경] model:z-ai/glm-5.3 · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:ef1ca965b402da79b09fe9b330f6bb4cf348c0e2ddd891c6c92eff64b6ecd17a</id>
+    <title>[변경] model:xiaomi/mimo-v2.5 · context_length</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000000699&quot;,&quot;before&quot;:&quot;0.0000000908&quot;,&quot;chain_hash&quot;:&quot;22da558e946fb1eca5334f296fc6512fb1af1aca40ebb3a333a4bd12dc567c51&quot;,&quot;content_hash&quot;:&quot;94b2af5fc7d598a5ca2a3490ee6bd160f3c15e8cdef1426a43cb5f12a7d8c819&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.3&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:1000000,&quot;before&quot;:1050000,&quot;chain_hash&quot;:&quot;ef1ca965b402da79b09fe9b330f6bb4cf348c0e2ddd891c6c92eff64b6ecd17a&quot;,&quot;content_hash&quot;:&quot;3f766ad177c6b612b2fe23f03f2bad789f4ca1ddefd730971fae4e75416811d4&quot;,&quot;entity_id&quot;:&quot;model:xiaomi/mimo-v2.5&quot;,&quot;field&quot;:&quot;context_length&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:d8040ec810b4c85d4c3a62819fe5f6255990978f9af05200c4bacd59ebea41bf</id>
-    <title>[변경] model:z-ai/glm-5.3 · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:8bae08731e1a22f19d48d772d384b84037fb9838ed142e63d70fcd2ad61a0a73</id>
+    <title>[신규] model:x-ai/grok-4.7:batch</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000014&quot;,&quot;before&quot;:&quot;0.00000161&quot;,&quot;chain_hash&quot;:&quot;d8040ec810b4c85d4c3a62819fe5f6255990978f9af05200c4bacd59ebea41bf&quot;,&quot;content_hash&quot;:&quot;7244d70f60750c9bf12d06b908a7fc6500672d649071a1675cb96e1ca6fb6d95&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.3&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:{&quot;context_length&quot;:500000,&quot;modality&quot;:&quot;text+image+file-&gt;text&quot;,&quot;name&quot;:&quot;SpaceXAI: Grok 4.7 (batch)&quot;,&quot;price_completion&quot;:&quot;0.0000048&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000016&quot;,&quot;price_request&quot;:null},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;8bae08731e1a22f19d48d772d384b84037fb9838ed142e63d70fcd2ad61a0a73&quot;,&quot;content_hash&quot;:&quot;afaea7e2bd46d728567eba6d349cf0f96e068d54bb2be008f2075183a10a4fdd&quot;,&quot;entity_id&quot;:&quot;model:x-ai/grok-4.7:batch&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:b2773bfaada6a9f4e5618a07d8509a588069ea608cc48ba32f335b42b68ef6c4</id>
-    <title>[변경] model:z-ai/glm-5.2 · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:e973c7edc74f2c111adfc40d1b449485d0e13d2732f43b01e0e89f6be8bc7ef0</id>
+    <title>[신규] model:x-ai/grok-4.6:batch</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.000000006&quot;,&quot;before&quot;:&quot;0.0000000341&quot;,&quot;chain_hash&quot;:&quot;b2773bfaada6a9f4e5618a07d8509a588069ea608cc48ba32f335b42b68ef6c4&quot;,&quot;content_hash&quot;:&quot;dbe01c83e1cab22e13f6b7ac51fca90c2826b5c3d50b0892ffab8876dd6f0535&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.2&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:{&quot;context_length&quot;:500000,&quot;modality&quot;:&quot;text+image+file-&gt;text&quot;,&quot;name&quot;:&quot;SpaceXAI: Grok 4.6 (batch)&quot;,&quot;price_completion&quot;:&quot;0.0000048&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000016&quot;,&quot;price_request&quot;:null},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;e973c7edc74f2c111adfc40d1b449485d0e13d2732f43b01e0e89f6be8bc7ef0&quot;,&quot;content_hash&quot;:&quot;64327d0f22a603c5db1f67a2f8f1eaab77e05bdd7ad304abd8548fe3d0155813&quot;,&quot;entity_id&quot;:&quot;model:x-ai/grok-4.6:batch&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:6f308093a6d593356d7888ce100ae549ff28d14ebf47613fa330f8d5bff21a32</id>
-    <title>[변경] model:z-ai/glm-5.2 · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:753c662dec4dc976f434e2adbbb637f7fb7a09a0cbf119eaa461e6aa3c7e8f27</id>
+    <title>[신규] model:thinkingmachines/inkling-small:batch</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000068&quot;,&quot;before&quot;:&quot;0.000007&quot;,&quot;chain_hash&quot;:&quot;6f308093a6d593356d7888ce100ae549ff28d14ebf47613fa330f8d5bff21a32&quot;,&quot;content_hash&quot;:&quot;037f70fc9eda60477d680b30272d365b17ab298f3d7ca2dca1366645f82456bb&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-5.2&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:{&quot;context_length&quot;:524288,&quot;modality&quot;:&quot;text+image+audio-&gt;text&quot;,&quot;name&quot;:&quot;Thinking Machines: Inkling Small (batch)&quot;,&quot;price_completion&quot;:&quot;0.00000096&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000036&quot;,&quot;price_request&quot;:null},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;753c662dec4dc976f434e2adbbb637f7fb7a09a0cbf119eaa461e6aa3c7e8f27&quot;,&quot;content_hash&quot;:&quot;d1e99cf051c460fb3cc421911322c290b8ce7e630be21f8ab722aa01c4a9837d&quot;,&quot;entity_id&quot;:&quot;model:thinkingmachines/inkling-small:batch&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:c22bdfe736bc8525ea4e9c75782a2a29a18bd34963f67fc6fc67e6a84847131f</id>
-    <title>[변경] model:z-ai/glm-4.7 · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:3423e55718f423af43cd1484511b4bb7eafe8711ffe8ad85a7c9bfee34cfaf9a</id>
+    <title>[신규] model:tencent/hy4</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000006&quot;,&quot;before&quot;:&quot;0.00000054&quot;,&quot;chain_hash&quot;:&quot;c22bdfe736bc8525ea4e9c75782a2a29a18bd34963f67fc6fc67e6a84847131f&quot;,&quot;content_hash&quot;:&quot;ae0a9692f28289d6e849af8cc784d2bae7e7edb3b644bbcbba9c0be1399281ed&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-4.7&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:{&quot;context_length&quot;:1048576,&quot;modality&quot;:&quot;text+image-&gt;text&quot;,&quot;name&quot;:&quot;Tencent: Hy4&quot;,&quot;price_completion&quot;:&quot;0.0000012505&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.000000417&quot;,&quot;price_request&quot;:null},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;3423e55718f423af43cd1484511b4bb7eafe8711ffe8ad85a7c9bfee34cfaf9a&quot;,&quot;content_hash&quot;:&quot;66bc254e0cd5b2e964509c00c513f48501a8a0b804d19295d00e6d9cab03f525&quot;,&quot;entity_id&quot;:&quot;model:tencent/hy4&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:d0d1cda3492bda11d092cf743558c11cce9d083b52ee421a48741d91bd8741ea</id>
-    <title>[변경] model:z-ai/glm-4.7 · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:3356dc4c6afa2132fa8c5258ea6917a2ba38812b1954444dee72d48267894ac6</id>
+    <title>[신규] model:stealth/crouton-alpha</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000022&quot;,&quot;before&quot;:&quot;0.00000198&quot;,&quot;chain_hash&quot;:&quot;d0d1cda3492bda11d092cf743558c11cce9d083b52ee421a48741d91bd8741ea&quot;,&quot;content_hash&quot;:&quot;af2bd0c1c648748e8085e90da6eb4c219c149592a0b561f1cf19c8c395262ad1&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-4.7&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:{&quot;context_length&quot;:1048576,&quot;modality&quot;:&quot;text+image+file+audio+video-&gt;text&quot;,&quot;name&quot;:&quot;Crouton Alpha&quot;,&quot;price_completion&quot;:&quot;0&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0&quot;,&quot;price_request&quot;:null},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;3356dc4c6afa2132fa8c5258ea6917a2ba38812b1954444dee72d48267894ac6&quot;,&quot;content_hash&quot;:&quot;be2764285e7364e4a5738b5a46eb2ec490ee79be08b8ce11c4d2c2e85479bdf6&quot;,&quot;entity_id&quot;:&quot;model:stealth/crouton-alpha&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:fdfa36cd5031b68f7e81e893330ad073e53c899031c598b6ba4cd0cf069c085b</id>
-    <title>[변경] model:z-ai/glm-4.6 · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:c111948b71ce3a6910e0fa01ffdb564c8e98db6421ada7d1ff19eefa029df250</id>
+    <title>[신규] model:ricursiveai/ripple-65b-preview</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000005&quot;,&quot;before&quot;:&quot;0.00000055&quot;,&quot;chain_hash&quot;:&quot;fdfa36cd5031b68f7e81e893330ad073e53c899031c598b6ba4cd0cf069c085b&quot;,&quot;content_hash&quot;:&quot;e19678433bea75253f68173b436bd4aaca551cf17fa576f902423997a95b39d8&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-4.6&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:{&quot;context_length&quot;:1048576,&quot;modality&quot;:&quot;text-&gt;text&quot;,&quot;name&quot;:&quot;Ricursive: Ripple 65B Preview&quot;,&quot;price_completion&quot;:&quot;0.0000006&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.0000002&quot;,&quot;price_request&quot;:null},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;c111948b71ce3a6910e0fa01ffdb564c8e98db6421ada7d1ff19eefa029df250&quot;,&quot;content_hash&quot;:&quot;6b8f9ea5869984dcce6ed2959b387ff0791561bd66c5637bde68e87ebef65258&quot;,&quot;entity_id&quot;:&quot;model:ricursiveai/ripple-65b-preview&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:c340cc48578da44da2d7c54ab95fba152708e52839cc185708a71d390259ff5f</id>
-    <title>[변경] model:z-ai/glm-4.6 · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:de3f9454b491c6aef53b4f1876f1d3fc8697729e5a8c7420b2fc0751cdad665e</id>
+    <title>[변경] model:reflection/beam-1.0-501b-a23b · price_prompt</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.000002&quot;,&quot;before&quot;:&quot;0.0000022&quot;,&quot;chain_hash&quot;:&quot;c340cc48578da44da2d7c54ab95fba152708e52839cc185708a71d390259ff5f&quot;,&quot;content_hash&quot;:&quot;5c50a4c16f93e70c667f8b30e7e43b0fdd72224d5d232e013c5d6ca9cba99a73&quot;,&quot;entity_id&quot;:&quot;model:z-ai/glm-4.6&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;0.0000003&quot;,&quot;before&quot;:&quot;0.00000025&quot;,&quot;chain_hash&quot;:&quot;de3f9454b491c6aef53b4f1876f1d3fc8697729e5a8c7420b2fc0751cdad665e&quot;,&quot;content_hash&quot;:&quot;d203b3b7fbfdb40034fe8a4f0ab5ed71f31a36c88ba204f115d0be788102544d&quot;,&quot;entity_id&quot;:&quot;model:reflection/beam-1.0-501b-a23b&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:65d650a3bc966a4b9cb400c82b98566722eb2112eb4bfe40be3acbc405b5594c</id>
-    <title>[변경] model:xiaomi/mimo-v2.5-pro · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <id>urn:chronicle:ai-vendor-ledger:65113ac1c492dbeef89460976a01eb419bd09f628ecb2346752d8559050ef72f</id>
+    <title>[신규] model:qwen/qwen3.8-27b:batch</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.00000048&quot;,&quot;before&quot;:&quot;0.0000003045&quot;,&quot;chain_hash&quot;:&quot;65d650a3bc966a4b9cb400c82b98566722eb2112eb4bfe40be3acbc405b5594c&quot;,&quot;content_hash&quot;:&quot;ad9b68f693cc706bda5ec0d23e5d8720ba20349ba1396b54153e06473d470ab9&quot;,&quot;entity_id&quot;:&quot;model:xiaomi/mimo-v2.5-pro&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:{&quot;context_length&quot;:262144,&quot;modality&quot;:&quot;text+image+video-&gt;text&quot;,&quot;name&quot;:&quot;Qwen: Qwen3.8 27B (batch)&quot;,&quot;price_completion&quot;:&quot;0.000002&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.00000016&quot;,&quot;price_request&quot;:null},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;65113ac1c492dbeef89460976a01eb419bd09f628ecb2346752d8559050ef72f&quot;,&quot;content_hash&quot;:&quot;4c1658ae9f0fe02c5b78acffbefd497f802eecc6b054b1439f73846c61f5e302&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3.8-27b:batch&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:3da6cdcd7c65a1f5deec542aa216816246cfbf131779f35cf5008e77c2ee38a8</id>
-    <title>[변경] model:xiaomi/mimo-v2.5-pro · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000018&quot;,&quot;before&quot;:&quot;0.000000609&quot;,&quot;chain_hash&quot;:&quot;3da6cdcd7c65a1f5deec542aa216816246cfbf131779f35cf5008e77c2ee38a8&quot;,&quot;content_hash&quot;:&quot;34de408824ad49b934965f31fa4d73ff93c14ee94859950a57c6c9bcb98d8807&quot;,&quot;entity_id&quot;:&quot;model:xiaomi/mimo-v2.5-pro&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:7b50db3bb0c629b6fb72fb045d88d7d6e22e6a0426d79e6bbae7e63b641de9bb</id>
-    <title>[변경] model:xiaomi/mimo-v2.5 · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000004&quot;,&quot;before&quot;:&quot;0.000000119&quot;,&quot;chain_hash&quot;:&quot;7b50db3bb0c629b6fb72fb045d88d7d6e22e6a0426d79e6bbae7e63b641de9bb&quot;,&quot;content_hash&quot;:&quot;4eca5421b77fe44bb60e878f2001eae7da7b733170d572357918346391231556&quot;,&quot;entity_id&quot;:&quot;model:xiaomi/mimo-v2.5&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:2cf7f0fa47a859cff7a30146d5b914e4d8d971059fccdf301c4f64923bc06612</id>
-    <title>[변경] model:xiaomi/mimo-v2.5 · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
-    <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.000002&quot;,&quot;before&quot;:&quot;0.000000238&quot;,&quot;chain_hash&quot;:&quot;2cf7f0fa47a859cff7a30146d5b914e4d8d971059fccdf301c4f64923bc06612&quot;,&quot;content_hash&quot;:&quot;c63e4a09e3b164eb4453f9bac25c2ca407ec4516a40a69fff1fe7c11225a7218&quot;,&quot;entity_id&quot;:&quot;model:xiaomi/mimo-v2.5&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:ai-vendor-ledger:426f91aec0414429b3573fa59ea25a4b85701c8f574f31ecc6bbf431da9a4da2</id>
+    <id>urn:chronicle:ai-vendor-ledger:3460355484dddb658b018b40da8c695a9640c1dad0b839490808a40000661de0</id>
     <title>[변경] model:qwen/qwen3.8-27b · price_prompt</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.00000004&quot;,&quot;before&quot;:&quot;0.0000002&quot;,&quot;chain_hash&quot;:&quot;426f91aec0414429b3573fa59ea25a4b85701c8f574f31ecc6bbf431da9a4da2&quot;,&quot;content_hash&quot;:&quot;a1163ba5bf682de0c6696310e3c37c32fad28d1aae5392da64249b3e5c2f445e&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3.8-27b&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;0.00000015&quot;,&quot;before&quot;:&quot;0.00000004&quot;,&quot;chain_hash&quot;:&quot;3460355484dddb658b018b40da8c695a9640c1dad0b839490808a40000661de0&quot;,&quot;content_hash&quot;:&quot;64e05ef938db661a13be12bf218565e734748870bbc75af752608ea682442158&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3.8-27b&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
   <entry>
-    <id>urn:chronicle:ai-vendor-ledger:b095ecdfa0882c34572d9b1b91e0ecac9ef5b71cb54fd7eb341a994ca345d071</id>
+    <id>urn:chronicle:ai-vendor-ledger:718d9481cbaed54912116894730174cf60d3c82a026d302d7e43381189c68a6b</id>
     <title>[변경] model:qwen/qwen3.8-27b · price_completion</title>
-    <updated>2026-10-31T23:18:17.543Z</updated>
+    <updated>2026-11-07T23:35:37.210Z</updated>
     <link href="https://openrouter.ai/api/v1/models"/>
-    <content type="text">{&quot;after&quot;:&quot;0.0000023&quot;,&quot;before&quot;:&quot;0.0000025&quot;,&quot;chain_hash&quot;:&quot;b095ecdfa0882c34572d9b1b91e0ecac9ef5b71cb54fd7eb341a994ca345d071&quot;,&quot;content_hash&quot;:&quot;e5fe575db1d78af854bf28abfd0807a82f7723cae02bf7ff135fe735f137ce3b&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3.8-27b&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-10-31T23:18:17.543Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+    <content type="text">{&quot;after&quot;:&quot;0.000001875&quot;,&quot;before&quot;:&quot;0.0000023&quot;,&quot;chain_hash&quot;:&quot;718d9481cbaed54912116894730174cf60d3c82a026d302d7e43381189c68a6b&quot;,&quot;content_hash&quot;:&quot;2b692d0212bd6e6d712e0f405898daebe30688e24b79a0015f769208626905d5&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3.8-27b&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:d448ad0c27c770715bed52e81bcbb7bba2cacfdc7bf8659c41b52b679d9d98c3</id>
+    <title>[변경] model:qwen/qwen3.8-27b · context_length</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:1024000,&quot;before&quot;:1000000,&quot;chain_hash&quot;:&quot;d448ad0c27c770715bed52e81bcbb7bba2cacfdc7bf8659c41b52b679d9d98c3&quot;,&quot;content_hash&quot;:&quot;0c10f5098d8da90c033f56066e5d9afa991458e9ddfb027ba3685d27847fc917&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3.8-27b&quot;,&quot;field&quot;:&quot;context_length&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:d4f54a080f56379e48336fc838f62ec33165b84b764a0f827e7859270a8c59d5</id>
+    <title>[변경] model:qwen/qwen3-coder-30b-a3b-instruct · price_prompt</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.00000015&quot;,&quot;before&quot;:&quot;0.00000007&quot;,&quot;chain_hash&quot;:&quot;d4f54a080f56379e48336fc838f62ec33165b84b764a0f827e7859270a8c59d5&quot;,&quot;content_hash&quot;:&quot;ddfd271a26a8d98c4a084984d6d07133a3e37f236679e9d1c1f920f8764b351e&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-coder-30b-a3b-instruct&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:fc67730dca2268ebd7163f55d8948978fb7e6e03f4f6daae661618f7b68ea0ed</id>
+    <title>[변경] model:qwen/qwen3-coder-30b-a3b-instruct · price_completion</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.0000006&quot;,&quot;before&quot;:&quot;0.00000028&quot;,&quot;chain_hash&quot;:&quot;fc67730dca2268ebd7163f55d8948978fb7e6e03f4f6daae661618f7b68ea0ed&quot;,&quot;content_hash&quot;:&quot;3b53ab523c6857ad8340249a6f10801dbd01b271664a1f4b1a7d51164a42ad48&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-coder-30b-a3b-instruct&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:61d293a9f19f5968d32948aa52100cbfd57bec997b05fdf1e3a01ee2206c4ded</id>
+    <title>[변경] model:qwen/qwen3-235b-a22b-2507 · price_prompt</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.00000014&quot;,&quot;before&quot;:&quot;0.00000009&quot;,&quot;chain_hash&quot;:&quot;61d293a9f19f5968d32948aa52100cbfd57bec997b05fdf1e3a01ee2206c4ded&quot;,&quot;content_hash&quot;:&quot;bebf8c88976efc48c2c1005f21e3e1c97ef2e3ce65eb214e44027851c4f5097b&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-235b-a22b-2507&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:3c6941c34fbf7fb1fc440401c88636a96c22889787995a1ee65a19b0312ad0a8</id>
+    <title>[변경] model:qwen/qwen3-235b-a22b-2507 · price_completion</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.0000008&quot;,&quot;before&quot;:&quot;0.00000055&quot;,&quot;chain_hash&quot;:&quot;3c6941c34fbf7fb1fc440401c88636a96c22889787995a1ee65a19b0312ad0a8&quot;,&quot;content_hash&quot;:&quot;d0eb2734458593a4a9079a8fe5e39d570f5b200e339824dd6b9954c3388576e5&quot;,&quot;entity_id&quot;:&quot;model:qwen/qwen3-235b-a22b-2507&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:d493b0af6a9d80122ab43d6ced24a7a484a36e6d3da2d77cc2d3f52c2ab54765</id>
+    <title>[신규] model:openrouter/auto-code</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:{&quot;context_length&quot;:2000000,&quot;modality&quot;:&quot;text+image+file+audio+video-&gt;text+image&quot;,&quot;name&quot;:&quot;Auto Code&quot;,&quot;price_completion&quot;:&quot;-1&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;-1&quot;,&quot;price_request&quot;:null},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;d493b0af6a9d80122ab43d6ced24a7a484a36e6d3da2d77cc2d3f52c2ab54765&quot;,&quot;content_hash&quot;:&quot;87b6ee017def4bd1c490d510a35a4d76bb33ff50a6f6e972cff39d20c6f262c1&quot;,&quot;entity_id&quot;:&quot;model:openrouter/auto-code&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:0cced65a044aa26027be99a30a12974786114348972c8bf92b6529572d96d701</id>
+    <title>[변경] model:openai/gpt-oss-20b · price_prompt</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.00000003&quot;,&quot;before&quot;:&quot;0.000000018&quot;,&quot;chain_hash&quot;:&quot;0cced65a044aa26027be99a30a12974786114348972c8bf92b6529572d96d701&quot;,&quot;content_hash&quot;:&quot;3b7bf700e88bba697e981fcf751fe34c2ec40dbe416bf8ee4905a44d68f12846&quot;,&quot;entity_id&quot;:&quot;model:openai/gpt-oss-20b&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:d5b5d3d36299cea38823c54c596627ac30afcd32c0bc7117151683484cf03c9d</id>
+    <title>[변경] model:openai/gpt-oss-20b · price_completion</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.00000013&quot;,&quot;before&quot;:&quot;0.00000009&quot;,&quot;chain_hash&quot;:&quot;d5b5d3d36299cea38823c54c596627ac30afcd32c0bc7117151683484cf03c9d&quot;,&quot;content_hash&quot;:&quot;975a5aa4ad41967bc4bddf630335070401764a020b6b013aed734dc90f0fd22c&quot;,&quot;entity_id&quot;:&quot;model:openai/gpt-oss-20b&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:72fd4c07a65df14168fe96f617a1fbced907b1ebc25b4c44291de1a07554e684</id>
+    <title>[변경] model:openai/gpt-oss-120b · price_prompt</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.000000028&quot;,&quot;before&quot;:&quot;0.00000015&quot;,&quot;chain_hash&quot;:&quot;72fd4c07a65df14168fe96f617a1fbced907b1ebc25b4c44291de1a07554e684&quot;,&quot;content_hash&quot;:&quot;fc36445fe627cc8e8333b6fc3beeeab54b86988284610b7790fef263e95c47ff&quot;,&quot;entity_id&quot;:&quot;model:openai/gpt-oss-120b&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:8c98459c9d9c22f80487ad910210fdfa2faa483b87e916182562adfd7a5a2ef8</id>
+    <title>[변경] model:openai/gpt-oss-120b · price_completion</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.000000103&quot;,&quot;before&quot;:&quot;0.0000006&quot;,&quot;chain_hash&quot;:&quot;8c98459c9d9c22f80487ad910210fdfa2faa483b87e916182562adfd7a5a2ef8&quot;,&quot;content_hash&quot;:&quot;035f9f5012018d6b8f035b80b95bbc3e34831fa22ed198defab143bef95c6bdb&quot;,&quot;entity_id&quot;:&quot;model:openai/gpt-oss-120b&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:109ea966b5d71aa25cb660e6b9836ec4ac4f2e31a67f48d06f3fbe391281af7f</id>
+    <title>[변경] model:nvidia/nemotron-3-super-120b-a12b · price_prompt</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.000000075&quot;,&quot;before&quot;:&quot;0.0000003&quot;,&quot;chain_hash&quot;:&quot;109ea966b5d71aa25cb660e6b9836ec4ac4f2e31a67f48d06f3fbe391281af7f&quot;,&quot;content_hash&quot;:&quot;3e922cb95aaca98c15cf3304bb24ea1232677692111bf61efae05249969590cd&quot;,&quot;entity_id&quot;:&quot;model:nvidia/nemotron-3-super-120b-a12b&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:ade2fd663e32b8c2204532101781990a588ee738d24160c308aa9a35d6d775c5</id>
+    <title>[변경] model:nvidia/nemotron-3-super-120b-a12b · price_completion</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.0000004&quot;,&quot;before&quot;:&quot;0.0000024&quot;,&quot;chain_hash&quot;:&quot;ade2fd663e32b8c2204532101781990a588ee738d24160c308aa9a35d6d775c5&quot;,&quot;content_hash&quot;:&quot;343bb94ff181d57dedf850f794303044012d02b7417be829afec578d215a3f13&quot;,&quot;entity_id&quot;:&quot;model:nvidia/nemotron-3-super-120b-a12b&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:c9c587cfc3a28bf0b1f55e60e7e56d6b60a937a13507b73e58e82ce329472a50</id>
+    <title>[변경] model:moonshotai/kimi-k3 · price_completion</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.000016&quot;,&quot;before&quot;:&quot;0.000015&quot;,&quot;chain_hash&quot;:&quot;c9c587cfc3a28bf0b1f55e60e7e56d6b60a937a13507b73e58e82ce329472a50&quot;,&quot;content_hash&quot;:&quot;d67d8e8a80f8241bcad8c32b5b7588276c82b91d904a196c08efa71d05c7845b&quot;,&quot;entity_id&quot;:&quot;model:moonshotai/kimi-k3&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:c9e00b09c3a176a2f991ded4b2f1e3a8fda43dde866cd359126395993b748a10</id>
+    <title>[변경] model:moonshotai/kimi-k2.5 · price_prompt</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.000000532&quot;,&quot;before&quot;:&quot;0.0000005&quot;,&quot;chain_hash&quot;:&quot;c9e00b09c3a176a2f991ded4b2f1e3a8fda43dde866cd359126395993b748a10&quot;,&quot;content_hash&quot;:&quot;63079219e9d38c48ee39e8d6f55432f5bd7072ad8b4d035de4b9b2cd39861d73&quot;,&quot;entity_id&quot;:&quot;model:moonshotai/kimi-k2.5&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:8f8495ff432c9cc03260f14982cc7ecf3e445579627cb16c13cfc041afff5730</id>
+    <title>[변경] model:moonshotai/kimi-k2.5 · price_completion</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.000003325&quot;,&quot;before&quot;:&quot;0.0000025&quot;,&quot;chain_hash&quot;:&quot;8f8495ff432c9cc03260f14982cc7ecf3e445579627cb16c13cfc041afff5730&quot;,&quot;content_hash&quot;:&quot;65601804ad860a47593bd449da4e67c95d61c14ca3cee458ce4c31d4dfe65752&quot;,&quot;entity_id&quot;:&quot;model:moonshotai/kimi-k2.5&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:e602e4a95ff487dad783cb8ad2fa33cdd50dbc6a690ca273eeda106f8d0f6bdd</id>
+    <title>[신규] model:minimax/minimax-m3:batch</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:{&quot;context_length&quot;:524288,&quot;modality&quot;:&quot;text+image+video-&gt;text&quot;,&quot;name&quot;:&quot;MiniMax: MiniMax M3 (batch)&quot;,&quot;price_completion&quot;:&quot;0.00000088&quot;,&quot;price_image&quot;:null,&quot;price_prompt&quot;:&quot;0.000000224&quot;,&quot;price_request&quot;:null},&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;e602e4a95ff487dad783cb8ad2fa33cdd50dbc6a690ca273eeda106f8d0f6bdd&quot;,&quot;content_hash&quot;:&quot;585f35e700cac2dbdba2ad004331e77886ca174e4ee28c3f5dabbeaa0b2e9a72&quot;,&quot;entity_id&quot;:&quot;model:minimax/minimax-m3:batch&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:bac0139cd8dfe1270f2137ed88cd265add2f090c0f4628fd6553f9fbe2eb5b46</id>
+    <title>[변경] model:minimax/minimax-m2.7 · price_prompt</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.00000021&quot;,&quot;before&quot;:&quot;0.0000003&quot;,&quot;chain_hash&quot;:&quot;bac0139cd8dfe1270f2137ed88cd265add2f090c0f4628fd6553f9fbe2eb5b46&quot;,&quot;content_hash&quot;:&quot;7538a799a8c57389cc759901400092b22878caf6d7f3a7b901cc3e4b8bd2d2a4&quot;,&quot;entity_id&quot;:&quot;model:minimax/minimax-m2.7&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:0b4b80c2432e8fcb47231b23754758f9829f2d41a56defa8ed816dc6734486ed</id>
+    <title>[변경] model:minimax/minimax-m2.7 · price_completion</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.00000084&quot;,&quot;before&quot;:&quot;0.0000012&quot;,&quot;chain_hash&quot;:&quot;0b4b80c2432e8fcb47231b23754758f9829f2d41a56defa8ed816dc6734486ed&quot;,&quot;content_hash&quot;:&quot;d425c5aced57bb85dad1d78df871b1b600d56c892e32aa4c7bdb1cb0641b5260&quot;,&quot;entity_id&quot;:&quot;model:minimax/minimax-m2.7&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:8d8345d8c8320a5ea382c6339f0d9f77dbacaea7cf524808df07d5b76ee4996c</id>
+    <title>[변경] model:minimax/minimax-m2.5 · price_prompt</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.0000003&quot;,&quot;before&quot;:&quot;0.00000027&quot;,&quot;chain_hash&quot;:&quot;8d8345d8c8320a5ea382c6339f0d9f77dbacaea7cf524808df07d5b76ee4996c&quot;,&quot;content_hash&quot;:&quot;49ae0b050f84873c0af390c10d7d232f51e0d487cf5fbdacb7a6d602ae3195df&quot;,&quot;entity_id&quot;:&quot;model:minimax/minimax-m2.5&quot;,&quot;field&quot;:&quot;price_prompt&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:ai-vendor-ledger:8daddb8960ef11856bfa33fab57dbdcbeed0ecbf6522e649f0c2d418c2c310fc</id>
+    <title>[변경] model:minimax/minimax-m2.5 · price_completion</title>
+    <updated>2026-11-07T23:35:37.210Z</updated>
+    <link href="https://openrouter.ai/api/v1/models"/>
+    <content type="text">{&quot;after&quot;:&quot;0.0000012&quot;,&quot;before&quot;:&quot;0.00000095&quot;,&quot;chain_hash&quot;:&quot;8daddb8960ef11856bfa33fab57dbdcbeed0ecbf6522e649f0c2d418c2c310fc&quot;,&quot;content_hash&quot;:&quot;2334d4846b03a1cddeee9d494f3b858d8a0a8fefac67973458b4c579eeb5e0d5&quot;,&quot;entity_id&quot;:&quot;model:minimax/minimax-m2.5&quot;,&quot;field&quot;:&quot;price_completion&quot;,&quot;observed_at&quot;:&quot;2026-11-07T23:35:37.210Z&quot;,&quot;source_url&quot;:&quot;https://openrouter.ai/api/v1/models&quot;}</content>
   </entry>
 </feed>
