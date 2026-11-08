@@ -3,9 +3,25 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-11-08T01:33:01.913Z</updated>
+  <updated>2026-11-08T23:56:49.112Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:c469b04fa9dcac147e7b1b45fea0a56248651a1988cad6418b369600e4205f86</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-11-08T23:56:49.112Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:646177,&quot;before&quot;:642394,&quot;chain_hash&quot;:&quot;c469b04fa9dcac147e7b1b45fea0a56248651a1988cad6418b369600e4205f86&quot;,&quot;content_hash&quot;:&quot;84d5f1f2a0b2a693223c72d437754b69b0345913691a42357c89ffbb143df01e&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-11-08T23:56:49.112Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:7085fb76925f0532ba689e8c2d876efc5b918a1dba1fdf30061ad6c8df231002</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-11-08T23:56:49.112Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;f94081c9539a94867155773243702cc50a541491fbc8de1d1ddf00c8f7348a14&quot;,&quot;before&quot;:&quot;98aecde3738c1a425b873698841ba7e4370561aab379093c4443b56c15e4338c&quot;,&quot;chain_hash&quot;:&quot;7085fb76925f0532ba689e8c2d876efc5b918a1dba1fdf30061ad6c8df231002&quot;,&quot;content_hash&quot;:&quot;e50fdcbfcede4ac564101e7964735ab4d5e8fd2176bb2fb99dee2e5795c9db41&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-08T23:56:49.112Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:deal-audit-ledger:2c9d2087e4d16b390b16ef12777d408fafafc93230244ac969f0c7638e0b050f</id>
     <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [변경] deal:11740:20260804:길동:415-5:중앙하이츠강동:49.8697:4:34218 · aptDong</title>
@@ -605,22 +621,6 @@
     <category term="consent-census"/>
     <link href="https://wsj.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:&quot;38d20104cc694874c071a9372775f4f2c5a2e63bf88d4d3f6b368a27c2e882e5&quot;,&quot;before&quot;:&quot;89210f23a6252c1f03f3615e35e81ab50714fcea36cb56e8ef7725fdb91de3aa&quot;,&quot;chain_hash&quot;:&quot;89d08594943793063b57dd124a4675e89aa81a8dc5379a7403a7ae34c0b583ad&quot;,&quot;content_hash&quot;:&quot;efe3b53834e7fbb441a0a9f69695631b25bd33858d335cd717f6ca45393baaf7&quot;,&quot;entity_id&quot;:&quot;probe:wsj.com:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-07T00:16:15.002Z&quot;,&quot;source_url&quot;:&quot;https://wsj.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:1b9390ff9581f44e871ed5d60a07ffe22ab1b20d268b4879258e97ab03646401</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:joongang.co.kr:robots-txt · body_bytes</title>
-    <updated>2026-11-06T01:06:00.798Z</updated>
-    <category term="consent-census"/>
-    <link href="https://joongang.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:5728,&quot;before&quot;:5818,&quot;chain_hash&quot;:&quot;1b9390ff9581f44e871ed5d60a07ffe22ab1b20d268b4879258e97ab03646401&quot;,&quot;content_hash&quot;:&quot;98ac0f73f2a2135cd9a9917237e76dc2d82c4b998ee3033e8d9095f3ca659740&quot;,&quot;entity_id&quot;:&quot;probe:joongang.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-11-06T01:06:00.798Z&quot;,&quot;source_url&quot;:&quot;https://joongang.co.kr/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:610cde266f49d44d752c6d547ca659c5ab7d3e29896cb70a930ce351b1513d63</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:joongang.co.kr:robots-txt · body_sha256</title>
-    <updated>2026-11-06T01:06:00.798Z</updated>
-    <category term="consent-census"/>
-    <link href="https://joongang.co.kr/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;21a281366e9cf7c450f7c1bddbe0e1c75627d5da0a6644c2245e3d3937f379d2&quot;,&quot;before&quot;:&quot;12d51a20bb99051295cc0afe0da9630022b9a1b350f745b9612344581bb5846f&quot;,&quot;chain_hash&quot;:&quot;610cde266f49d44d752c6d547ca659c5ab7d3e29896cb70a930ce351b1513d63&quot;,&quot;content_hash&quot;:&quot;72f2ef62e0628d8554083918f9bada5fea5bd0194f25c2246a90ad0a811df48b&quot;,&quot;entity_id&quot;:&quot;probe:joongang.co.kr:robots-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-06T01:06:00.798Z&quot;,&quot;source_url&quot;:&quot;https://joongang.co.kr/robots.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:consent-census:c43bf6a435fcb21e4723c1a45fc712e4bd80e6e7c4544cfe6318e94dda2395f8</id>
