@@ -203,8 +203,8 @@
     },
     "probe:daum.net:llms-txt": {
       "fields": {
-        "body_bytes": 633494,
-        "body_sha256": "fb7e1f0c9c2864eba2d702654c1c63033397a87f77a683e544c39ddabcea65d9",
+        "body_bytes": 639328,
+        "body_sha256": "02659c9e4c215684ef3ea89c06cab2571106b363c8613fe9cae92de593873cc5",
         "content_type": "text/html",
         "status": 200
       },
@@ -858,9 +858,9 @@
     },
     "probe:wired.com:robots-txt": {
       "fields": {
-        "body": "Sitemap: https://www.wired.com/sitemap.xml\nSitemap: https://www.wired.com/tagpages-sitemap.xml\nSitemap: https://www.wired.com/contributors-sitemap.xml\nSitemap: https://www.wired.com/bundles-sitemap.xml\nSitemap: https://www.wired.com/branded-sitemap.xml\nSitemap: https://www.wired.com/feed/google-latest-news/sitemap-google-news\nSitemap: https://www.wired.com/feed/rss\n\nUser-agent: *\nDisallow: /*?\nAllow: /*?page\nAllow: /*.xml?\nAllow: /*.js\nAllow: /*.css\nAllow: /*.ico\nAllow: /verso/static\nAllow: /*.svg\nAllow: /*.png\nAllow: /*.jpg\nAllow: /*.jpeg\nAllow: /*rss?\nAllow: /*?id=\nDisallow: /auth/\nDisallow: /account/\nDisallow: /user/\nDisallow: /user-context\nDisallow: /preview/\nDisallow: /search\nDisallow: /product/\nDisallow: /cdn-cgi/\nDisallow: /services.min.js\nDisallow: /com.condenast/yv8\nDisallow: /reject-all\nDisallow: */c_limit/\nDisallow: /uk\n\n###\nAllow: /v2/offers/wira\nAllow: /*?*utm_medium=social\nAllow: /*?*utm_medium=syndication\nAllow: /*?ref=\nAllow: /story/madison-square-garden-jim-dolan-surveillance-machine/?src\nDisallow: */testing-products-\nDisallow: /uk/\n###\n\nUser-agent: AmazonAdBot\nUser-agent: FacebookExternalHit\nUser-agent: Google-InspectionTool\nUser-agent: LinkedInBot\nUser-agent: Pinterestbot\nUser-agent: Storebot-Google\nUser-agent: TikTokSpider\nUser-agent: Twitterbot\nAllow: /\n\nUser-agent: Amazonbot\nUser-agent: Applebot-Extended\nUser-agent: archive.org_bot\nUser-agent: Bravebot\nUser-agent: Brightbot 1.0\nUser-agent: Bytespider\nUser-agent: CCBot\nUser-agent: Claude-SearchBot\nUser-agent: Claude-User\nUser-agent: ClaudeBot\nUser-agent: cohere-ai\nUser-agent: cohere-training-data-crawler\nUser-agent: Diffbot\nUser-agent: DuckAssistBot\nUser-agent: factset_spyderbot\nUser-agent: FirecrawlAgent\nUser-agent: Google-CloudVertexBot\nUser-agent: Google-Extended\nUser-agent: GoogleOther\nUser-agent: heritrix\nUser-agent: ia_archiver\nUser-agent: ia_archiver-web.archive.org\nUser-agent: meta-externalagent\nUser-agent: meta-externalfetcher\nUser-agent: meta-webindexer\nUser-agent: MistralAI-User\nUser-agent: PanguBot\nUser-agent: Perplexity-User\nUser-agent: PerplexityBot\nUser-agent: PetalBot\nUser-agent: Scrapy\nUser-agent: Shap-User\nUser-agent: ShapBot\nUser-agent: Timpibot\nUser-agent: Yisouspider\nUser-agent: YouBot\nUser-agent: Webzio\nUser-agent: Webzio-Extended\nDisallow: /",
-        "body_bytes": 2274,
-        "body_sha256": "f29be655ffef0b4c5da0eae4ea449ca282b98abdda9541db3611c9fe02ddc5c1",
+        "body": "Sitemap: https://www.wired.com/sitemap.xml\nSitemap: https://www.wired.com/tagpages-sitemap.xml\nSitemap: https://www.wired.com/contributors-sitemap.xml\nSitemap: https://www.wired.com/bundles-sitemap.xml\nSitemap: https://www.wired.com/branded-sitemap.xml\nSitemap: https://www.wired.com/feed/google-latest-news/sitemap-google-news\nSitemap: https://www.wired.com/feed/rss\n\nUser-agent: *\nDisallow: /*?\nAllow: /*?page\nAllow: /*.xml?\nAllow: /*.js\nAllow: /*.css\nAllow: /*.ico\nAllow: /verso/static\nAllow: /*.svg\nAllow: /*.png\nAllow: /*.jpg\nAllow: /*.jpeg\nAllow: /*rss?\nAllow: /*?id=\nDisallow: /auth/\nDisallow: /account/\nDisallow: /user/\nDisallow: /user-context\nDisallow: /preview/\nDisallow: /search\nDisallow: /product/\nDisallow: /cdn-cgi/\nDisallow: /services.min.js\nDisallow: /com.condenast/yv8\nDisallow: /reject-all\nDisallow: */c_limit/\nDisallow: /uk\n\n###\nAllow: /v2/offers/wira\nAllow: /*?*utm_medium=social\nAllow: /*?*utm_medium=syndication\nAllow: /*?ref=\nAllow: /story/madison-square-garden-jim-dolan-surveillance-machine/?src\nDisallow: */testing-products-\nDisallow: /uk/\n###\n\nUser-agent: AmazonAdBot\nUser-agent: FacebookExternalHit\nUser-agent: Google-InspectionTool\nUser-agent: LinkedInBot\nUser-agent: Pinterestbot\nUser-agent: Storebot-Google\nUser-agent: TikTokSpider\nUser-agent: Twitterbot\nAllow: /\n\nUser-agent: Amazonbot\nUser-agent: Applebot-Extended\nUser-agent: archive.org_bot\nUser-agent: Bravebot\nUser-agent: Brightbot 1.0\nUser-agent: Bytespider\nUser-agent: CCBot\nUser-agent: Claude-SearchBot\nUser-agent: Claude-User\nUser-agent: ClaudeBot\nUser-agent: cohere-ai\nUser-agent: cohere-training-data-crawler\nUser-agent: Diffbot\nUser-agent: DuckAssistBot\nUser-agent: ExaBot\nUser-agent: ExaSearchBot\nUser-agent: ExaUser\nUser-agent: factset_spyderbot\nUser-agent: FirecrawlAgent\nUser-agent: Google-CloudVertexBot\nUser-agent: Google-Extended\nUser-agent: GoogleOther\nUser-agent: heritrix\nUser-agent: ia_archiver\nUser-agent: ia_archiver-web.archive.org\nUser-agent: meta-externalagent\nUser-agent: meta-externalfetcher\nUser-agent: meta-webindexer\nUser-agent: MistralAI-User\nUser-agent: PanguBot\nUser-agent: Perplexity-User\nUser-agent: PerplexityBot\nUser-agent: PetalBot\nUser-agent: Scrapy\nUser-agent: Shap-User\nUser-agent: ShapBot\nUser-agent: Timpibot\nUser-agent: Yisouspider\nUser-agent: YouBot\nUser-agent: Webzio\nUser-agent: Webzio-Extended\nDisallow: /",
+        "body_bytes": 2338,
+        "body_sha256": "42c1e1a6a1282cc285de37fbfbfbb88693c7aa60cbc86c8219d27050d24fc20c",
         "bot:Amazonbot": "blocked",
         "bot:Applebot-Extended": "blocked",
         "bot:Bytespider": "blocked",
@@ -936,5 +936,5 @@
     }
   },
   "source_id": "consent-census",
-  "updated_at": "2026-11-11T00:51:41.669Z"
+  "updated_at": "2026-11-12T02:03:23.857Z"
 }
