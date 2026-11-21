@@ -125,9 +125,9 @@
     },
     "probe:businessinsider.com:robots-txt": {
       "fields": {
-        "body": "User-agent: *\nDisallow: /*?utm_campaign=Monitor&\nDisallow: /adframe\nDisallow: /afp$\nDisallow: /ajax/\nDisallow: /answers$\nDisallow: /archives\nDisallow: /associated-press$\nDisallow: /authentication$\nDisallow: /author/*/date\nDisallow: /author/*/mostread\nDisallow: /categories\nDisallow: /cms/\nDisallow: /comments$\nDisallow: /cross-domain$\nDisallow: /document/\nDisallow: /insider$\nDisallow: /partner/\nDisallow: /reuters$\nDisallow: /reviews/out?\nDisallow: /guides/s?\nDisallow: /guides/search?\nDisallow: /personal-finance/s?\nDisallow: /track.gif\nDisallow: /uk$\nDisallow: /ws/\nDisallow: /business-insider$\nDisallow: /*/contributor\nDisallow: /bi$\nDisallow: /news-insider$\nDisallow: /*/rss\nDisallow: /*.rss\n\nUser-agent: AmazonAdBot\nDisallow: /adframe\nDisallow: /afp$\nDisallow: /ajax/\nDisallow: /answers$\nDisallow: /archives\nDisallow: /associated-press$\nDisallow: /authentication$\nDisallow: /author/*/date\nDisallow: /author/*/mostread\nDisallow: /categories\nDisallow: /cms/\nDisallow: /comments$\nDisallow: /cross-domain$\nDisallow: /document/\nDisallow: /insider$\nDisallow: /partner/\nDisallow: /reuters$\nDisallow: /reviews/out?\nDisallow: /guides/s?\nDisallow: /guides/search?\nDisallow: /personal-finance/s?\nDisallow: /track.gif\nDisallow: /uk$\nDisallow: /ws/\nDisallow: /business-insider$\nDisallow: /*/contributor\nDisallow: /bi$\nDisallow: /news-insider$\nDisallow: /*/rss\nDisallow: /*.rss\nAllow: /\n\nUser-agent: anthropic-ai\nDisallow: /\n\nUser-agent: AwarioSmartBot\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: CCBot\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: DataForSeoBot\nDisallow: /\n\nUser-agent: Diffbot\nDisallow: /\n\nUser-agent: newspaper\nDisallow: /\n\nUser-agent: peer39_crawler\nDisallow: /\n\nUser-agent: Scrapy\nDisallow: /\n\nUser-agent: Timpibot\nDisallow: /\n\nSitemap: https://www.businessinsider.com/sitemap/latest.xml\nSitemap: https://www.businessinsider.com/sitemap/google-news.xml\nSitemap: https://www.businessinsider.com/sitemap/index.xml\n\nSitemap: https://www.businessinsider.com/guides/sitemap/latest.xml\nSitemap: https://www.businessinsider.com/guides/sitemap/google-news.xml\nSitemap: https://www.businessinsider.com/guides/sitemap/index.xml\n\nSitemap: https://www.businessinsider.com/sitemap/landing-pages.xml\n",
-        "body_bytes": 2231,
-        "body_sha256": "89f51cf7e3b532fe80b2057cf13765fdc52bc55aafc263e876a37fe120873ddd",
+        "body": "User-agent: *\nDisallow: /*?utm_campaign=Monitor&\nDisallow: /adframe\nDisallow: /afp$\nDisallow: /ajax/\nDisallow: /answers$\nDisallow: /archives\nDisallow: /associated-press$\nDisallow: /authentication$\nDisallow: /author/*/date\nDisallow: /author/*/mostread\nDisallow: /categories\nDisallow: /cms/\nDisallow: /comments$\nDisallow: /cross-domain$\nDisallow: /document/\nDisallow: /insider$\nDisallow: /partner/\nDisallow: /reuters$\nDisallow: /reviews/out?\nDisallow: /guides/s?\nDisallow: /guides/search?\nDisallow: /personal-finance/s?\nDisallow: /track.gif\nDisallow: /uk$\nDisallow: /ws/\nDisallow: /business-insider$\nDisallow: /*/contributor\nDisallow: /bi$\nDisallow: /news-insider$\nDisallow: /*/rss\nDisallow: /*.rss\n\nUser-agent: AmazonAdBot\nDisallow: /adframe\nDisallow: /afp$\nDisallow: /ajax/\nDisallow: /answers$\nDisallow: /archives\nDisallow: /associated-press$\nDisallow: /authentication$\nDisallow: /author/*/date\nDisallow: /author/*/mostread\nDisallow: /categories\nDisallow: /cms/\nDisallow: /comments$\nDisallow: /cross-domain$\nDisallow: /document/\nDisallow: /insider$\nDisallow: /partner/\nDisallow: /reuters$\nDisallow: /reviews/out?\nDisallow: /guides/s?\nDisallow: /guides/search?\nDisallow: /personal-finance/s?\nDisallow: /track.gif\nDisallow: /uk$\nDisallow: /ws/\nDisallow: /business-insider$\nDisallow: /*/contributor\nDisallow: /bi$\nDisallow: /news-insider$\nDisallow: /*/rss\nDisallow: /*.rss\nAllow: /\n\nUser-agent: anthropic-ai\nDisallow: /\n\nUser-agent: AwarioSmartBot\nDisallow: /\n\nUser-agent: Bytespider\nDisallow: /\n\nUser-agent: CCBot\nDisallow: /\n\nUser-agent: ClaudeBot\nDisallow: /\n\nUser-agent: DataForSeoBot\nDisallow: /\n\nUser-agent: Diffbot\nDisallow: /\n\nUser-agent: facebookexternalhit\nAllow: /\n\nUser-agent: FacebookBot\nDisallow: /\n\nUser-agent: meta-externalads\nDisallow: /\n\nUser-agent: meta-externalagent\nDisallow: /\n\nUser-agent: meta-externalfetcher\nDisallow: /\n\nUser-agent: meta-webindexer\nDisallow: /\n\nUser-agent: newspaper\nDisallow: /\n\nUser-agent: peer39_crawler\nDisallow: /\n\nUser-agent: Scrapy\nDisallow: /\n\nUser-agent: Timpibot\nDisallow: /\n\nSitemap: https://www.businessinsider.com/sitemap/latest.xml\nSitemap: https://www.businessinsider.com/sitemap/google-news.xml\nSitemap: https://www.businessinsider.com/sitemap/index.xml\n\nSitemap: https://www.businessinsider.com/guides/sitemap/latest.xml\nSitemap: https://www.businessinsider.com/guides/sitemap/google-news.xml\nSitemap: https://www.businessinsider.com/guides/sitemap/index.xml\n\nSitemap: https://www.businessinsider.com/sitemap/landing-pages.xml\n",
+        "body_bytes": 2483,
+        "body_sha256": "4f0606b13e146e346b600e4fd2275c41f5a687a146eef1e412a7b697855ab531",
         "bot:Amazonbot": "absent",
         "bot:Applebot-Extended": "absent",
         "bot:Bytespider": "blocked",
@@ -139,7 +139,7 @@
         "bot:OAI-SearchBot": "absent",
         "bot:PerplexityBot": "absent",
         "bot:anthropic-ai": "blocked",
-        "bot:meta-externalagent": "absent",
+        "bot:meta-externalagent": "blocked",
         "content_type": "text/plain; charset=UTF-8",
         "status": 200
       },
@@ -203,8 +203,8 @@
     },
     "probe:daum.net:llms-txt": {
       "fields": {
-        "body_bytes": 594233,
-        "body_sha256": "7374f8ca64227f9857672552becbd0fe9f32848926feeb692cd5d8ea3a3c1cdf",
+        "body_bytes": 596066,
+        "body_sha256": "3189d3a81ee435f305faa4b7aa47f64eebfb48d8bde9d9c131945b9ac15b4872",
         "content_type": "text/html",
         "status": 200
       },
@@ -936,5 +936,5 @@
     }
   },
   "source_id": "consent-census",
-  "updated_at": "2026-11-20T01:55:11.468Z"
+  "updated_at": "2026-11-21T01:45:04.911Z"
 }
