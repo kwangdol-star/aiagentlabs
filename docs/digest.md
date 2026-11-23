@@ -1,82 +1,82 @@
-# Chronicle 다이제스트 — 2026-11-16
+# Chronicle 다이제스트 — 2026-11-23
 
-> 최근 30일(2026-10-17~) 관측. 시간해자 아카이브의 축적물 요약.
+> 최근 30일(2026-10-24~) 관측. 시간해자 아카이브의 축적물 요약.
 
 ## 한눈에
-- 소스 **12개** · 추적 엔티티 **121,298** · 원장 총 이벤트 **231,003** · 체인 총 길이 **231,003**
-- 이번 기간: 소멸 **1477** · 수정 **33839** · 신규 **28,082**
+- 소스 **12개** · 추적 엔티티 **127,993** · 원장 총 이벤트 **247,765** · 체인 총 길이 **247,765**
+- 이번 기간: 소멸 **1777** · 수정 **39984** · 신규 **34,043**
 - **3중 공증**: 해시체인 12/12 소스 봉인 · git 히스토리 · TSA 외부앵커 **12/12** 머리 고정
 
 ## 사라진 것 — 소멸 (지금 찍은 자만 소유)
-- `mcp-census` **server:ai.migurei.pw/parallel-world** — 1.1.0 _(2026-11-16)_
-- `mcp-census` **server:app.openkrill/tapwhich** — 1.0.0 _(2026-11-16)_
-- `mcp-census` **server:app.openkrill/tuvi** — 1.0.0 _(2026-11-16)_
-- `mcp-census` **server:cn.pianam.mcp/mcp-gateway** — 1.0.0 _(2026-11-16)_
-- `mcp-census` **server:co.kwery/price-data** — 1.0.0 _(2026-11-16)_
-- `mcp-census` **server:com.ashtonforge/directory** — 1.0.0 _(2026-11-16)_
-- `mcp-census` **server:com.bizgigz/agent-marketplace** — 1.1.0 _(2026-11-16)_
-- `mcp-census` **server:com.bizgigz/talent-ecosystem** — 1.1.0 _(2026-11-16)_
-- `mcp-census` **server:com.byhubo/ukleads** — 1.2.0 _(2026-11-16)_
-- `mcp-census` **server:com.johtodata/faa-drone-data** — 1.0.2 _(2026-11-16)_
-- `mcp-census` **server:com.johtodata/johto-data** — 1.1.0 _(2026-11-16)_
-- `mcp-census` **server:com.leadsfreshdb/leads-fresh-db** — 1.0.0 _(2026-11-16)_
-- `mcp-census` **server:com.ouicu/mcp** — 0.1.2 _(2026-11-16)_
-- `mcp-census` **server:com.rssatlas/rss-atlas** — 1.0.0 _(2026-11-16)_
-- `mcp-census` **server:com.tidewellsoftware/actionbridge** — 1.0.0 _(2026-11-16)_
-- `mcp-census` **server:com.vestlens/vestlens** — 1.0.0 _(2026-11-16)_
-- `mcp-census` **server:dev.zenod/memory** — 0.2.0 _(2026-11-16)_
-- `mcp-census` **server:io.github.2xe/ask-emil** — 0.1.0 _(2026-11-16)_
-- `mcp-census` **server:io.github.DanKaten/packageguard** — 1.0.0 _(2026-11-16)_
-- `mcp-census` **server:io.github.ajselzilic/vocaless** — 0.1.3 _(2026-11-16)_
-- `mcp-census` **server:io.github.ardev-lab/fake-star-audit** — 0.1.2 _(2026-11-16)_
-- `mcp-census` **server:io.github.ardev-lab/star-trajectory** — 0.1.0 _(2026-11-16)_
-- `mcp-census` **server:io.github.courtio/courtapi-mcp** — 0.1.0 _(2026-11-16)_
-- `mcp-census` **server:io.github.magiautonomous/actualhumantake** — 1.0.0 _(2026-11-16)_
-- `mcp-census` **server:io.github.miradero/armenly** — 1.0.0 _(2026-11-16)_
-- …외 1452건 더 (원장 changes.jsonl에 전량 보존)
+- `mcp-census` **server:ai.cybernative/image-upscaler-8mp** — 0.1.13 _(2026-11-23)_
+- `mcp-census` **server:ai.dinglebear/apprise-rmcp** — 0.1.3 _(2026-11-23)_
+- `mcp-census` **server:ai.dinglebear/arcane-rmcp** — 0.4.2 _(2026-11-23)_
+- `mcp-census` **server:ai.dinglebear/cortex-rmcp** — 3.9.1 _(2026-11-23)_
+- `mcp-census` **server:ai.dinglebear/gotify-rmcp** — 0.1.3 _(2026-11-23)_
+- `mcp-census` **server:ai.dinglebear/synapse-rmcp** — 0.5.4 _(2026-11-23)_
+- `mcp-census` **server:ai.dinglebear/tailscale-rmcp** — 0.1.3 _(2026-11-23)_
+- `mcp-census` **server:ai.dinglebear/unifi-rmcp** — 0.2.4 _(2026-11-23)_
+- `mcp-census` **server:ai.dinglebear/unraid-rmcp** — 0.2.3 _(2026-11-23)_
+- `mcp-census` **server:ai.dinglebear/yarr-mcp** — 1.1.1 _(2026-11-23)_
+- `mcp-census` **server:ai.dinglebear/ytdl-rmcp** — 1.0.2 _(2026-11-23)_
+- `mcp-census` **server:ai.draconic/market-intelligence** — 1.0.0 _(2026-11-23)_
+- `mcp-census` **server:ai.re-agents/mcp** — 0.1.0 _(2026-11-23)_
+- `mcp-census` **server:ai.zerowidth/caliper** — 1.0.0 _(2026-11-23)_
+- `mcp-census` **server:ai.zerowidth/compass** — 1.0.0 _(2026-11-23)_
+- `mcp-census` **server:ai.zerowidth/ledger** — 1.0.0 _(2026-11-23)_
+- `mcp-census` **server:ai.zerowidth/napkin** — 1.0.0 _(2026-11-23)_
+- `mcp-census` **server:ai.zerowidth/prism** — 1.0.0 _(2026-11-23)_
+- `mcp-census` **server:ai.zerowidth/workbench** — 1.0.0 _(2026-11-23)_
+- `mcp-census` **server:ai.zerowidth/zerowidth** — 1.0.0 _(2026-11-23)_
+- `mcp-census` **server:app.apunt/aranes** — 1.0.0 _(2026-11-23)_
+- `mcp-census` **server:com.639cloud/shell** — 0.3.0 _(2026-11-23)_
+- `mcp-census` **server:com.ascent-partners/opencode-workbench** — 5.0.1 _(2026-11-23)_
+- `mcp-census` **server:com.autocarena/auctions** — 1.1.0 _(2026-11-23)_
+- `mcp-census` **server:com.dtmframe/dtmframe** — 0.1.2 _(2026-11-23)_
+- …외 1752건 더 (원장 changes.jsonl에 전량 보존)
 
 ## 바뀐 것 — 조용한 수정
-- `forecast-graders` **page:cerik-seminar** · items: ["2026-06-18 · 하반기 건설 부동산 경기 전망 세미나 연구원 CERIK 출판일","2026-06-18 · 하반기 건설 부동산 경기 전… → ["2026-11-12 · 건설·자재·부동산 경기 전망 세미나 연구원 CERIK 출판일","2026-11-12 · 건설·자재·부동산 경기 전망 … _(2026-11-16)_
-- `forecast-graders` **page:khi-press** · items: ["2026-11-10 · 2026년 11월 아파트입주전망지수 홍보담당","2026-11-05 · 2026년 11월 아파트분양전망지수 홍보담당"… → ["2026-11-12 · 2026년 11월 주택사업경기전망지수 홍보담당","2026-11-10 · 2026년 11월 아파트입주전망지수 홍보담당… _(2026-11-16)_
-- `mcp-census` **server:ai.a1lane/a1lane** · version: 1.8.0 → 1.9.0 _(2026-11-16)_
-- `mcp-census` **server:ai.agent-bev/bev-door** · version: 0.2.7 → 0.2.8 _(2026-11-16)_
-- `mcp-census` **server:ai.agentxray/amazon-seller-mcp** · description_sha256: 6bb2e1a8cab04b4afc4e20fd5c17dc65ff512d9e30100ac33dfe52c7a89e05e1 → 158e7e25c3017f6031975358c811e200160af0360d2fdd0b31b30663d1f6dc37 _(2026-11-16)_
-- `mcp-census` **server:ai.agentxray/amazon-seller-mcp** · version: 1.0.0 → 1.0.1 _(2026-11-16)_
-- `mcp-census` **server:ai.agentxray/mcp** · description_sha256: cc64e98075a0ef1acf0fc33b293236c7817b7554ed41068ae51b50ae99e714b2 → 158e7e25c3017f6031975358c811e200160af0360d2fdd0b31b30663d1f6dc37 _(2026-11-16)_
-- `mcp-census` **server:ai.agentxray/mcp** · version: 1.1.0 → 1.1.1 _(2026-11-16)_
-- `mcp-census` **server:ai.agilex.service/docs** · version: 1.2.1 → 1.8.0 _(2026-11-16)_
-- `mcp-census` **server:ai.aistlabs/aistlabs** · version: 1.59.0 → 1.64.0 _(2026-11-16)_
-- `mcp-census` **server:ai.alphabazaar/arena** · repository_url: ∅ → https://github.com/alphabazaar/skills _(2026-11-16)_
-- `mcp-census` **server:ai.alphabazaar/arena** · version: 1.0.1 → 1.0.3 _(2026-11-16)_
-- `mcp-census` **server:ai.analyticslegends/sap-analytics** · version: 1.1.2 → 1.2.0 _(2026-11-16)_
-- `mcp-census` **server:ai.ankimcp/anki-mcp-server-addon** · version: 0.41.0 → 0.41.1 _(2026-11-16)_
-- `mcp-census` **server:ai.annsa/annsa** · version: 1.0.7 → 1.0.8 _(2026-11-16)_
-- `mcp-census` **server:ai.anyforge/anyforge** · version: 3.17.0 → 3.18.0 _(2026-11-16)_
-- `mcp-census` **server:ai.anywhereintelligence/switchboard** · version: 1.1.67 → 1.1.104 _(2026-11-16)_
-- `mcp-census` **server:ai.arvx/arvx** · description_sha256: 854d51a030c8d21e36f7328846187a3076b719e5f002052ec74c03d27314171e → 3e5276380b0dba480abd30ecd4aab7ccb81ba1f5581ce641235706255d2ca0b6 _(2026-11-16)_
-- `mcp-census` **server:ai.arvx/arvx** · version: 1.0.0 → 1.0.2 _(2026-11-16)_
-- `mcp-census` **server:ai.askyouraudience/ask-your-audience** · version: 1.0.4 → 1.0.6 _(2026-11-16)_
-- `mcp-census` **server:ai.augmentev/fabric-verify** · version: 0.3.1 → 0.3.2 _(2026-11-16)_
-- `mcp-census` **server:ai.augmentev/paseo** · description_sha256: d345c9ab231f0d49b636ab92aa4ed21f60d947e55e6c3aebc78995690332850a → 8634a0de23fb78c4eece3468d4c819748aeabd42ce291b832023dda7fe873130 _(2026-11-16)_
-- `mcp-census` **server:ai.augmentev/paseo** · version: 0.1.2 → 0.1.3 _(2026-11-16)_
-- `mcp-census` **server:ai.autonomad/travel** · description_sha256: 2deb93e19cc1d92663d0e9d3f4e63f96e40091200d52b77d4d2a9ab5ff608cbd → 80091ee5f1fcc7efa7e0add1457c7656ee3f73d96d0e74057df33abbd0124e32 _(2026-11-16)_
-- `mcp-census` **server:ai.autonomad/travel** · repository_url: https://github.com/Autonomad1/autonomad1 → https://github.com/autonomad-ai/autonomad _(2026-11-16)_
-- …외 33814건 더 (원장 changes.jsonl에 전량 보존)
+- `mcp-census` **server:ai.a1lane/a1lane** · version: 1.9.0 → 1.10.0 _(2026-11-23)_
+- `mcp-census` **server:ai.achromat/mcp-server** · version: 0.1.5 → 0.1.7 _(2026-11-23)_
+- `mcp-census` **server:ai.agent-bev/bev-door** · version: 0.2.8 → 0.2.9 _(2026-11-23)_
+- `mcp-census` **server:ai.agentgates/mcp** · status: active → deprecated _(2026-11-23)_
+- `mcp-census` **server:ai.agilex.service/docs** · version: 1.8.0 → 1.9.2 _(2026-11-23)_
+- `mcp-census` **server:ai.aistlabs/aistlabs** · version: 1.64.0 → 1.75.0 _(2026-11-23)_
+- `mcp-census` **server:ai.ankimcp/anki-mcp-server-addon** · version: 0.41.1 → 0.41.2 _(2026-11-23)_
+- `mcp-census` **server:ai.anyforge/anyforge** · version: 3.18.0 → 3.24.0 _(2026-11-23)_
+- `mcp-census` **server:ai.anywhereintelligence/switchboard** · version: 1.1.104 → 1.1.107 _(2026-11-23)_
+- `mcp-census` **server:ai.aquex/stage1** · version: 0.7.0 → 0.8.0 _(2026-11-23)_
+- `mcp-census` **server:ai.arcangel/trademark-search** · description_sha256: 3f0b456b0062d88a4686eea73a40e91e91159b56152f3268de33c75f9d01c77d → ca433b0426571f3b411015a911ec8c4d1879eb81fd94591fea92b91d1afddf09 _(2026-11-23)_
+- `mcp-census` **server:ai.arcangel/trademark-search** · version: 0.3.0 → 0.4.0 _(2026-11-23)_
+- `mcp-census` **server:ai.autonomad/travel** · version: 1.6.6 → 1.6.7 _(2026-11-23)_
+- `mcp-census` **server:ai.bassethound/bassethound** · version: 0.9.3 → 0.11.0 _(2026-11-23)_
+- `mcp-census` **server:ai.bittuitive.api/bittuitive** · description_sha256: bd0f72d13afa480d50495008f4295199f93ad4691f15ecfcf3a3b3fe5f7458e2 → 5087082f45ec03cf1f79b2b864f94fbda3a3f05f3af9cbcb0e203dd7b32f02ff _(2026-11-23)_
+- `mcp-census` **server:ai.bittuitive.api/bittuitive** · version: 1.2.0 → 1.3.2 _(2026-11-23)_
+- `mcp-census` **server:ai.bloopo/bloopo** · description_sha256: 3dcba497fc89c2eeb10878899612fe870e38c22653ba15537f137e882c33e375 → 5508fadd84df6a286b05a85ef8811ad46084a8f005c0a7fb267971d2f39cd0d1 _(2026-11-23)_
+- `mcp-census` **server:ai.bloopo/bloopo** · version: 0.1.1 → 0.1.2 _(2026-11-23)_
+- `mcp-census` **server:ai.bluenexus/universal-mcp** · version: 2.0.0 → 2.1.0 _(2026-11-23)_
+- `mcp-census` **server:ai.bolthub/mcp** · status: active → deprecated _(2026-11-23)_
+- `mcp-census` **server:ai.bowmark/bowmark** · version: 8.224.0 → 8.235.0 _(2026-11-23)_
+- `mcp-census` **server:ai.brainmemory/brain** · version: 0.5.1 → 0.6.2 _(2026-11-23)_
+- `mcp-census` **server:ai.buildwithorbit/orbit** · repository_url: ∅ → https://github.com/postmanlabs/orbit-mcp-server _(2026-11-23)_
+- `mcp-census` **server:ai.buildwithorbit/orbit** · version: 1.0.0 → 1.1.7 _(2026-11-23)_
+- `mcp-census` **server:ai.buzzsearch/mcp** · version: 1.1.6 → 1.1.7 _(2026-11-23)_
+- …외 39959건 더 (원장 changes.jsonl에 전량 보존)
 
 ## 소스별 현황
 | 소스 | 엔티티 | 체인 | 최신 | 앵커 | 신규 | 소멸 | 수정 |
 | --- | ---: | ---: | --- | :---: | ---: | ---: | ---: |
 | agent-commerce-census | 96 | 96 | 2026-07-13 | ⚓ | 0 | 0 | 0 |
-| ai-jobs-ledger | 2,904 | 11,801 | 2026-11-15 | ⚓ | 997 | 993 | 223 |
-| ai-vendor-ledger | 471 | 2,054 | 2026-11-14 | ⚓ | 70 | 57 | 318 |
-| bunyang-capsule | 1,739 | 1,740 | 2026-10-17 | ⚓ | 103 | 0 | 0 |
-| commitments-watch | 9 | 135 | 2026-11-10 | ⚓ | 0 | 0 | 32 |
+| ai-jobs-ledger | 2,869 | 12,392 | 2026-11-22 | ⚓ | 1,002 | 1031 | 223 |
+| ai-vendor-ledger | 476 | 2,179 | 2026-11-22 | ⚓ | 66 | 61 | 343 |
+| bunyang-capsule | 2,011 | 2,012 | 2026-11-22 | ⚓ | 272 | 0 | 0 |
+| commitments-watch | 9 | 143 | 2026-11-17 | ⚓ | 0 | 0 | 34 |
 | compute-price-index | 227 | 227 | 2026-07-10 | ⚓ | 0 | 0 | 0 |
-| consent-census | 67 | 989 | 2026-11-16 | ⚓ | 0 | 0 | 280 |
+| consent-census | 67 | 1,109 | 2026-11-23 | ⚓ | 0 | 0 | 337 |
 | datago-watch | 1 | 1 | 2026-07-11 | ⚓ | 0 | 0 | 0 |
-| deal-audit-ledger | 50,910 | 100,566 | 2026-11-15 | ⚓ | 3,965 | 180 | 9761 |
-| forecast-graders | 6 | 74 | 2026-11-16 | ⚓ | 0 | 0 | 9 |
+| deal-audit-ledger | 51,959 | 103,277 | 2026-11-22 | ⚓ | 4,085 | 171 | 8829 |
+| forecast-graders | 6 | 76 | 2026-11-19 | ⚓ | 0 | 0 | 7 |
 | llm-korea-capsule | 44 | 44 | 2026-07-13 | ⚓ | 0 | 0 | 0 |
-| mcp-census | 64,824 | 113,276 | 2026-11-16 | ⚓ | 22,947 | 247 | 23216 |
+| mcp-census | 70,228 | 126,209 | 2026-11-23 | ⚓ | 28,618 | 514 | 30211 |
 
-_생성 2026-11-16T01:15:27.403Z · 무결성 검증은 `npm run verify`, 재현은 각 소스 snapshots/ 원본._
+_생성 2026-11-23T01:55:52.237Z · 무결성 검증은 `npm run verify`, 재현은 각 소스 snapshots/ 원본._
