@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:chronicle:consent-census</id>
   <title>Agent-Web 동의 센서스 — robots.txt·llms.txt</title>
-  <updated>2026-11-25T03:44:58.400Z</updated>
+  <updated>2026-11-26T03:02:01.731Z</updated>
   <author><name>chronicle</name></author>
+  <entry>
+    <id>urn:chronicle:consent-census:ac7280cf8438203647e39f73549850cb4365314e27b1929e40b3045c765858c7</id>
+    <title>[변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-11-26T03:02:01.731Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;4d16f5d06af986343f92de72a2653c06a2e610d825b4ec9982a5902d3b92156a&quot;,&quot;before&quot;:&quot;ad219cf2b8b081e995b22c300e84a8584d1d7ccc6cf6a398f577d6b0e84801d1&quot;,&quot;chain_hash&quot;:&quot;ac7280cf8438203647e39f73549850cb4365314e27b1929e40b3045c765858c7&quot;,&quot;content_hash&quot;:&quot;d4bef45b13f54fc570d684c475a38a60cf8dcfc49af04342ae13bb77b0672202&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-26T03:02:01.731Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:consent-census:e5ed55ae64e4429c590dab4ba4ac0d1fc808f77e931e800724c2970ab5519fa9</id>
+    <title>[변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-11-26T03:02:01.731Z</updated>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:644599,&quot;before&quot;:598813,&quot;chain_hash&quot;:&quot;e5ed55ae64e4429c590dab4ba4ac0d1fc808f77e931e800724c2970ab5519fa9&quot;,&quot;content_hash&quot;:&quot;cafab7082380cc0f9ff8dbf2482bafacc56ccc2fd867c27c6cff9701a3fd4c91&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-11-26T03:02:01.731Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:consent-census:58aea19d5032682504328a905c9b32877fb715b4a55cb66f4e741e6e7cfd84c4</id>
     <title>[변경] probe:substack.com:robots-txt · status</title>
@@ -339,19 +353,5 @@
     <updated>2026-11-24T04:59:58.599Z</updated>
     <link href="https://substack.com/robots.txt"/>
     <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;24ced89b85d4e89bc3a34ac8f361f5d1e0385c35df931c48b8569c71e176f8be&quot;,&quot;content_hash&quot;:&quot;f8eacefef7bd929c052ebfdbec963e99f80f138723e681385d0b9584e9d4f594&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:meta-externalagent&quot;,&quot;observed_at&quot;:&quot;2026-11-24T04:59:58.599Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:ea390f8c7a2d44aecfb1bc7705112f6814b1345a939bcc1422c8c8fc72a4b2b8</id>
-    <title>[변경] probe:substack.com:robots-txt · bot:anthropic-ai</title>
-    <updated>2026-11-24T04:59:58.599Z</updated>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;ea390f8c7a2d44aecfb1bc7705112f6814b1345a939bcc1422c8c8fc72a4b2b8&quot;,&quot;content_hash&quot;:&quot;6841bfaa5304637f008d0a03e21b8440b6f878dc252c2dc6e6ffeb3e11896160&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:anthropic-ai&quot;,&quot;observed_at&quot;:&quot;2026-11-24T04:59:58.599Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:consent-census:e53a1d7579886d630debe09bc857faf93c49b600da010b96119c9adde5f2f64e</id>
-    <title>[변경] probe:substack.com:robots-txt · bot:PerplexityBot</title>
-    <updated>2026-11-24T04:59:58.599Z</updated>
-    <link href="https://substack.com/robots.txt"/>
-    <content type="text">{&quot;after&quot;:&quot;absent&quot;,&quot;before&quot;:null,&quot;chain_hash&quot;:&quot;e53a1d7579886d630debe09bc857faf93c49b600da010b96119c9adde5f2f64e&quot;,&quot;content_hash&quot;:&quot;5ccdab53ae2fe4c8c3b4eb57279fdf75adea67790589fb42f65fee15dd8cf470&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:robots-txt&quot;,&quot;field&quot;:&quot;bot:PerplexityBot&quot;,&quot;observed_at&quot;:&quot;2026-11-24T04:59:58.599Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/robots.txt&quot;}</content>
   </entry>
 </feed>

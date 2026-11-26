@@ -3,9 +3,25 @@
   <id>urn:chronicle:aggregate:kwangdol-star/aiagentlabs</id>
   <title>Chronicle — 통합 인텔리전스 피드</title>
   <subtitle>전 소스 최근 변경·소멸·신규 통합 스트림</subtitle>
-  <updated>2026-11-25T05:00:05.167Z</updated>
+  <updated>2026-11-26T03:02:01.731Z</updated>
   <author><name>chronicle</name></author>
   <link rel="self" href="https://kwangdol-star.github.io/aiagentlabs/feed.xml"/>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:e5ed55ae64e4429c590dab4ba4ac0d1fc808f77e931e800724c2970ab5519fa9</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_bytes</title>
+    <updated>2026-11-26T03:02:01.731Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:644599,&quot;before&quot;:598813,&quot;chain_hash&quot;:&quot;e5ed55ae64e4429c590dab4ba4ac0d1fc808f77e931e800724c2970ab5519fa9&quot;,&quot;content_hash&quot;:&quot;cafab7082380cc0f9ff8dbf2482bafacc56ccc2fd867c27c6cff9701a3fd4c91&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_bytes&quot;,&quot;observed_at&quot;:&quot;2026-11-26T03:02:01.731Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
+  <entry>
+    <id>urn:chronicle:agg:consent-census:ac7280cf8438203647e39f73549850cb4365314e27b1929e40b3045c765858c7</id>
+    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:daum.net:llms-txt · body_sha256</title>
+    <updated>2026-11-26T03:02:01.731Z</updated>
+    <category term="consent-census"/>
+    <link href="https://daum.net/llms.txt"/>
+    <content type="text">{&quot;after&quot;:&quot;4d16f5d06af986343f92de72a2653c06a2e610d825b4ec9982a5902d3b92156a&quot;,&quot;before&quot;:&quot;ad219cf2b8b081e995b22c300e84a8584d1d7ccc6cf6a398f577d6b0e84801d1&quot;,&quot;chain_hash&quot;:&quot;ac7280cf8438203647e39f73549850cb4365314e27b1929e40b3045c765858c7&quot;,&quot;content_hash&quot;:&quot;d4bef45b13f54fc570d684c475a38a60cf8dcfc49af04342ae13bb77b0672202&quot;,&quot;entity_id&quot;:&quot;probe:daum.net:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-26T03:02:01.731Z&quot;,&quot;source_url&quot;:&quot;https://daum.net/llms.txt&quot;}</content>
+  </entry>
   <entry>
     <id>urn:chronicle:agg:deal-audit-ledger:03ef3d59ce33b7fa0d164f8748b1ee86e5be912dcfd2e6b702710e4f677e9905</id>
     <title>[실거래 취소·정정 원장 — 아파트 매매 (서울)] [신규] deal:11710:20261114:오금동:617:송파레미니스2단지:84.82:3:177000</title>
@@ -325,22 +341,6 @@
     <category term="ai-jobs-ledger"/>
     <link href="https://boards-api.greenhouse.io/v1/boards/scaleai/jobs"/>
     <content type="text">{&quot;after&quot;:null,&quot;before&quot;:{&quot;employment_type&quot;:null,&quot;lab&quot;:&quot;scale-ai&quot;,&quot;location&quot;:&quot;San Francisco, CA&quot;,&quot;provider&quot;:&quot;greenhouse&quot;,&quot;team&quot;:null,&quot;title&quot;:&quot;Executive Assistant&quot;},&quot;chain_hash&quot;:&quot;5ba286e00a68f17f9eadfcad7c5b861e7a5fe9645fcc59d59b3284378a520698&quot;,&quot;content_hash&quot;:&quot;a685a7eeb12fd872808dcaba30b3f34c1cc0045e64af3d29f8b542538eab5a7b&quot;,&quot;entity_id&quot;:&quot;job:scale-ai:4717642005&quot;,&quot;field&quot;:&quot;__record__&quot;,&quot;observed_at&quot;:&quot;2026-11-25T04:39:41.860Z&quot;,&quot;source_url&quot;:&quot;https://boards-api.greenhouse.io/v1/boards/scaleai/jobs&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:7c30ee2ae07087093f870de23878d514e40767c11568f43c224ba31f9e93bb38</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:llms-txt · body_sha256</title>
-    <updated>2026-11-25T03:44:58.400Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;d302c2e5695f2734caf89509935094a2210d93d90adf9033e0c49c523ebc0db1&quot;,&quot;chain_hash&quot;:&quot;7c30ee2ae07087093f870de23878d514e40767c11568f43c224ba31f9e93bb38&quot;,&quot;content_hash&quot;:&quot;f951e62b11523f2988bd5fe761c79870c4a4d55ff84cc83d7f5a05a4d6c43806&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;body_sha256&quot;,&quot;observed_at&quot;:&quot;2026-11-25T03:44:58.400Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
-  </entry>
-  <entry>
-    <id>urn:chronicle:agg:consent-census:02b4226f40e0dd0beacee4d811f300aab48648a2463e102d7e9a3eb9079bbe73</id>
-    <title>[Agent-Web 동의 센서스 — robots.txt·llms.txt] [변경] probe:substack.com:llms-txt · content_type</title>
-    <updated>2026-11-25T03:44:58.400Z</updated>
-    <category term="consent-census"/>
-    <link href="https://substack.com/llms.txt"/>
-    <content type="text">{&quot;after&quot;:null,&quot;before&quot;:&quot;text/plain; charset=utf-8&quot;,&quot;chain_hash&quot;:&quot;02b4226f40e0dd0beacee4d811f300aab48648a2463e102d7e9a3eb9079bbe73&quot;,&quot;content_hash&quot;:&quot;f5724639d69b8ee3b1ddddd6b0a539f0d2a56c604d0a5e7cffaf14d37f99201b&quot;,&quot;entity_id&quot;:&quot;probe:substack.com:llms-txt&quot;,&quot;field&quot;:&quot;content_type&quot;,&quot;observed_at&quot;:&quot;2026-11-25T03:44:58.400Z&quot;,&quot;source_url&quot;:&quot;https://substack.com/llms.txt&quot;}</content>
   </entry>
   <entry>
     <id>urn:chronicle:agg:consent-census:c3d5df6c57b49788a46c2d5290759c50ea363e1879842e0109c66edfd2549ca1</id>
